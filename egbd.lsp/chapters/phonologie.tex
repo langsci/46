@@ -1,0 +1,1598 @@
+\chapter{Phonologie}
+
+\label{sec:phonologie}
+
+\section{Gegenstand der Phonologie}
+
+Die im letzten Kapitel besprochene artikulatorische Phonetik beschreibt die physiologischen Grundlagen der Sprachproduktion.
+Anhand des Vorrats an Zeichen im Alphabet der IPA haben wir außerdem definiert, welche Laute im Standarddeutschen vorkommen.
+Die eigentliche grammatische Frage ist aber, nach welchen Regularitäten diese Laute verbunden werden, und welchen Stellenwert die einzelnen Laute im gesamten Lautsystem haben.
+In der Phonologie fragt man daher nach dem Lautsystem und seinen Regularitäten.
+
+In Abschnitt~\ref{sec:segmenteverteilungen} wird zunächst der Status einzelner Laute und ihrer Vorkommen behandelt.
+In Abschnitt~\ref{sec:pholfeat} diskutieren wir, wie man Laute mit Merkmalen beschreiben kann, und wie Laute im Lexikon gespeichert sind.
+Es folgt in Abschnitt~\ref{sec:phonotaktik} eine kurze Diskussion, wie Silben und Wörter aus Lauten zusammengefügt werden (Phonotaktik).
+In Abschnitt~\ref{sec:phonologischeprozesse} werden einige konkrete phonologische Prozesse des Deutschen diskutiert.
+Der optionale Abschnitt~\ref{sec:phonphonem} widmet sich der häufig verwendeten Terminologie der \textit{Phoneme} (und der dazugehörigen Begriffe).
+Abschließend gibt Abschnitt~\ref{sec:prosodie} kurz einen Einblick in das Phänomen der Betonung (Prosodie).
+
+\section{Segmente und Verteilungen}
+
+\label{sec:segmenteverteilungen}
+
+\subsection{Segmente}
+
+Der zentrale Begriff in der Phonologie ist zunächst der des Segments (alternativ der des Phonems, vgl.\ Abschnitt~\ref{sec:phonphonem}).
+Alles, was wir in der Phonetik als Laut beschrieben haben, bezeichnen wir hier erst einmal als Segment.
+
+\Definition{Segment}{
+\label{def:segment}
+Segmente sind die kleinsten (zeitlich kürzesten) Einheiten in sprachlichen Äußerungen, die ein autonomes Verhalten zeigen.
+\index{Segment}
+}
+
+\newpage
+
+Es ist \zB nicht zielführend, ein \textipa{[t]} oder ein \textipa{[s]} weiter zu zerteilen, weil sich die Einzelteile, die bei der Teilung herauskommen würden, nicht autonom (selbständig) verhalten.
+Beim \textipa{[t]} könnte man die Verschlussphase und die Lösung des Verschlusses (den eigentlichen Plosiv) zwar trennen, aber die Verschlussphase wäre stumm, und der eigentliche Plosiv kann schon aus physiologischen Gründen niemals ohne den vorherigen Verschluss auftreten.
+Beim \textipa{[s]} wäre die erste Hälfte des Frikativs klanglich im Grunde identisch zur zweiten.
+Die kleineren Abschnitte dieser Laute haben also kein eigenständiges Verhalten im Sinne der Definition, der gesamte Laut aber schon.
+Ein Segment ist also in den meisten Fällen genau das, was wir in der Phonetik als ein Zeichen in \textipa{[~]} notieren.
+
+\subsection{Verteilungen}
+
+\label{sec:verteilungen}
+
+Für den Übergang von der Phonetik zur Phonologie ist der Begriff der Verteilung wichtig.
+Schon in Abschnitt~\ref{sec:auslautverhaertungphonetik} wurde diskutiert, dass es bestimmte Positionen im Wort oder der Silbe gibt, in denen nur bestimmte Segmente vorkommen.
+Dort ging es nur um die Beschreibung verschiedener Korrelationen von Schrift und Phonetik, in der Phonologie haben einige dieser Phänomene aber einen hohen theoretischen Stellenwert.
+Das Beispiel war die sog.\ Auslautverhärtung, die dazu führt, dass in der letzten Position der Silbe Plosive immer stimmlos sind (\textit{Bad} als \textipa{[ba:t]}).
+Man muss nun aber dennoch davon ausgehen, dass die betreffenden Wörter im Prinzip einen stimmhaften Plosiv an der entsprechenden Stelle enthalten, denn wenn (\zB in Flexionsformen) ein weiterer Vokal folgt, wird der Plosiv wieder stimmhaft, vgl.\ \textit{Bades} \textipa{[ba:d@s]}.
+Ausgehend von dem Begriff der phonologischen Verteilung oder Distribution kann man in der Phonologie systematisch über solche Phänomene sprechen.
+
+\Definition{Verteilung (Distribution)}{
+Die Verteilung eines Segments ist die Menge der Umgebungen, in denen es vorkommt.
+\index{Verteilung}
+}
+
+Die Beschreibung der Verteilung eines Segments nimmt typischerweise Bezug auf bestimmte Positionen in der Silbe oder im Wort, oder auf Positionen vor oder nach anderen Segmenten.
+Wir können uns nun fragen, wie Segmente zueinander in Beziehung stehen, je nachdem welche Verteilung sie haben.
+Konkret ist die entscheidende Frage, ob zwei Segmente dieselbe Verteilung oder eine teilweise oder vollständig unterschiedliche Verteilung haben.
+Die Beispiele in (\ref{ex:phol6438})--(\ref{ex:phol6440}) illustrieren drei Typen von Verteilungen anhand des Vergleiches von je zwei Segmenten.
+
+\begin{exe}
+
+  \ex{\label{ex:phol6438} \textipa{[t]} und \textipa{[k]} haben eine vollständig übereinstimmende Verteilung.}
+    \begin{xlist}
+      \ex{Am Anfang einer Silbe kommen beide vor:\\
+      \textit{Tante} \textipa{[tant@]} und \textit{Kante} \textipa{[kant@]}}
+      \ex{Am Ende einer Silbe kommen ebenfalls beide vor:\\
+      \textit{Schott} \textipa{[SOt]} und \textit{Schock} \textipa{[SOk]}}
+    \end{xlist}
+
+  \ex{\label{ex:phol6439} \textipa{[h]} und \textipa{[N]} haben eine vollständig unterschiedliche Verteilung.}
+    \begin{xlist}
+      \ex{Am Anfang einer Silbe kommt nur \textipa{[h]} vor:\\
+      \textit{Hang} \textipa{[haN]} und \textit{behend} \textipa{[b@hEnd]} (niemals *\textipa{[NaN]})}
+      \ex{Am Ende einer Silbe kommt nur \textipa{[N]} vor:\\
+      \textit{Hang} \textipa{[haN]} und \textit{denken} \textipa{[dENk@n]} (niemals *\textipa{[hah]})}
+    \end{xlist}
+
+  \ex{\label{ex:phol6440} \textipa{[s]} und \textipa{[z]} haben eine teilweise übereinstimmende Verteilung.}
+    \begin{xlist}
+      \ex{Am Anfang der ersten Silbe eines Wortes kommt nur \textipa{[z]} vor:\\
+      \textit{Sog} \textipa{[zo:k]} und \textit{besingen} \textipa{[b@zIN@n]} (niemals *\textipa{[so:k]})}
+      \ex{Am Ende der letzten Silbe eines Wortes kommt nur \textipa{[s]} vor:\\
+      \textit{Vließ} \textipa{[fli:s]} und \textit{Boss} \textipa{[bOs]} (niemals *\textipa{[fli:z]})}
+      \ex{Am Anfang einer Silbe in der Wortmitte kommen beide vor, \textipa{[z]} aber nur nach langem Vokal oder Diphthong:\\
+      \textit{heißer} \textipa{[h\t{aE}s5]} und \textit{heiser} \textipa{[h\t{aE}z5]}\\
+      \textit{Base} \textipa{[ba:z@]} und \textit{Basse} \textipa{[bas@]} (niemals *\textipa{[baz@]})}
+    \end{xlist}
+
+\end{exe}
+
+Wie man an den entsprechenden Beispielen sieht, gibt es Segmente, anhand derer Wörter (wie \textit{heißer} und \textit{heiser}) unterschieden werden können, auch wenn die Wörter ansonsten völlig gleich lauten.
+Dies geht natürlich nur, wenn die zwei Segmente mindestens eine teilweise übereinstimmende Verteilung haben.
+Zwei Wörter, die sich nur in einem Segment unterscheiden, nennt man Minimalpaar, und Minimalpaare illustrieren einen phonologischen Kontrast.
+
+\Definition{Phonologischer Kontrast (Segment)}{
+\label{def:phokonseg}
+Zwei phonetisch unterschiedliche Segmente stehen in einem phonologischen Kontrast, wenn diese Segmente eine teilweise oder vollständig übereinstimmende Verteilung haben und dadurch einen lexikalischen bzw.\ grammatischen Unterschied markieren können.
+\index{Kontrast}
+}
+
+Ein phonologischer Kontrast besteht also \zB zwischen \textipa{[t]} und \textipa{[k]}, weil wir Wörter anhand dieser Segmente unterscheiden können.
+Das Gleiche gilt für \textipa{[s]} und \textipa{[z]} und viele andere Paare von Segmenten.
+Es gilt aber nicht für \textipa{[h]} und \textipa{[N]}, weil diese beiden Segmente keine übereinstimmende Verteilung haben, wie in (\ref{ex:phol6439}) gezeigt wurde.
+Wie wollte man mit \textipa{[h]} und \textipa{[N]} zwei verschiedene Wörter unterscheiden?
+Sobald ein \textipa{[h]} nicht im Silbenanlaut steht, kommen keine akzeptablen Wörter des Deutschen heraus, so wie \textipa{[SVUh]}.
+Steht allerdings \textipa{[N]} nicht im Silbenauslaut, kommen ebenfalls keine akzeptablen Wörter dabei heraus, so wie \textipa{[Nand]}.
+Sind zwei Segmente in einer Sprache so verteilt wie \textipa{[h]} und \textipa{[N]}, dann können sie niemals einen phonologischen Kontrast markieren.
+Diese Art der Verteilungen nennt man komplementär.
+
+\Definition{Komplementäre Verteilung}{
+Eine komplementäre Verteilung ist eine Verteilung zweier Segmente, die keinerlei Überschneidung hat.
+Komplementär verteilte Segmente können prinzipiell keinen phonologischen Kontrast markieren.
+\index{Verteilung!komplementär}
+}
+
+Über Verteilungen lässt sich schon anhand des bisher eingeführten Inventars von Beispielen noch mehr sagen.
+Bei der bereits besprochenen Auslautverhärtung haben wir es mit Paaren von stimmlosen und stimmhaften Plosiven zu tun, die in bestimmten Umgebungen (im Silbenanlaut) einen Kontrast markieren, der aber in anderen Umgebungen (Silbenauslaut) verschwindet.
+(\ref{ex:phol-5674-1})--(\ref{ex:phol-5674-3}) zeigen dies für \textipa{[g]} und \textipa{[k]}, \textipa{[d]} und \textipa{[t]} sowie \textipa{[b]} und \textipa{[p]}.
+
+\begin{exe}
+  \ex\label{ex:phol-5674-1}
+  \begin{xlist}
+    \ex{(der) Zwerg \textipa{[\t{ts}v\t{E@}k]}, (des) Zwerges \textipa{[\t{ts}v\t{E@}g@s]}}
+    \ex{(der) Fink \textipa{[fINk]}, (des) Finken \textipa{[fINk@n]}}
+  \end{xlist}
+  \ex\label{ex:phol-5674-2}
+  \begin{xlist}
+    \ex{(das) Bad \textipa{[ba:t]}, (des) Bades \textipa{[ba:d@s]}}
+    \ex{(das) Blatt \textipa{[blat]}, (des) Blattes \textipa{[blat@s]}}
+  \end{xlist}
+  \ex\label{ex:phol-5674-3}
+  \begin{xlist}
+    \ex{(das) Lab \textipa{[la:p]}, (des) Labes \textipa{[la:b@s]}}
+    \ex{(der) Depp \textipa{[dEp]}, (des) Deppen \textipa{[dEp@n]}}
+  \end{xlist}
+\end{exe}
+
+Im Silbenauslaut des Deutschen gibt es prinzipiell keinen Unterschied zwischen stimmlosen und stimmhaften Plosiven.
+Solche Effekte nennt man Neutralisierungen.
+
+\Definition{Neutralisierung}{
+Eine Neutralisierung ist die positionsspezifische Aufhebung eines phonologischen Kontrasts.
+\index{Neutralisierung}
+}
+
+Im Silbenauslaut wird im Deutschen also der phonologische Kontrast zwischen \textipa{[g]} und \textipa{[k]}, zwischen \textipa{[d]} und \textipa{[t]} usw.\ neutralisiert.
+Allgemein gesprochen wird der Kontrast zwischen stimmlosen und stimmhaften Plosiven in dieser Position neutralisiert.
+
+Das Feststellen von Verteilungen ist allerdings kein Selbstzweck.
+Durch die Untersuchung aller Verteilungen in einer Sprache konstruiert man das phonologische System (die phonologische Komponente der Grammatik).
+Dabei geht es darum, die Formen zu ermitteln, die im Lexikon gespeichert werden müssen, und die Prozesse (wie die Auslautverhärtung) zu beschreiben, denen die Segmente in diesen Formen unterzogen werden.
+Die gespeicherten Formen und die phonologischen Prozesse führen dann zu den phonetisch beobachtbaren Verteilungen an der Oberfläche.
+Abschnitt~\ref{sec:pholfeat} beschäftigt sich zunächst mit der Frage nach den lexikalisch zugrundeliegenden Formen.
+
+\section{Zugrundeliegende Formen und Merkmale}
+
+\label{sec:pholfeat}
+
+Es muss zunächst überlegt werden, wie viel und welche Information über Segmente und Ketten von Segmenten (\zB Wörter) im Lexikon notwendigerweise abgelegt sein muss, was in \ref{sec:ur} zum Begriff der zugrundeliegenden Form und des phonologischen Prozesses führt.
+Phonologische Prozesse sind dafür verantwortlich, zugrundeliegende Formen ggf.\ zu solchen phonetischen Formen zu transformieren, die auch tatsächlich ausgesprochen werden.
+In \ref{sec:features} werden Segmente, die in ihrem zeitlichen Verlauf gemäß Definition~\ref{def:segment} nicht mehr aufspaltbar sind, bezüglich ihrer Qualität in Merkmale aufgespalten.
+Die zugrundeliegenden Formen und die phonologischen Prozesse machen das eigentliche phonologische System einer Sprache aus, also den phonologischen Teil der Grammatik.
+Erst nach der Besprechung der Silbenstruktur in Abschnitt~\ref{sec:phonotaktik} können dann in Abschnitt~\ref{sec:phonologischeprozesse} einige konkrete phonologische Prozesse des Deutschen besprochen werden.
+
+\subsection{Zugrundeliegende Formen und phonologische Prozesse}
+
+\label{sec:ur}
+
+Weil es bereits gut eingeführt wurde, kommen wir jetzt noch einmal zum Beispiel der Auslautverhärtung zurück.
+Man kann im Deutschen mittels der Unterscheidung nach Stimmhaftigkeit bei Obstruenten keinen Kontrast im Silbenauslaut markieren.
+Wenn man das gesamte Paradigma der Wörter in (\ref{ex:phol-5674-1}) bis (\ref{ex:phol-5674-3}) ansieht, besteht aber dennoch ein bedeutender Unterschied, ob dort ein Konsonant steht, der in manchen Umgebungen stimmhaft ist (wie bei \textipa{[\t{ts}v\t{E@}k]} und \textipa{[\t{ts}v\t{E@}g@s]}), oder ob es sich um einen prinzipiell stimmlosen Konsonanten handelt (wie bei \textipa{[fINk]} und \textipa{[fINk@n]}).
+Es ist daher sinnvoll, anzunehmen, dass Wörter wie \textit{Zwerg} (oder \textit{Bad}, \textit{Lab} usw.) eine zugrundeliegende Form haben, in der der letzte Obstruent stimmhaft ist.
+In bestimmten, genau benennbaren Umgebungen muss man dann davon ausgehen, dass ein Prozess stattfindet, der diesen stimmhaften Konsonanten stimmlos macht.
+Würde man es umgekehrt versuchen und eine Art Inlauterweichung annehmen, würde diese auch in Formen wie \textit{Finken} stattfinden, und es würde \Ast\textipa{[fIN@n]} dabei herauskommen.
+
+\Definition{Zugrundeliegende Form und phonologischer Prozess}{
+\label{def:pholproz}
+Die zugrundeliegende Form ist eine Folge von Segmenten, die im Lexikon gespeichert wird, und aus der alle zugehörigen phonetischen Formen gemäß dem System der phonologischen Prozesse (den Regularitäten der Phonologie) erzeugt werden können.
+\index{zugrundeliegende Form}
+\index{Prozess!phonologisch}
+}
+
+Es sollte deutlich werden, warum die Phonologie eine Abstraktion gegenüber der Phonetik darstellt.
+Die Phonetik eines Wortes beschreibt nur, wie es tatsächlich ausgesprochen wird.
+Die phonologische Repräsentation eines Wortes erfordert aber zusätzliches Wissen um Prozesse wie die Auslautverhärtung, um aus ihr konkrete phonetische Formen abzuleiten.
+Dieses zusätzliche Wissen zur Ermittlung der phonologischen Formen können wir nur gewinnen, wenn wir das gesamte Sprachsystem betrachten, also \zB das Wort in Bezug zu allen anderen Wörtern.
+Die plausible zugrundeliegende Form für \textit{Zwerg} oder \textit{Bad} ist \zB nicht ermittelbar, wenn man nur genau diese beiden Wörter betrachtet.
+Man muss mindestens Formen wie \textit{Zwerges} und \textit{Bades} hinzuziehen.
+Zugrundeliegende phonologische Formen schreibt man dann nicht in \textipa{[~]} sondern in /~/, also \zB /\textipa{\t{ts}vEKg}/, /\textipa{ba:d}/ und /\textipa{la:b}/.%
+\footnote{Die Form /\textipa{\t{ts}vEKg}/ steht hier absichtlich, es handelt sich bei dem /\textipa{K}/ nicht um einen Fehler, wie in Abschnitt~\ref{sec:phonologischeprozesse} erklärt wird.}
+Schematisch kann man die Verhältnisse wie in Tabelle~\ref{tab:pholsystem} darstellen, wobei die Prozesse durch den Doppelpfeil $\Rightarrow$ angedeutet werden.
+Mit externen Systemen sind nicht zur Grammatik gehörige Systeme wie Gehör und Sprechapparat gemeint.
+Wir schreiben später /\textipa{ba:d}/$\Rightarrow$\textipa{[ba:t]}, um zugrundeliegende Form und phonetische Realisierungen in Beziehung zu setzen.
+
+\begin{table}[!h]
+  \resizebox{\textwidth}{!}{
+    \begin{tabular}{ccc}
+      \lsptoprule
+      \multicolumn{2}{c}{\textbf{Grammatik}} & \textbf{Externe Systeme} \\ 
+      \midrule
+      \textbf{Lexikon} & \textbf{Phonologie} & \textbf{Phonetik} \\
+      \midrule
+      /~/& $\Rightarrow$ & \textipa{[~]}\\
+      zugrundeliegende Form & phonologische Prozesse & phonetische Realisierung \\
+      \lspbottomrule
+    \end{tabular}
+  }
+  \caption{Lexikon, Phonologie und Phonetik}
+  \label{tab:pholsystem}
+\end{table}
+
+\subsection{Merkmale}
+
+\label{sec:features}
+
+\subsubsection{Konsonanten}
+
+\label{sec:konsonantenmerkmale}
+
+In Kapitel~\ref{sec:grundbegriffe} wurde der Begriff des Merkmals eingeführt.
+Linguistische Einheiten werden demnach über Merkmale definiert.
+Wir bleiben bei dem Beispiel der Auslautverhärtung.
+In \ref{sec:segmenteverteilungen} haben wir festgestellt, dass die Auslautverhärtung Plosive am Silbenende betrifft, und dass diese stimmlos werden, auch wenn sie zugrundeliegend stimmhaft sind.
+Damit haben wir aber schon in der Beschreibung mehrere potentielle Merkmale von Segmenten angesprochen, nämlich zum Beispiel das Merkmal Artikulationsart (mit dem Wert \textit{plosiv}) und das Merkmal der Stimmhaftigkeit (mit den Werten \textit{ja} und \textit{nein}, bzw.\ technischer notiert $+$ und $-$).
+Im Grunde sind diese Merkmale solche, die den Kategorien der artikulatorischen Phonetik aus dem letzten Kapitel entsprechen (Artikulationsort, Stimmhaftigkeit, Artikulationsart usw.).
+In der Phonologie bemüht man sich normalerweise, genau solche Merkmale zu verwenden, die eine Begründung in der Phonetik haben, die also im Grunde auch gleichzeitig phonetische (und nicht beliebige abstrakte) Merkmale sind.
+
+Man muss sich nun fragen, welche phonologischen Merkmale man für die Sprachbeschreibung benötigt.
+Diese Frage kann auf zwei Weisen angegangen werden, nämlich:
+(1) Welche Merkmale braucht man, um alle Sprachen zu beschreiben?
+(2) Welche Merkmale braucht man, um eine bestimmte Sprache zu beschreiben (\zB das Deutsche)?
+Während in der Phonologie im Allgemeinen die erste Art der Fragestellung sehr dominant ist, ist in einer deskriptiven Grammatik einer einzelnen Sprache die zweite Art der Fragestellung anspruchsvoll genug.
+
+In Definition~\ref{def:phokonseg} (S.~\pageref{def:phokonseg}) wurde gesagt, dass mit unterschiedlichen Segmenten phonologische Kontraste markiert werden können, \zB /\textipa{d}/ vs. /\textipa{t}/ in /\textipa{daNk}/ und /\textipa{taNk}/.
+Wenn wir jetzt diese Segmente mittels Merkmalen unterscheiden wollen, dann besteht der Kontrast im Grunde nur in einem Merkmal, nämlich in dem der Stimmhaftigkeit.
+Man kann also einen phonologischen Kontrast auch bezüglich der Merkmale von Segmenten statt bezüglich ganzer Segmente beschreiben.
+
+\Definition{Phonologischer Kontrast (Merkmal)}{
+\label{def:phokonfeat}
+Ein phonologisches Merkmal erzeugt einen phonologischen Kontrast, wenn es durch einen Unterschied seiner Werte in mindestens einer Umgebung einen lexikalischen bzw.\ grammatischen Unterschied markieren kann.
+\index{Kontrast}
+}
+
+Damit wird aber auch sofort klar, wie viele und welche Merkmale zur Beschreibung einer Sprache benötigt sind.
+Es sind genau diejenigen, die zusammengenommen alle phonologischen Kontraste dieser Sprache hinreichend beschreiben.
+Wir haben schon mehrfach gesehen, dass Stimmhaftigkeit im Deutschen offensichtlich ein solches Merkmal ist, auch wenn in bestimmten Umgebungen (Silbenauslaut) der Kontrast neutralisiert wird.
+
+Wir müssen nun überlegen, in welche Kategorien die Segmente des Deutschen eingeteilt werden müssen, und welche Merkmale man dafür benötigt.
+Das entspricht genau der Methode der Kategorisierung anhand von Merkmalen, wie sie in \ref{sec:lexkat} besprochen wurde.
+Dort wurde beispielhaft gezeigt, wie die Einheiten im Lexikon durch ihre Merkmalsausstattung quasi automatisch in Kategorien eingeteilt werden können.
+Hier geht es jetzt darum, wie die Segmente durch phonologische Merkmale kategorisiert werden.
+
+\Satz{Phonologische Merkmale}{
+Für die Beschreibung einer Sprache werden genau soviele Merkmale benötigt, dass jeder phonologische Kontrast abgebildet werden kann.
+\index{Merkmal!phonologisch}
+}
+
+Um im Einzelnen für die standardmäßig verwendete Merkmalsmenge zu argumentieren, ist hier nicht genug Raum, zumal die Wahl der konkreten Merkmale nicht immer zwingend ist, und alternative Merkmalsmengen genauso gut funktionieren können.
+Eigentlich haben wir die artikulatorischen Grundlagen der Kategorisierung auch schon besprochen und müssten nur noch für jede Kategorie zeigen, dass das zugehörige Merkmal auch tatsächlich einen Kontrast erzeugt.
+
+Viele Merkmale aus dem üblicherweise verwendeten Inventar sind aber spontan einsichtig, so zum Beispiel die in (\ref{ex:phol8444}), die einen Ausschnitt aus dem gewöhnlicherweise verwendeten Inventar phonologischer Merkmale darstellen.
+Diese Merkmale ermöglichen zunächst nur die Trennung von Vokalen und Konsonanten sowie die Aufgliederung der Konsonanten.
+
+\begin{exe}
+  \ex\label{ex:phol8444}
+  \begin{xlist}
+    \ex{\textsc{Kons(onant)}: $+$, $-$}
+    \ex{\textsc{Approx(imant)}: $+$, $-$}
+    \ex{\textsc{Son(orant)}: $+$, $-$}
+    \ex{\textsc{Kont(inuant)}: $+$, $-$}
+  \end{xlist}
+\end{exe}
+
+\begin{figure}[!h]
+  \centering
+  \Tree[3]{
+    && \K{Segment}\B{dl}\B{dr} \\
+    & \K{[\textsc{Kons}:$+$]}\B{dl}\B{dr} && \K{[\textsc{Kons}:$-$]}\Below{/\textipa{i: I y: Y u: U e: o: O \o: \oe\ E: E a: a}/} \\
+    \K{[\textsc{Approx}:$+$]}\Below{/\textipa{l}/} && \K{[\textsc{Approx}:$-$]}\B{dl}\B{dr} \\
+    & \K{[\textsc{Son}:$+$]}\Below{/\textipa{m n N}/} && \K{[\textsc{Son}:$-$]}\B{dl}\B{dr} \\
+    && \K{[\textsc{Kont}:$+$]}\Below{/\textipa{f v s z S \c{c} J K h}/ \textipa{[X]}} && \K{[\textsc{Kont}:$-$]}\Below{/\textipa{p b t d k g}/} \\
+  }
+  \caption{Merkmale der Artikulationsart}
+  \label{fig:artart}
+\end{figure}
+
+Die Merkmale entsprechen in ihrer Definition genau den Definitionen aus der Phonetik.
+Das einzige aus der Phonetik bisher nur implizit bekannte Merkmal ist \textsc{Kontinuant}.
+
+\newpage
+
+\Definition{Kontinuant}{
+Ein Kontinuant ist ein Segment, bei dem der pulmonale Luftstrom weitgehend ungehindert durch den Mundraum abfließt.
+\index{Kontinuant}
+}
+
+Die Merkmale für die Artikulationsart müssen nun durch Merkmale für die Stimmtonbeteiligung und den Artikulationsort ergänzt werden, damit alle Segmente des Deutschen eindeutig anhand von Merkmalen unterscheidbar sind.
+Zunächst nehmen wir uns wieder nur die Konsonanten vor.
+
+\begin{exe}
+  \ex{\textsc{Stimme}: $+$, $-$}
+  \ex
+  \begin{xlist}
+    \ex{\textsc{Ort}: \textit{labial, koronal, dorsal, laryngal}}
+    \ex{\textsc{Hinten}: $+$, $-$}
+  \end{xlist}
+\end{exe}
+
+Die phonologische Terminologie weicht bei den Artikulationsorten etwas von der phonetischen ab und scheint zunächst weniger fein zu sein.
+Dies liegt daran, dass in der Phonologie gerne nach dem aktiven Artikulator klassifiziert wird, also nach dem Artikulator, der sich auf die aus der Phonetik bekannten Artikulationsorte zubewegt (s.\ Definition~\ref{def:artikulator} auf S.~\pageref{def:artikulator}).
+Mit \textit{labial} sind hier alle labialen und labio-dentalen Segmente zusammengefasst.
+Im Bereich hinter den Lippen wird zunächst mit den Werten \textit{koronal} und \textit{dorsal} nach der Art der Beteiligung der Zunge (dem aktiven Artikulator) unterschieden.
+Koronale, dorsale und laryngale Segmente müssen noch definiert werden.
+
+\newpage
+
+\Definition{Koronal}{
+\label{def:koronal}
+Koronale sind Segmente, die mit der Zungenspitze artikuliert werden (phonetisch: dental, alveolar, palato-alveolar).
+\index{Koronal}
+}
+
+\Definition{Dorsal}{
+\label{def:dorsal}
+Dorsale sind Segmente, die mit dem Zungenrücken artikuliert werden (phonetisch: palatal, velar, uvular).
+\index{Dorsal}
+}
+
+\Definition{Laryngal}{
+\label{def:guttural}
+Laryngale sind Segmente, die im Kehlkopfbereich artikuliert werden (phonetisch ebenfalls laryngal).
+\index{Laryngal}
+}
+
+Bei den Koronalen und Dorsalen wird nach hinten und nicht hinten unterschieden.
+
+\Definition{Hinten (Koronale/Dorsale)}{
+\label{def:konshinten}
+Hintere Koronale sind solche, die hinter den Alveolen artikuliert werden.
+Hintere Dorsale sind solche, die hinter dem Velum artikuliert werden.
+\index{hinten}
+}
+
+Nicht hinten sind bei den Koronalen also die alveolaren, und hinten die palato-alveolaren.
+Die Unterscheidung ist im Deutschen notwendig, um die ansonsten identischen /\textipa{s}/ und /\textipa{S}/ zu trennen.%
+\footnote{Wenn die Segmente in Lehnwörtern wie \textit{Genre} und \textit{Chips} ebenfalls beschrieben werden sollen, trennt dieses Merkmal auch /\textipa{z}/ und /\textipa{Z}/ sowie /\textipa{\t{ts}}/ und /\textipa{\t{tS}}/.
+}
+Im Bereich der Dorsalen sind die Uvularen \textipa{[X]} und /\textipa{K}/ hinten.
+Nicht-hintere Dorsale sind \zB /\textipa{k}/ und /\textipa{g}/.
+Es ergibt sich Abbildung~\ref{fig:artort} für die Klassifizierung der Konsonanten nach ihrem Artikulationsort.
+Warum \textipa{[X]} nicht in /~/ steht (auch in Tabelle~\ref{tab:pholkonsmerk}), wird in Abschnitt~\ref{sec:prozichach} erklärt.
+
+\begin{figure}[!h]
+  \resizebox{\textwidth}{!}{
+    \Tree[2.5]{
+      &&& \K{Segment}\B{dlll}\B{dl}\B{drr}\B{drrrr} \\
+      \K{[\textsc{Ort}: \textit{labial}]}\Below{/\textipa{p b m f v}/} && \K{[\textsc{Ort}: \textit{koronal}]}\B{dl}\B{dr} &&& \K{[\textsc{Ort}: \textit{dorsal}]}\B{dl}\B{dr} && \K{[\textsc{Ort}: \textit{laryngal}]}\Below{/\textipa{h}/} \\
+      & \K{[\textsc{Hinten}:$-$]}\Below{/\textipa{t d n s z l}/} && \K{[\textsc{Hinten}:$+$]}\Below{/\textipa{S}/} & \K{[\textsc{Hinten}:$-$]}\Below{/\textipa{k g N \c{c} J}/} && \K{[\textsc{Hinten}:$+$]}\Below{/\textipa{K}/ \textipa{[X]}} & \\
+    }
+  }
+  \caption{Merkmale des Artikulationsorts (Konsonanten)}
+  \label{fig:artort}
+\end{figure}
+
+\newpage
+
+Mit diesen Merkmalen ist es möglich, alle Konsonanten des Deutschen voneinander zu unterscheiden, wie in Tabelle~\ref{tab:pholkonsmerk} demonstriert wird.%
+\footnote{Zur Beschreibung der Affrikaten verwendet man andere Beschreibungsformate als Merkmale, die hier nicht besprochen werden.
+In der Tabelle fehlen daher die Affrikaten.
+Vgl.\ aber auch Vertiefung~\ref{vert:affrikaten} auf S.~\pageref{vert:affrikaten}.}
+Zusammenfassend fällt auf, dass bestimmte Merkmale, die man ausgehend von der Phonetik annehmen könnte, hier nicht vorkommen.
+Einerseits werden hier die Artikulationsorte gewohnheitsmäßig anders (nämlich wie angemerkt nach dem aktiven Artikulator) gegliedert.
+Es gibt in der Phonologie daher \zB keinen Wert \textit{velar} für \textsc{Ort}.
+
+\index{Nasal}
+
+Es fehlt hier aber auch das Merkmal \textsc{Nasal}, weil wir die Nasale als [\textsc{Kons}:$+$, \textsc{Appr}:$-$, \textsc{Son}:$+$] bereits von allen anderen Segmenten unterscheiden können.
+In anderen Sprachen oder bei anderen Analysen wird dieses Merkmal aber trotzdem angenommen.
+Diese Reduktion auf das Nötige illustriert auch den abstrakten, systemhaften Charakter der Phonologie gegenüber der Phonetik:
+Es müssen in der Phonologie nur die Merkmale in die Beschreibung aufgenommen werden, die gerade ausreichend zur Beschreibung der sprachlichen Regularitäten sind.
+
+\begin{table}[!h]
+  \centering
+  \begin{tabular}{cccccccc}
+    \lsptoprule
+    \textbf{Segment} & \textbf{\textsc{Kons}} & \textbf{\textsc{Appr}} & \textbf{\textsc{Son}} & \textbf{\textsc{Kont}} & \textbf{\textsc{Stimme}} & \textbf{\textsc{Ort}} & \textbf{\textsc{Hinten}} \\
+    \midrule
+    /\textipa{p/} & $+$ & $-$ & $-$ & $-$ & $-$ & \textit{lab} & \\
+    /\textipa{b/} & $+$ & $-$ & $-$ & $-$ & $+$ & \textit{lab} & \\
+    /\textipa{m/} & $+$ & $-$ & $+$ & $-$ & $+$ & \textit{lab} & \\
+    /\textipa{f/} & $+$ & $-$ & $-$ & $+$ & $-$ & \textit{lab} & \\
+    /\textipa{v/} & $+$ & $-$ & $-$ & $+$ & $+$ & \textit{lab} & \\
+    /\textipa{t/} & $+$ & $-$ & $-$ & $-$ & $-$ & \textit{kor} & $-$ \\
+    /\textipa{d/} & $+$ & $-$ & $-$ & $-$ & $+$ & \textit{kor} & $-$ \\
+    /\textipa{n/} & $+$ & $-$ & $+$ & $-$ & $+$ & \textit{kor} & $-$ \\
+    /\textipa{s/} & $+$ & $-$ & $-$ & $+$ & $-$ & \textit{kor} & $-$ \\
+    /\textipa{z/} & $+$ & $-$ & $-$ & $+$ & $+$ & \textit{kor} & $-$ \\
+    /\textipa{S/} & $+$ & $-$ & $-$ & $+$ & $-$ & \textit{kor} & $+$ \\
+%    /\textipa{Z/} & $+$ & $-$ & $-$ & $+$ & $+$ & \textit{kor} & $+$ \\
+    /\textipa{l/} & $+$ & $+$ & $+$ & $+$ & $+$ & \textit{kor} & $-$ \\
+    /\textipa{\c{c}/} & $+$ & $-$ & $-$ & $+$ & $-$ & \textit{dor} & $-$ \\
+    /\textipa{J/} & $+$ & $-$ & $-$ & $+$ & $+$ & \textit{dor} & $-$ \\
+    /\textipa{k/} & $+$ & $-$ & $-$ & $-$ & $-$ & \textit{dor} & $-$ \\
+    /\textipa{g/} & $+$ & $-$ & $-$ & $-$ & $+$ & \textit{dor} & $-$ \\
+    /\textipa{N/} & $+$ & $-$ & $+$ & $-$ & $+$ & \textit{dor} & $-$ \\
+    \textipa{[X]} & $+$ & $-$ & $-$ & $+$ & $-$ & \textit{dor} & $+$ \\
+    /\textipa{K/} & $+$ & $-$ & $-$ & $+$ & $+$ & \textit{dor} & $+$ \\
+    /\textipa{h/} & $+$ & $-$ & $-$ & $+$ & $-$ & \textit{lar} & \\
+    \lspbottomrule
+  \end{tabular}
+  \caption{Kontrastive Merkmale der Konsonanten des Deutschen}
+  \label{tab:pholkonsmerk}
+\end{table}
+
+\subsubsection{Vokale}
+
+Die Vokale können genau so gut mit Merkmalen definiert werden wie die Konsonanten.
+Auch hier ist es wieder aus Platzgründen nicht möglich, für alle Merkmale, ihre Werte und deren Verteilung zu argumentieren.
+Die wichtigste Frage ist, wie die dreifache Unterscheidung von sowohl vorne -- zentral -- hinten als auch hoch -- mittel -- tief abgebildet werden.
+Dafür hat sich ein modifiziertes Vokalviereck etabliert, vgl.\ Abbildung~\ref{fig:vokaltrapatr}.%
+\footnote{In diesem Vokalviereck fehlt \textipa{[5]}.
+Der Grund wird in \ref{sec:prozrvok} besprochen.}
+Die Merkmale und ihre Werte sind in (\ref{ex:phol2945}) definiert.
+
+\begin{exe}
+  \ex\label{ex:phol2945}
+  \begin{xlist}
+    \ex{\textsc{Hinten}: $+$, $-$}
+    \ex{\textsc{Hoch}: $+$, $-$}
+    \ex{\textsc{Tief}: $+$, $-$}
+    \ex{\textsc{Rund}: $+$, $-$}
+    \ex{\textsc{Gespannt}: $+$, $-$}
+    \ex{\textsc{Lang}: $+$, $-$}
+  \end{xlist}
+\end{exe}
+
+\index{gespannt}
+
+\begin{figure}[!h]
+  \centering
+  \begin{tabular}{|c|c|cc|ccc|}
+    \cline{3-7}
+    \multicolumn{2}{c|}{} & \multicolumn{2}{c|}{\textbf{[\textsc{Hinten}:$-$]}} & \multicolumn{3}{c|}{\textbf{[\textsc{Hinten}:$+$]}} \\
+    \hline
+    \multirow{2}{*}{\textbf{[\textsc{Hoch}:$+$]}}& \multirow {5}{*}{\textbf{[\textsc{Tief}:$-$]}} & /\textipa{i: y:}/ \Dim & \Dim & \Dim & \Dim & /\textipa{u:}/\Dim \\
+    && \Dim & /\textipa{I Y}/ && /\textipa{U}/ & \Dim \\
+    \cline{1-1}\cline{3-7}
+    \multirow {5}{*}{\textbf{[\textsc{Hoch}:$-$]}}&& /\textipa{e: \o:}/\Dim &&&& /\textipa{o:}/\Dim \\
+    &&&& /\textipa{@}/ && \\
+    && /\textipa{E: E \oe}/ &&&& /\textipa{O}/ \\
+    \cline{2-7}
+    & \multirow{2}{*}{\textbf{[\textsc{Tief}:$+$]}} &&&&& \\
+    &&&& /\textipa{a a:}/ && \\
+    \hline
+  \end{tabular}
+  \caption[Das Vokalviereck mit \textsc{Gespannt}]{Das Vokalviereck mit \textsc{Gespannt} (grau)}
+  \label{fig:vokaltrapatr}
+\end{figure}
+
+\textsc{Gespannt} ist ein neues Merkmal, das in der Phonetik nicht eingeführt wurde.
+Mit welchen Artikulationseigenschaften \textsc{Gespannt} korreliert, ist nicht genau geklärt, weswegen hier auch keine Definition angegeben wird.
+Mit einer höheren Muskelanspannung (wie der Name vielleicht vermuten lässt) hat dieses Merkmal nicht ausschließlich zu tun.
+Andere Faktoren, die oft genannt wurden, sind ein höherer Staudruck des pulmonalen Luftstroms oder eine größere Länge bei den gespannten Vokalen.
+Phonologisch hilft es uns aber auf jeden Fall, /\textipa{E}/ und /\textipa{e:}/ sowie /\textipa{o:}/ und /\textipa{O}/ usw.\ zu unterscheiden.
+Mit der Beschreibung der Vokal-Merkmale (zusammengefasst in Tabelle~\ref{tab:pholvokmerk}) haben wir die Beschreibung der einfachen Segmente in der Phonologie abgeschlossen.
+Als nächstes muss man sich fragen, wie diese Segmente zusammengesetzt werden, wie also Struktur aufgebaut wird.
+
+\begin{table}[!h]
+  \centering
+  \begin{tabular}[ht]{ccccccc}
+  \lsptoprule
+  \textbf{Segment} & \textbf{\textsc{Hinten}} & \textbf{\textsc{Hoch}} & \textbf{\textsc{Tief}} & \textbf{\textsc{Rund}} & \textbf{\textsc{Gespannt}} & \textbf{\textsc{Lang}} \\
+  \midrule
+  /\textipa{i:/} & $-$ & $+$ & $-$ & $-$ & $+$ & $+$ \\ 
+  /\textipa{I/} & $-$ & $+$ & $-$ & $-$ & $-$ & $-$ \\ 
+  /\textipa{y:/} & $-$ & $+$ & $-$ & $+$ & $+$ & $+$ \\ 
+  /\textipa{Y/} & $-$ & $+$ & $-$ & $+$ & $-$ & $-$ \\ 
+  /\textipa{u:/} & $+$ & $+$ & $-$ & $+$ & $+$ & $+$ \\ 
+  /\textipa{U/} & $+$ & $+$ & $-$ & $+$ & $-$ & $-$ \\ 
+  /\textipa{e:/} & $-$ & $-$ & $-$ & $-$ & $+$ & $+$ \\ 
+  /\textipa{\o:/} & $-$ & $-$ & $-$ & $+$ & $+$ & $+$ \\ 
+  /\textipa{o:/} & $+$ & $-$ & $-$ & $+$ & $+$ & $+$ \\ 
+  /\textipa{O/} & $+$ & $-$ & $-$ & $+$ & $-$ & $-$ \\ 
+  /\textipa{E:/} & $-$ & $-$ & $-$ & $-$ & $-$ & $+$ \\ 
+  /\textipa{E/} & $-$ & $-$ & $-$ & $-$ & $-$ & $-$ \\ 
+  /\textipa{@/} & $+$ & $-$ & $-$ & $-$ & $-$ & $-$ \\ 
+  /\textipa{\oe/} & $-$ & $-$ & $-$ & $+$ & $-$ & $-$ \\ 
+  /\textipa{a:/} & $+$ & $-$ & $+$ & $-$ & $-$ & $+$ \\ 
+  /\textipa{a/} & $+$ & $-$ & $+$ & $-$ & $-$ & $-$ \\ 
+  \lspbottomrule
+  \end{tabular}
+  \caption{Kontrastive Merkmale der Vokale des Deutschen}
+  \label{tab:pholvokmerk}
+\end{table}
+
+\section{Phonotaktik}
+
+\label{sec:phonotaktik}
+
+\subsection{Definition der Phonotaktik}
+
+Zusätzlich zur Beschreibung der einzelnen Segmente des Deutschen können wir beschreiben, wie diese Segmente zu größeren Einheiten zusammengesetzt werden, wie also phonologische Struktur (zum Strukturbegriff vgl.\ Abschnitt~\ref{sec:strukturen}, S.~\pageref{sec:strukturen}) aufgebaut wird.
+In (\ref{ex:phol2852}) finden sich einige Phantasiewörter, die in Standardorthographie und phonetischer Umschrift angegeben sind.
+
+\begin{exe}
+  \ex\label{ex:phol2852}
+  \begin{xlist}
+    \ex{\label{ex:phol2852a} Nka \textipa{[Nka:]}, Tlotk \textipa{[tlOtk]}, Pkalfpel \textipa{[pkalfp@l]}}
+    \ex{\label{ex:phol2852b} Klieke \textipa{[kli:k@]}, Folb \textipa{[fOlp]}, Runge \textipa{[KUN@]}}
+  \end{xlist}
+\end{exe}
+
+Die hypothetischen Wörter in (\ref{ex:phol2852a}) unterscheiden sich deutlich von denen in (\ref{ex:phol2852b}).
+Während die zweite Gruppe nämlich zumindest mögliche Wörter des Deutschen darstellt, enthält die erste Gruppe nur Wörter, die aus irgendeinem Grund niemals Wörter des Gegenwartsdeutschen sein könnten.
+Der Grund dafür ist, dass die erste Gruppe phonotaktisch nicht wohlgeformte Wörter enthält.
+
+\Definition{Phonotaktik}{
+Die Phonotaktik beschreibt die Regularitäten, nach denen Segmente einander folgen können.
+Die Phonotaktik nimmt dabei Bezug auf Einheiten wie die Silbe und das Wort.
+\index{Phonotaktik}
+}
+
+Es gibt also offensichtlich Regularitäten, nach denen sich Segmente zu größeren Einheiten wie Silben und Wörtern zusammensetzen.
+Im nächsten Abschnitt werden die Regularitäten der Silbenbildung kurz eingeführt.
+
+\subsection{Silben und Sonorität}
+
+\label{sec:silben}
+
+\subsubsection{Silben}
+
+\index{Silbe}
+\index{Silbe!Klatschmethode}
+
+Um sich zu überlegen, wie die Silben des Deutschen beschaffen sind, muss man definieren, was Silben überhaupt sind.
+In der Grundschuldidaktik wird oft über die Klatschmethode versucht, Kindern ein Gefühl für Silben zu vermitteln.
+Dabei wird gesagt, dass jedes Stück eines Wortes, zu dem man bei abgehacktem Sprechen einmal klatschen kann, eine Silbe sei.
+Diese Methode ist problematisch, da sie sehr leicht absichtlich oder unabsichtlich sabotierbar ist:
+Es ist für viele Sprecher vielleicht natürlicher, auf Wörter wie \textit{Mutter} \textipa{[mUt5]} nur einmal zu klatschen, da die Silbe mit dem \textipa{[5]} unbetont und phonologisch nicht sehr prominent ist.
+Außerdem wird mit der Methode meist ein rein orthographisch-didaktisches Ziel ohne jede Sensibilität für Grammatik verfolgt, nämlich das Erlernen der Silbentrennung in der Schrift.
+Die Regeln der orthographischen Silbentrennung im Deutschen erfordern aber subtilere Kenntnisse grammatischer Regularitäten, als sie die Klatschmethode vermittelt.
+Daher müssen Lehrer bei solchen Übungen dann unnatürliche Aussprachen vormachen, \zB \textipa{[mut]} -- \textipa{[ta]} oder gar \textipa{[mut]} -- \textipa{[tEK]} statt korrekt \textipa{[mUt5]}.
+Diese unnatürlichen Aussprachen setzen oft paradoxerweise Kenntnisse der Orthographie voraus, und ein solider Lernerfolg durch das Klatschen ist daher nicht zu erwarten.
+Wir nähern uns hier stattdessen in mehreren Schritten auf analytische Art dem Silbenbegriff und konkreten Silbenstrukturen für das Deutsche.
+
+Zunächst schauen wir uns einige existierende Wörter an und überlegen, wo intuitiv die Silbengrenzen sind.%
+\footnote{Leider muss hier zunächst auf Intuition aufgebaut werden.
+Sollten einige Leser diese Intuitionen nicht teilen, sei auf den systematischen Aufbau weiter unten verwiesen.}
+In der Transkription markieren wir Silbengrenzen durch einen einfachen Punkt.
+Die einzige explizite Annahme, die wir hier schon machen wollen, ist, dass Silben genau einen Vokal (oder Diphthong) als Kern haben, um den herum sich Konsonaten gruppieren bzw.\ gruppieren können.
+
+\begin{exe}
+  \ex\label{ex:phol1830}
+  \begin{xlist}
+    \ex{Ball \textipa{[bal]}, Bälle \textipa{[bE.l@]}}
+    \ex{Knall \textipa{[knal]}, Knalls \textipa{[knals]}}
+    \ex{Sturm \textipa{[St\t{U@}m]}, Stürme \textipa{[St\t{Y@}.m@]}}
+    \ex{Mittelstürmer \textipa{[mI.t@l.St\t{Y@}.m5]}, Mittelstürmerin \textipa{[mI.t@l.St\t{Y@}.m@.KIn]}}
+  \end{xlist}
+\end{exe}
+
+Was an den Beispielen in (\ref{ex:phol1830}) deutlich werden sollte, ist, dass die Silbenstruktur nicht im Lexikon festgelegt sein kann.
+Ein Wort wie \textit{Ball} ist im Nominativ Singular einsilbig, und das \textipa{[l]} steht im Auslaut (am Ende) dieser einen Silbe.
+Mit dem hinzutretenden \textipa{[@]} der Plural-Endung verändert sich auch die Silbenstruktur:
+Das \textipa{[l]} steht im Anlaut (am Anfang) der zweiten Silbe.
+Ähnliches passiert bei \textit{Sturm} und \textit{Stürme} mit dem \textipa{[m]}.
+Bei \textit{Mittelstürmer} \textipa{[mIt@lSt\t{Y@}m5]} und \textit{Mittelstürmerin} \textipa{[mIt@lSt\t{Y@}m@KIn]} wird der Effekt noch deutlicher, weil /\textipa{K}/ nur dann als Konsonant \textipa{[K]} realisiert wird, wenn noch ein Vokal folgt und das /\textipa{K}/ dadurch in den Silbenanlaut gerät (vgl.\ dazu genauer Abschnitt~\ref{sec:prozrvok}).
+Wenn bei \textit{Ball} und \textit{Balls} aber ein \textipa{[s]} hinzutritt, bleibt das Wort einsilbig, und das \textipa{[s]} wird an die einzige Silbe hinten angehängt.
+Die Silbenstruktur wird also durch einen Prozess (Silbifizierung) zugewiesen und ist nicht im Lexikon festgelegt.
+
+Im Abschnitt~\ref{sec:sonoritaet} geht es zunächst um universelle (also für alle Sprachen geltende) Eigenschaften der Silbe und der Silbifizierung, in Abschnitt~\ref{sec:silbenstruktur} um das allgemeine Strukturformat für Silben.
+Später wird in Abschnitt~\ref{sec:silbifizierung} auf einige konkrete Bedingungen der Silbifizierung eingegangen.
+
+\subsubsection{Sonorität}
+
+\label{sec:sonoritaet}
+
+Es gibt eine wichtige universelle (sprachübergreifende) Regularität der Silbifizierung, die mit dem Begriff Sonorität beschrieben werden kann.
+Jedes Segment hat eine bestimmte Sonorität, und die Sonorität der Segmente bestimmt, wie sie in Silben angeordnet werden können.
+Über eine intuitive Analyse der Silbenstruktur wird jetzt der Sonoritätsbegriff eingeführt, und erst dann folgt eine Definition der Silbe.
+
+Für das Deutsche ist es hinreichend, fünf verschiedene Sonoritätsstufen anzunehmen, nämlich für die Segmentklassen der Plosive, Frikative, Approximanten, Nasale und Vokale.
+Wir führen zur schematischen Darstellung folgende Abkürzungen ein:
+
+\begin{itemize}\Lf
+  \item \textbf{V} für Vokale,
+  \item \textbf{A} für Approximanten,
+  \item \textbf{N} für Nasale,
+  \item \textbf{F} für Frikative,
+  \item \textbf{P} für Plosive.
+\end{itemize}
+
+Mittels dieser Klassenzuweisung für Segmente überlegen wir nun, welche Konsonanten bzw.\ Abfolgen von Konsonanten vor und nach dem Vokal (der im Kern der Silbe steht) in welcher Reihenfolge angeordnet werden können.
+Allgemein betrachtet ist die Abfolge der Segmente dabei immer ein Ausschnitt aus dem Schema, das in Abbildung~\ref{fig:silbenschema} abgebildet ist.
+
+\begin{figure}[!h]
+  \centering
+  \fbox{\textbf{(F) PFNA -- V -- ANFP (F)}}
+  \caption{Allgemeines Silbenschema}
+  \label{fig:silbenschema}
+\end{figure}
+
+Mit Ausschnitt ist hier gemeint, dass jede mögliche Konsonantenfolge durch Wegstreichen verschiedener Positionen aus Abbildung~\ref{fig:silbenschema} erzeugt werden kann.
+Doppelungen sind nur nach dem Vokal in Form von FF (\textit{strolchst}) oder PP (nur, wenn der zweite Plosiv /\textipa{t}/ ist, wie in \textit{schnappt}), wobei FFPP nicht möglich ist (vgl.\ unmögliche Phantasiewörter wie \textit{\Ast afspt} als \textipa{[afspt]}).
+Dabei ist zu beachten, dass nicht alle möglichen Ausschnitte aus diesem Schema im Deutschen möglich sind, weil bestimmte zusätzliche Regularitäten gelten, die hier nicht im Einzelnen dargestellt werden können.
+Abbildung~\ref{fig:silbenbau} zeigt beispielhaft an einsilbigen Wörtern für einige Konsonantengruppen, dass das Schema in Abbildung~\ref{fig:silbenschema} tatsächlich zutreffend ist.
+
+\begin{figure}[!h]
+  \centering
+  \resizebox{\textwidth}{!}{
+    \begin{tabular}{cp{1mm}cp{1mm}cp{1mm}cp{1mm}cp{1mm}cp{1mm}cp{1mm}cp{1mm}cp{1mm}cp{1mm}c}
+      \lsptoprule
+      \textbf{F} && \textbf{P} && \textbf{F} && \textbf{N} && \textbf{A} && \textbf{V} && \textbf{A} && \textbf{N} && \textbf{F} && \textbf{P} && \textbf{F} \\
+      \midrule
+	&& K &&&&&&&& ö &&&&&&&&&& \\
+	&&&&&& n &&&& ah&&&&&&&&&& \\
+	&& K &&&& n &&&& ie&&&&&&&&&& \\
+	&& d && r &&&&&& oh&&&&&&&&&& \\
+	s && t &&&&&&&& eh&&&&&&&&&& \\
+	Sch&&&&&& n &&&& ee&&&&&&&&&& \\
+	s && p && r &&&&&& üh&&&&&&&&&& \\
+	&&&&&&&&&&&&&&&&&&&& \\
+	&&&&&&&&&& I &&&&&&&& th&& \\
+	&&&&&&&&&& a &&&& n &&&&&& \\
+	&&&&&&&&&& A &&&&&& ch&& t && \\
+	&&&&&&&&&& A && l && m &&&&&& \\
+	&&&&&&&&&& A && l &&&&&& t && s\\
+	&&&&&&&&&&&&&&&&&&&& \\
+	&&&& r &&&&&& a &&&& mm&& s && t && \\
+	s && t && r &&&&&& o && l &&&&chs&& t && \\
+      \lspbottomrule
+    \end{tabular}
+  }
+  \caption{Einordnung einiger Konsonatengruppen in das Silbenschema}
+  \label{fig:silbenbau}
+\end{figure}
+
+Um den Vokal herum gruppieren sich also in einer spiegelbildlichen Reihenfolge von innen nach außen Approximanten, Nasale, Frikative und Plosive.
+Am Anfang und am Ende kann zusätzlich ein Frikativ stehen, bei genauem Hinsehen allerdings nur /\textipa{s}/ oder /\textipa{S}/, also Segmente, die [\textsc{Kons}: $+$, \textsc{Kont}: $+$, \textsc{Ort}: \textit{kor}] sind.
+Wörter wie \textit{ftrüh} /\textipa{ftKy:}/ oder \textit{altf} /\textipa{altf}/ sind nicht möglich.
+
+Dieser Segment-Abfolge gehorchen die Silben in allen Sprachen der Welt, und genau aus dieser universellen Beobachtung leitet sich das Konzept der Sonorität (ungenauer könnte man von Klangfülle sprechen) ab.
+Man geht davon aus, dass Segmente bezüglich ihrer Sonorität auf einer Skala geordnet sind, und dass stimmlose Plosive die am wenigsten sonoren und Vokale die sonorsten Segmente sind.
+In Abbildung~\ref{fig:sonoritaetshierarchie} ist ist die sog.\ Sonoritätshierarchie dargestellt, und in Abbildung~\ref{fig:sonhier} graphisch auf das Silbenschema umgesetzt.
+In jeder Silbe findet man also einen strengen Anstieg der Sonorität (von den Plosiven zu den Vokalen), gefolgt von einem genau umgekehrten Abstieg der Sonorität.
+
+\index{Sonorität!Hierarchie}
+
+\begin{figure}[!h]
+  \centering
+  \begin{tabular}{l|ccccc|r}
+    \cline{2-6}
+    (minimal sonor) & \rnode{HP}{P} & \rnode{HF}{F} & \rnode{HN}{N} & \rnode{HA}{A} & \rnode{HV}{V} & (maximal sonor) \\
+    \cline{2-6}
+  \end{tabular}
+  \ncline[nodesep=3pt]{->}{HP}{HF}
+  \ncline[nodesep=3pt]{->}{HF}{HN}
+  \ncline[nodesep=3pt]{->}{HN}{HA}
+  \ncline[nodesep=3pt]{->}{HA}{HV}
+  \caption{Sonoritätshierarchie}
+  \label{fig:sonoritaetshierarchie}
+\end{figure}
+
+\begin{figure}[!h]
+  \centering
+  \begin{tabular}{ccccccccccc}
+  &&&& \rnode{V}{V} &&&& \\
+  &&& \rnode{L1}{L} && \rnode{L2}{L} &&& \\
+  && \rnode{N1}{N} &&&& \rnode{N2}{N} && \\
+  & \rnode{F1}{F} &&&&&& \rnode{F2}{F} & \\
+  \rnode{P1}{P} &&&&&&&& \rnode{P2}{P} \\
+  \end{tabular}
+  \ncline[nodesep=3pt]{->}{P1}{F1}
+  \ncline[nodesep=3pt]{->}{F1}{N1}
+  \ncline[nodesep=3pt]{->}{N1}{L1}
+  \ncline[nodesep=3pt]{->}{L1}{V}
+  \ncline[nodesep=3pt]{->}{V}{L2}
+  \ncline[nodesep=3pt]{->}{L2}{N2}
+  \ncline[nodesep=3pt]{->}{N2}{F2}
+  \ncline[nodesep=3pt]{->}{F2}{P2}
+  \caption{Sonorität für die Segmentklassen in der schematischen Silbe}
+  \label{fig:sonhier}
+\end{figure}
+
+Was aus phonetisch-artikulatorischer (oder perzeptorischer) Sicht die Sonorität genau ist, ist schwer zu definieren.
+Stimmhaftigkeit ist ein wichtiger Faktor für eine hohe Sonorität.
+Darüber hinaus kann als Faustregel gelten, dass, je enger die durch die Artikulatoren hergestellte Annäherung ist, die Sonorität umso geringer ist.
+
+\newpage
+
+\Definition{Sonorität}{
+Segmente können auf einer Sonoritätsskala eingeordnet werden.
+Die Skala lässt sich nicht direkt anhand der Merkmale der Segmente rekonstruieren und wird empirisch durch universelle Regularitäten in der Abfolge von Segmenten bestimmt.
+\index{Sonorität}
+}
+
+Gegenüber Abbildung~\ref{fig:silbenschema} wurden in Abbildung~\ref{fig:sonhier} die möglichen Frikative /\textipa{s}/ und /\textipa{S}/ am Anfang und am Ende der Silbe weggelassen.
+Eigentlich sieht der Sonoritätsverlauf in der Silbe also wie in Abbildung~\ref{fig:sonhiers} aus.
+In Abbildung~\ref{fig:sonhiers} wird außerdem zusätzlich dargestellt, wie die Sonorität verläuft, wenn zum Beispiel zwei Frikative hintereinander folgen wie /\textipa{\c{c}s}/ in \textit{strolchst} /\textipa{StKOl\c{c}st}/.
+Die Folge FF erzeugt lediglich ein Plateau in der Sonoritätskurve, sie unterbricht also nur den ansonsten stetigen An- und Abstieg der Sonorität.
+
+\begin{figure}[!h]
+  \centering
+  \begin{tabular}{ccccccccccccccc}
+    V &&&&&& \rnode{xV}{V} &&&& \\
+    L &&&&& \rnode{xL1}{L} && \rnode{xL2}{L} &&&& \\
+    N &&&& \rnode{xN1}{N} &&&& \rnode{xN2}{N} &&& \\
+    F &\rnode{xS1}{F} && \rnode{xF1}{F} &&&&&& \rnode{xF2}{F} & \rnode{xF3}{F} && \rnode{xS2}{F} \\
+    P &&\rnode{xP1}{P} &&&&&&&&& \rnode{xP2}{P} & \\
+  \end{tabular}
+  \ncline[nodesep=3pt]{->}{xS1}{xP1}
+  \ncline[nodesep=3pt]{->}{xP1}{xF1}
+  \ncline[nodesep=3pt]{->}{xF1}{xN1}
+  \ncline[nodesep=3pt]{->}{xN1}{xL1}
+  \ncline[nodesep=3pt]{->}{xL1}{xV}
+  \ncline[nodesep=3pt]{->}{xV}{xL2}
+  \ncline[nodesep=3pt]{->}{xL2}{xN2}
+  \ncline[nodesep=3pt]{->}{xN2}{xF2}
+  \ncline[nodesep=3pt]{->}{xF2}{xF3}
+  \ncline[nodesep=3pt]{->}{xF3}{xP2}
+  \ncline[nodesep=3pt]{->}{xP2}{xS2}
+  \caption{Sonoritätsverlauf mit Rand-Frikativen und Plateau}
+  \label{fig:sonhiers}
+\end{figure}
+
+\begin{figure}[!h]
+  \centering
+  \begin{tabular}{ccccccccc}
+    V &&&& \rnode{V1}{\textipa{O}} &&&& \\
+    L &&&&& \rnode{L21}{\textipa{l}} &&& \\
+    N &&&&&&&& \\
+    F & \rnode{S11}{\textipa{S}} && \rnode{F11}{\textipa{K}} &&& \rnode{F21}{\textipa{\c{c}}} & \rnode{F31}{\textipa{s}} & \\
+    P && \rnode{P11}{\textipa{t}} &&&&&& \rnode{P21}{\textipa{t}} \\
+  \end{tabular}
+  \ncline[nodesep=3pt]{->}{S11}{P11}
+  \ncline[nodesep=3pt]{->}{P11}{F11}
+  \ncline[nodesep=3pt]{->}{F11}{V1}
+  \ncline[nodesep=3pt]{->}{V1}{L21}
+  \ncline[nodesep=3pt]{->}{L21}{F21}
+  \ncline[nodesep=3pt]{->}{F21}{F31}
+  \ncline[nodesep=3pt]{->}{F31}{P21}
+  \caption{Sonorität am Beispiel von \textit{strolchst}}
+  \label{fig:sonhiers-strolchst}
+\end{figure}
+
+\newpage
+
+Die \textit{s}-Frikative am Rand führen zu einer Verletzung der ansonsten strengen Sonoritätskurve.
+Da diese Ausnahme vom Sonoritätsverlauf aber in vielen Sprachen und immer nur mit \textit{s}-ähnlichen Frikativen vorkommt, nehmen wir es hier als Beobachtung hin.
+Eine theoretische Lösung ist es, zu sagen, diese Segmente seien extrasyllabisch, also gar nicht Teil irgendeiner Silbe.
+Damit können wir jetzt eine Definition der Silbe geben.
+
+\Definition{Silbe und Silbifizierung}{
+Silben sind die nächstgrößeren phonologischen Einheiten nach den Segmenten.
+Sie haben Segmente als Konstituenten, die in einer durch universelle und sprachspezifische Regularitäten bestimmten Reihenfolge geordnet sind, wobei die Sonorität der Segmente vom Kern zu den Rändern abfällt.
+Die Silbenstruktur ist nicht im Lexikon abgelegt und wird durch einen Prozess zugewiesen (Silbifizierung).
+\index{Silbe}
+}
+
+\subsubsection{Strukturformat für Silben}
+
+\label{sec:silbenstruktur}
+
+Für gewöhnlich werden bestimmte Strukturebenen in der Silbe angenommen, die zur Beschreibung diverser phonologischer Regularitäten nützlich sind.
+Sie werden jetzt definiert.%
+\footnote{Es sei angemerkt, dass es Gründe gibt, eine zusätzliche Ebene anzunehmen, die Nukleus und Coda zusammenfasst, den sogenannten Reim.
+Es ist dabei zu beachten, dass Phonologen jeweils die Einheiten postulieren, die sie benötigen, um gegebene Phänomene innerhalb ihrer übergeordneten Theorie zu modellieren.
+Dementsprechend gibt es Theorien ganz ohne Zwischenebenen in der Silbe, und eben auch komplexere Theorien mit Reim.
+Eine sehr klare Diskussion mit Verweisen auf weitere Literatur hat Abschnitt~4.1 aus \citet{Eisenberg1}.}
+Als Struktur ergibt sich für die Silbe Abbildung~\ref{fig:silbenstruktur}, ein Beispiel zeigt \ref{fig:phonstr}.%
+\footnote{Eine alternative Sichtweise würde bei Diphthongen das zweite Glied als Teil der Coda analysieren.
+Für unsere Zwecke ist der sich ergebende theoretische Unterschied vernachlässigbar.
+}
+
+\Definition{Nukleus}{
+\label{def:nukleus}
+Der Nukleus einer Silbe wird durch den Vokal (oder Diphthong) der Silbe gebildet.
+\index{Nukleus}
+}
+
+\Definition{Onset}{
+\label{def:onset}
+Der Onset einer Silbe ist die Gesamtheit der Konsonaten vor dem Nukleus.
+\index{Onset}
+}
+
+\Definition{Coda}{
+\label{def:coda}
+Die Coda einer Silbe ist die Gesamtheit der Konsonanten nach dem Nukleus.
+\index{Coda}
+}
+
+\begin{figure}[!h]
+  \centering
+  \Tree[1]{
+    & \K{Silbe}\B{dl}\B{d}\B{dr} \\
+    \K{Onset} & \K{Nukleus} & \K{Coda}\\
+  }
+  \caption{Silbenstruktur}
+  \label{fig:silbenstruktur}
+\end{figure}
+
+\begin{figure}[!h]
+  \centering
+  \Tree{
+  &&& \K{Silbe}\B{dll}\B{d}\B{drr} \\
+  & \K{Onset}\B{dl}\B{dr} && \K{Nukleus}\B{d} && \K{Coda}\B{dl}\B{dr} \\
+  \K{\textipa{[f]}} && \K{\textipa{[K]}} & \K{\textipa{[O\oe]}} & \K{\textipa{[n]}} && \K{\textipa{[t]}} \\
+  }
+  \caption{Beispiel für Silbenstruktur}
+  \label{fig:phonstr}
+\end{figure}
+
+Mit der Sonoritätshierarchie ist der Bau der deutschen Silbe zwar schon ein gutes Stück weit beschrieben, aber es gibt weitere Beschränkungen, die berücksichtigt werden müssen, wenn der Silbenbau einer Sprache vollständig erklärt werden soll.
+In Abschnitt~\ref{sec:silbifizierung} werden einige zusätzliche Bedingungen der Silbifizierung im Deutschen besprochen.
+
+\section{Phonologische Prozesse}
+
+\label{sec:phonologischeprozesse}
+
+\subsection{Der Silbifizierungsprozess}
+
+\label{sec:silbifizierung}
+\index{Silbe!Silbifizierung}
+
+In mehrsilbigen Wörtern stellt sich die Frage, wie zwischen mehreren möglichen Silbifizierungen entschieden werden kann.
+Ein Wort wie \textit{freches} ließe sich ohne weiteres \textipa{[fKE.\c{c}@s]} als auch \textipa{[fKE\c{c}.@s]} silbifizieren.
+In beiden Fällen sind die Silben mögliche Silben des Deutschen, aber trotzdem ist nur die Variante \textipa{[fKE.\c{c}@s]} eine korrekte Analyse.
+Daher werden jetzt einige wichtige Regularitäten des Silbifizierungsprozesses im Deutschen eingeführt, die zwar nicht vollständig sind, die aber bereits eine große Menge von Fällen erklären.
+Die silbifizierten Wörter stehen in [~] und nicht in /~/, weil die Silbenstruktur nicht zugrundeliegend festgelegt ist, sondern erst in einem Prozess zugewiesen wird.
+
+Die grundlegende Bedingung für jede Silbe ist das Vorhandensein des Nukleus und seine spezielle Form.
+
+\Satz{Nukleus-Bedingung}{
+\label{satz:nukleusbedingung}
+Jede Silbe hat einen Nukleus, der mit genau einem Segment gefüllt ist.
+Dieses Segment ist ein Vokal oder ein Diphthong (marginal im Deutschen auch ein Approximant oder ein Nasal).
+\index{Nukleus-Bedingung}
+}
+
+Diese Bedingung schließt Silbifizierungen wie in (\ref{ex:phol7279}) aus.
+
+\begin{exe}
+  \ex\label{ex:phol7279}
+  \begin{xlist}
+    \ex{\textit{strolchst} \textipa{[StKOl\c{c}st]} statt \Ast\textipa{[StKOl.\c{c}st]} oder \Ast\textipa{[StKOl\c{c}.st]}}
+    \ex{\textit{Alphabet} \textipa{[Pal.fa.be:t]} statt \Ast\textipa{[Pa.lf.a.be:t]}}
+  \end{xlist}
+\end{exe}
+
+Weiterhin gilt die universelle Bedingung der Sonoritätskontur.
+
+\Satz{Sonoritätskontur}{
+\label{satz:sonoritaetskontur}
+Keine Silbe soll die Sonoritätskontur verletzen.
+}
+
+Die Beispiele in (\ref{ex:phol1077}) zeigen jeweils die korrekte Silbifizierung und eine, die Satz~\ref{satz:sonoritaetskontur} verletzt.
+
+\begin{exe}
+  \ex\label{ex:phol1077}
+  \begin{xlist}
+    \ex{\textit{Achtung} \textipa{[PaX.tUN]} statt \Ast\textipa{[Pa.XtUN]}}
+    \ex{\textit{rötlich} \textipa{[K\o:t.lI\c{c}]} statt \Ast\textipa{[K\o:tl.I\c{c}]}}
+  \end{xlist}
+\end{exe}
+
+Als weitere Bedingung, die auch stark universelle (sprachübergreifende) Züge trägt, ist die Tendenz zu nennen, dass von mehreren möglichen Silbifizierungen diejenige am besten ist, in der die Onsets mit möglichst vielen Segmenten gefüllt sind.
+
+\Satz{Onset-Maximierung}{
+\label{satz:onsetmaximierung}
+Der Onset soll möglichst viele Segmente enthalten.
+\index{Onset-Maximierung}
+}
+
+Mit dieser Bedingung können sehr viele mehrsilbige Wörter korrekt silbifiziert werden.
+Die Bedingung wird dabei aber von der stärkeren Bedingung der Sonoritätskontur (Satz~\ref{satz:sonoritaetskontur}) ausgebremst, wie in (\ref{ex:phol8881c}) und (\ref{ex:phol8881d}) zu sehen ist.
+
+\begin{exe}
+  \ex\label{ex:phol8881}
+  \begin{xlist}
+    \ex{\label{ex:phol8881a} \textit{freches} \textipa{[fKE.\c{c}@s]} statt \Ast\textipa{[fKE\c{c}.@s]}}
+    \ex{\label{ex:phol8881c} \textit{komplett} \textipa{[kOm.plEt]} statt \Ast\textipa{[kOmp.lEt]}, \Ast\textipa{[kOmpl.Et]} oder \Ast\textipa{[kO.mplEt]}}
+    \ex{\label{ex:phol8881d} \textit{unter} \textipa{[PUn.t5]} statt \Ast\textipa{[PU.nt5]}}
+  \end{xlist}
+\end{exe}
+
+Weiterhin lässt sich relativ gut zusammenfassen, welche Folgen von gleich sonoren Lauten in Onset un Coda auftreten können.%
+\footnote{Streng genommen gibt es gar keine Plateaus, weil kein Segment genau die gleiche Sonorität wie ein anderes hat.
+Stimmhafte Frikative sind \zB sonorer als stimmlose, und \textipa{[k]} ist sonorer als \textipa{[t]}.
+Die Darstellung hier ist allerdings vereinfacht und berücksichtigt diese feineren Unterschiede nicht.}
+
+\Satz{Plateaubildung}{
+\label{satz:plateau}
+Im Onset darf außer \textipa{[Sv]} kein Sonoritäts-Plateau gebildet werden.
+In der Coda darf ma\-xi\-mal ein Plateau aus zwei Segmenten vorkommen.
+Entweder ist es ein Plateau aus zwei Plosiven, bei dem das zweite Segment immer ein \textipa{[t]} sein muss.
+Oder es ist ein Plateau aus zwei Frikativen, bei dem das zweite Segment immer ein \textipa{[s]} sein muss.
+\index{Plateau}
+}
+
+Diese Regularität der Plateaubildung ist dafür verantwortlich, dass es Silben wie \textit{Abt} \textipa{[Papt]}, \textit{schockt} \textipa{[SOkt]}, \textit{strolchst} \textipa{[StrOl\c{c}st]} und \textit{Buchs} \textipa{[bu:Xs]} gibt, aber eben nicht *\textipa{[Patp]}, *\textipa{[tkant@]} oder *\textipa{[nOXf]} usw.
+
+Es gibt zahlreiche andere Bedingungen für Onset und Coda im Deutschen, die zur Folge haben, dass \zB \textit{Platz} \textipa{[pla\t{ts}]} aber nicht *\textipa{[tla\t{ts}]} möglich sind, usw.
+Aus Platzgründen führen wir sie hier nicht auf, verweisen aber auf einen einfachen Test, mit dem Erstsprecher des Deutschen in sehr vielen Fällen entscheiden können, wie ein mehrsilbiges Wort silbifiziert werden sollte.
+Wenn nämlich eine Silbe ein einsilbiges Wort (Einsilbler) sein könnte, ist sie auch in einem mehrsilbigen Wort immer eine mögliche Silbe.
+Umgekehrt gilt dies nicht, wie sich gleich zeigen wird.
+In (\ref{ex:phol8882}) finden sich Wörter, die mit diesem Test silbifiziert wurden.
+
+\begin{exe}
+  \ex\label{ex:phol8882}
+  \begin{xlist}
+    \ex{\textit{rötlich} \textipa{[K\o:t.lI\c{c}]} statt \Ast\textipa{[K\o:.tlI\c{c}]} (weil \Ast\textipa{[tlI\c{c}]} kein Einsilbler sein könnte)}
+    \ex{\textit{abwärts} \textipa{[ap.v\t{E@}\t{ts}]} statt \Ast\textipa{[a.bv\t{E@}\t{ts}]} (weil \Ast\textipa{[bv\t{E@}\t{ts}]} kein Einsilbler sein könnte)}
+  \end{xlist}
+\end{exe}
+
+Es gibt allerdings durchaus Silben in mehrsilbigen Wörtern, die keine Einsilbler sein können.
+Dies schließt vor allem alle Silben, die Schwa als Nukleus enthalten, ein.
+In (\ref{ex:phol8887}) findet sich ein Beispiel, das zwar im Einsilbler-Test scheitert, dafür aber der Onset-Maximierung und der Sonoritätskontur genügt.
+
+\begin{exe}
+  \ex{\label{ex:phol8887} \textit{heißer} \textipa{[h\t{aE}.s5]} (obwohl \Ast\textipa{[s5]} kein Einsilbler sein könnte)}
+\end{exe}
+
+Beim Einsilbler-Test wird oft der Fehler gemacht, nicht in möglichen Einsilblern, sondern in tatsächlichen Einsilblern zu denken.
+In \textit{rötlich} ist \textit{röt} eine Silbe, die durchaus ein einsilbiges Wort konstituieren könnte, obwohl es kein solches Wort gibt.
+Die Intuition von Erstsprechern ist aber in der Regel zuverlässig beim Erkennen von möglichen Wörtern ihrer Sprache.
+
+Damit ist der Silbifizierungsprozess in Ansätzen beschrieben, ohne dass eine vollständige Anleitung zur Silbifizierung gegeben werden konnte.
+Dies liegt an der Komplexität des Phänomens, der wir in dem hier gesetzten Rahmen nicht gerecht werden können, nicht etwa an dem Stand der phonologischen Theoriebildung.
+In Abschnitt~\ref{sec:silbenschreib} geht es im Rahmen der Graphematik allerdings nochmals um mögliche und unmögliche Silbenstrukturen.
+Im nächsten Abschnitt geht es um einige segmentale Prozesse, die überwiegend die Silbifizierung voraussetzen.
+
+\BVertiefung{Affrikaten}{\label{vert:affrikaten}
+Die Affrikaten sind hier aus Platzgründen weitgehend aus der Diskussion ausgespart worden.
+Eine wichtige Frage ist allerdings, ob in der Phonologie Affrikaten wie \textipa{[\t{ts}]} als ein Segment behandelt werden sollen, oder als eine Folge aus zwei Segmenten (hier \textipa{[t]} und \textipa{[s]}).
+Der Weg zur Lösung dieser Frage führt über die Verteilung der Affrikaten.
+Wenn Fremdwörter (bzw.\ Wörter jenseits des Kernwortschatzes, vgl.\ Abschnitt~\ref{sec:nichtkernschreib}) einmal ausgeklammert werden (\zB \textit{Chips} oder \textit{tschechisch}), ergibt sich ein interessantes Bild für die drei primären Kandidaten für Affrikaten.
+Vgl.\ dazu die Beispiele in (\ref{ex:phol81209}).
+
+\begin{exe}
+  \ex\label{ex:phol81209} 
+  \begin{xlist}
+    \ex{\label{ex:phol81209a} Zange, Platz}
+    \ex{\label{ex:phol81209b} Pfund, Napf}
+    \ex{\label{ex:phol81209c} --, Matsch}
+  \end{xlist}
+\end{exe}
+
+Während /\textipa{\t{ts}}/ und /\textipa{\t{pf}}/ im Onset und in der Coda von Silben vorkommen können, kann /\textipa{\t{tS}}/ nur im Auslaut vorkommen.
+Weil sich /\textipa{\t{ts}}/ und /\textipa{\t{pf}}/ also verteilen wie andere stimmlose Obstruenten, kann man sie parallel zu diesen als ein Segment behandeln, aber /\textipa{\t{tS}}/ eher nicht.
+
+Bei /\textipa{\t{pf}}/ kommt hinzu, dass das /\textipa{f}/ als einzelnes Segment in dieser Position eine weitere Verletzung des Sonoritätskontur mit sich brächte.
+Durch die Auffassung, dass /\textipa{\t{pf}}/ zusammen ein Segment darstellt, verhindert man dies.
+}
+
+\subsection{Segmentale Prozesse}
+
+\label{sec:segmentaleprozesse}
+
+\subsubsection{Auslautverhärtung}
+
+\label{sec:prozauslautverh}
+
+Die Auslautverhärtung lässt sich mit den jetzt entwickelten Beschreibungswerkzeugen sehr einfach und kompakt formulieren.
+Neben einer quasi-formalen Notation wird eine Übersetzung in natürliche Sprache angegeben.
+Vor $\Rightarrow$ steht jeweils das Material, auf das der Prozess angewendet wird, rechts das Material, das der Prozess ausgibt.
+Man spricht auch vom Input (linke Seite) und Output (rechte Seite) des Prozesses.
+
+\PholProz{Auslautverhärtung (AV)}{\label{pp:auslautverhaertung}\index{Auslautverhärtung}
+ [\textsc{Son}: $-$] \PhPr{AV} [\textsc{Stimme}: $-$] in Coda}
+
+Es wird also gesagt, dass zugrundeliegende Segmente, die [\textsc{Son}: $-$] sind, als [\textsc{Stimme}: $-$] realisiert werden, wenn sie am Silbenende stehen.
+Es ist dabei völlig gleichgültig, ob das Segment vorher stimmhaft war oder nicht, und deswegen muss links von $\Rightarrow$ auch nichts über das Merkmal \textsc{Stimme} ausgesagt werden.
+
+Wenn wir diesen Prozess auf zugrundeliegende Formen anwenden, muss also zunächst der Silbifizierungsprozess (hier abgekürzt mit SI) durchgeführt werden, dann kann der Prozess der Auslautverhärtung entsprechende stimmhafte Nicht-Sonoranten stimmlos machen.%
+\footnote{Die Silbengrenzen werden in diesem Abschnitt zur besonderen Verdeutlichung in den Phonetik-Klammern auch vor und nach dem Wort durch einen Punkt markiert.}
+
+\begin{exe}
+  \ex\label{ex:phol6726}
+  \begin{xlist}
+    \ex{\label{ex:phol6726a} /\textipa{ba:d}/ \PhPr{SI} \textipa{[.b:ad.]} \PhPr{AV} \textipa{[.ba:t.]}}
+    \ex{\label{ex:phol6726b} /\textipa{ba:d@s}/ \PhPr{SI} \textipa{[.b:a.d@s.]}}
+    \ex{\label{ex:phol6726c} /\textipa{ba:t}/ \PhPr{SI} \textipa{[.b:at.]} \PhPr{AV} \textipa{[.ba:t.]}}
+  \end{xlist}
+\end{exe}
+
+Abhängig von der zugrundeliegenden Form und der Silbifizierung hat die Auslautverhärtung eine Wirkung oder nicht.
+In (\ref{ex:phol6726a}) gerät /\textipa{d}/ durch die Silbifizierung in den Silbenauslaut (Coda), und weil /\textipa{d}/ den Wert [\textsc{Son}: $-$] hat, greift die Auslautverhärtung und ändert das Merkmal [\textsc{Stimme}: $+$] zu [\textsc{Stimme}: $-$] (hier hilft ggf.\ ein Blick zurück in Abschnitt~\ref{sec:pholfeat}, vor allem Abbildung~\ref{fig:artart} und Tabelle~\ref{tab:pholkonsmerk}).
+In (\ref{ex:phol6726b}) wird anders silbifiziert (Onset-Maximierung, vgl.\ Abschnitt~\ref{sec:silbifizierung}), und daher ist die Bedingung für die Auslautverhärtung (der Nicht-Sonorant soll am Silbenende stehen) nicht erfüllt, und sie findet nicht statt.
+In (\ref{ex:phol6726c}) steht zwar ein Nicht-Sonorant /\textipa{t}/ am Silbenende, aber die Auslautverhärtung hat keine Wirkung, weil /\textipa{t}/ von vornherein [\textsc{Stimme}: $-$] ist.
+
+\subsubsection{Verteilung von [ç] und [χ]}
+
+\label{sec:prozichach}
+
+Die sogenannten \textit{ich}- und \textit{ach}-Segmente sind komplementär verteilt.
+Es gibt kein Wort, in dem sie einen lexikalischen Unterschied markieren können.
+Schauen wir uns zunächst einige Beispiele für Wörter an, in denen \textipa{[\c{c}]} (\ref{ex:phol6110a}) und \textipa{[X]} (\ref{ex:phol6110b}) vorkommen.
+
+\begin{exe}
+  \ex\label{ex:phol6110}
+  \begin{xlist}
+    \ex{\label{ex:phol6110a} rieche, Bücher, schlich, Gerüche, Wehwehchen, röche, schlecht, Löcher}
+    \ex{\label{ex:phol6110b} Tuch, Geruch, hoch, Loch, Schmach, Bach.}
+  \end{xlist}
+\end{exe}
+
+Ausschlaggebend für das Vorkommen von \textipa{[\c{c}]} und \textipa{[X]} ist der unmittelbar vorangehende Kontext.
+Nach /\textipa{i:}/, /\textipa{y:}/, /\textipa{I}/, /\textipa{Y}/, /\textipa{e:}/, /\textipa{\o}/, /\textipa{E:}/, /\textipa{E}/, /\textipa{\oe}/ kommt \textipa{[\c{c}]} vor, nach /\textipa{u:}/, /\textipa{U}/, /\textipa{o:}/, /\textipa{O}/, /\textipa{a:}/ und /\textipa{a}/ hingegen \textipa{[X]} (nach Schwa kommt keins der beiden Segmente vor).
+Ein Blick auf das Vokalviereck (Abbildung~\ref{fig:vokaltrapatr}, S.~\pageref{fig:vokaltrapatr}) zeigt sofort, was der relevante Merkmalsunterschied ist.
+Nach Vokalen, die [\textsc{Hinten}: $-$] sind, steht \textipa{[\c{c}]}, nach Vokalen, die [\textsc{Hinten}: $+$] sind, steht hingegen \textipa{[X]}.
+Die relevanten Merkmale der beiden Frikative sind die in (\ref{ex:phol1190}).
+
+\begin{exe}
+  \ex\label{ex:phol1190}
+  \begin{xlist}
+    \ex{\textipa{[\c{c}]} $=$ [\textsc{Kons}: $+$, \textsc{Appr}: $-$, \textsc{Son}: $-$, \textsc{Kont}: $+$, \textsc{Ort}: \textit{dor}, \textsc{Hinten}: $-$]}
+    \ex{\textipa{[X]} $=$ [\textsc{Kons}: $+$, \textsc{Appr}: $-$, \textsc{Son}: $-$, \textsc{Kont}: $+$, \textsc{Ort}: \textit{dor}, \textsc{Hinten}: $+$]}
+  \end{xlist}
+\end{exe}
+
+Hier wird ein Vorteil der zunächst vielleicht etwas umständlich wirkenden phonologischen Merkmale deutlich.
+Dank des sowohl vokalischen als auch konsonantischen Merkmals \textsc{Hinten} kann die Frage der Realisierung von \textipa{[\c{c}]} und \textipa{[X]} als Prozess beschrieben werden, der den Wert des Merkmals \textsc{Hinten} beim Frikativ an den entsprechenden Wert des vorangehenden Vokals angleicht bzw.\ assimiliert.
+Assimilation heißt hier nichts anderes, als dass der Wert eines Merkmals mit dem eines anderen gleichgesetzt wird, was durch eine Variable (hier \textit{x}) angezeigt werden kann.
+Alle Merkmale, über die auf der rechten Seite keine Angaben gemacht werden, bleiben wie sie sind.
+
+\PholProz{\textsc{Hinten}-Assimilation (HA)}{\index{hinten!Assimilation}
+[\textsc{Son}: $-$, \textsc{Kont}: $+$, \textsc{Ort}: \textit{dor}] \PhPr{HA} [\textsc{Hinten}: \textit{x}]\\
+nach [\textsc{Kons}:$-$, \textsc{Hinten}: \textit{x}]
+}
+
+Es muss jetzt nur noch entschieden werden, ob in der zugrundeliegenden Form für \textipa{[\c{c}]} und \textipa{[X]} gar kein Wert für \textsc{Hinten} gespeichert ist, oder ob vielleicht einer der beiden möglichen Werte ($+$ oder $-$) zugrundeliegt und in einem der beiden Fälle geändert wird.
+Aufschlussreich ist hier die Betrachtung von Wörtern wie \textit{Milch} /\textipa{mIl\c{c}}/, \textit{Storch} /\textipa{StOK\c{c}}/ oder \textit{Röckchen} /\textipa{K\oe k\c{c}@n}/, in denen \textipa{[\c{c}]} (aber niemals \textipa{[X]}) nach einem Konsonanten vorkommt.
+Es ist also besser, anzunehmen, dass /\textipa{\c{c}}/ zugrundeliegt und \textipa{[X]} das phonetische Resultat einer Assimilation ist.
+Aus diesem Grund wurde in Abschnitt~\ref{sec:konsonantenmerkmale} das Segment \textipa{[X]} auch nicht in /~/ gesetzt.
+Es ist kein zugrundeliegendes Segment.
+Damit ergeben sich die Anwendungen des Prozesses wie in (\ref{ex:phol8011}).
+
+\begin{exe}
+  \ex\label{ex:phol8011}
+  \begin{xlist}
+    \ex{/\textipa{I\c{c}}/ \PhPr{HA} \textipa{[PI\c{c}]}}
+    \ex{/\textipa{a\c{c}}/ \PhPr{HA} \textipa{[PaX]}}
+  \end{xlist}
+\end{exe}
+
+\subsubsection{Frikativierung von /g/}
+
+
+\label{sec:prozgfrik}
+
+Im Standard wird /\textipa{Ig}/ als \textipa{[I\c{c}.]} realisiert.
+Das /\textipa{g}/ wird also zum Frikativ, und kein anderer Vokal außer /\textipa{I}/ hat diese Wirkung auf das /\textipa{g}/.
+Der Prozess wird als /\textipa{g}/-Frikativierung oder /\textipa{g}/-Spirantisierung bezeichnet.
+In (\ref{ex:phol8482}) sind die einzigen Merkmale von /\textipa{g}/ und /\textipa{\c{c}}/ gegenübergestellt, die sich in ihren Werten unterscheiden.
+
+\begin{exe}
+  \ex\label{ex:phol8482}
+  \begin{xlist}
+    \ex{/\textipa{g}/ $=$ [\textsc{Kont}: $-$, \textsc{Stimme}: $+$]}
+    \ex{/\textipa{\c{c}}/ $=$ [\textsc{Kont}: $+$, \textsc{Stimme}: $-$]}
+  \end{xlist}
+\end{exe}
+
+Die Änderung dieser Werte ist offensichtlich nicht gut als Assimilation an die Merkmale von /\textipa{I}/ zu beschreiben.
+Der Prozess hat vielmehr etwas Willkürliches an sich.
+Daher können wir ihn auch unter Bezugnahme auf ganze Segmente formulieren und müssen diese nicht unbedingt in Merkmale aufschlüsseln.%
+\footnote{Man kann den Verlust der Stimmhaftigkeit auch der Auslautverhärtung überlassen.
+Dies hat aber weitere Implikationen bezüglich der Reihenfolge, in der die Prozesse stattfinden müssen, weswegen dies hier nicht besprochen wird.}
+
+\PholProz{/g/-Frikativierung (GF)}{\textipa{Ig} \PhPr{GF} \textipa{I\c{c}} in Coda}
+
+Die Formulierung des Prozesses enthält eine wichtige Einschränkung, nämlich dass der Prozess nur am Silbenende stattfindet.
+In (\ref{ex:phol9990}) sind einige Beispiele angegeben, in denen diese Einschränkung zusammen mit dem Silbifizierungsprozess interessante Resultate erzeugt.
+
+\begin{exe}
+  \ex\label{ex:phol9990}
+  \begin{xlist}
+    \ex{/\textipa{ve:nIg}/ \PhPr{SI} \textipa{[.ve:.nIg.]} \PhPr{GF} \textipa{[.ve:.nI\c{c}.]}}
+    \ex{/\textipa{ve:nIg@}/ \PhPr{SI} \textipa{[.ve:.nI.g@.]} \PhPr{GF} \textipa{[.ve:.nI.g@.]}}
+  \end{xlist}
+\end{exe}
+
+Wie schon bei der Auslautverhärtung (Abschnitt~\ref{sec:prozauslautverh}) kann die Silbifizierung die Anwendbarkeit anderer Prozesse beeinflussen.
+Weil im Wort \textit{wenige} das /\textipa{g}/ in den Onset der letzten Silbe gerät (und nicht in die Coda wie bei \textit{wenig}), kann die \textit{g}-Frikativierung nicht eintreten, denn sie ist beschränkt auf die Codaposition.
+
+\subsubsection{/ʁ/-Vokalisierungen}
+
+\label{sec:prozrvok}
+
+Mit der Diskussion der /\textipa{K}/-Vo\-ka\-li\-sie\-rung (RV) schließt jetzt der Abschnitt über die phonologischen Prozesse.
+In Abschnitt~\ref{sec:realisr} wurden verschiedene phonetische Korrelate von geschriebenem \textit{r} besprochen.
+Die Schrift ist hier eigentlich besonders systematisch, denn orthographisches \textit{r} entspricht immer einem zugrundeliegenden /\textipa{K}/ (vgl.\ auch Abschnitt~\ref{sec:buchstabensegmente}).
+In (\ref{ex:phol9906}) sind einige Beispiele zusammengestellt, die dies illustrieren.
+
+\begin{exe}
+  \ex\label{ex:phol9906}
+  \begin{xlist}
+    \ex{geringer \textipa{[.g@.KIN.5.]}, geringere \textipa{[.g@.KIN.@.K@.]}}
+    \ex{Bär \textipa{[.b\t{E5}.]}, Bären \textipa{[.bE:.K@n.]}}
+    \ex{knarr \textipa{[.kn\t{a@}.]}, knarre \textipa{[.kna.K@.]}}
+  \end{xlist}
+\end{exe}
+
+Wenn ein zugrundeliegendes /\textipa{K}/ im Onset steht, wird es als konsonantisches \textipa{[K]} realisiert.
+Demgegenüber müssen für /\textipa{K}/ in Codas drei Fälle unterschieden werden.
+Erstens gibt es eine dem Schwa ähnliche Realisierung von /\textipa{@K}/, nämlich \textipa{[5]}.
+Dieses steht niemals in einer akzentuierten Silbe, da Schwa niemals in solchen Silben vorkommt.
+Bei allen anderen Vokalen muss zwischen langen und kurzen Vokalen unterschieden werden.
+Ein langer Vokal vor /\textipa{K}/ verliert an Länge, und das /\textipa{K}/ wird als \textipa{[5]} realisiert.
+Nach kurzem Vokal wird /\textipa{K}/ schließlich als \textipa{[@]} realisiert.
+Wegen der komplizierten Verhältnisse versuchen wir im Fall der /\textipa{K}/-Vokalisierung nicht, den Prozess vollständig mit Merkmalen zu beschreiben und geben einfach die drei möglichen Varianten an.
+
+\PholProz{/ʁ/-Vokalisierung}{\index{r-Vokalisierung}
+\begin{tabular}{ccc}
+  \textipa{@K} & \PhPr{RV} & \textipa{5} am Silbenende\\
+  {}\textipa{K} & \PhPr{RV} & \textipa{5} nach [\textsc{Lang}: $+$] am Silbenende\\
+  {}\textipa{K} & \PhPr{RV} & \textipa{@} nach [\textsc{Lang}: $-$] am Silbenende
+\end{tabular}
+}
+
+Interessant ist, dass in allen diesen Fällen die Coda der Silbe letztendlich nicht besetzt wird, sondern im Nukleus ein sekundärer Diphthong entsteht.
+Der Begriff des sekundären Diphthongs wurde in Abschnitt~\ref{sec:realisr} bereits benutzt, jetzt können wir genauer angeben, was darunter zu verstehen ist.
+Es handelt sich um Diphthonge, die auf die Vokalisierung eines zugrundeliegenden Konsonanten zurückgehen.
+
+\section[Phone und Phoneme]{\Opsional Phone und Phoneme}
+
+\label{sec:phonphonem}
+
+In diesem Abschnitt soll kurz auf einige oft erwähnte phonologische Begriffe -- vor allem auf den des Phonems -- eingegangen werden.
+Dabei soll gezeigt werden, warum eine einfache Phonemtheorie bestimmte Probleme mit sich bringt, zumal wenn sie ohne phonologische Merkmale formuliert wird.
+
+Zugrundeliegende Formen und phonologische Prozesse gibt es in der Phonemtheorie zunächst nicht.
+Segmente werden lediglich danach klassifiziert, ob sie distinktiv sind oder nicht.
+Als Basisbegriff wird das Phon als phonetisch realisiertes Segment definiert, also als das, was wir in [~] schreiben.
+In \textipa{[ta:k]} sind drei Phone zu beobachten, nämlich \textipa{[t]}, \textipa{[a:]} und \textipa{[k]}.
+
+\Definition{Phon}{
+\label{def:phon}
+Das Phon ist eine segmentale phonetische Realisierung.
+\index{Phon}
+}
+
+Der Begriff des Phonems baut dann auf dem des Phons auf, denn die Phoneme sind Abstraktionen von Phonen.
+Wenn nämlich mehrere Phone distinktiv sind, gehören sie zu verschiedenen Phonemen, sonst sind sie lediglich Realisierungen eines einzigen abstrakten Phonems.
+Als Beispiel kann man wieder \textipa{[\c{c}]} und \textipa{[X]} heranziehen (vgl.\ Abschnitt~\ref{sec:prozichach}).
+Diese beiden Phone können keine Bedeutungen unterscheiden (es gibt keine Minimalpaare, vgl.\ Abschnitt~\ref{sec:verteilungen}) und können daher als Realisierungen eines abstrakten Phonems /\textipa{x}/ angesehen werden.
+Man würde sagen, \textipa{[\c{c}]} und \textipa{[X]} sind Allophone eines Phonems /x/.
+Wie man das Phonem nennt, ist dabei egal.
+Man könnte es auch /P\Tidx{42}/ oder /\#/ nennen, solange nicht schon ein anderes Phonem so benannt wurde.
+
+\Definition{Phonem}{
+\label{def:phonem}
+Ein Phonem ist eine Abstraktion von (potentiell) mehreren Phonen, die nicht distinktiv sind.
+Die verschiedenen möglichen Phone zu einem Phonem werden Allophone genannt.
+\index{Phonem}
+}
+
+Als Beispiel wird (\ref{ex:phol2209}) gegeben.
+
+\begin{exe}
+  \ex\label{ex:phol2209}
+  \begin{xlist}
+    \ex{\label{ex:phol2209a} \textit{ich}: Phone: \textipa{[I\c{c}]}, Phoneme: /\textipa{Ix}/}
+    \ex{\label{ex:phol2209b} \textit{ach}: Phone: \textipa{[aX]}, Phoneme: /\textipa{ax}/}
+  \end{xlist}
+\end{exe}
+
+An dieser Theorie ist im Prinzip nichts Falsches, sie ist lediglich explanatorisch schwächer als die bisher vorgestellte Theorie.
+Die Phoneme sind zunächst nur abstrakte Größen, die nicht als Mengen von Merkmalen, sondern über die Distinktivität definiert werden.
+Selbst wenn man Merkmalsanalysen hinzufügt, fehlt das Konzept des phonologischen Prozesses.
+Phonologische Alternationen können also nicht effektiv als Prozess (Änderung von Werten phonologischer Merkmale) beschrieben werden.
+
+Man kann dies an der Auslautverhärtung gut demonstrieren.
+In der hier benutzten Darstellung lässt sich die Auslautverhärtung kompakt als Prozess der Änderung eines Merkmals unter einer bestimmten Bedingung formulieren (vgl.\ Abschnitt~\ref{sec:prozauslautverh}).
+In einer reinen Phonemtheorie müsste man sagen, dass das Phonem /\textipa{b}/ je nach Umgebung zwei Allophone hat, nämlich Allophon \textipa{[p]} im Silbenauslaut und Allophon \textipa{[b]} in allen anderen Positionen.
+Dasselbe müsste man für /\textipa{d}/ und /\textipa{g}/ (und ihre Allophone) wiederholen, wobei die eigentliche Regularität, die wir in einem einfachen Prozess dargestellt haben, nicht erfasst wird.
+
+Als abschließendes Beispiel soll gezeigt werden, dass sich die fehlende Merk\-mals\-ana\-lyse noch auf ganz andere Weise bemerkbar macht.
+Die Phone \textipa{[h]} und \textipa{[N]} sind im Deutschen zueinander nicht distinktiv (vgl.\ Abschnitt~\ref{sec:verteilungen}, vor allem (\ref{ex:phol6439}) auf S.~\pageref{ex:phol6439}).
+Man könnte sie daher ohne weiteres als Allophone eines abstrakten Phonems /\textipa{h}/ auffassen.
+Dieses Phonem hätte zwei Allophone, nämlich \textipa{[h]} im Onset und \textipa{[N]} in Coda.
+Wegen der geringen phonetischen Ähnlichkeit dieser potentiellen Allophone (vgl.\ die Merkmale der Segmente in Tabelle~\ref{tab:pholkonsmerk}) erscheint dies zunächst absurd.
+Darüber hinaus stehen diese Segmente aber strukturell auch in keinerlei Beziehung, es ist sozusagen offensichtlicher Zufall, dass sie komplementär verteilt sind.
+Bei \textipa{[\c{c}]} und \textipa{[X]} ist die komplementäre Verteilung hingegen eindeutig nicht zufällig, wie in Abschnitt~\ref{sec:prozichach} demonstriert wurde.
+Daher fügt man für die Phonembildung als Lösungsversuch gerne die Bedingung hinzu, dass Allophone eines Phonems phonetisch ähnlich sein sollen.
+Wenn es aber keine Merkmalsanalysen gibt, weiß man nicht so recht, was phonetische Ähnlichkeit eigentlich sein soll.
+
+Außerdem kann man zeigen, dass phonetische Ähnlichkeit generell kein gutes Kriterium ist, wenn die strukturelle Analyse eine Allophon-Beziehung zwischen zwei Phonen nahelegt.
+Nach Vokalen müsste man \zB annehmen, dass \textipa{[@]} und \textipa{[5]} als Allophone eines Phonems /\textipa{r}/ vorkommen.
+Ebenso wäre im Onset \textipa{[K]} ein Allophon von /\textipa{r}/ (vgl.\ Abschnitt~\ref{sec:prozrvok}).%
+\footnote{Hier wird absichtlich /\textipa{r}/ als Symbol für das Phonem verwendet, um deutlich zu machen, dass es sich eben nicht um eine zugrundeliegende Form handelt und man daher irgendein Symbol nehmen kann.
+Hier ist es eben dasjenige, das der Schreibung entspricht.}
+Phonetisch ähnlich sind sich \textipa{[@]} und \textipa{[K]} aber in keiner Weise.
+
+Es wurde gezeigt, dass die noch gebräuchliche Rede von Phonemen und Allophonen zwar nicht falsch ist, aber in vielen Punkten gegenüber der hier verwendeten Darstellung Nachteile mit sich bringt.
+Damit endet hier die Diskussion der segmentalen Phonologie und der Phonotaktik, und wir wenden uns im letzten Abschnitt der dritten großen Teildisziplin der Phonologie zu, nämlich der Prosodie.
+
+\section{Prosodie}
+
+\label{sec:prosodie}
+
+\index{Prosodie}
+
+\subsection{Einheiten der Prosodie}
+
+Nach den Silben ist die nächsthöhere Ebene der phonologischen Strukturbildung das phonologische Wort.%
+\footnote{Unter anderem wird die Satzprosodie, also die besonderen Betonungs- und vor allem Tonhöhenverläufe in bestimmten Satzarten, aus Platzgründen nicht besprochen.}
+Der Grund, warum man eine nächsthöhere Einheit nach der Silbe innerhalb der Phonologie annehmen möchte, ist, dass es ganz bestimmte phonologische Prozesse gibt, die sich nicht im Rahmen der Silbe behandeln lassen.
+Das wichtigste Beispiel ist die Akzentzuweisung, also umgangssprachlich die Betonung einer Silbe innerhalb eines Wortes.
+Das phonologische Wort ist die relevante Einheit der Prosodie.
+
+Bisher haben wir noch gar keine Definition des Wortes (\zB eine morphologische Definition) gegeben.
+Aus Sicht der Phonologie gibt es eine einfache Möglichkeit, eine solche Definition aufzustellen. 
+
+\Definition{Phonologisches Wort}{
+\label{def:phonwort}
+Ein phonologisches Wort ist die kleinste phonologische Struktur, die Silben als Konstituenten hat, und bezüglich derer eigene Regularitäten feststellbar sind.
+\index{Wort!phonologisch}
+}
+
+Die Definition klingt vielleicht nicht besonders zufriedenstellend, weil sie sehr formal ist.
+Denken wir aber an die Definition von Grammatik (Definition~\ref{def:grammatik}, S.~\pageref{def:grammatik}) zurück, so ist die Einschränkung \textit{bezüglich derer eigene Regularitäten feststellbar sind} ausgesprochen instruktiv.
+Wenn es nämlich phonologische Regularitäten gibt, die sich nicht mittels Segmenten oder Silben beschreiben lassen, müssen wir eine andere (größere) Einheit annehmen, bezüglich derer wir diese Regularitäten beschreiben können.
+
+Solche Reguläritäten betreffen wie gesagt den Wortakzent.
+In (\ref{ex:phol8735}) sind einige Wörter bezüglich ihres Akzents markiert, das Zeichen \Akz\ steht vor der akzentuierten (betonten) Silbe.
+
+\begin{exe}
+  \ex\label{ex:phol8735}
+  \begin{xlist}
+    \ex{\label{ex:phol8735a} \Akz Spiel, \Akz Spiele, \Akz Spielerin, be\Akz spielen}
+    \ex{\label{ex:phol8735b} \Akz Fußball, \Akz Fußballerin, \Akz Fitness, \Akz Fitnesstrainerin}
+    \ex{\label{ex:phol8735c} \Akz rot, \Akz rötlich, \Akz roter}
+    \ex{\label{ex:phol8735d} \Akz fahren, um\Akz fahren, \Akz umfahren}
+    \ex{\label{ex:phol8735e} wahr\Akz scheinlich, \Akz damals, \Akz übrigens, vie\Akz lleicht}
+    \ex{\label{ex:phol8735f} \Akz wo, wa\Akz rum, wes\Akz halb}
+    \ex{\label{ex:phol8735g} \Akz August, Au\Akz gust}
+    \ex{\label{ex:phol8735h} \Akz fahren, Fahre\Akz rei, \Akz drängeln, Dränge\Akz lei}
+  \end{xlist}
+\end{exe}
+
+Jedes Wort hat eine Silbe, die durch eine besondere Hervorhebung markiert werden kann.
+Phonetisch besteht diese Hervorhebung nicht unbedingt in einer lauteren Aussprache, sondern aus einem Bündel von Eigenschaften, das Lautstärke, Länge, Tonhöhe und Beeinflussung der Qualität der Vokale und der umliegenden Segmente beinhaltet.
+Es gilt, dass jedes simplexe Wort des deutschen Kernwortschatzes genau eine Akzentsilbe hat (\textit{\Akz Ball}, \textit{\Akz Tante}, \textit{\Akz schneite}, \textit{\Akz rot}, \textit{\Akz unter} usw.).
+Komplexe Wörter oder längere Wörter des Nicht-Kernwortschatzes haben genau eine Haupt-Akzentsilbe (\textit{\Akz untergehen}, \textit{\Akz Wirtschaftswunder}, \textit{Tautolo\Akz gie} usw.).
+Zusätzlich findet man Nebenakzente (im Vergleich zu Akzentsilben weniger stark akzentuierte Silben) in den zuletzt erwähnten Wörtern.
+Die Frage ist nun, nach welchen Regularitäten dieser Akzent auf die Wörter verteilt wird (vgl.\ Abschnitt~\ref{sec:deutscherwortakzent}).
+Auf jeden Fall ist der Akzent eine weitere Motivation der Definition des phonologischen Wortes (Definition~\ref{def:phonwort}).
+Die Akzentzuweisung ist eine der Regularitäten, für die man die Einheit des phonologischen Wortes benötigt.
+
+\Definition{Akzent}{
+\label{def:akzent}
+Akzent ist die Prominenzmarkierung, die einer Silbe im phonologischen Wort zugewiesen wird.
+Akzent wird durch verschiedene phonetische Mittel (wie Lautstärke, Tonhöhe usw.) phonetisch realisiert.
+\index{Akzent}
+}
+
+\enlargethispage{1\baselineskip}
+Manche Sprachen sind sehr systematisch bzw.\ starr bezüglich der Akzentposition.
+Im Polnischen liegt der Akzent immer auf der zweitletzten Wortsilbe, s.\ (\ref{ex:phol8254}).
+Im Tschechischen hingegen wird immer die erste Silbe akzentuiert, vgl.\ (\ref{ex:phol8255}).%
+\footnote{Für die slawischen Beispiele danke ich Götz Keydana.}
+
+\begin{exe}
+  \ex{\label{ex:phol8254} \Akz okno (Fenster), nagroma\Akz dzenie (Ansammlung)}
+  \ex{\label{ex:phol8255} \Akz okno (Fenster), \Akz nahromad\v{en\'i} (Ansammlung)}
+\end{exe}
+
+Solche Sprachen haben einen sogenannten metrischen Akzent.
+Einen streng lexikalischen Akzent hat dagegen das Russische.
+Hier ist der Akzent für jedes Wort im Lexikon festgelegt, und man kann allein durch die Position des Akzents ein Minimalpaar erzeugen, wie in (\ref{ex:phol8256}).
+
+\begin{exe}
+  \ex{\label{ex:phol8256} \Akz muka (Qual), mu\Akz ka (Mehl)}
+\end{exe}
+
+Bevor die Frage geklärt wird, wie sich der Akzent im Deutschen verhält, wird in Abschnitt~\ref{sec:akzentsitztest} ein einfacher Test auf den Akzentsitz vorgestellt.
+
+\subsection{Test zur Ermittlung des Wortakzents}
+
+\label{sec:akzentsitztest}
+
+
+\index{Akzent!Wort--}
+
+Es gibt eine einfache Methode, den Akzentsitz in Wörtern zu ermitteln.
+Will ein Sprachbenutzer einzelne Wörter in einem Satz besonders hervorheben (fokussieren), besteht im Deutschen die Möglichkeit, dies mittels einer sehr starken Betonung zu erreichen.
+
+\begin{exe}
+  \ex\label{ex:fokus}
+  \begin{xlist}
+    \ex{Sie hat das \Akz AUTO gewaschen.}
+    \ex{Sie hat das Auto GE\Akz WASCHEN.}
+  \end{xlist}
+\end{exe}
+
+In den Beispielen in (\ref{ex:fokus}) ist jeweils das fokussierte Wort in Großbuchstaben gesetzt.
+Zusätzlich markiert in den Beispielen das Akzentzeichen, auf welcher Silbe der Höhepunkt der Betonung genau liegt.
+Von der Bedeutung her ergibt sich typischerweise durch die Fokussierung eines Wortes ein ähnlicher Effekt, als würde man jeweils die Formel \textit{und nichts anderes} hinzufügen, als würde man also die sogenannten Alternativen zum fokussierten Wort ausdrücklich ausschließen.
+
+\begin{exe}
+  \ex\label{ex:fokus-deutlich}
+  \begin{xlist}
+    \ex{Sie hat das \Akz AUTO (und nichts anderes) gewaschen.}
+    \ex{Sie hat das Auto GE\Akz WASCHEN (und nichts anderes damit gemacht).}
+  \end{xlist}
+\end{exe}
+
+Bei der Fokusbetonung tritt die Akzentsilbe durch eine Anhebung der Tonhöhe besonders deutlich hörbar hervor.
+Damit liegt also ein einfacher Test vor, mit dem man in Zweifelsfällen den Wortakzent lokalisieren kann.
+
+\subsection{Wortakzent im Deutschen}
+
+\label{sec:deutscherwortakzent}
+
+Es ist nun die Frage zu beantworten, welchem Akzenttypus (metrisch oder lexikalisch) das Deutsche folgt.
+Die Frage wird unterschiedlich beantwortet, aber es lassen sich für die Wörter des Kernwortschatzes relativ klare Regularitäten erkennen, die auf einen tendenziell stark metrischen Akzent für das Deutsche hinweisen.
+Leider benötigen wir zur Beschreibung der wichtigsten Regularität einen Begriff, den wir noch nicht eingeführt haben, nämlich den des \label{abs:3453457}Wortstamms (vgl.\ Abschnitt~\ref{sec:stamm}).
+In den Beispielen in (\ref{ex:phol8735a}) bleibt der Akzent in allen Wörtern immer auf der Silbe \textit{spiel}.
+Ob nun der Plural \textit{Spiele} gebildet wird, die Form \textit{Spielerin} oder ob ein morphologisches Element vorangestellt wird wie in \textit{bespielen}, der Akzent bleibt auf dem Kern dieser Wörter, nämlich \textit{spiel}.
+Ganz ähnlich verhält es sich mit \textit{rot} in (\ref{ex:phol8735c}).
+Der hier informell Kern genannte Teil dieser Wörter ist der Wortstamm, und im Deutschen gibt es die starke Tendenz, diesen zu betonen.
+
+\Satz{Stammbetonung}{
+Im Kernwortschatz wird die erste Silbe des Stamms akzentuiert.
+\index{Akzent!Stamm--}
+}
+
+Mit Kernwortschatz sind die Wörter im Lexikon gemeint, die sich nach den allgemeinen Regeln des Sprachsystems verhalten.
+Es gibt auch Wörter (sehr häufig, aber nicht immer Lehnwörter), die spezielleren, in ihrer Gültigkeit stark eingeschränkten Regularitäten folgen (s.\ \textit{August} usw.\ weiter unten).
+
+Wörter wie \textit{Fußball} und \textit{Fitnesstrainerin} aus (\ref{ex:phol8735b}) sind aus zwei Stämmen zusammengesetzt und werden Komposita genannt (vgl.\ Abschnitt~\ref{sec:komp}).
+In ihnen wird immer der erste Bestandteil betont.
+
+\Satz{Betonung in Komposita}{
+In Komposita wird der erste Bestandteil akzentuiert.
+\index{Akzent!in Komposita}
+}
+
+Mit dem Fokussierungstest aus Abschnitt~\ref{sec:akzentsitztest} kann für beliebig lange Komposita festgestellt werden, dass der Akzent immer auf ihrem ersten Bestandteil liegt, vgl.\ (\ref{ex:fokuskomp}).
+
+\begin{exe}
+  \ex\label{ex:fokuskomp}
+  \begin{xlist}
+    \ex{Sie hat das \Akz AUTODACH (und nichts anderes) gewaschen.}
+    \ex{Sie hat am \Akz LANGSTRECKENLAUF (und nichts anderem) teilgenommen.}
+    \ex{Sie hat sich an dem \Akz BUSHALTESTELLENUNTERSTAND (und nichts anderem) verletzt.}
+  \end{xlist}
+\end{exe}
+
+\newpage
+
+Im Falle von \textit{\Akz umfahren} und \textit{um\Akz fahren} aus (\ref{ex:phol8735d}) liegt wieder eine andere Situation vor.
+Das Element \textit{um-} ist einmal betont, einmal nicht.
+Diese Wörter weisen allerdings auch einen Bedeutungsunterschied auf:
+\textit{\Akz umfahren} bedeutet soviel wie \textit{niederfahren}, \textit{um\Akz fahren} bedeutet soviel wie \textit{um etwas herumfahren}.
+Es gibt weitere morphologische und syntaktische Unterschiede zwischen den beiden verschiedenen \textit{um}-Elementen, die in \ref{sec:derivohnewaw} genauer beschrieben werden.
+In \textit{\Akz umfahren} handelt es sich bei \textit{um} um eine sogenannte Verbpartikel, in \textit{um\Akz fahren} um ein Verbpräfix.
+
+\Satz{Präfix- und Partikelbetonung}{
+\label{satz:pholvprtprf}
+Verbpartikeln ziehen den Akzent auf sich, Verbpräfixe nicht.
+\index{Akzent!Präfixe und Partikeln}
+}
+
+Die anderen, meist nachgestellten Ableitungselemente wie \textit{-heit}, \textit{-keit}, \textit{-in} usw.\ belassen den Akzent fast alle auf dem Stamm, verhalten sich diesbezüglich also eher wie Verbpräfixe als wie Verbpartikeln.
+Lediglich \textit{-ei} und \textit{-erei} ziehen den Akzent auf die letzte Silbe, vgl.\ (\ref{ex:phol8735h}).
+
+Neben diesen regelhaften Fällen (metrischer Akzent) gibt es eine gewisse Menge von Wörtern, die nicht regelhaft akzentuiert werden (lexikalischer Akzent).
+Neben Lehnwörtern, die offensichtlich einen lexikalischen Akzent haben (wie \textit{\Akz August} und \textit{Au\Akz gust}) gibt es eine Reihe von Wörtern wie \textit{vie\Akz lleicht}, die sich unregelmäßig zu verhalten scheinen und nicht stamminitial betont werden.
+Dazu gehören auch die Fragewörter \textit{wa\Akz rum}, \textit{wes\Akz halb} usw.
+Es spricht allerdings auch überhaupt nichts dagegen, ein überwiegend metrisches Akzentsystem anzunehmen, innerhalb dessen es gewisse lexikalische Ausnahmen gibt.
+
+Außerdem gibt es manche Wörter, die gar keinen Akzent zu tragen scheinen.
+Bei einsilbigen Wörtern stellt sich die Frage nach dem Akzentsitz normalerweise nicht, weil die einzige Silbe des Worts den Akzent trägt.
+Bestimmte Pronomen, wie das \textit{es} in (\ref{ex:phol9101}) sind aber prinzipiell unbetonbar.
+Wenn man dieses \textit{es} zu fokussieren versucht, wird der Satz ungrammatisch.
+
+\begin{exe}
+  \ex\label{ex:phol9101}
+  \begin{xlist}
+    \ex[]{Es schneit.}
+    \ex[*]{\Akz ES schneit.}
+  \end{xlist}
+\end{exe}
+
+Eine weitere wichtige Einheit wird hier aus Platzgründen nur sehr kurz behandelt, obwohl sie auch in der Morphologie (zumindest des Kernwortschatzes) weitreichendes Erklärungspotential hat, nämlich der Fuß.%
+\footnote{In Teil~\ref{part:schrift} kommen wir nochmal auf Füße zurück.}
+Wenn man phonologische Wörter daraufhin untersucht, wie akzentuierte (inkl.\ Nebenakzente) und nicht-akzentuierte Silben einander folgen, stellt man fest, dass im Deutschen das mit Abstand häufigste Muster eine Folge von betonter und unbetonter Silbe ist (\textit{\Akz um.ge.\Akz fah.ren}, \textit{\Akz Kin.der}, \textit{\Akz Kin.der.\Akz gar.ten} und viele der oben genannten Beispiele).
+Manchmal liegt der umgekehrte Fall vor, also eine Abfolge unbetont vor betont (\textit{vie.\Akz lleicht} usw.).
+Noch seltener kommt es (nur in komplexen Wörtern oder im Nicht-Kernwortschatz) zu Abfolgen von zwei unbetonten vor einer betonten Silbe (\textit{Po.li.\Akz tik}).
+Der umgekehrte Fall von einer betonten vor zwei unbetonten Silben ergibt sich sogar regelhaft in bestimmten Beugungsformen und durch Wortableitungen (\textit{\Akz reg.ne.te}, \textit{\Akz röt.li.che}).
+
+Diese rhythmischen Verhältnisse sind mit Bezug auf Füße -- Abfolgen von betonten und unbetonten Silben -- analysierbar%
+\footnote{Eigentlich bestehen prosodische Wörter dann aus Füßen, nicht aus Silben.}
+Gemäß Tabelle~\ref{tab:dtfuesse}, die einige wichtige Fußtypen zusammenfasst, wäre dann das prototypische Wort des Kernwortschatzes trochäisch.
+Ob die anderen Fußtypen wirklich als phonologische Größen für das Deutsche angenommen werden müssen, ist eine Frage von einigem theoretischen Gehalt, die hier nicht geklärt werden kann.
+
+\begin{table}
+\centering
+\begin{tabular}{lll}
+  \lsptoprule
+  \textbf{Fuß} & \textbf{Muster} & \textbf{Beispiel} \\
+  \midrule
+  Trochäus & \Akz -- & \Akz Mu.tter \\
+  Daktylus & \Akz -- -- & \Akz reg.ne.te \\
+  Jambus & -- \Akz & vie.\Akz lleicht \\
+  Anapäst & -- -- \Akz & Po.li.\Akz tik \\
+  \lspbottomrule
+\end{tabular}
+\caption{Namen verschiedener Fußtypen mit Beispielen}
+\label{tab:dtfuesse}
+\end{table}
+
+\subsection{Einfügung des Glottalverschlusses}
+
+Jetzt kann, nachdem auch der Akzent besprochen wurde, noch die Regularität der \textipa{[P]}-Einfügung, die in Abschnitt~\ref{sec:photlaryngale} sehr kurz angesprochen wurde, genau angegeben werden.
+Es handelt sich um eine Interaktion von segmentaler Phonologie, Silbifizierung und Prosodie.
+Statt mühsam einen phonologischen Prozess zu formulieren, erfassen wir die Regularität in einem Satz.
+
+\Satz{[ʔ]-Einfügung}{
+\label{satz:glottalstoprule}
+Der laryngale Plosiv \textipa{[P]} ist nicht zugrundeliegend und wird im Zuge der Akzentzuweisung und der Silbifizierung in den leeren Onset von Silben eingefügt, die entweder (1) am Wortanfang stehen oder (2) im Wortinneren stehen und betont sind.
+}
+
+Silben, die eigentlich einen leeren Onset haben (also mit Vokal anlauten) werden um dieses Segment unter genau benennbaren phontaktischen und prosodischen Bedingungen ergänzt.
+Die Beispiele in (\ref{ex:phol1249}) in phonetischer Umschrift mit Silbengrenzen und \textipa{[\textprimstress]} für den Akzent zeigen die Wirkung dieser Regularität.
+
+\begin{exe}
+  \ex\label{ex:phol1249}
+  \begin{xlist}
+    \ex{Aue \textipa{[\textprimstress P\t{aO}.@]}}
+    \ex{Chaos \textipa{[\textprimstress ka:.Os]}}
+    \ex{Chaot \textipa{[ka.\textprimstress Po:t]}}
+    \ex{beäugen \textipa{[be.\textprimstress P\t{O\oe}.g@n]}}
+    \ex{vereisen \textipa{[f5.\textprimstress P\t{aE}z@n]}}
+    \ex{unterweisen \textipa{[PUnt5.\textprimstress v\t{aE}z@n]}}
+  \end{xlist}
+\end{exe}
+
+\subsection{Prosodisches und phonologisches Wort}
+
+\label{sec:prosphonwort}
+
+Abschließend soll noch anhand eines Phänomens darauf hingewiesen werden, warum oft zwischen phonologischem Wort und prosodischem Wort unterschieden wird.
+Zur Illustration dienen die Beispiele in (\ref{ex:phol8945}) inkl.\ IPA, wobei Betonung (Hauptakzent) und Silbengrenzen markiert wurden.
+
+\begin{exe}
+  \ex\label{ex:phol8945}
+  \begin{xlist}
+    \ex{Leser \textipa{[\textprimstress le:.z5]}}
+    \ex{Leserin \textipa{[\textprimstress le:.z@.KIn]}}
+    \ex{Leseranfrage \textipa{[\textprimstress le:.z5.Pan.fKa:.g@]}}
+    \ex{(wenn) Leser anfragen \textipa{[\textprimstress le:.z5 \textprimstress Pan.fKa:.g@n]}}
+  \end{xlist}
+\end{exe}
+
+Im Fall von \textit{Le.ser} und \textit{Le.se.rin} wird offensichtlich gemäß den Regularitäten, die in Abschnitt~\ref{sec:silbifizierung} beschrieben wurden, silbifiziert.
+Wegen der Bedingung Onset-Maximierung gerät dabei das /\textipa{K}/ von \textit{Leserin} in den Onset der letzten Silbe und wird folgerichtig nicht vokalisiert, so wie es bei \textit{Leser} passiert.
+Bei \textit{Leseranfrage} ist es anders, denn obwohl dem /\textipa{K}/ ein Vokal folgt, wird /\textipa{K}/ nicht in den Anlaut eingeordnet, sondern bleibt in der Silbe \textipa{[z5]} und wird vokalisiert.
+Es heißt also nicht *\textipa{[le:.z@.Kan.fKa:.g@]}.
+
+Einerseits gilt also innerhalb eines Wortes wie \textit{Leserin} die Onset-Maximierung, andererseits aber scheint sie in einem Wort wie \textit{Leseranfrage} nicht vollständig zu gelten.
+Es muss sich also bei Komposita wir \textit{Leseranfrage} um zwei phonologische Wörter handeln, denn die Silbifizierung verläuft genauso wie in (\textit{wenn}) \textit{Leser anfragen}, wobei es sich eindeutig um zwei verschiedene Wörter handelt.
+Trotzdem verhalten sich \textit{Leseranfragen} und (\textit{wenn}) \textit{Leser anfragen} phonologisch nicht genau gleich.
+Im Kompositum \textit{Leseranfragen} gibt es nur einen Hauptakzent (auf der ersten Silbe), während in \textit{Leser anfragen} jedes Wort einen Hauptakzent erhält.
+Prosodisch verhält sich ein Kompositum also wie ein Wort und hat einen Hauptakzent, phonotaktisch-segmental verhält es sich allerdings wie zwei Wörter, denn an der Grenze zwischen den Gliedern des Kompositums findet keine normale wortinterne Silbifizierung statt.
+Daher benötigt man eigentlich zwei Wort-Ebenen in der Phonologie, das phonologische Wort und das prosodische Wort.
+
+\Definition{Phonologisches und prosodisches Wort}{
+\label{def:phonoprosowort}
+Das phonologische Wort ist die aus Füßen (in vereinfachter Darstellung aus Silben) bestehende Einheit, innerhalb derer die Regularitäten der segmentalen Phonologie und der Phonotaktik wirken.
+Das prosodische Wort ist die aus phonologischen Wörtern bestehende Einheit, innerhalb derer prosodische Regularitäten (Akzentzuweisung) wirken.
+\index{Wort!phonologisch}
+\index{Wort!prosodisch}
+}
+
+Es gibt natürlich viele Fälle, in denen das phonologische Wort gleich dem prosodischen Wort ist, aber gerade bei Komposita (und \zB Fügungen aus Verbpartikel und Verb) muss man davon ausgehen, dass das phonologische Wort kleiner ist als das prosodische.
+
+\Zusammenfassung
+
+\begin{enumerate}
+  \item Die Phonologie beschäftigt sich mit den phonetischen Unterschieden, die eine systematische grammatische Funktion haben.
+  \item Nicht jedes Segment (=~jeder Laut) kommt in den gleichen Umgebungen vor, und man kann Segmente danach einteilen, ob sie in vollständig identischen, teilweise identischen oder gänzlich verschiedenen Umgebungen vorkommen.
+  \item Solche Verteilungen kann man auch für Merkmale (statt ganzer Segmente) ermitteln, \zB kommen stimmhafte Obstruenten im Deutschen nicht im Silbenauslaut vor.
+  \item Das phonologische Merk\-mals\-in\-ventar einer Sprache ist die kleinstmögliche Menge von Merkmalen, die man benötigt, um alle phonologisch verschiedenen Wörter einer Sprache durch mindestens einen Merk\-mals\-unter\-schied von allen anderen Wörtern zu unterscheiden.
+  \item In der Phonologie ist es üblich (aber nicht zwingend erforderlich), den Artikulationsort nach dem aktiven Artikulator zu klassifizieren, nicht nach dem passiven.
+  \item Silbenstrukturen sind nicht im Lexikon festgelegt, sondern werden den Wörtern durch einen Prozess zugewiesen (vgl.\ \textit{Strauch} und \textit{Sträu.che}).
+  \item Alle Silben folgen der Sonoritätshierarchie sowie weiteren sprachspezifischen Bedingungen (\zB Beschränkung der Plateaubildungen).
+  \item Phonologische Prozesse (wie die Auslautverhärtung oder die Frikativierung von /\textipa{Ig}/ zu \textipa{[i\c{c}]}) verändern die im Lexikon abgelegten Segmentfolgen je nachdem, in welcher Umgebung sie realisiert werden.
+  \item Der Wortakzent ist die Hervorhebung einer Silbe im Wort durch Lautstärke, Länge usw.
+  \item Das Deutsche ist dominant trochäisch mit der Betonung auf der ersten Silbe des Wortstamms.
+\end{enumerate}
+
+\Uebungen
+
+\Uebung \label{u41} Finden Sie deutsche Minimalpaare für die folgenden Segment- oder Merkmals-Kontraste.
+Die ersten beiden sind beispielhaft gelöst.
+Bei den Merkmals-Kontrasten geht es ebenfalls darum, Wörter zu finden, die bis auf ein Segment identisch sind.
+Dieses Segment soll sich in den beiden Wörtern genau in den angegebenen Merkmalen unterscheiden.
+Achten Sie also darauf, dass bei den betreffenden Segmenten alle anderen außer den in der Aufgabe genannten Merkmalen identisch sind.
+
+\begin{enumerate}\Lf
+  \item{/\textipa{t}/, /\textipa{d}/ : \textit{Tank}, \textit{Dank}}
+  \item{[\textsc{Ort}: \textit{kor}], [\textsc{Ort}: \textit{dor}] : \textit{Kante}, \textit{Tante}}
+  \item{/\textipa{n}/, /\textipa{s}/}
+  \item{/\textipa{v}/, /\textipa{m}/}
+  \item{/\textipa{X}/, /\textipa{N}/}
+  \item{/\textipa{K}/, /\textipa{h}/}
+  \item{/\textipa{s}/, /\textipa{k}/}
+  \item{/\textipa{\t{pf}}/, /\textipa{s}/}
+  \item{/\textipa{\t{aE}}/, /\textipa{\t{aO}}/}
+  \item{/\textipa{i:}/, /\textipa{I}/}
+  \item{[\textsc{Ort}: \textit{dorsal}, \textsc{Hinten}:$-$], [\textsc{Ort}: \textit{dorsal}, \textsc{Hinten}:$+$]}
+  \item{[\textsc{Kont}:$+$], [\textsc{Kont}:$-$]}
+  \item{[\textsc{Kont}:$+$, \textsc{Stimme}:$-$], [\textsc{Kont}:$+$, \textsc{Stimme}:$+$]}
+  \item{[\textsc{Ort}: \textit{lab}], [\textsc{Ort}: \textit{dor}]}
+  \item{[\textsc{Lang}:$+$], [\textsc{Lang}:$-$]}
+  \item{[\textsc{Hinten}:$+$], [\textsc{Hinten}:$-$]}
+\end{enumerate}
+
+\Uebung \label{u42} Zeichnen Sie die Paare von nicht umgelauteten Vokalen und umgelauteten Vokalen in ein Vokalviereck und beschreiben Sie das Phänomen Umlaut dann mittels phonologischer Merkmale.
+Die Vokalpaare mit und ohne Umlaut finden Sie in \textit{Fuß} -- \textit{Füße}, \textit{Genuss} -- \textit{Genüsse}, \textit{rot} -- \textit{röter}, \textit{Koffer} -- \textit{Köfferchen}, \textit{Schlag} -- \textit{Schläge}, \textit{Bach} -- \textit{Bäche}.
+Zusatzaufgabe: Versuchen Sie, den Umlaut /\textipa{\t{aO}}/ -- /\textipa{\t{O\oe}}/ in die Beschreibung zu integrieren.
+
+\Uebung[\tristar] \label{u43} Diese Übung bezieht sich auf Abschnitt~\ref{sec:prozichach}.
+
+\begin{enumerate}\Lf
+  \item Überlegen Sie, wie sich im Fall von Lehnwörtern wie \textit{Chemie} oder \textit{Chuzpe} die teilweise üblichen Realisierungen wie \textipa{[\c{c}emi:]} und \textipa{[XU\t{ts}p@]} in das phonologische System des Deutschen integrieren.
+  \item Wie beurteilen Sie unter dem Gesichtspunkt des phonologischen Systems des Deutschen die Strategien, statt \textipa{[\c{c}emi:]} entweder \textipa{[Semi:]} oder \textipa{[kemi:]} zu realisieren?
+  \item Bedenken Sie die Tatsache, dass für \textit{Chuzpe} niemals \textipa{[SU\t{ts}p@]} oder \textipa{[kU\t{ts}p@]} realisiert werden.
+    Was sagt Ihnen das über die Integration des Wortes \textit{Chuzpe} in den deutschen Wortschatz (im Vergleich zu \textit{Chemie})?
+\end{enumerate}
+
+\Uebung \label{u44} Zerteilen Sie die folgenden Wörter in ihre Silben (Silbifizierung) und zeichnen Sie eine Sonoritätskurve wie in Abbildung~\ref{fig:sonhiers-strolchst}.
+Geben Sie an, welche Bedingungen des Silbifizierungsprozesses (Abschnitt~\ref{sec:silbifizierung}) erfüllt werden und welche nicht.
+
+\begin{enumerate}\Lf
+  \item Strumpf
+  \item wringen
+  \item winkte
+  \item Quarkspeise
+  \item Leser
+  \item Leserin
+  \item zusätzlich
+  \item zusätzliche
+  \item Hammer
+  \item Fenster
+  \item Iglu
+  \item komplett
+\end{enumerate}
+
+\Uebung \label{u45} Entscheiden Sie, wo die folgenden Wörter ihren Akzent haben (ggf.\ unter Zuhilfenahme des Fokussierungstests).
+Überlegen Sie, ob sie damit den Regeln aus Abschnitt~\ref{sec:prosodie} folgen.
+
+\begin{enumerate}\Lf
+  \item freches
+  \item Klingel
+  \item Opa
+  \item nachdem
+  \item Auto
+  \item Autoreifen
+  \item Beendigung
+  \item Melone
+  \item rötlich
+  \item Rötlichkeit
+  \item Pöbelei
+  \item respektabel
+  \item Schulentwicklungsplan
+\end{enumerate}
+
+\Uebung[\tristar] \label{u46} Beschreiben Sie die Silbenstruktur in Wörtern wie \textit{Herbst}, \textit{lebst}, \textit{kriegst} usw.
+Was fällt auf?
+
+\Uebung[\tristar] \label{u47} In (\ref{ex:phol8882}) auf Seite \pageref{ex:phol8882} wird behauptet, dass \textipa{[s5]} im Deutschen kein Einsilbler sein kann.
+Nennen Sie zwei Gründe, warum das so ist.
+
+\WeitereLiteratur
+
+\paragraph*{Phonetik}
+
+Eine sehr ausführliche Einführung in die artikulatorische Phonetik ist \citet{Laver94}.
+Einführende Darstellungen der deutschen Phonetik finden sich \zB in \citet{RRKWS09} und \citet{Wiese10}.
+Eine ausführliche Beschreibung der deutschen Standardvarietäten (Deutschland, Österreich, Schweiz), der wir hier überwiegend gefolgt sind, gibt \citet{Krech-ea2009}.
+Ein weiteres Nachschlagewerk (mit kleinen Unterschieden in der Darstellung zu \citealp{Krech-ea2009}) ist \citet{Mangold06}.
+
+\paragraph*{Phonologie}
+
+Der hier zur Phonologie besprochene Stoff findet sich mit kleinen Abweichungen \zB in \citet{Hall00} und \citet{Wiese10}.
+In eine grammatische Gesamtbeschreibung eingebunden sind Kapitel~3 und~4 im \textit{Grundriss} \citep{Eisenberg1}.
+Eine Einführung, die eher strukturalistisch argumentiert, ist \citet{Ternes2012}.
+Als anspruchsvolle Gesamtdarstellung der deutschen Phonologie kann \citet{Wiese00} verwendet werden.

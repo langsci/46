@@ -1,0 +1,937 @@
+\chapter{Konstituentenstruktur}
+
+\label{sec:konstituentenstruktur}
+
+\section{Struktur in der Syntax}
+
+In der Phonologie (Kapitel~\ref{sec:phonologie}) waren die wichtigsten zwei Fragen, welche Merkmale die phonologischen Bausteine (Segmente) haben, und nach welchen Regularitäten diese Bausteine zu Strukturen (\zB Silben) zusammengefügt werden.%
+\footnote{Zu Beginn dieses Kapitels sollte zunächst Abschnitt~\ref{sec:valenzundkoepfe} (S.~\pageref{sec:valenzundkoepfe}) wiederholt werden.}
+In der Morphologie (Teil \ref{part:wort}) ging es um morphologische Bausteine (Stämme, Affixe) und wie sie als Konstituenten morphologischer Strukturen (Wörter und Wortformen) fungieren.
+Auf diesen beiden Ebenen waren auch wichtige klassifikatorische Aufgaben zu erledigen:
+In der Phonologie hat es sich \zB als sinnvoll erwiesen, die Segmente in bestimmte Klassen einzuteilen, die jeweils unterschiedliche Positionen in der Sonoritätshierarchie einnehmen (Abschnitt~\ref{sec:phonotaktik}).
+In der Morphologie ist die Einteilung der Wörter in Klassen (Kapitel~\ref{sec:wortklassen}) eine Voraussetzung für eine systematische Beschreibung des Wortschatzes.
+Würde man nicht definieren, was \zB Nomina und Verben sind, so wäre eine Darstellung dieser Wortklassen (wie in den Kapiteln~\ref{sec:nomina} und \ref{sec:verben}) nicht möglich.
+
+In diesem Kapitel beginnt nun die Beschreibung der Regularitäten, nach denen Wortformen (also die Ergebnisse der Wortbildung und Flexion) zu größeren Strukturen (Gruppen, Satzgliedern, Sätzen) zusammengesetzt werden.
+Dabei wird, wie in der Phonologie und Morphologie, eine hierarchische Struktur angenommen, also ein Aufbau von größeren syntaktischen Strukturen aus kleineren syntaktischen Teilstrukturen, den Konstituenten.
+In der Phonologie haben wir Konstituentenstrukturen angenommen, indem \zB Silben als bestehend aus Onset, Nukleus und Coda analysiert wurden.
+Silben bilden selber die nächstgrößeren Einheiten, nämlich phonologische Wörter, vgl.\ das Beispiel in Abbildung~\ref{fig:phonstr-rev}.
+
+\begin{figure}[!h]
+  \centering
+  \Tree{
+    &&& \K{Silbe}\B{dll}\B{d}\B{drr} \\
+    & \K{Onset}\B{dl}\B{dr} && \K{Nukleus}\B{d} && \K{Coda}\B{dl}\B{dr} \\
+    \K{\textipa{[f]}} && \K{\textipa{[K]}} & \K{\textipa{[O\o]}} & \K{\textipa{[n]}} && \K{\textipa{[t]}} \\
+  }
+  \caption{Beispiel für Konstituentenstruktur in der Phonologie}
+  \label{fig:phonstr-rev}
+\end{figure}
+
+\enlargethispage{1\baselineskip}
+Auch in der Morphologie haben wir \zB bei der Bildung von Komposita schon angenommen, dass Komposita immer zwei Glieder haben, die aber wieder mit anderen Stämmen zu neuen Komposita verbunden werden können, so dass eine mehrschichtige Struktur entsteht.
+Generell haben wir die gesamte Morphologie (also auch die Derivation und die Flexion) so dargestellt, dass die Konstituentenstruktur innerhalb einer Wortform eindeutig bestimmt werden kann, vgl.\ Abbildung~\ref{fig:morphstr-rev} für die Wortform \textit{ver:säg-e-st} (Konj Präs 2.~Per Sg).
+
+\begin{figure}[h]
+  \centering
+  \Tree[1]{
+    &&& \K{V-Wortform}\B{dl}\B{dr} \\
+    && \K{[V-Wortform]}\B{dl}\B{dr} && \K{Flexionssuffix}\B{d} \\
+    & \K{V-Stamm}\B{dl}\B{dr} && \K{Flexionssuffix}\B{d} & \K{\textit{-st}} \\
+    \K{Wortbildungspräfix}\B{d} && \K{V-Stamm}\B{d} & \K{\textit{-e}} \\
+    \K{\textit{ver-}} && \K{\textit{säg}} \\
+  }
+  \caption{Beispiel für Konstituentenstruktur in der Morphologie}
+  \label{fig:morphstr-rev}
+\end{figure}
+
+In der Phonologie und Morphologie waren die Strukturen nicht besonders komplex, und wir haben daher die Strukturbestimmung nur oberflächlich angesprochen.
+In der Syntax ist die Analyse der Struktur deutlich komplexer und daher der Hauptgegenstand der Betrachtung.
+Ganz ähnlich wie dem phonologischen Wort in Abbildung~\ref{fig:phonstr-rev} und der Wortform in Abbildung~\ref{fig:morphstr-rev} sollen Sätzen und Satzteilen Konstituentenstrukturen wie in Abbildung~\ref{fig:synstr-pre} zugewiesen werden.
+Es handelt sich um das Baumdiagramm zum Satzteil (\ref{ex:syn1579}).
+
+\begin{exe}
+  \ex{\label{ex:syn1579} rote Zahnbürsten des Königs, die benutzt waren}
+\end{exe}
+
+\begin{figure}[h]
+  \centering
+  \Tree[0.25]{
+    &&& \K{NP}\B{dll}\B{d}\B{drr}\B{drrrr} \\
+    & \K{AP}\TRi[-9] && \K{N}\B{d} && \K{NP}\TRi[-5] && \K{RS}\TRi \\
+    & \K{\textit{rote}} && \K{\textit{Zahnbürsten}} && \K{\textit{des Königs}} && \K{\textit{die benutzt waren}} & \\
+  }
+  \caption{Vorschau auf Konstituentenstruktur in der Syntax}
+  \label{fig:synstr-pre}
+\end{figure}
+
+Im Grunde verwenden wir auf allen Ebenen (Phonologie, Morphologie und Syntax) das gleiche Strukturformat.
+Die höhere Komplexität der syntaktischen Struktur ist aber offensichtlich, zumal wenn man bedenkt, dass die Dreiecke in Abbildung~\ref{fig:synstr-pre} nur Abkürzungen für Teilstrukturen sind und teilweise selber vergleichsweise komplexe Bäume abkürzen.
+Daher führen wir in diesem Kapitel einerseits in die Tests ein, mit denen die syntaktischen Strukturen ermittelt werden können.
+Andererseits werden die Baupläne für syntaktische Konstituentenstrukturen expliziter angegeben als in der Phonologie und Morphologie.
+
+Um den prinzipiellen hierarchischen Aufbau syntaktischer Struktur geht es zunächst in Abschnitt~\ref{sec:syntaktischestruktur}.
+In Abschnitt~\ref{sec:satzglieder} werden dann Tests beschrieben, mit denen die syntaktische Struktur ermittelt werden kann.
+In Abschnitt~\ref{sec:topokons} wird überlegt, wie man die Reihenfolge von Teilkonstituenten in größeren Konstituenten und die hierarchische Struktur beschreiben kann.
+
+\section{Syntaktische Strukturen und Grammatikalität}
+
+\label{sec:syntaktischestruktur}
+
+\index{Grammatikalität}
+
+Eine Grammatik ist gemäß Definition~\ref{def:grammatik} (S.~\pageref{def:grammatik}) ein System von Regularitäten, nach denen einfache sprachliche Einheiten zu komplexen Einheiten (Strukturen) zusammengesetzt werden.
+Einfach gesagt muss also die syntaktische Komponente der Grammatik angeben, wie Sätze (komplexe Strukturen) aus Wortformen, die in der Syntax die einfachen Einheiten sind, aufgebaut werden.
+Diese Aufgabe kann in einer Definition formuliert werden.
+
+\Definition{Syntax}{
+\label{def:syntax}
+Eine Syntaxtheorie formuliert die Regularitäten, die genau die Sätze der zu beschreibenden natürlichen Sprache erzeugen.
+Sie muss also zwischen grammatischen (von Sprechern akzeptierten) und ungrammatischen (von Sprechern nicht akzeptierten) Sätzen trennen, indem sie grammatischen Sätzen eine Struktur zuweist, ungrammatischen Sätzen aber nicht.
+\index{Syntax}
+}
+
+Konkret muss eine Syntaxtheorie für das Deutsche also unter anderem in der Lage sein, festzustellen, dass (\ref{ex:syn1205a}) grammatisch ist, aber (\ref{ex:syn1205c}), (\ref{ex:syn1205b}) und viele andere Sätze ungrammatisch sind.%
+\footnote{Im Weiteren wird überwiegend nur von Syntax statt von Syntaxtheorie gesprochen.}
+
+\begin{exe}
+  \ex\label{ex:syn1205}
+  \begin{xlist}
+    \ex[]{\label{ex:syn1205a} Ein Snookerball ist eine Kugel aus Kunststoff.}
+    \ex[*]{\label{ex:syn1205c} Eines Snookerballs ist eine Kugel aus Kunststoff.}
+    \ex[*]{\label{ex:syn1205b} Ein eine aus ist Snookerball Kugel Kunststoff.}
+  \end{xlist}
+\end{exe}
+
+Die Syntax macht diese Unterscheidung dadurch, dass sie Regularitäten formuliert, die einem Satz entweder eine Struktur (von der Kategorie Satz) zuweist oder nicht.
+An den gegebenen Beispielen lässt sich das gut illustrieren.
+Beispiel (\ref{ex:syn1205a}) sollte sich durch die Syntax eine Struktur zuweisen lassen, die Wortkette sollte von der Grammatik als Satz erkannt werden.
+Anders verhält es sich mit Beispiel (\ref{ex:syn1205c}):
+Hier sollte sich zwar einigen Teilen eine Struktur zuweisen lassen, aber in der Syntax darf es keine Regel geben, die diese zu einem ganzen Satz verbindet.
+Konkret sind [\textit{Eines Snookerballs}] und [\textit{ist eine Kugel aus Kunststoff}] zwar Satzteile, aber sie bilden wegen des Kasus von [\textit{eines Snookerballs}] zusammen keinen Satz.
+In (\ref{ex:syn1205b}) gibt es sogar keine zwei Wörter, die sich zu einem Satzteil verbinden lassen, wodurch sich die Frage, ob die gesamte Wortkette einen Satz ergibt, noch weniger stellt als in (\ref{ex:syn1205c}).
+
+Man braucht also schematische Beschreibungen von allen Ketten von Wörtern, die zusammen in einer bestimmten Reihenfolge Sätze ergeben.
+Es hat angesichts des in Definition~\ref{def:syntax} formulierten Vorhabens nun wenig Sinn, Sätze in der Grammatik einfach im Ganzen als Ketten von Wortformen zu beschreiben.
+Täte man dies, so müsste eine Grammatik des Deutschen einen Bauplan enthalten, der das Beispiel (\ref{ex:syn1205a}) direkt beschreibt.
+
+So ein naiver Bauplan für (\ref{ex:syn1205a}) könnte \zB aussehen wie Abbildung~\ref{fig:satzschema1}.
+
+\begin{figure}[h]
+  \centering
+  \Tree[1]{
+    &&& \K{Satz}\B{dlll}\B{dll}\B{dl}\B{d}\B{dr}\B{drr}\B{drrr} \\
+    \K{\textit{ein}} & \K{\textit{Snookerball}} & \K{\textit{ist}} & \K{\textit{eine}} & \K{\textit{Kugel}} & \K{\textit{aus}} & \K{\textit{Kunststoff}} \\
+  }
+  \caption{Naives Satzschema}
+  \label{fig:satzschema1}
+\end{figure}
+
+\enlargethispage{1\baselineskip}
+Dieser Bauplan besagt, dass eine ganz bestimmte Abfolge von Wortformen (nämlich \textit{ein}, \textit{Snookerball} usw.) ein möglicher Satz (des Deutschen) ist.
+Damit erzeugt oder beschreibt dieser Bauplan aber eben auch nur genau einen Satz.
+Für alle anderen Sätze bräuchte man entsprechend andere Baupläne, und sie alle müssten Teil der Grammatik sein.
+Es sollte leicht ersichtlich sein, dass auf diese Weise das Erlernen der Baupläne, die die Sätze des Deutschen beschreiben, gleichbedeutend damit wäre, alle Sätze des Deutschen auswendig zu lernen.
+Da wir kontinuierlich Sätze produzieren, die wir noch niemals zuvor gehört haben, ist auszuschließen, dass ein solcher Ansatz plausibel ist.
+
+Selbst, wenn wir den Bauplan aus Abbildung~\ref{fig:satzschema1} etwas abstrakter gestalten und nicht mehr die Wörter, sondern nur noch die Wortklassen der Konstituenten im Bauplan festlegen wie in Abbildung~\ref{fig:satzschema2}, wird die Grammatik nicht viel allgemeiner.
+
+\begin{figure}[h]
+  \centering
+  \Tree[1]{
+    &&& \K{Satz}\B{dlll}\B{dll}\B{dl}\B{d}\B{dr}\B{drr}\B{drrr} \\
+    \K{Art} & \K{Subst} & \K{V(Kopula)} & \K{Art} & \K{Subst} & \K{Prp} & \K{Subst} \\
+  }
+  \caption{Abstrakteres naives Satzschema}
+  \label{fig:satzschema2}
+\end{figure}
+
+Der Bauplan in Abbildung~\ref{fig:satzschema2} besagt, dass eine Folge von einem Artikelwort, einem Substantiv usw.\ ein möglicher Satz ist.
+Er beschreibt damit immerhin schon wesentlich mehr Sätze als der in \ref{fig:satzschema1}, \zB auch den in (\ref{ex:syn1493}).
+
+\begin{exe}
+  \ex{\label{ex:syn1493} Der Seitan ist eine Spezialität aus Weizeneiweiß.}
+\end{exe}
+
+Allerdings sind nur sehr wenige deutsche Sätze genau so aufgebaut.
+Eine Korpusanfrage in einem Archiv des DeReKo-Korpus, das rund eine Milliarde Wörter umfasst, bringt insgesamt die vier Sätze in (\ref{ex:syn9346}) zu Tage.%
+\footnote{Archiv W-TAGGED öffentlich am 11.01.2011.
+Das Archiv enthält zu diesem Zeitpunkt 1.024.793.751 Wortformen gemäß der Korpusansicht.
+Siglen der Belege: RHZ09/JAN.17891, WPD/VVV.02704 AHZ, RHZ08/MAI.22154, M07/FEB.05680.}
+
+\begin{exe}
+  \ex \label{ex:syn9346}
+  \begin{xlist}
+    \ex{Die Verlierer sind die Schulkinder in Weyerbusch.}
+    \ex{Die Vienne ist ein Fluss in Frankreich.}
+    \ex{Ein Baustein ist die Begegnung beim Spiel.}
+    \ex{Das Problem ist die Ortsdurchfahrt in Großsachsen.}
+  \end{xlist}
+\end{exe}
+
+Der Bauplan erklärt also gerade einmal die Strukturen für 24 Wortformen aus einem Korpus von einer Milliarde Wortformen.
+Bei dieser Erfolgsquote bräuchte man $10^9\div24\approx41,7\cdot10^6$ (über 40 Millionen) Satzschemata, um die Grammatik anzugeben, die den Sätzen des gesamten Korpus Strukturen zuweist.%
+\footnote{Dieses Rechenbeispiel ist methodisch sehr naiv und dient vor allem der Illustration und der argumentativen Zuspitzung.
+Es ist \zB anzunehmen, dass nicht alle Schemata gleich häufig wären, und dass andere Schemata für wesentlich mehr bzw.\ sogar weniger Sätze geeignet wären.
+Auf jeden Fall wären es aber extrem viele Schemata.}
+
+Es gibt also extrem viele verschiedene Arten, Wörter zu einem Satz zusammenzusetzen, dass Baupläne, die Sätze als Reihen von Wortformen beschreiben, nicht allgemein genug sind.
+Viel sinnvoller ist die Annahme, dass in der Syntax nicht Wortformen zu Sätzen, sondern Wortformen zu Gruppen zusammengesetzt werden, die wiederum Gruppen bilden, bis hin zur Ebene des Satzes.
+Diese kleineren Strukturen sind wesentlich allgemeiner beschreibbar als ganze Sätze, und nur so kommt die nötige Abstraktion zustande, um effektiv sehr viele Arten von Sätzen zu beschreiben.
+Auch aus Sicht der kognitiven Verarbeitung von Sprache durch Sprecher ist es plausibel, anzunehmen, dass sprachliche Informationen in Strukturen verpackt werden, die durch ihren hierarchischen Aufbau mit möglichst geringem Aufwand produziert und verstanden werden können.
+
+Als Beispiel diskutieren wir nun, wie eine entsprechend abstraktere Analyse der Schemata in Satz (\ref{ex:syn1205a}) aussehen könnte, und welchen Vorteil man dadurch erzielt.
+Wenn man einige strukturell ähnliche Sätze zu (\ref{ex:syn1205a}) und (\ref{ex:syn1493}) hinzunimmt (\zB (\ref{ex:syn1631})), kommt man schnell auf einen allgemeinen Bauplan.
+
+\begin{exe}
+  \ex\label{ex:syn1631}
+  \begin{xlist}
+    \ex{\label{ex:syn1631a} [Dieses Endspiel] ist [eine spannende Partie].}
+    \ex{\label{ex:syn1631b} [Eine Hose] war [eine Hose].}
+    \ex{\label{ex:syn1631c} [Sieger] wurde [ein Teilnehmer aus dem Vereinigten Königreich].}
+    \ex{\label{ex:syn1631d} [Lemmy] ist [Ian Kilmister].}
+  \end{xlist}
+\end{exe}
+
+In allen Sätzen in (\ref{ex:syn1631}) steht jeweils eine NP (ggf.\ etwas erweitert, wie im Fall von \textit{ein Teilnehmer aus dem Vereinigten Königreich}) am Anfang und am Ende, dazwischen steht eine Form der Verben \textit{sein} und \textit{werden} (sog.\ Kopulaverben).
+Obwohl sie unterschiedlich aufgebaut sind, verhalten sich die NPs im Satz alle gleich.
+Wenn man nun also die Bildung dieser NP möglichst allgemein beschreibt, kann man sich im Bauplan des Satzes einfach auf diese Beschreibung beziehen, ohne auf mögliche verschiedene Strukturen, die NPs haben können, dort noch eingehen zu müssen.%
+\footnote{Schon in Abschnitt~\ref{sec:nomeneinl} (Definition~\ref{def:vollstaendigesnominal} auf S.\ \pageref{def:vollstaendigesnominal}) wurde die (vereinfachte) NP als eine Folge von kongruierendem Artikel, (optionalem) Adjektiv und Substantiv bezeichnet.
+Um auch Fälle wie \textit{ein Teilnehmer aus dem Vereinigten Königreich} zu erfassen, erweitern wir später die Definition.}
+Genau daraus ergibt sich ein Satzbauschema wie in \ref{fig:satzbauhyp} und eine konkrete hierarchische Struktur wie in Abbildung~\ref{fig:bspsatzpre}.
+Diese Abbildung ist nur ein Vorschlag, Genaues folgt vor allem in den Kapiteln~\ref{sec:phrasen} und \ref{sec:saetze}.
+Jetzt müsste nur noch ein genauer allgemeiner Bauplan für die NP angegeben werden, was aber ebenfalls verschoben wird (Schema~\ref{str:ngr} auf S.~\pageref{str:ngr}).
+
+\begin{figure}[h]
+  \centering
+  \Tree[1]{
+    & \K{Satz}\B{dl}\B{d}\B{dr} \\
+    \K{NP} & \K{V(Kopula)} & \K{NP}
+  }
+  \caption{Hypothetisches Schema für Sätze mit Kopula}
+  \label{fig:satzbauhyp}
+\end{figure}
+
+\begin{figure}[h]
+  \centering
+  \Tree{
+      &&& \K{Satz}\B{dll}\B{d}\B{drr} \\
+      & \K{NP}\TRi && \K{Kopula}\B{d} && \K{NP}\TRi[+3] \\
+      & \K{\textit{Dieses Endspiel}} && \K{\textit{ist}} && \K{\textit{eine spannende Partie}} & \\
+  }
+  \caption{Denkbare hierarchische Struktur eines Kopulasatzes}
+  \label{fig:bspsatzpre}
+\end{figure}
+
+Wichtig ist nun die Erkenntnis, dass es durch die Abstraktion von den verschiedenen Arten von NP im Satzbauschema egal ist, wie die NP selber aufgebaut sind.
+Ob die NP nur aus einem Substantiv besteht wie \textit{Sieger} in (\ref{ex:syn1631c}) oder aus Substantiv und Artikel wie \textit{eine Hose} in (\ref{ex:syn1631b}) oder aus Substantiv, Artikel und Adjektiv wie \textit{eine spannende Partie} in (\ref{ex:syn1631a}) usw.\ ist belanglos für die Anwendung des Satzbauplans in Abbildung~\ref{fig:satzbauhyp}.
+Der Bauplan verlangt nur, dass irgendeine NP als Konstituente eingesetzt wird, egal wie diese aussieht.
+Wir müssen also überlegen, wie sich syntaktische Strukturen effektiv in kleinere Einheiten aufteilen lassen (also eine Konstituentenanalyse oder Satzgliedanalyse betreiben), und die entsprechenden Baupläne angeben.
+
+\index{Rekursion!in der Syntax}
+
+Dieses Vorgehen verdeutlicht im Übrigen auch ein gewisses Maß an Rekursion, wie wir sie schon in der Morphologie (Abschnitt~\ref{sec:rekursion}) besprochen haben.
+Auch Strukturen wie in (\ref{ex:syn1631cwh}) -- eine Wiederholung von (\ref{ex:syn1631c}) -- kann und sollte man als eine NP betrachten.
+
+\begin{exe}
+  \ex{\label{ex:syn1631cwh} [ein Teilnehmer aus dem Vereinigten Königreich]}
+\end{exe}
+
+In dieser NP ist allerdings eine weitere NP eingebettet, nämlich [\textit{dem Vereinigten Königreich}].
+Es gibt keinen Grund, anzunehmen, dass diese NP nicht wieder eine NP enthalten könnte, usw.
+Wie in der Morphologie kann also das Ergebnis einer strukturbildenden Operation wieder für dieselbe Operation als Ausgangsmaterial verwendet werden.
+Ähnlich und noch einfacher ist (\ref{ex:koorendlos}).
+Hier kann eine ebenfalls rekursive Koordinationstruktur beliebig fortgesetzt werden.
+
+\begin{exe}
+  \ex{\label{ex:koorendlos} Dieser Wagen läuft und läuft und läuft und läuft\ldots}
+\end{exe}
+
+Dieser Satz wird angeblich nicht ungrammatisch, egal wie oft man \textit{und läuft} wiederholt.
+Manchmal wird dies als Beweis genommen, dass es im Prinzip unendlich viele verschiedene Sätze in einer Sprache gibt, im Minimalfall durch endlose Koordination wie in (\ref{ex:koorendlos}).
+Ein solcher Beweis ist allerdings in Wirklichkeit nicht zu führen, und er beruht auf einer strikten Trennung zwischen den Möglichkeiten, die das Sprachsystem anbietet (Kompetenz) und den Bedingungen, unter denen wir es benutzen (Performanz).
+Eine klare Begrenzung der Rekursion für den Menschen ist aber normalerweise ganz einfach schon dadurch gegeben, dass sehr lange Sätze schlicht nicht mehr verarbeitet werden können.
+Inwiefern uns jetzt die Feststellung, dass aber im Prinzip doch unendlich viele Sätze möglich wären, weiterbringt, ist fraglich.
+Wir bleiben hier bescheiden und stellen fest, dass eingeschränkt rekursive Strukturen vorkommen (\zB NPs in NPs), und dass das syntaktische System offensichtlich so gebaut ist, dass wir ständig auf ziemlich viele Sätze treffen, die wir vorher noch nie gehört haben.
+Wir können dabei sicher sein, dass wir de facto niemals unendlich viele Sätze hören werden.
+
+Welche praktischen Tests an konkretem Material man nun für eine Konstituentenanalyse zugrundelegen kann, wird in Abschnitt~\ref{sec:satzglieder} besprochen.
+
+\section{Konstituententests}
+
+\label{sec:satzglieder}
+
+\index{Konstituententest}
+
+In Abschnitt~\ref{sec:syntaktischestruktur} wurde von der hierarchischen Struktur in der Syntax und auf allen anderen Ebenen gesprochen, ohne dass gezeigt wurde, wie diese syntaktischen Strukturen empirisch ermittelt werden können.
+Um herauszufinden, was eine Konstituente in einer syntaktischen Struktur ist und was nicht, gibt es eine Reihe von Tests, die man auf sprachliches Material anwenden kann.
+
+Ein Warnhinweis ist vor der Aufzählung der Tests notwendig, denn leider funktionieren nicht alle Tests immer so, wie man sich das wünschen würde.
+Teilweise identifizieren sie Wortgruppen als Konstituenten, die man eigentlich nicht als Konstituenten betrachten möchte.
+Andererseits gibt es Fälle, in denen etwas, das gemeinhin als Konstituente betrachtet wird, nur von wenigen Tests oder sogar keinem von ihnen als Konstituente identifiziert wird.
+Dies ist allerdings überhaupt kein Problem, da die Tests nur als heuristisches Verfahren eine Rolle spielen.
+Wenn sich im Laufe der darauf aufbauenden Theoriebildung (also der Formulierung einer Syntax innerhalb einer deskriptiven Grammatik oder Grammatiktheorie) herausstellt, dass es günstiger ist, in einigen Fällen die Ergebnisse der Tests nicht ernstzunehmen, ist dies unproblematisch.
+Gerade wenn eine Grammatik formal ausgearbeitet ist, kann sie jederzeit daran gemessen werden, ob sie die richtigen Sätze als grammatisch oder ungrammatisch klassifiziert (vgl.\ Definition~\ref{def:syntax} auf S.~\pageref{def:syntax}).
+Dies zeigt auch, dass Konstituentenstrukturen Konstrukte unserer Theorie sind, nicht etwa direkt beobachtbare Objekte.
+
+\subsection{Die Tests im Einzelnen}
+
+\label{sec:konstituententestsimeinzelnen}
+
+Im Folgenden werden einige wichtige Tests besprochen und auch Probleme erwähnt, die mit ihnen einhergehen.
+Wie schon in früheren Kapiteln werden eckige Klammern benutzt, um Konstituenten als solche zu kennzeichnen.
+Die Tests beinhalten alle eine Umformung des ursprünglichen Materials (entweder eine Hinzufügung, eine Umstellung oder einen Austausch).
+Die Testanwendung markieren wir mit \KTArr{Name des Tests}, wobei vor dem Pfeil der Ausgangssatz steht und hinter dem Pfeil die Umformung.
+Die Umformung muss ein grammatischer (also von Sprechern akzeptierter) Satz sein, und in einigen Fällen muss die Bedeutung auf eine bestimmte Art erhalten bleiben.
+Besondere Bedingungen werden jeweils zu den Tests erklärt.
+Wenn ein Test fehlschlägt, dann steht hinter dem Pfeil ein Asterisk~\Ast.
+
+\subsubsection{Pronominalisierungstest}
+
+\index{Pronominalisierungstest}
+
+\KTest{Pronominalisierungstest (PronTest)}{Wenn eine Kette von Wörtern in einem Satz durch einen Pronominalausdruck ersetzt werden kann, dann ist sie eine Konstituente.}
+
+Beim Pronominalisierungstest sind der Ausgangssatz und der Satz mit der Ersetzung (der Testsatz) nicht bedeutungsgleich, denn durch die Ersetzung ist der Testsatz normalerweise nicht mehr situationsunabhängig eindeutig zu interpretieren.
+
+\begin{exe}
+  \ex\label{ex:syn1111}
+  \begin{xlist}
+    \ex{\label{ex:syn1111a} Mausi isst [den leckeren Marmorkuchen]. \KTArr{PronTest} Mausi isst [ihn].}
+    \ex{\label{ex:syn1111b} [Mausi isst] den Marmorkuchen. \KTArr{PronTest} \Ast [Sie] den Marmorkuchen.}
+  \end{xlist}
+\end{exe}
+
+Offensichtlich ist [\textit{den leckeren Marmorkuchen}] gemäß dem Pronominalisierungstest eine Konstituente, aber [\textit{Mausi isst}] ist keine.
+Auch deutlich kompliziertere Strukturen (\zB mit Konjunktionen) können erfolgreich ersetzt werden, wie in (\ref{ex:syn1114}).
+
+\begin{exe}
+  \ex{\label{ex:syn1114} Mausi isst [den Marmorkuchen und das Eis mit Multebeeren].\\\KTArr{PronTest} Mausi isst [sie].}
+\end{exe}
+
+Typischerweise werden Wörter aus der Klasse der Pronomina eingesetzt.
+Aber auch andere Arten von Konstituenten können durch Wörter wie \textit{da}, \textit{dann}, \textit{so} usw.\ ersetzt werden, s.\ (\ref{ex:syn1112}).
+Bei diesem Test wird also immer ein deiktisches oder anaphorisches Wort (vgl.\ Definition~\ref{def:deixis} auf S.~\pageref{def:deixis} und Definition~\ref{def:anaphern} auf S.~\pageref{def:anaphern}) statt einer semantisch spezifischen Konstituente eingesetzt.
+Diese Wörter sind hier mit \textit{Pronominalausdruck} gemeint.
+
+\begin{exe}
+  \ex{\label{ex:syn1112} Ich treffe euch [am Montag] [in der Mensa der FU].\\
+    \KTArr{PronTest} Ich treffe euch [dann] [dort].}
+  \ex{\label{ex:syn1113} Er liest den Text [auf eine Art, die ich nicht ausstehen kann].\\\KTArr{PronTest} Er liest den Text [so].}
+\end{exe}
+
+\subsubsection{Fragetest}
+
+\index{Fragetest}
+\KTest{Fragetest (FTest)}{Wenn nach einer Kette von Wörtern in einem Satz gefragt werden kann, dann ist sie eine Konstituente.}
+
+Beim Fragetest muss also zu einem Satz eine Frage formuliert werden, auf die die potentielle Konstituente die Antwort wäre.
+Am einfachsten ist es dabei, eine sog.\ Echofrage (oder In-Situ-Frage) zu bilden, also den Satz nicht weiter umzustellen wie in (\ref{ex:syn2222a}).
+Eine normale Frage mit der im Deutschen typischen Umstellung der Satzglieder ist in (\ref{ex:syn2222b}) bebeispielt.
+
+Strategisch empfiehlt es sich, zunächst eine In-Situ-Frage zu bilden.
+Wenn dies möglich ist, kann die Frage mit Voranstellung des Fragewortes versucht werden, und dann überprüft werden, ob die potentielle Konstituente eine mögliche Antwort ist.
+Man erhält damit eine abgestufte Einstufung des Erfolgs des Tests.
+
+\begin{exe}
+  \ex\label{ex:syn2222}
+  \begin{xlist}
+    \ex{\label{ex:syn2222a} Mausi isst [den leckeren Marmorkuchen].\\\KTArr{FTest} Mausi isst [was]? -- Den leckeren Marmorkuchen.}
+    \ex{\label{ex:syn2222b} Mausi isst [den leckeren Marmorkuchen].\\\KTArr{FTest} [Was] isst Mausi? -- Den leckeren Marmorkuchen.}
+    \ex{Mausis Hund versucht, [den leckeren Kuchen zu klauen].\\
+      \KTArr{FTest} Mausis Hund versucht [was]? -- Den leckeren Kuchen zu klauen.}
+    \ex{Wir essen Obstkuchen am liebsten [mit frischen] Multebeeren.\\
+      \KTArr{FTest} \Ast Wir essen Obstkuchen am liebsten [?] Multebeeren.}
+  \end{xlist}
+\end{exe}
+
+Vorsicht ist bei der Wahl des Fragewortes bzw.\ der Fragekonstituente geboten.
+In (\ref{ex:syn2001}) liegt eine Anwendung des Fragetests vor, die nicht im Sinne der Erfinder des Tests ist:
+Die Wortform \textit{mit} wird nicht durch die Fragekonstituente ersetzt, sondern ist in ihr enthalten.
+Auch in der Antwort wird \textit{mit} wiederholt.
+Der Test ist also nur scheinbar erfolgreich.
+
+\begin{exe}
+  \ex{\label{ex:syn2001} Wir essen Obstkuchen am liebsten [mit frischen] Multebeeren.\\
+    \KTArr{FTest} Wir essen Obstkuchen am liebsten mit was für Multebeeren? -- Mit frischen.}
+\end{exe}
+
+Auch mit diesem Test können kompliziertere Strukturen wie Nebensätze oder Strukturen mit Konjunktionen (Koordinationsstrukturen) als Konstituenten ermittelt werden.
+Ein Nebensatz findet sich in (\ref{ex:syn2223}).
+Eine Kette von Wörtern, die nicht erfragbar ist, obwohl sie normalerweise als Konstituente analysiert wird, ist in (\ref{ex:syn2224}) bebeispielt.
+Selbst wenn man die Frage als marginal grammatisch akzeptiert, ist eine Antwort nicht ohne Wiederholung des Komplementierers \textit{dass} möglich.
+
+\begin{exe}
+  \ex{\label{ex:syn2223} [Dass die Sonne scheint] freut alle.\\\KTArr{FTest} [Was] freut alle? -- Dass die Sonne scheint.}
+  \ex{\label{ex:syn2224} Ich denke, dass [er Mausi einen Kuchen backen wird]\\
+    \KTArr{FTest} \Ast Ich denke, dass [was]? -- Dass er Mausi einen Kuchen backen wird.}
+\end{exe}
+
+In (\ref{ex:syn7491}) würde landläufig angenommen, dass irgendein Fall von Ellipse (Auslassung) vorliegt und \textit{den leckeren} keine vollständige Konstituente ist.
+Es zeigt sich deutlich, dass die Tests bestenfalls eine Heuristik darstellen, die theoretische (ggf.\ durchaus legitime) Stipulationen empirisch untermauern kann.
+Von Denkmustern und Formulierungen gemäß derer die Tests \textit{beweisen} oder \textit{widerlegen}, dass etwas eine Phrase sei, muss aber dringend abgeraten werden.
+
+\begin{exe}
+  \ex{\label{ex:syn7491} Mausis Hund versucht, [den leckeren] Kuchen zu klauen.\\
+    \KTArr{FTest} Mausis Hund versucht, [welchen] Kuchen zu klauen? -- Den leckeren.}
+\end{exe}
+
+Hier zeigt der Pronominalisierungstest ein anderes Ergebnis, vgl.\ (\ref{ex:syn7492}), außerdem funktioniert der Fragetest nicht, wenn man eine Frage mit normaler Wortstellung (keine Echofrage) konstruiert wie in (\ref{ex:syn7493}).
+Wenn die Tests sich auf eine solche Weise widersprechen, muss man eine informierte Wahl treffen, welchem Test man folgt.
+
+\begin{exe}
+  \ex{\label{ex:syn7492} \KTArr{PronTest} \Ast Mausis Hund versucht, [?] Kuchen zu klauen?}
+  \ex{\label{ex:syn7493} \KTArr{FTest} \Ast Welchen versucht Mausis Hund, Kuchen zu klauen?}
+\end{exe}
+
+\subsubsection{Vorfeldtest}
+
+\label{sec:vorfeldtest}
+
+\index{Vorfeldtest}
+\KTest{Vorfeldtest (VfTest)}{Wenn eine Kette von Wörtern in einem Satz vorfeldfähig ist, dann ist sie eine Konstituente.}
+
+Dieser Test bezieht sich auf die Definition von Vorfeldfähigkeit (Definition~\ref{def:vorfeldfaehig} auf S.~\pageref{def:vorfeldfaehig}).
+Dort wurde die Vorfeldfähigkeit einzelner Wörter benutzt, um Adverben und Partikeln definitorisch voneinander zu trennen.
+Hier geht es nicht nur um einzelne Wortformen, sondern auch um komplexere Konstituenten.
+Vorfeldfähig ist eine Konstituente genau dann, wenn sie alleine vor dem finiten Verb stehen kann.
+Bei der Anwendung dieses Tests auf sprachliches Material muss man ggf.\ also eine strukturelle Veränderung durchführen, wenn die zu untersuchende Konstituente nicht ohnehin schon alleine vor dem finiten Verb steht.
+Wichtig ist, dass sich die Bedeutung nicht ändern darf und dass kein Material weggelassen oder hinzugefügt werden darf.
+
+\begin{exe}
+  \ex\label{ex:syn3333}
+  \begin{xlist}
+    \ex{\label{ex:syn3333a} Sarah sieht den Kuchen [durch das Fenster].\\
+      \KTArr{VfTest} [Durch das Fenster] sieht Sarah den Kuchen.}
+    \ex{\label{ex:syn3333b} Er versucht [zu essen]. \KTArr{VfTest} [Zu essen] versucht er.}
+    \ex{\label{ex:syn3333c} Sarah möchte gerne [einen Kuchen backen].\\
+      \KTArr{VfTest} [Einen Kuchen backen] möchte Sarah gerne.}
+    \ex{\label{ex:syn3333d} Sarah möchte [gerne einen] Kuchen backen.\\
+      \KTArr{VfTest} \Ast [Gerne einen] möchte Sarah Kuchen backen.}
+  \end{xlist}
+\end{exe}
+
+Dieser Test bereitet Schwierigkeiten, wenn das finite Verb des Hauptsatzes nicht richtig ermittelt wird.
+In den Sätzen in (\ref{ex:syn3334}) ist trotz großer oberflächlicher Ähnlichkeit das finite Verb des Hauptsatzes jeweils ein anderes finites Verb an zwei völlig verschiedenen Stellen.
+
+\begin{exe}
+  \ex\label{ex:syn3334}
+  \begin{xlist}
+    \ex{\label{ex:syn3334a} [Wer] glaubt, dass Tiere im Tierheim ein schönes Leben haben?}
+    \ex{\label{ex:syn3334b} [Wer glaubt, dass Tiere im Tierheim ein schönes Leben haben], \textbf{irrt}.}
+  \end{xlist}
+\end{exe}
+
+(\ref{ex:syn3334b}) ist ein Beispiel, das auch ohne Umstellung (also ohne Anwendung des Tests) zeigt, dass [\textit{wer glaubt, dass Tiere im Tierheim ein schönes Leben haben}] eine Konstituente ist, weil es sowieso schon im Vorfeld steht.
+Um dies zu erkennen, darf aber \textit{glaubt} auf keinen Fall fälschlicherweise als finites Verb des Hauptsatzes identifiziert werden.
+Zu diesem Problem kann hier nur auf Kapitel~\ref{sec:saetze} (besonders Abschnitt~\ref{sec:lsktest}) verwiesen werden, in dem Diagnoseverfahren für das sogenannte Feldermodell angegeben werden.
+
+\subsubsection{Koordinationstest}
+
+\label{sec:koordinationstest}
+
+\index{Koordinationstest}
+\KTest{Koordinationstest (KoorTest)}{Wenn eine Kette von Wörtern in einem Satz mit einer anderen Kette von Wörtern und einer Konjunktion (\zB \textit{und}, \textit{oder}) verbunden werden kann, dann ist sie eine Konstituente.}
+
+Der Name des Tests kommt daher, dass man Strukturen, die das Muster [A Konjunktion B] haben, Koordinationen oder Koordinationsstrukturen nennt.
+Da man bei diesem Test Material hinzufügen muss, muss sich zwangsläufig die Bedeutung ändern.
+Dieser Test ermittelt erfolgreich alles als Konstituente, was man normalerweise auch als eine solche auffasst.
+Außerdem zeigt er gleichzeitig, dass die Wortkette, die man hinzufügt, ebenfalls eine Konstituente ist, und dass die gesamte Koordinationsstruktur auch eine Konstituente ist.
+Daher klammern wir immer \zB [[A] \textit{und} [B]].
+
+\begin{exe}
+  \ex\label{ex:syn4444}
+  \begin{xlist}
+    \begin{xlist}
+      \ex{\label{ex:syn4444a} Wir essen [einen Kuchen].\\
+        \KTArr{KoorTest} Wir essen [[einen Kuchen] und [ein Eis]].}
+      \ex{\label{ex:syn4444b} Wir [essen einen Kuchen].\\
+        \KTArr{KoorTest} Wir [[essen einen Kuchen] und [lesen ein Buch]].}
+      \ex{\label{ex:syn4444c} Sarah hat versucht, [einen Kuchen zu backen].\\
+        \KTArr{KoorTest} Sarah hat versucht, [[einen Kuchen zu backen] und [heimlich das Eis aufzuessen]].}
+      \ex{\label{ex:syn4444d} Wir sehen, [dass die Sonne scheint].\\
+        \KTArr{KoorTest} Wir sehen, [[dass die Sonne scheint] und [wer alles seinen Rasen mäht]].}
+      \ex{\label{ex:syn4444e} Wir sehen, dass [die Sonne scheint].\\
+        \KTArr{KoorTest} Wir sehen, dass [[die Sonne scheint] und [Mausi den Rasen mäht]].}
+    \end{xlist}
+  \end{xlist}
+\end{exe}
+
+Wie oben gesagt, ist der Koordinationstest im Grunde in allen Fällen erfolgreich, in denen man dies auch möchte.
+Leider ist er gleichzeitig der Test, der wahrscheinlich auch die meisten Fehler produziert, bei denen Wortketten als Konstituenten ausgewiesen werden, die dies nach allgemeiner Auffassung nicht sind.
+Man kann eine volle Koordinationsstruktur nicht immer von einer Struktur unterscheiden, in der durch Ellipse (Auslassung) ein Wort oder mehrere Wörter getilgt wurden, die die Konstituente vervollständigen würden.
+So ist \zB (\ref{ex:syn4445}) ein Beispiel, in dem der Test erfolgreich ist, es aber idealerweise nicht sein sollte.
+
+\begin{sloppypar}
+\begin{exe}
+  \ex{\label{ex:syn4445} Der Kellner notiert, dass [meine Kollegin einen Salat] möchte.\\
+    \KTArr{KoorTest} Der Kellner notiert, dass [[meine Kollegin einen Salat] und [mein Kollege einen Sojaburger]] möchte.}
+\end{exe}
+\end{sloppypar}
+
+Ebenfalls problematisch ist beim Koordinationstest die Frage, was man genau koordiniert.
+
+\begin{exe}
+  \ex{\label{ex:syn9521} Sie isst [einen leckeren großen Kuchen].}
+  \begin{xlist}
+    \ex{\label{ex:syn9521a} \KTArr{KoorTest} Sie isst [[einen leckeren großen Kuchen] und [eine Orange]].}
+    \ex{\label{ex:syn9521b} \KTArr{KoorTest} \Ast Sie isst [[einen leckeren großen Kuchen] und [geht später joggen]].}
+  \end{xlist}
+\end{exe}
+
+Die Beispiele in (\ref{ex:syn9521}) sehen so aus, als könne man zwei völlig verschiedene Dinge mit [\textit{einen leckeren großen Kuchen}] koordinieren, nämlich [\textit{eine Orange}] und [\textit{geht später joggen}], was keine günstige Annahme ist.
+Obwohl der Satz in (\ref{ex:syn9521b}) als Folge von Wortformen völlig grammatisch ist, ist die Klammerung in (\ref{ex:syn9521b}) unplausibel.
+Eigentlich wird in diesem Fall nämlich das erste Verb \textit{isst} in die Koordination einbezogen, und die Klammerung müsste wie in (\ref{ex:syn9522}) gesetzt werden.
+
+\begin{exe}
+  \ex{\label{ex:syn9522} \KTArr{KoorTest} Sie [[isst einen leckeren großen Kuchen] und [geht später joggen]].}
+\end{exe}
+
+Wie man solche Fälle entscheidet, sollte in den folgenden Kapiteln klar werden.
+
+\subsection{Satzglieder, Nicht-Satzglieder und atomare Konstituenten}
+
+\label{sec:satzglied}
+
+Damit sind einige wichtige Tests auf Konstituenz eingeführt.
+Eine Unterscheidung zwischen verschiedenen Satz-Konstituenten, die in der Schulgrammatik eine größere Rolle spielt, kann man mit den Tests allerdings auch noch zeigen.
+Die Sätze in (\ref{ex:syn5555}) und (\ref{ex:syn5556}) illustrieren das Phänomen.
+
+\begin{sloppypar}
+\begin{exe}
+  \ex\label{ex:syn5555}
+  \begin{xlist}
+    \ex{\label{ex:syn5555a} Sarah riecht den Kuchen [mit ihrer Nase].\\
+      \KTArr{VfTest} [Mit ihrer Nase] riecht Sarah den Kuchen.}
+    \ex{\label{ex:syn5555b} \KTArr{KoorTest} Sarah riecht den Kuchen [[mit ihrer Nase] und [trotz des Durchzugs]].}
+  \end{xlist}
+  \ex\label{ex:syn5556}
+  \begin{xlist}
+    \ex{\label{ex:syn5556a} Sarah riecht den Kuchen [mit der Sahne].\\
+      \KTArr{VfTest} \Ast [Mit der Sahne] riecht Sarah den Kuchen.}
+    \ex{\label{ex:syn5556b} \KTArr{KoorTest} Sarah riecht den Kuchen [[mit der Sahne] und [mit den leckeren Rosinen]].}
+  \end{xlist}
+\end{exe}
+\end{sloppypar}
+
+Beide Ausgangssätze sehen zunächst strukturell identisch aus.
+Der Koordinationstest gelingt auch in beiden Fällen, aber der Vorfeldtest scheitert in (\ref{ex:syn5556a}).
+Dies hat nun nicht etwa rein semantische Gründe, sondern strukturelle.
+In (\ref{ex:syn5555}) ist [\textit{mit ihrer Nase}] ein Satzglied des Satzes, und in (\ref{ex:syn5556}) ist [\textit{mit der Sahne}] ein Nicht-Satzglied des Satzes.
+Manchmal sagt man, die Satzglieder seien die unmittelbaren Konstituenten des Satzes und die Nicht-Satzglieder die mittelbaren Konstituenten (vgl.\ Abschnitt~\ref{sec:struktur} zu diesen Begriffen).
+Vereinfacht sähen die Strukturen also so aus wie in den Abbildungen~\ref{fig:mittelbarekonstituente} und \ref{fig:unmittelbarekonstituente}.
+
+\begin{figure}[h]
+  \centering
+  \Tree[2]{
+    && \K{Satz}\B{dll}\B{dl}\B{d}\B{drr}\\
+    \K{\textit{Sarah}} & \K{\textit{riecht}} & \K{\fbox{\textit{den Kuchen}}} && \K{\fbox{\textit{mit ihrer Nase}}} \\
+  }
+  \caption{Ein Satzglied als unmittelbare Satzkonstituente}
+  \label{fig:unmittelbarekonstituente}
+\end{figure}
+
+\begin{figure}[h]
+  \centering
+  \Tree[2]{
+    & \K{Satz}\B{ddl}\B{dd}\B{drr} \\
+    &&& \K{Konstituente}\B{dl}\B{dr} \\
+    \K{\textit{Sarah}} & \K{\textit{riecht}} & \K{\fbox{\textit{den Kuchen}}} && \K{\fbox{\textit{mit der Sahne}}}
+  }
+  \caption{Ein Nicht-Satzglied als mittelbare Satzkonstituente}
+  \label{fig:mittelbarekonstituente}
+\end{figure}
+
+Die Auffassung, Satzglieder seien die unmittelbaren Konstituenten des Satzes, bringt einige Probleme mit sich.
+Später (Kapitel~\ref{sec:phrasen} und \ref{sec:saetze}) werden wir aus gutem Grund Strukturen annehmen, die anders aussehen, und in denen Satzglieder nicht automatisch unmittelbare Konstituenten des Satzes sind.
+Auf jeden Fall ist aber die Erkenntnis korrekt, dass Nicht-Satzglieder normalerweise strukturell zu tief eingebettet sind, um \zB vorangestellt (oder erfragt) werden zu können.
+Wir definieren die Satzglieder also nicht als unmittelbare Konstituenten des Satzes, sondern sind etwas vorsichtiger.
+
+\Definition{Satzglied}{
+\label{def:satzglied}
+Ein Satzglied ist eine Konstituente im Satz, die vorfeldfähig ist.
+\index{Satzglied}
+}
+
+Die Definition ist nicht ganz wasserdicht, weil auch Material ins Vorfeld gestellt werden kann, das traditionell nicht als Satzglied angesehen wird.
+Auf S.~\pageref{abs:satzgliedfail} gibt es dafür das Beispiel (\ref{ex:prd91011}) und eine kurze Diskussion.
+Vgl.\ auch Übung~\ref{u103}.
+Der Begriff wurde hier vor allem wegen seiner Relevanz in der Didaktik aufgenommen.
+Eine weitere besondere Art von Konstituenten brauchen wir übrigens nicht erst zu testen, weil sie als trivial gegeben angesehen werden kann: die Wortform (vgl.\ schon Abschnitt~\ref{sec:wortdef}).
+
+\Definition{Atomare syntaktische Konstituenten}{
+\label{satz:atomarekonstituente}
+Die atomaren syntaktischen Konstituenten (die kleinsten nicht weiter analysierbaren Einheiten in der Syntax) sind die syntaktischen Wörter.
+\index{Konstituente!atomar}
+}
+
+Definition~\ref{satz:atomarekonstituente} sagt also aus, dass unabhängig davon, wie kompliziert die hierarchische Struktur eines Satzes ist, jeder Satz letztendlich aus Wörtern besteht.
+Diese Wörter können sehr mittelbare (indirekte) Konstituenten sein, aber sie sind immer Konstituenten.
+Im Gegensatz dazu sind Segmente, Silben, Stämme oder Suffixe keine (auch nicht atomaren) Konstituenten des Satzes, weil die Regularitäten, nach denen sie zusammengefügt werden, nicht die der Syntax sind.
+
+Damit haben wir eine Reihe von Tests an der Hand, die nicht nur Konstituenten an sich ermitteln, sondern sogar unterschiedliche Status von Konstituenten aufzeigen können.
+Wenn mit diesen Tests Konstituentenstrukturen ermittelt wurden, können sie in der Syntax als allgemeine Baupläne kodiert werden, wozu irgendeine Art von Formalismus benötigt wird.
+Wir verwenden keinen rigiden Formalismus, sondern machen uns nur mehr oder weniger vollständige Gedanken über lineare Abfolgen und eventuell nötige hierarchische Gliederungen.
+Zunächst wenden wir uns in einem Exkurs noch einer Folge der Tatsache zu, dass die Grammatik hierarchische Konstituentenstrukturen aufbaut, der strukturellen Ambiguität.
+
+\subsection{Strukturelle Ambiguität}
+
+Nehmen wir einen Satz wie (\ref{ex:strambi}).
+
+\enlargethispage{1\baselineskip}
+\begin{exe}
+  \ex{\label{ex:strambi} Scully sieht den Außerirdischen mit dem Teleskop.}
+\end{exe}
+
+Dieser Satz hat zwei mögliche Lesarten.
+Einerseits kann das Teleskop das Werkzeug sein, dass Scully benutzt, um den Außerirdischen sehen zu können.
+Andererseits beschreibt der Satz auch eine Situation, in der der Außerirdische ein Teleskop dabei hat und Scully ihn ohne Hilfsmittel sieht.
+Dieser Bedeutungsunterschied kann nun auf einen syntaktischen zurückgeführt werden, die Analysen sind in (\ref{ex:strambiana}) gegeben.
+
+\begin{exe}
+  \ex\label{ex:strambiana}
+  \begin{xlist}
+    \ex{\label{ex:strambianaa} [Scully sieht [den Außerirdischen] [mit dem Teleskop]].}
+    \ex{\label{ex:strambianab} [Scully sieht [den Außerirdischen mit dem Teleskop]].}
+  \end{xlist}
+\end{exe}
+
+Im ersten Fall bildet \textit{den Außerirdischen mit dem Teleskop} keine Konstituente, sondern [\textit{den Außerirdischen}] und [\textit{mit dem Teleskop}] sind separate Satzglieder.
+Im zweiten Fall ist [\textit{den Außerirdischen mit dem Teleskop}] als Ganzes ein Satzglied, das [\textit{mit dem Teleskop}] als Teilkonstituente enthält.
+Solche strukturellen Ambiguitäten kommen häufig vor, und alle möglichen Analysen sind aus Sicht der Grammatik jeweils gleichberechtigt, wenn vielleicht auch eine aus rein inhaltlichen Gründen als die naheliegende erscheint und oft die alternativen Analysen deswegen übersehen werden.
+
+\Definition{Strukturelle Ambiguität}{
+\label{def:strambi}
+Strukturelle Ambiguität liegt dann vor, wenn ein Satz mehrere mögliche Konstituentenanalysen hat.
+Oft hat dies auch eine Doppeldeutigkeit in der Bedeutung zur Folge.
+\index{Ambiguität}
+}
+
+Im nächsten Abschnitt wird abschließend die Art und Weise vorgestellt, mit der in den folgenden Kapiteln die deskriptiven Generalisierungen über die Konstituentenstrukturen des Deutschen notiert werden.
+
+\section{Topologische Struktur und Konstituentenstruktur}
+
+\label{sec:topokons}
+
+\subsection{Terminologie zu Baumdiagrammen}
+
+\label{sec:baumterminologie}
+
+\index{Baumdiagramm}
+
+Da jetzt vermehrt Baumdiagramme verwendet werden, soll hier kurz eine Terminologie eingeführt werden, mit der man über diese Diagramme redet.
+Ein Baum besteht aus sogenannten Knoten, die durch Äste oder Kanten verbunden sind.
+Die Knoten werden beschriftet mit beliebigen Informationen.
+In diesem Abschnitt sind es der Einfachheit halber abstrakte Großbuchstaben, in konkreten Analysen Namen und Merkmale von linguistischen Einheiten.
+In Abbildung~\ref{fig:baumschema} ist ein Baum mit den Knoten A, B und C abgebildet.
+Die Kanten verbinden C und A sowie C und B.
+
+\index{Baumdiagramm!Kante}
+
+\begin{figure}[h!]
+  \centering
+  \Tree{
+    & \K{C}\B{dl}\B{dr} \\
+    \K{A} && \K{B}
+  }
+  \caption{Einfacher Baum}
+  \label{fig:baumschema}
+\end{figure}
+
+\index{Baumdiagramm!Tochterknoten}
+\index{Baumdiagramm!Mutterknoten}
+
+Die Kanten sind gerichtet, zeigen also immer von oben nach unten, wobei der obere Knoten an der Kante Mutterknoten und der untere Tochterknoten genannt wird.
+In Abbildung~\ref{fig:baumschema} ist C der Mutterknoten und A und B sind Tochterknoten.
+Zwei verschiedene Tochterknoten eines Mutterknotens werden, wie zu erwarten, Schwestern genannt (\zB A und B in Abbildung~\ref{fig:baumschema}).
+In einem Baum gibt es immer genau einen Knoten (ganz oben) ohne Mutterknoten, die Wurzel.
+Jeder andere Knoten hat genau einen Mutterknoten.
+In Abbildung~\ref{fig:ctree} bis \ref{fig:notree2} finden sich noch ein paar Beispiele für Bäume und Nicht-Bäume.
+
+\begin{figure}[h!]
+  \centering
+  \Tree{
+    & \K{C}\B{dl}\B{dr} \\
+    \K{A} && \K{B}\B{dl}\B{d}\B{dr} \\
+    & \K{D} & \K{E} & \K{F} \\
+  }
+  \caption{Komplexerer Baum}
+  \label{fig:ctree}
+\end{figure}
+
+\begin{figure}[h!]
+  \centering
+  \Tree{
+    \K{C}\B{dr} && \K{B}\B{dl} \\
+    & \K{A} \\
+  }
+  \caption[Beispiel für Nicht-Baum]{Beispiel für Nicht-Baum (mehrere Wurzeln, A hat mehrere Mutterknoten)}
+  \label{fig:notree1}
+\end{figure}
+
+\begin{figure}[h!]
+  \centering
+  \Tree{
+    &&& \K{G}\B{dll}\B{drr}\B{ddr} \\
+    & \K{E}\B{dl}\B{dr} &&&& \K{F}\B{dl}\B{dr} \\
+    \K{A} && \K{B} && \K{C} && \K{D} \\
+  }
+  \caption[Anderes Beispiel für Nicht-Baum]{Anderes Beispiel für Nicht-Baum (C hat mehrere Mutterknoten)}
+  \label{fig:notree2}
+\end{figure}
+
+Schließlich muss erwähnt werden, dass die eckigen Klammern in Textbeispielen eine Konstituentenstruktur genauso wie ein Baum beschreiben können.
+Was in einem Baum unter einem Knoten hängt, wird im geklammerten Textbeispiel in eine eckige Klammer gesetzt.
+Ein Baum wie in Abbildung~\ref{fig:baumschema} entspricht einer Klammerstruktur [$_\mathrm{C}$~A~B~].
+Die Beschriftung des Mutterknotens wird jeweils tiefgestellt an die öffnende Klammer geschrieben.
+Der Baum in Abbildung~\ref{fig:ctree} kann also wie in (\ref{ex:konst3999}) geschrieben werden.
+
+\begin{exe}
+  \ex{\label{ex:konst3999} [$_\textrm{C}$~A~[$_\textrm{B}$~D~E~F~]~]}
+\end{exe}
+
+\subsection{Topologische Struktur}
+
+\label{sec:topologische}
+
+Wir müssen nun überlegen, wie wir die Baupläne für Konstituentenstrukturen aufschreiben wollen.
+Bisher haben wir für Baupläne und Analysen Baumdiagramme verwendet, \zB in Abbildung~\ref{fig:satzbauhyp} und Abbildung~\ref{fig:bspsatzpre}.
+In jedem Baum haben die Teilkonstituenten eine Reihenfolge (von links nach rechts entlang den Ästen des Baumes), und durch den Prozess der mehrfachen Zusammensetzung schichtet sich eine hierarchische Struktur auf.
+In Zukunft soll ein Phrasenschema den topologischen Bauplan angeben, aus dem in der Analyse Bäume gebaut werden können.
+Das Schema gibt an, welche Teilkonstituenten in welcher Reihenfolge vorkommen können, im zugehörigen Teilbaum hängen sie alle unter einem Knoten.
+Die Phrasenschemata werden hier didaktisch vereinfacht wie in Abbildung~\ref{fig:strschembsp} aufgeschrieben.
+Wiederholbarkeit wird durch * angedeutet, Optionalität durch Einklammerung (\ ).
+Das Symbol für den Kopf der Phrase wird fettgedruckt (zum Kopf vgl.\ Abschnitt~\ref{sec:koepfevalenzmaximalitaet}).
+
+\begin{figure}[!h]
+  \centering
+  \begin{tabular}{c|c|c|c|}
+    \cline{2-4}
+    NP = & (Artikelwort) & (A)* & \textbf{N} \\
+    \cline{2-4}
+  \end{tabular}
+  \caption{Vorläufiges Phrasenschema für die Nominalphrase (NP)}
+  \label{fig:strschembsp}
+\end{figure}
+
+Mit dem Schema in Abbildung~\ref{fig:strschembsp} definieren wir, dass eine NP aus einem optionalen Artikelwort, beliebig vielen optionalen Adjektiven (A)* und einem obligatorischen N-Kopf besteht.%
+\footnote{Ellipsen wie \zB \textit{ein rotes Auto und ein grünes}, wo ein N-Kopf ausgelassen wurde, statt ihn zu wiederholen, betrachten wir nicht.}
+Bezüglich der Bäume, die wir damit konstruieren können oder wollen, gelten nun aber weitere Überlegungen.
+Daraus kann der Baum in Abbildung~\ref{fig:vnflach} als Analyse für \textit{ein leckerer geräucherter Tofu} gebaut werden.
+Es folgt im nächsten Abschnitt noch die genauere Einführung des Phrasenbegriffs und der mit ihm verbundenen weiteren Begriffe.
+
+\begin{figure}[!h]
+  \centering
+  \Treek[2]{2}{
+    &&& \K{NP}\B{dlll}\B{dll}\B{dl}\B{d} \\
+    \K{Artikel}\B{d} & \K{A}\B{d} & \K{A}\B{d} & \K{\textbf{N}}\B{d} \\
+    \K{\textit{ein}} & \K{\textit{leckerer}} & \K{\textit{geräucherter}} & \K{\textit{Tofu}} \\
+  }
+  \caption{Nominalphrase (NP)}
+  \label{fig:vnflach}
+\end{figure}
+
+\subsection{Phrasen, Köpfe und Merkmale}
+
+\label{sec:koepfevalenzmaximalitaet}
+
+Die Phrase ist neben dem Wort der wichtigste Baustein in der Syntax.
+Während die Wörter die kleinsten Konstituenten und die Sätze die größten sind, bilden die Phrasen genau die Zwischenebene, die es uns erlaubt, Sätze eben gerade nicht als Abfolgen von Wörtern zu beschreiben,
+sondern eleganter und effizienter als aus bereits größeren Konstituenten zusammengesetzt.
+Die Idee ist dabei, dass (fast) jedes Wort als Kopf zunächst eine eigene Phrase bildet, innerhalb derer es diejenigen anderen Wörter bzw.\ Phrasen zu sich nimmt, die von ihm abhängen.
+Erst wenn die Phrase vollständig ist, kann sie in Sätze oder andere Phrasen eingesetzt werden.
+Wir illustrieren zunächst in (\ref{ex:depillu1}) und (\ref{ex:depillu2}), was es bedeutet, dass Phrasen oder Wörter von Köpfen abhängen.
+
+\begin{exe}
+  \ex\label{ex:depillu1}
+  \begin{xlist}
+    \ex[]{\label{ex:depillu1a} Die Bürger gedenken des Absturzes von Hasloh.}
+    \ex[]{\label{ex:depillu1b} Die Bürger stürmen das Kanzleramt.}
+    \ex[*]{\label{ex:depillu1c} Die Bürger gedenken (des) von Hasloh.}
+    \ex[*]{\label{ex:depillu1d} Die Bürger gedenken Stockhausens von Hasloh.}
+  \end{xlist}
+  \ex\label{ex:depillu2}
+  \begin{xlist}
+    \ex[]{\label{ex:depillu2a} Wir nehmen an, dass supermassive schwarze Löcher existieren.}
+    \ex[]{\label{ex:depillu2b} Wir nehmen an, dass es regnet.}
+    \ex[*]{\label{ex:depillu2c} Wir nehmen an, dass es supermassive regnet.}
+  \end{xlist}
+\end{exe}
+
+\index{Valenz}
+
+In (\ref{ex:depillu1}) ist die Angelegenheit klar.
+Die NPs \textit{des Absturzes} und \textit{das Kanzleramt} saturieren eine Valenzstelle der jeweiligen Verben \textit{gedenken} und \textit{stürmen}.
+Ihre Kasus sind regiert, und ihre grammatische Existenz ist damit vollständig bedingt durch die Anwesenheit ihres Kopfes (des Verbs), erst recht in der spezifischen Kasusform.
+Die von einer Präposition eingeleitete Gruppe \textit{von Hasloh} ist keine Ergänzung oder Angabe zum Verb, aber ihre Anwesenheit im Satz hängt von der Anwesenheit einer Ergänzung des Verbs (\textit{Absturzes}) ab, wie man in (\ref{ex:depillu1c}) und (\ref{ex:depillu1d}) sieht.
+Lässt man das Substantiv weg, wird der Satz ungrammatisch (\ref{ex:depillu1c}), egal ob der Artikel \textit{des} stehenbleibt oder nicht.
+Aber auch wenn wie in (\ref{ex:depillu1d}) die falsche Art von Nomen statt des normalen Substantivs genommen wird (zum Beispiel ein Eigenname), kann man die Präpositionalgruppe \textit{von Hasloh} nicht mehr verwenden.
+Man sollte also \textit{von Hasloh} hier als Ergänzung oder Angabe von \textit{Absturzes} behandeln.
+
+Ähnlich ist es in (\ref{ex:depillu2}).
+Das Adjektiv \textit{supermassive} füllt mit Sicherheit keine Valenzstelle von \textit{Löcher}, aber sein Auftreten hängt eben doch von dem Substantiv \textit{Löcher} ab.
+In einem Satz, in dem kein passendes Substantiv vorkommt, wie in (\ref{ex:depillu2b}), kann es nicht stehen, was zur Ungrammatikalität von (\ref{ex:depillu2c}) führt.
+Ob es sich um Ergänzungen oder Angaben handelt, ist also aus diesem Blickwinkel egal:
+Fast alle syntaktischen Einheiten in einem Satz hängen von einer anderen Einheit im selben Satz ab, können also nur auftreten, wenn diese andere Einheit auch auftritt.
+Diese Relation nennt man auch Dependenz.
+
+\Definition{Dependenz}{
+\label{def:dependenz}
+Eine Konstituente A ist von einer anderen Konstituente B im selben Satz abhängig, wenn die Anwesenheit von B eine Bedingung für die Anwesenheit und\slash oder die Form von A ist.
+Dependenz ist nie zirkulär, keine Konstituente ist also von sich selber direkt oder indirekt abhängig.
+\index{Dependenz}
+}
+
+Als Faustregel kann gelten, dass Ergänzungen zu dem Wort dependent sind, dessen Valenzstelle sie saturieren, so wie \textit{des Absturzes} zu \textit{gedenken} in (\ref{ex:depillu1a}).
+Außerdem sind alle Angaben zu den Wörtern dependent, welche sie modifizieren, so wie \textit{supermassive} zu \textit{Löchern} in (\ref{ex:depillu2a}), wobei im nominalen Bereich im Deutschen dann Kongruenzrelationen bestehen.
+
+Jetzt können wir die Phrase, die einfach nur ein besonderer Typ von syntaktischer Konstituente ist, genauer definieren.
+Es bietet sich an, den Begriff des Kopfes zusammen mit dem der Phrase zu definieren, da Phrasen typischerweise einen Kopf haben.
+
+\newpage
+
+\Definition{Phrase und Kopf}{
+\label{def:phrase}
+Eine Phrase ist eine syntaktische Konstituente, in der genau ein Wort der Kopf ist.
+Innerhalb der Phrase stehen (im Basisfall) alle anderen Wörter und Phrasen, die zu dem Kopf dependent sind.
+Die grammatischen Merkmale der Phrase werden durch die Merkmale des Kopfes bestimmt.
+\index{Kopf!Phrase}
+}
+
+Den letzten Satz von Definition~\ref{def:phrase} müssen wir noch illustrieren.
+Dazu können wir wieder die Beispiele (\ref{ex:depillu1}) und (\ref{ex:depillu2}) heranziehen.
+Zunächst können wir feststellen, dass [\textit{des Absturzes von Hasloh}] eine Konstituente ist.%
+\footnote{Um sich dies zu verdeutlichen, können die besprochenen Tests angewendet werden.}
+In dieser Konstituente, genauer gesagt in dieser Phrase, kommen \textit{Absturzes} und \textit{Hasloh} als Köpfe in Frage.
+Beide können die nominale Valenzstelle eines Vollverbs saturieren.
+Nur eines von beiden, nämlich \textit{Absturzes} steht allerdings in dem Kasus, der im Kontext des Satzes der richtige ist, nämlich im Genitiv.
+Dies bedeutet, dass die gesamte Phrase seinem regierenden Verb nur den Genitiv von \textit{Absturzes} zeigt, nicht etwa den Dativ von \textit{Hasloh}.
+Dieser Dativ spielt nur innerhalb der Phrase [\textit{des Absturzes von Hasloh}] -- genauer sogar nur innerhalb von [\textit{von Hasloh}] -- eine Rolle.
+Die grammatischen Eigenschaften der gesamten Phrase werden hingegen vom Kopf, also \textit{Absturzes} bestimmt.
+
+Aus genau diesem Grund benennen wir eine Phrase auch immer nach der Klasse des Kopfes:
+Phrasen mit einem Nomen (N) als Kopf heißen Nominalphrasen (NP), Phrasen mit einem Adjektiv (A) als Kopf heißen Adjektivphrasen (AP) usw., vgl.\ Tabelle~\ref{tab:phrasennamen}.
+Der Kopf einer Phrase ist innerhalb dieser Phrase typischerweise (aber mit Ausnahmen) nicht weglassbar.
+
+\begin{table}[h!]
+  \resizebox{\textwidth}{!}{
+    \begin{tabular}{lll}
+      \lsptoprule
+      \textbf{Kopf} & \textbf{Phrase} & \textbf{Beispiel} \\
+      \midrule
+      Nomen & Nominalphrase (NP) & \textit{die tolle Aufführung} \\
+      Adjektiv & Adjektivphrase (AP) & \textit{sehr schön} \\
+      Präposition & Präpositionsphrase (PP) & \textit{in der Uni} \\
+      Adverb & Adverbphrase (AdvP) & \textit{total offensichtlich} \\
+      Verb & Verbphrase (VP) & \textit{Sarah den Kuchen gebacken hat} \\
+      Komplementierer & Komplementiererphrase (KP) & \textit{dass es läuft} \\
+      \lspbottomrule
+    \end{tabular}
+  }
+  \caption{Phrasenbezeichnungen nach ihren Köpfen}
+  \label{tab:phrasennamen}
+\end{table}
+
+Wenn wir Wörter und alle anderen Einheiten (auch Phrasen) im Rahmen der Grammatik wieder als eine Menge von Merkmalen und Werten definieren, können ganz allgemeine Prinzipien des Phrasenaufbaus ebenfalls anhand von Merkmalen definiert werden.
+Was Tabelle~\ref{tab:phrasennamen} eigentlich illustriert, ist die Merkmalsübereinstimmung zwischen der Phrase und ihrem Kopf.
+Abbildung~\ref{fig:hfp} zeigt schematisch, was gemeint ist.
+
+\begin{figure}[h!]
+  \centering
+  \Treek[4]{4}{
+    && \K{AP}\Below{[\textsc{Klasse}: \textit{\textbf{adj}}, \textsc{Segmente}: \textit{sehr schön}]}\BBel{dll}\BBel{d} \\
+    \K{Ptkl}\Below{[\textsc{Klasse}: \textit{\textbf{ptkl}}, \textsc{Segmente}: \textit{sehr}]} && \K{A}\Below{[\textsc{Klasse}: \textit{\textbf{adj}}, \textsc{Segmente}: \textit{schön}]} \\
+  }
+  \caption{Merkmalsübereinstimmung zwischen Kopf und Phrase}
+  \label{fig:hfp}
+\end{figure}
+
+In einer AP \textit{sehr schön} hat der Kopf \textit{schön} den Wert \textit{adj} für \textsc{Klasse}, weil er ein Adjektiv ist.
+Beim Aufbau der Phrase muss jetzt einfach nur eine Regel oder ein Schema zum Einsatz kommen, das den Wert des \textsc{Klasse}-Merkmals der Phrase mit dem des Kopfes gleichsetzt.
+Der \textsc{Klasse}-Wert des Nicht-Kopfes (hier \textit{ptkl}) ist völlig unwesentlich, wenn wir einmal auf der AP-Ebene angekommen sind.
+Es zeigt sich damit auch, dass Bezeichnungen wie \textit{Wortart} oder \textit{Wortklasse} eigentlich zu kurz gegriffen sind, weil es nicht um Wörter, sondern ganz allgemein um syntaktische Klassen geht.
+Wir bleiben aus Bequemlichkeit bei der Bezeichnung \textit{Wortklasse}.
+
+Natürlich muss nicht nur der Wert des Merkmals \textsc{Klasse} vom Kopf zur Phrase kopiert werden, sondern dies muss auch mit allen anderen für die weitere Strukturbildung nötigen Merkmalen geschehen, vor allem Kasus- und Kongruenzmerkmale.
+Alle zusammen nennt man die entsprechenden Merkmale auch Kopf-Merkmale, und das entsprechende Prinzip, das hier sehr informell angegeben wird, ist das Kopf-Merkmal-Prinzip.
+
+\Satz{Kopf-Merkmal-Prinzip}{
+\label{satz:hfp}
+Die Werte der Kopf-Merkmale des Kopfes und der Phrase, die er bildet, sind immer identisch.
+\index{Kopf-Merkmal-Prinzip}
+}
+
+Bei der konkreten Formulierung der Phrasenschemata in den Kapiteln~\ref{sec:phrasen} und~\ref{sec:saetze} ignorieren wir, wie man dieses Prinzip formal umsetzen würde.
+Die weiterführende Literatur bietet dafür formaler ausgerichtete Werke, in denen vollständige syntaktische Theorien einschließlich genauer Formulierungen des Kopf"=Merkmals"=Prinzips entwickelt werden.
+
+Es bleibt anzumerken, dass wir hier davon ausgehen, dass einige Funktionswörter wie Partikeln oder Artikel keine eigenen Phrasen bilden und direkt in größere Einheiten eingesetzt werden können.
+Eine Partikel oder ein Artikel sind damit niemals Köpfe.
+Auch hierzu (besonders im Fall der Artikel oder Determinierer) haben manche Theorien andere Lösungen entwickelt, bei denen auch diese Wörter Köpfe sind und Phrasen bilden.
+Außerdem wird in Kapitel~\ref{sec:saetze} eine Analyse von unabhängigen Sätzen vertreten, bei der der Satz selber zwar einen eigenen Phrasentyp (Symbol S), aber keinen Kopf hat.
+Die Gründe dafür liegen in der besonderen Art, wie im Deutschen unabhängige Sätze gebildet werden.
+In Kapitel~\ref{sec:phrasen} geht es jetzt aber zunächst einmal um den Aufbau der kleineren Einheiten, also im Prinzip der Phrasen, die in Tabelle~\ref{tab:phrasennamen} genannt sind.
+
+\Zusammenfassung
+
+\begin{enumerate}
+  \item Die Syntax innerhalb der Grammatik versucht, mit so wenig wie möglich Generalisierungen alle Sätze einer Sprache zu beschreiben.
+  \item Wenn eine Syntax eine gegebene Folge von Wörtern auf Basis ihrer Generalisierungen als Satz beschreiben kann, gilt der Satz relativ zu dieser Syntax als grammatisch.
+  \item Idealerweise klassifiziert die Syntax diejenigen Sätze als grammatisch, die auch von Sprechern als akzeptabel klassifiziert werden.
+  \item Sätze in der Grammatik als Folgen von Wörtern zu beschreiben ist nicht zielführend, weil es viel zu viele verschiedene Arten von Wortfolgen gibt, die grammatisch sind.
+  \item Man beschreibt zunächst die Struktur kleinerer Konstituenten (NPs, PPs usw.), aus denen dann noch größere Konstituenten und schließlich Sätze aufgebaut werden.
+  \item Die Konstituententests sind eine Heuristik, mit deren Hilfe man sich einer zielführenden Konstituentenanalyse annähern kann.
+    Sie stellen keine notwendige empirische Grundlage für die Syntax dar.
+  \item Eine Folge von Wörtern kann strukturell ambig sein, also mehr als eine angemessene syntaktische Analyse haben.
+  \item Eine Phrase hat typischerweise einen Kopf, der ihre wesentlichen Merkmale bestimmt (die Kopf-Merkmale).%
+    \footnote{In Kapitel~\ref{sec:saetze} werden Sätze und ähnliche Strukturen allerdings als kopflose Phrasen eingeführt, und diese Aussage gilt dann nur noch für Phrasen, die kleiner als satzartige Phrasen sind.}
+  \item Innerhalb einer Phrase sind alle Konstituenten direkt oder indirekt vom Kopf abhängig.
+  \item Syntaxbäume müssen gewissen Regeln entsprechen, \zB dass sie nur einen Wurzelknoten haben.
+\end{enumerate}
+
+\Uebungen
+
+\Uebung \label{u101} Führen Sie für die eingeklammerten potentiellen Konstituenten je zwei Konstituententests Ihrer Wahl durch (vgl.\ Abschnitt~\ref{sec:konstituententestsimeinzelnen}, S.~\pageref{sec:konstituententestsimeinzelnen}) und entscheiden Sie auf Basis dessen, ob es sich um Konstituenten handelt.
+Dass einige der Sätze vielleicht nicht ganz akzeptabel klingen, ist insofern Absicht, als das die Anwendung der Methode etwas erschwert.%
+\footnote{Siglen der Belege im DeReKo: A09\slash DEZ.02319, BRZ09\slash SEP.15424, HMP08\slash FEB.00096, NON07\slash OKT.07665, A97\slash DEZ.42679, K97\slash MAI.35888, DIV\slash APS.00001, DIV\slash APS.00001, NUZ06\slash MAR.01677}
+
+\begin{enumerate}\Lf
+  \item So nimmt er sich [während den Spielen] auch zurück, denn die taktischen Anweisungen gibt es vorher.
+  \item Parteichef wird [sehr wahrscheinlich Sigmar Gabriel].
+  \item Ein Vermieter kann mittels eines Formularvertrags keine Betriebskosten für die Reinigung eines Öltanks [auf den Mieter umlegen].
+  \item Die beste Möglichkeit vergab ein [Gäste-Stürmer, dessen Schuss knapp am Gehäuse drüber ging].
+  \item Die vier Musiker lösen ihre Band nach dreieinhalb Jahren auf, [weil sich der Sänger musikalisch verändern will].
+  \item In der Gemeindestube weiß man von diesen konkreten Plänen [überhaupt nichts].
+  \item Wagas suchte eifrig nach einem dickeren Ast, [um zu helfen].
+  \item Wagas suchte eifrig [nach einem] dickeren Ast, um zu helfen.
+  \item Auch viele Beobachter sprachen von einer sterilen Debatte [ohne spannende Passagen].
+\end{enumerate}
+
+\Uebung \label{u102} Die in folgenden Sätzen eingeklammerten Wörter sind Konstituenten.
+Sind sie Satzglieder oder nicht?
+Verwenden Sie nach dem Muster des ersten Beispiels nur den Vorfeldtest, um die Frage zu entscheiden.%
+\footnote{Siglen der Belege im DeReKo: BRZ06\slash MAI.05936, A09\slash DEZ.02319, RHZ04\slash JUL.20475, HMP08\slash FEB.00096, NON07\slash OKT.07665, A97\slash DEZ.42679, K97\slash MAI.35888, K97\slash MAI.35888, DIV\slash APS.00001, RHZ98\slash AUG.01367, K98\slash SEP.69009}
+
+\begin{enumerate}\Lf
+  \item Es wird spannend sein, [den Wahlabend so direkt zu verfolgen und den direkten Kontakt mit dem Wähler zu erleben].
+    \begin{itemize}
+      \item \VfTest [Den Wahlabend so direkt zu verfolgen und den direkten Kontakt mit dem Wähler zu erleben], wird spannend sein.
+    \end{itemize}
+  \item Es wird spannend sein, den Wahlabend so direkt zu verfolgen und den direkten Kontakt [mit dem Wähler] zu erleben.
+  \item So nimmt [er] sich während den Spielen auch zurück, denn die taktischen Anweisungen gibt es vorher.
+  \item Dann hätten die 37 [sehr wahrscheinlich] problemlos in Deutschland Asyl erhalten.
+  \item Ein Vermieter kann mittels eines Formularvertrags keine Betriebskosten für die Reinigung eines Öltanks auf [den Mieter] umlegen.
+  \item Die beste Möglichkeit vergab [ein Gäste-Stürmer, dessen Schuss knapp am Gehäuse drüber ging].
+  \item Die vier Musiker lösen ihre Band nach dreieinhalb Jahren auf, [weil sich der Sänger musikalisch verändern will].
+  \item In [der Gemeindestube] weiß man von diesen konkreten Plänen überhaupt nichts.
+  \item In der Gemeindestube weiß man [von diesen konkreten Plänen] überhaupt nichts.
+  \item Wagas suchte eifrig nach einem dickeren Ast, [um zu helfen].
+  \item Dort erwarteten sie [außer Kaffee und Kuchen] gekühlte Getränke und Leckeres vom Grill.
+  \item Alle [bis auf den Pürierstab-Kollegen] grinsten oder kudderten.
+\end{enumerate}
+
+\Uebung[\tristar] \label{u103} Diskutieren Sie (\ref{ex:dekuthy}) aus \citet[1--2]{Dekuthy2002} in Kontrast zu (\ref{ex:syn5555}) und (\ref{ex:syn5556}) auf S.\ \pageref{ex:syn5555} als Problem für den Satzgliedbegriff (Definition~\ref{def:satzglied} auf S.\ \pageref{def:satzglied}).
+Gehen Sie dabei davon aus, dass der Satz akzeptabel bzw.\ grammatisch ist.
+
+\begin{exe}
+  \ex{\label{ex:dekuthy} Über Syntax hat Sarah sich ein Buch ausgeliehen.}
+\end{exe}

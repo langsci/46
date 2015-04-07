@@ -1,0 +1,228 @@
+%add all your local new commands to this file
+
+\newenvironment{listLileveli}{\begin{enumerate}}{\end{enumerate}}
+\newenvironment{listLilevelii}{\begin{enumerate}}{\end{enumerate}}
+\newenvironment{listLileveliii}{\begin{enumerate}}{\end{enumerate}}
+\newenvironment{listLileveliv}{\begin{enumerate}}{\end{enumerate}}
+\newenvironment{listLiileveli}{\begin{itemize}}{\end{itemize}}
+\newenvironment{listLiilevelii}{\begin{itemize}}{\end{itemize}}
+\newenvironment{listLiileveliii}{\begin{itemize}}{\end{itemize}}
+\newenvironment{listLiileveliv}{\begin{itemize}}{\end{itemize}} 
+
+% define own variables for hacks
+\newlength{\myBuffer}
+
+% formatting
+\newcommand{\Lf}{
+  \setlength{\itemsep}{1pt}
+  \setlength{\parskip}{0pt}
+  \setlength{\parsep}{0pt}
+}
+
+% all sorts of shortcuts
+\newcommand{\HStrut}[1]{\rule{0pt}{#1pt}}
+\newcommand{\VStrut}[1]{\rule{#1pt}{0pt}}
+\newcommand{\Sw}[1]{\begin{sideways}#1\end{sideways}}
+\newcommand{\Ast}{*}
+\definecolor{lg}{rgb}{.8,.8,.8}
+\newcommand{\Dim}{\cellcolor{lg}}
+\newcommand{\Tidx}[1]{\ensuremath{_{\mathnormal{#1}}}}
+\newcommand{\Rollen}[1]{\ensuremath{\langle}#1\ensuremath{\rangle}}
+\newcommand{\Qc}[1]{\texttt{#1}}
+\newcommand{\acr}[1]{{#1}}
+\newcommand{\ak}[1]{#1\marginpar{\textcolor{textblue}{\footnotesize #1}}}
+\newcommand{\mar}[1]{\marginpar{\textcolor{textblue}{\footnotesize #1}}}
+\newcommand{\zB}{z.\thinspace{}B.~}
+\newcommand{\oA}{o.\thinspace{}ä.~}
+\newcommand{\idR}{i.\,d.\,R.\ }
+\newcommand{\BBel}[1]{\B[-5]{#1}}
+\newcommand{\Bewegtes}[1]{\ensuremath{_{\textrm{#1}}}}
+\newcommand{\ORi}{\Bewegtes{1}}
+\newcommand{\ORii}{\Bewegtes{2}}
+\newcommand{\ORiii}{\Bewegtes{3}}
+\newcommand{\ORiv}{\Bewegtes{4}}
+\newcommand{\ORv}{\Bewegtes{5}}
+\newcommand{\Spur}[1]{t\ensuremath{_\mathrm{#1}}}
+\newcommand{\Ti}{\Spur{1}}
+\newcommand{\Tii}{\Spur{2}}
+\newcommand{\Tiii}{\Spur{3}}
+\newcommand{\Tiv}{\Spur{4}}
+\newcommand{\Akz}{\ensuremath{^\prime}}
+\newcommand{\PhPr}[1]{\ensuremath{\stackrel{\textnormal{#1\ }}{\Longrightarrow}}}
+\newcommand{\KTArr}[1]{\ensuremath{\xrightarrow{\textnormal{#1}}}}
+\newcommand{\FTest}{\KTArr{FTest}~}
+\newcommand{\VfTest}{\KTArr{VfTest}~}
+\newcommand{\ProTest}{\KTArr{ProTest}~}
+\newcommand{\KoorTest}{\KTArr{KoorTest}~}
+\newcommand{\onestar}{◆◇◇}
+\newcommand{\twostar}{◆◆◇}
+\newcommand{\tristar}{◆◆◆}
+\newcommand{\RPr}{\ensuremath{\ll}}
+\newcommand{\RUn}{\ensuremath{\sim}}
+\newcommand{\REq}{\ensuremath{=}}
+\newcommand{\Opsional}{★~}
+\newcommand{\Nono}{---}
+
+% xyling
+\newcommand{\QQw}[1][-]{\POS[]+(-4,-1)-(4,4);\POS[]+(0,-1)+(8,4)**\frm{#1}}
+\newcommand{\QQww}[1][-]{\POS[]+(-6,-1)-(6,4);\POS[]+(0,-1)+(12,4)**\frm{#1}}
+\newcommand{\QQwww}[1][-]{\POS[]+(-8,-1)-(8,4);\POS[]+(0,-1)+(16,4)**\frm{#1}}
+\newcommand{\QQwwww}[1][-]{\POS[]+(-10,-1)-(10,4);\POS[]+(0,-1)+(20,4)**\frm{#1}}
+\newcommand{\BSd}[1]{\Bkk{-0.3,0}{-0.3,0}{#1}\Bkk{0.3,0}{0.3,0}{#1}}
+\newcommand{\BLd}[1]{\B{#1}\Bkk{-3,0}{-3,0}{#1}}
+\newcommand{\BRd}[1]{\B{#1}\Bkk{3,0}{3,0}{#1}}
+\newcommand{\Bbeldash}[2][0]{\POS[]-(0,9)\POS+(0,#1)\ar@{--}[#2]+(0,2)}
+\newcommand{\Bbel}[1]{\Bk{-4}{0}{#1}}
+
+% boxes and stuff for definitions, axioms etc.
+\definecolor{textblue}{rgb}{0,0,.5}
+\definecolor{textred}{rgb}{.5,0,0}
+\definecolor{textgreen}{rgb}{0,.5,0}
+\definecolor{lightblue}{rgb}{.9,.9,1}
+\definecolor{lightgreen}{rgb}{.9,1,.9}
+\definecolor{lightred}{rgb}{1,.9,.9}
+\definecolor{lightyellow}{rgb}{1,1,.8}
+\definecolor{lightgray}{rgb}{.9,.9,.9}
+
+\newcommand{\htb}[4][] % /1:headline/2:color/3:width/4:text/
+{
+	\vspace{0.2cm}
+	\noindent\colorbox{#2}{
+	\begin{minipage}[h]{#3}
+	  \ifthenelse{\equal{#1}{}}{}{\large \textbf{#1}\newline}
+		\rmfamily\normalsize #4 \hfill
+	\end{minipage}
+	}
+	\vspace{0.2cm}
+}
+
+
+\newcommand{\htbb}[4][] % /1:headline/2:color/3:width/4:text/
+{
+	\vspace{0.2cm}
+	\noindent\colorbox{#2}{
+	\begin{boxedminipage}[h]{#3}
+		\ifthenelse{\equal{#1}{}}{}{\large \textbf{#1}\newline}
+		\rmfamily\normalsize #4 \hfill
+	\end{boxedminipage}
+	}
+	\vspace{0.2cm}
+}
+
+
+% bookkeeping of own environments for definitions etc.
+\newlistof[chapter]{dgdef}{dgd}{Verzeichnis der Definitionen}
+\newlistof[chapter]{dgsatz}{dgs}{Verzeichnis der Sätze}
+
+\newcounter{deskgram-ziel}
+\newcounter{deskgram-ex}
+\newcounter{deskgram-strsch}
+\newcounter{deskgram-wfilt}
+\newcounter{deskgram-pholproz}
+
+% Fix spacing between numbers and caption in list of figures etc.
+\makeatletter
+     \renewcommand*\l@figure{\@dottedtocline{1}{1em}{3.2em}}
+     \renewcommand*\l@table{\@dottedtocline{1}{1em}{3.2em}}
+     \renewcommand*\l@dgdef{\@dottedtocline{1}{1em}{3.2em}}
+     \renewcommand*\l@dgsatz{\@dottedtocline{1}{1em}{3.2em}}
+\makeatother
+
+% Vertiefungs-Floats
+\newfloat{deskgram-vertief}{thp}{vert}
+\floatname{deskgram-vertief}{Vertiefung}
+\newcommand{\BVertiefung}[2]{
+  \refstepcounter{deskgram-vertief}
+  \begin{deskgram-vertief}
+    \begin{minipage}{\textwidth}
+      \vspace{.3cm}
+      \rule{\textwidth}{1pt}
+      \begin{center}
+	\textbf{Vertiefung \arabic{deskgram-vertief} --- #1}
+      \end{center}
+      #2
+
+      \rule{\textwidth}{1pt}
+    \end{minipage}
+  \end{deskgram-vertief}
+}
+
+% if not using hyperref, redefine this as empty:
+\newcommand{\Phantom}{\phantomsection}
+
+% special reading aids
+\definecolor{bggray}{rgb}{0.9,0.9,0.9}
+\newcommand{\Tu}[1]{
+  \vspace{0.1cm}
+  \begin{center}
+    \colorbox{bggray}{
+      \begin{minipage}[h]{\textwidth-4.5\fboxsep}
+	☞~#1
+      \end{minipage}
+    }
+  \end{center}
+  \vspace{0.1cm}
+}
+
+\newcommand{\Definition}[2]{\refstepcounter{dgdef}\vspace{0.2cm}\htb[Definition \thechapter.\arabic{dgdef}: \textit{#1}]{lightgray}{\textwidth-4.5\fboxsep}{#2}\vspace{0.2cm}}
+
+\newcommand{\WFilt}[3]{\refstepcounter{deskgram-wfilt}\vspace{0.2cm}\htb[Wortklassenfilter \arabic{deskgram-wfilt}: \textit{#1}]{lightgray}{\textwidth-4.5\fboxsep}{\textbf{Anwendungsbereich}: #2 \newline#3}\vspace{0.2cm}}
+
+\newcommand{\WFiltTree}[6]{
+  \refstepcounter{deskgram-wfilt}
+  \vspace{0.2cm}
+  \htb[Wortklassenfilter \arabic{deskgram-wfilt}: \textit{#1}]{lightgray}{\textwidth-4.5\fboxsep}{
+    \label{#2}
+    \vspace{-0.5cm}
+    \begin{center}
+      \Treek[1]{3}{
+	&& \K{#3}\B{d} && \\
+	&& \K{#4}\B{dl}_{\textrm{Ja}}\B{dr}^{\textrm{Nein}} && \\
+	& \K{#5} && \K{#6} & \\
+      }
+    \end{center}
+  }
+  \vspace{0.2cm}
+  }
+
+
+\newcommand{\Satz}[2]{\refstepcounter{dgsatz}\vspace{0.2cm}\htb[Satz \thechapter.\arabic{dgsatz}: \textit{#1}]{lightgray}{\textwidth-4.5\fboxsep}{#2}\vspace{0.2cm}}
+
+\newcommand{\PholProz}[2]{\refstepcounter{deskgram-pholproz}\vspace{0.2cm}\htb[Prozess \arabic{deskgram-pholproz}: \textit{#1}]{lightgray}{\textwidth-4.5\fboxsep}{\vspace{-0.5cm}\begin{center}#2\end{center}\vspace{-0.5cm}}\vspace{0.5cm}}
+
+\newcommand{\KTest}[2]{\vspace{0.2cm}\htb[#1]{lightgray}{\textwidth-4.5\fboxsep}{#2}\vspace{0.2cm}}
+
+\newcommand{\Phrasenschema}[2]{\refstepcounter{deskgram-strsch}\vspace{0.2cm}\htb[Phrasenschema \arabic{deskgram-strsch}: \textit{#1}]{lightgray}{\textwidth-4.5\fboxsep}{\vspace{-0.4cm}\begin{center}#2\end{center}}\vspace{0.2cm}}
+
+\newcommand{\WeitereLiteratur}{
+  \Phantom
+  \addcontentsline{toc}{chapter}{Weiterführende Literatur zu \thepart}
+  \chapter*{Weiterführende Literatur zu \thepart}
+  \markboth{Weiterführende Literatur zu \thepart}{Weiterführende Literatur zu \thepart}
+}
+
+\newcommand{\Zusammenfassung}{
+  \clearpage
+  \Phantom
+  \addcontentsline{toc}{section}{Zusammenfassung von Kapitel \thechapter}
+  \section*{Zusammenfassung von Kapitel \thechapter}
+  \markboth{Zusammenfassung von Kapitel \thechapter}{Zusammenfassung von Kapitel \thechapter}
+}
+
+\newcounter{Exer}[chapter]
+
+\newcommand{\Uebung}[1][\twostar]{\par\medskip\refstepcounter{Exer}\noindent\textbf{Übung~\arabic{Exer}}~#1\ }
+
+\newcommand{\Uebungen}{
+  \clearpage
+  \Phantom
+  \addcontentsline{toc}{section}{Übungen zu Kapitel \thechapter}
+  \section*{Übungen zu Kapitel \thechapter}
+  \markboth{Übungen zu Kapitel \thechapter}{Übungen zu Kapitel \thechapter}
+  \setcounter{equation}{0}
+}
+
+\newcommand{\Loesungen}[2][\clearpage]{#1\section*{Zu Kapitel \ref{#2}}}
+\newcommand{\Loesung}[1]{\subsection*{Übung \ref{#1}}}
+
+\renewcommand{\Phantom}{}
