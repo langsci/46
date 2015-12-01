@@ -1,19 +1,24 @@
 \documentclass[number=2
-                ,series=tbls,
-                ,isbn=978-3-944675-53-4,
-                ,url=http://langsci-press.org/catalog/book/46,
+            ,series=tbls,
+            ,isbn=978-3-944675-53-4,
+            ,url=http://langsci-press.org/catalog/book/46,
 	        ,output=long
 	        %,blackandwhite
-% 		,smallfont
-%  	        ,draftmode  
-		,biblatex
+ 		    %,smallfont
+  	        %,draftmode  
+			,biblatex
 		  ]{LSP/langsci}    
-  
+
 \usepackage{localmetadata}
 \usepackage{localpackages}
 \usepackage{localhyphenation}
 \usepackage{localcommands}
 \usepackage{authorindex}
+
+\usepackage{draftwatermark}
+\SetWatermarkFontSize{32pt}
+\SetWatermarkText{Entwurf der 2.\ Auflage (\today)}
+\SetWatermarkLightness{0.9}
 
 \bibliography{localbibliography}
 
@@ -21,7 +26,8 @@
 %\includeonly{chapters/grammatik}
 %\includeonly{chapters/grundbegriffe}
 %\includeonly{chapters/phonetik}
-%\includeonly{chapters/phonologie}
+\includeonly{chapters/phonologie}
+%\includeonly{chapters/phonetik,chapters/phonologie}
 %\includeonly{chapters/wortklassen}
 %\includeonly{chapters/morphologie}
 %\includeonly{chapters/wortbildung}
@@ -44,56 +50,56 @@
 \tableofcontents      
 
 \mainmatter         
-% 
-% \include{chapters/einleitung}
-% 
-% \part{Sprache und Sprachsystem}
-% 
-% \include{chapters/grammatik}
-% \include{chapters/grundbegriffe}
-% 
-% \part{Laut und Lautsystem}\label{part:laut}
-% 
-% \include{chapters/phonetik}
-% \include{chapters/phonologie}
-% 
-% \part{Wort und Wortform}\label{part:wort}
-% 
-% \include{chapters/wortklassen}
-% \include{chapters/morphologie}
-% \include{chapters/wortbildung}
-% \include{chapters/nomina}
-% \include{chapters/verben}
-% 
-% \part{Satz und Satzglied}\label{part:syntax}
-% 
-% \include{chapters/konstituentenstruktur}
-% \include{chapters/phrasen}
-% \include{chapters/saetze}
-% \include{chapters/relationen}
-% 
-% \part{Sprache und Schrift}\label{part:schrift}
-% \include{chapters/phonschrift}
-% \include{chapters/andereschrift}
-% 
-% \include{chapters/loesungen}
-% \clearpage
-% 
-% \backmatter
-% 
-% \phantomsection
-% \addcontentsline{toc}{chapter}{Bibliographie}
-% \begin{sloppypar}
-%   \printbibliography
-% \end{sloppypar}
-% \clearpage
-%    
-% \phantomsection
-% \input{indices}
-% \addcontentsline{toc}{chapter}{Index}
-% \ohead{Index} 
-% \begin{flushleft}
-%   \printindex
-% \end{flushleft}
+
+\include{chapters/einleitung}
+
+\part{Sprache und Sprachsystem}
+
+\include{chapters/grammatik}
+\include{chapters/grundbegriffe}
+
+\part{Laut und Lautsystem}\label{part:laut}
+
+\include{chapters/phonetik}
+\include{chapters/phonologie}
+
+\part{Wort und Wortform}\label{part:wort}
+
+\include{chapters/wortklassen}
+\include{chapters/morphologie}
+\include{chapters/wortbildung}
+\include{chapters/nomina}
+\include{chapters/verben}
+
+\part{Satz und Satzglied}\label{part:syntax}
+
+\include{chapters/konstituentenstruktur}
+\include{chapters/phrasen}
+\include{chapters/saetze}
+\include{chapters/relationen}
+
+\part{Sprache und Schrift}\label{part:schrift}
+\include{chapters/phonschrift}
+\include{chapters/andereschrift}
+
+\include{chapters/loesungen}
+\clearpage
+
+\backmatter
+
+\phantomsection
+\addcontentsline{toc}{chapter}{Bibliographie}
+\begin{sloppypar}
+  \printbibliography
+\end{sloppypar}
+\clearpage
+   
+\phantomsection
+\input{indices}
+\addcontentsline{toc}{chapter}{Index}
+\ohead{Index} 
+\begin{flushleft}
+  \printindex
+\end{flushleft}
 
 \end{document} 

@@ -3,7 +3,6 @@ MI = makeindex
 BX = bibtex
 
 FILEN = schaefer-egbd
-REMOTE = rsling@dgm07.hpsg.fu-berlin.de:/home/rsling/public_html/
 TEXFLAGS =
 #TEXFLAGS = -interaction=nonstopmode
 PREFLAGS = -no-pdf
@@ -26,5 +25,3 @@ all:
 view:
 	evince $(FILEN).pdf &
 
-scp:
-	scp $(FILEN).pdf $(REMOTE)$(FILEN).pdf
