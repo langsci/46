@@ -80,9 +80,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1.1}Physiologie und Physik}{59}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Segmente und Merkmale}{60}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.2}Das schreibt man, wie man es spricht\ldots }{60}{subsection.3.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.3}Das schreibt man, wie man es spricht\ldots }{61}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.3}Segmente und Merkmale}{62}{subsection.3.1.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.2}Anatomische Grundlagen}{63}{section.3.2}
 \defcounter {refsection}{0}\relax 
@@ -106,59 +106,55 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.3.3.3}Affrikaten}{70}{subsubsection.3.3.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.4}Vibranten}{70}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.4}Laterale Approximanten}{70}{subsection.3.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.5}Laterale Approximanten}{71}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.5}Nasale}{71}{subsection.3.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.6}Nasale}{71}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.6}Vokale}{71}{subsection.3.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.7}Vokale}{72}{subsection.3.3.7}
+\contentsline {subsection}{\numberline {3.3.7}Oberklassen für bestimmte Artikulationsarten}{72}{subsection.3.3.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.8}Oberklassen für bestimmte Artikulationsarten}{73}{subsection.3.3.8}
+\contentsline {section}{\numberline {3.4}Artikulationsort}{74}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.8.1}Sonoranten und Obstruenten}{73}{subsubsection.3.3.8.1}
+\contentsline {subsection}{\numberline {3.4.1}IPA:\ Grundzeichen und Diakritika}{74}{subsection.3.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.8.2}Vokale und Konsonanten}{74}{subsubsection.3.3.8.2}
+\contentsline {subsection}{\numberline {3.4.2}Laryngale}{75}{subsection.3.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Artikulationsort und Transkription}{75}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.3}Uvulare}{75}{subsection.3.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}IPA:\ Grundzeichen und Diakritika}{75}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.4}Velare}{76}{subsection.3.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.2}Laryngale}{76}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.5}Palatale}{77}{subsection.3.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.3}Uvulare}{76}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.6}Palato-Alveolare und Alveolare}{77}{subsection.3.4.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.4}Velare}{77}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.7}Labiodentale und Bilabiale}{77}{subsection.3.4.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.5}Palatale}{78}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.8}Affrikaten und Artikulationsorte}{78}{subsection.3.4.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.6}Palato-Alveolare und Alveolare}{78}{subsection.3.4.6}
+\contentsline {subsection}{\numberline {3.4.9}Vokale und Diphthonge}{78}{subsection.3.4.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.7}Labiodentale und Bilabiale}{78}{subsection.3.4.7}
+\contentsline {subsubsection}{\numberline {3.4.9.1}Vokale}{78}{subsubsection.3.4.9.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.8}Affrikaten und Artikulationsorte}{79}{subsection.3.4.8}
+\contentsline {subsubsection}{\numberline {3.4.9.2}Diphthonge}{81}{subsubsection.3.4.9.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.9}Vokale und Diphthonge}{79}{subsection.3.4.9}
+\contentsline {section}{\numberline {3.5}Phonetisch-phonologische Merkmale}{81}{section.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.9.1}Vokale}{79}{subsubsection.3.4.9.1}
+\contentsline {section}{\numberline {3.6}Phonetische Transkription und Besonderheiten der Schreibung}{82}{section.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.9.2}Diphthonge}{82}{subsubsection.3.4.9.2}
+\contentsline {subsection}{\numberline {3.6.1}Auslautverhärtung}{83}{subsection.3.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Phonetische Transkription und Besonderheiten der Schreibung}{83}{section.3.5}
+\contentsline {subsection}{\numberline {3.6.2}Orthographisches \textit {n}}{83}{subsection.3.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.1}Auslautverhärtung}{83}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.6.3}Silbische Nasale und silbische laterale Approximanten}{84}{subsection.3.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.2}Korrelate von orthographischem \textit {n}}{84}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.6.4}Orthographisches \textit {s}}{85}{subsection.3.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.3}Silbische Nasale und silbische laterale Approximanten}{85}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.6.5}Korrelate von orthographischem \textit {r}}{85}{subsection.3.6.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.4}Korrelate von orthographischem \textit {s}}{85}{subsection.3.5.4}
+\contentsline {section}{Zusammenfassung von Kapitel 3}{87}{table.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.5}Korrelate von orthographischem \textit {r}}{86}{subsection.3.5.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 3}{88}{table.3.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 3}{89}{Item.294}
+\contentsline {section}{Übungen zu Kapitel 3}{88}{Item.287}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Phonologie}{91}{chapter.4}
 \defcounter {refsection}{0}\relax 
@@ -180,41 +176,43 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.2.2.5}/ʁ/-Vokalisierungen}{99}{subsubsection.4.2.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Silben}{100}{section.4.3}
+\contentsline {subsection}{\numberline {4.2.3}Gespanntheit}{100}{subsection.4.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.1}Phonotaktik}{100}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.2.4}Phone und Phoneme}{102}{subsection.4.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.2}Silben und Sonorität}{101}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.3}Silben}{104}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.2.1}Silben}{101}{subsubsection.4.3.2.1}
+\contentsline {subsection}{\numberline {4.3.1}Phonotaktik}{104}{subsection.4.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.2.2}Sonorität}{102}{subsubsection.4.3.2.2}
+\contentsline {subsection}{\numberline {4.3.2}Silben und Sonorität}{105}{subsection.4.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.2.3}Strukturformat für Silben}{106}{subsubsection.4.3.2.3}
+\contentsline {subsubsection}{\numberline {4.3.2.1}Silben}{105}{subsubsection.4.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.3}Der Silbifizierungsprozess}{107}{subsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.2.2}Sonorität}{106}{subsubsection.4.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Phone und Phoneme}{111}{section.4.4}
+\contentsline {subsubsection}{\numberline {4.3.2.3}Strukturformat für Silben}{110}{subsubsection.4.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}Prosodie}{113}{section.4.5}
+\contentsline {subsection}{\numberline {4.3.3}Der Silbifizierungsprozess}{111}{subsection.4.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.1}Einheiten der Prosodie}{113}{subsection.4.5.1}
+\contentsline {section}{\numberline {4.4}Prosodie}{115}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.2}Test zur Ermittlung des Wortakzents}{115}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.4.1}Einheiten der Prosodie}{115}{subsection.4.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.3}Wortakzent im Deutschen}{115}{subsection.4.5.3}
+\contentsline {subsection}{\numberline {4.4.2}Test zur Ermittlung des Wortakzents}{117}{subsection.4.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.4}Einfügung des Glottalverschlusses}{118}{subsection.4.5.4}
+\contentsline {subsection}{\numberline {4.4.3}Wortakzent im Deutschen}{117}{subsection.4.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.5}Prosodisches und phonologisches Wort}{119}{subsection.4.5.5}
+\contentsline {subsection}{\numberline {4.4.4}Einfügung des Glottalverschlusses}{120}{subsection.4.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 4}{121}{dgdef.4.16}
+\contentsline {subsection}{\numberline {4.4.5}Prosodisches und phonologisches Wort}{121}{subsection.4.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 4}{122}{Item.458}
+\contentsline {section}{Zusammenfassung von Kapitel 4}{123}{dgdef.4.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Weiterführende Literatur zu II}{123}{Exer.4.7}
+\contentsline {section}{Übungen zu Kapitel 4}{124}{Item.468}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{\numberline {III}Wort und Wortform}{127}{part.3}
+\contentsline {chapter}{Weiterführende Literatur zu II}{125}{Exer.4.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\numberline {III}Wort und Wortform}{129}{part.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}Wortklassen}{129}{chapter.5}
 \defcounter {refsection}{0}\relax 
@@ -702,8 +700,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Lösungen zu den Übungen}{488}{section*.57}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{541}{section*.137}
+\contentsline {chapter}{Bibliographie}{541}{section*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{541}{chapter*.138}
+\contentsline {chapter}{\nonumberline Literatur}{541}{chapter*.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{542}{section*.139}
+\contentsline {chapter}{Index}{542}{section*.10}

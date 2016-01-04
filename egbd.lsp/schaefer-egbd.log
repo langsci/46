@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  29 DEC 2015 21:03
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  4 JAN 2016 20:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2442,10 +2442,70 @@ LaTeX Font Info:    Font shape `EU1/LinLibertine_R_B.otf(0)/m/sl' in size <10.9
 \tf@toc=\write13
 \openout13 = `schaefer-egbd.toc'.
 
- [12]
-\openout2 = `chapters/einleitung.aux'.
+ [12] [9
 
- (./chapters/einleitung.tex
+
+
+
+
+] [10] [56
+
+
+
+
+] [57] [58]
+\openout2 = `chapters/phonetik.aux'.
+
+
+(./chapters/phonetik.tex
+Kapitel 3.
+
+Class scrbook Warning: \float@addtolists detected!
+(scrbook)              Implementation of \float@addtolist became
+(scrbook)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrbook)              has been replaced by several more flexible
+(scrbook)              features of package `tocbasic`.
+(scrbook)              Since Version 3.12 support for deprecated
+(scrbook)              \float@addtolist interface has been
+(scrbook)              restricted to only some of the KOMA-Script
+(scrbook)              features and been removed from others.
+(scrbook)              Loading of package `scrhack' may help to
+(scrbook)              avoid this warning, if you are using a
+(scrbook)              a package that still implements the
+(scrbook)              deprecated \float@addtolist interface .
+
+[59
+
+
+
+]
+Overfull \hbox (0.21193pt too wide) in paragraph at lines 66--71
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 gutes Beispiel für eine synchron unmotiv
+ierte Korrespondenz von Laut und Buch-
+ []
+
+
+Overfull \hbox (24.1477pt too wide) in paragraph at lines 66--71
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 stabe. Diphthonge sind Kombinationen aus
+ zwei Vokalen, um die es in Abschnitt []3.4.9.2[]
+ []
+
+[60] [61] [62]
+File: figures/ueberblick.pdf Graphic file (type QTm)
+ <use  "figures/ueberblick.pdf" > [63] [64]
+File: figures/mundraum.pdf Graphic file (type QTm)
+
+<use  "figures/mundraum.pdf" >
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[65] [66] [67] [68] [69] [70] [71] [72] <xymatrix 6x3
+
+Package xypdf Warning: The produced DVI file is NOT PORTABLE. Convert it with
+dvipdfm(x) to the PDF format but do not expect the DVI file itself to be
+displayed correctly.
+
+808> [73]
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2504,221 +2564,45 @@ tex-text;mapping=tex-text;+liga;+pnum;+lnum;+smcp;"
 . and font adjustment code:
 . \fontdimen 7\font =0\fontdimen 7\font 
 .................................................
- [1
+ [74] [75] [76]
 
+LaTeX Warning: Reference `sec:kern' on page 77 undefined on input line 586.
 
-
-
-
-]
-
-LaTeX Warning: Citation 'Eisenberg2' on page 2 undefined on input line 47.
-
-
-LaTeX Warning: Citation 'Duden8' on page 2 undefined on input line 47.
-
-
-LaTeX Warning: Citation 'EgL07' on page 2 undefined on input line 49.
-
-
-LaTeX Warning: Citation 'SgL07' on page 2 undefined on input line 49.
-
-
-LaTeX Warning: Citation 'Grewendorf02' on page 2 undefined on input line 49.
-
-
-LaTeX Warning: Citation 'Mueller08' on page 2 undefined on input line 49.
-
-[2] [3] [4] [5] [6
-
-
-] [7]) [8] [9
-
-
-
-] [10]
-\openout2 = `chapters/grammatik.aux'.
-
- (./chapters/grammatik.tex
-Kapitel 1.
-
-Class scrbook Warning: \float@addtolists detected!
-(scrbook)              Implementation of \float@addtolist became
-(scrbook)              deprecated in KOMA-Script v3.01 2008/11/14 and
-(scrbook)              has been replaced by several more flexible
-(scrbook)              features of package `tocbasic`.
-(scrbook)              Since Version 3.12 support for deprecated
-(scrbook)              \float@addtolist interface has been
-(scrbook)              restricted to only some of the KOMA-Script
-(scrbook)              features and been removed from others.
-(scrbook)              Loading of package `scrhack' may help to
-(scrbook)              avoid this warning, if you are using a
-(scrbook)              a package that still implements the
-(scrbook)              deprecated \float@addtolist interface .
-
-[11
-
-
-
-] [12] [13] [14] [15] [16] [17] [18]
-
-LaTeX Warning: Citation 'Duden8' on page 19 undefined on input line 282.
-
-[19] [20] [21]
-
-LaTeX Warning: Citation 'Mueller03' on page 22 undefined on input line 365.
-
-
-LaTeX Warning: Citation 'Mueller03' on page 22 undefined on input line 387.
-
-[22] [23]
-
-LaTeX Warning: Citation 'Eisenberg2' on page 24 undefined on input line 406.
-
-LaTeX Font Info:    Try loading font information for OT1+LinLibertine_R_B.otf(0
-) on input line 423.
-LaTeX Font Info:    No file OT1LinLibertine_R_B.otf(0).fd. on input line 423.
-
-LaTeX Font Warning: Font shape `OT1/LinLibertine_R_B.otf(0)/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead
-(Font)              for symbol `glqq' on input line 423.
-
-Package microtype Info: Loading generic settings for font family
-(microtype)             `LinLibertine_R_B.otf' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-[24] [25]
-
-LaTeX Warning: Citation 'Schaefer-Bildhauer2012a' on page 26 undefined on input
- line 463.
-
-[26] [27]) [28
-
-]
-\openout2 = `chapters/grundbegriffe.aux'.
-
- (./chapters/grundbegriffe.tex
-Kapitel 2.
-[29
-
-
-
-
-] [30] [31] <xymatrix 3x2
-
-Package xypdf Warning: The produced DVI file is NOT PORTABLE. Convert it with
-dvipdfm(x) to the PDF format but do not expect the DVI file itself to be
-displayed correctly.
-
-168> <xymatrix 8x3 748> [32] <xymatrix 11x4 944> [33] [34] [35] [36] [37]
-[38]
-Underfull \hbox (badness 10000) in paragraph at lines 419--421
-
- []
-
-[39] <xymatrix 8x3 818> <xymatrix 4x3 320> [40] [41] [42] [43] [44] [45]
-[46] [47] [48] [49] [50] [51] [52] [53
-
-] [54
-
-
-]
-
-LaTeX Warning: Citation 'EgL07' on page 55 undefined on input line 991.
-
-
-LaTeX Warning: Citation 'Engel09' on page 55 undefined on input line 992.
-
-
-LaTeX Warning: Citation 'Engel09' on page 55 undefined on input line 992.
-
-
-LaTeX Warning: Citation 'Mueller10' on page 55 undefined on input line 993.
-
-
-LaTeX Warning: Citation 'Mueller08' on page 55 undefined on input line 995.
-
-
-LaTeX Warning: Citation 'Meinunger08' on page 55 undefined on input line 1000.
-
-
-LaTeX Warning: Citation 'Eisenberg08' on page 55 undefined on input line 1001.
-
-
-LaTeX Warning: Citation 'Eisenberg2' on page 55 undefined on input line 1001.
-
-
-LaTeX Warning: Citation 'NueblingEa2010' on page 55 undefined on input line 100
-2.
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 1000--1003
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 kritik aus linguistischer Sicht ist [] E
-twas anspruchsvoller ist
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 1000--1003
-[] \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Die Betrachtung der Sprachgeschichte 
-hilft, zu verstehen, dass
- []
-
-
-LaTeX Warning: Citation 'Albert07' on page 55 undefined on input line 1006.
-
-
-LaTeX Warning: Citation 'Perkuhn-ea2012' on page 55 undefined on input line 100
-7.
-
-
-LaTeX Warning: Citation 'HS91' on page 55 undefined on input line 1011.
-
-
-LaTeX Warning: Citation 'Valbu' on page 55 undefined on input line 1013.
-
-) [55] [56
-
-
-
-] [57] [58]
-\openout2 = `chapters/phonetik.aux'.
-
- (./chapters/phonetik.tex
-Kapitel 3.
-[59
-
-
-
-] [60] [61] [62]
-File: figures/ueberblick.pdf Graphic file (type QTm)
- <use  "figures/ueberblick.pdf" > [63] [64]
-File: figures/mundraum.pdf Graphic file (type QTm)
-
-<use  "figures/mundraum.pdf" >
+[77]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[65] [66] [67] [68] [69] [70] [71] [72] [73] <xymatrix 6x3 808> [74] [75]
-[76] [77] [78]
+[78]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[79] [80] [81] [82] [83] [84] [85] [86] [87] [88
 
-] [89
+Overfull \hbox (0.69633pt too wide) in paragraph at lines 677--685
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Vokale sind gewöhnlicherweise bezüglic
+h ihres Artikulationsorts schwerer ein-
+ []
 
-]) [90]
+[79] [80] [81] [82] [83] [84] [85] [86]
+Overfull \hbox (0.96751pt too wide) in paragraph at lines 991--992
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Verschiedene Segmente kommen durch ver
+schiedene Artikulationen (= Ob-
+ []
+
+[87
+
+] [88
+
+]) [89]
 \openout2 = `chapters/phonologie.aux'.
 
+ (./chapters/phonologie.tex [90
 
-(./chapters/phonologie.tex
+
+
+
+]
 Kapitel 4.
-[91
-
-
-
-
-] [92] [93] [94]
+[91] [92] [93] [94]
 
 LaTeX Warning: Reference `sec:phonologischeprozesse' on page 95 undefined on in
 put line 176.
@@ -2750,11 +2634,20 @@ LaTeX Warning: Reference `fig:vokaltrapatr' on page 97 undefined on input line
 LaTeX Warning: Reference `sec:konsonantenmerkmale' on page 98 undefined on inpu
 t line 276.
 
-[98] [99] [100] [101] [102]
+[98] [99] [100]
+
+LaTeX Warning: Reference `sec:kern' on page 101 undefined on input line 414.
+
+[101] [102]
+
+LaTeX Warning: Reference `tab:pholkonsmerk' on page 103 undefined on input line
+ 500.
+
+[103] [104] [105] [106]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[103] [104] [105] <xymatrix 3x2 234>
+[107] [108] [109] <xymatrix 3x2 234>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -2762,1216 +2655,37 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[106] [107] [108] [109] [110] [111]
+[110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121]
+[122] [123
 
-LaTeX Warning: Reference `tab:pholkonsmerk' on page 112 undefined on input line
- 877.
+] [124
 
-[112] [113] [114] [115] [116] [117] [118] [119] [120] [121
-
-] [122
-
-] [123]
-[124
+] [125] [126
 
 
-]) [125] [126
+]) [127] [128
 
 
 
-] [127] [128]
-\openout2 = `chapters/wortklassen.aux'.
-
- (./chapters/wortklassen.tex
-Kapitel 5.
-[129
-
-
-
-] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
-
-LaTeX Warning: Citation 'Engel09' on page 140 undefined on input line 448.
-
-[140]
-
-LaTeX Warning: Citation 'Engel09' on page 141 undefined on input line 459.
-
-<xymatrix 5x3 288>
-Underfull \hbox (badness 10000) in paragraph at lines 469--470
-
- []
-
-[141] <xymatrix 5x3 288>
-Underfull \hbox (badness 10000) in paragraph at lines 491--492
-
- []
-
-<xymatrix 5x3 288>
-Underfull \hbox (badness 10000) in paragraph at lines 504--505
-
- []
-
-[142] <xymatrix 5x3 288>
-Underfull \hbox (badness 10000) in paragraph at lines 534--535
-
- []
-
-[143] <xymatrix 5x3 288>
-Underfull \hbox (badness 10000) in paragraph at lines 561--562
-
- []
-
-<xymatrix 5x3 288>
-Underfull \hbox (badness 10000) in paragraph at lines 587--588
-
- []
-
-[144] [145] <xymatrix 5x3 288>
-Underfull \hbox (badness 10000) in paragraph at lines 613--614
-
- []
-
-<xymatrix 5x3 288>
-Underfull \hbox (badness 10000) in paragraph at lines 655--656
-
- []
-
-[146] <xymatrix 5x3 288>
-Underfull \hbox (badness 10000) in paragraph at lines 670--671
-
- []
-
-[147] <xymatrix 5x3 288>
-Underfull \hbox (badness 10000) in paragraph at lines 677--678
-
- []
-
-<xymatrix 14x13 2672>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[148] [149] [150
-
-] [151
-
-]) [152]
-\openout2 = `chapters/morphologie.aux'.
-
- (./chapters/morphologie.tex
-Kapitel 6.
-[153
+] [129] [130] [289
 
 
 
 
-] [154] [155] [156] [157] [158] [159] [160] [161] <xymatrix 7x3 890>
-[162] [163] [164] [165] [166]
-
-LaTeX Warning: Reference `fig:vokaltrapatr' on page 167 undefined on input line
- 549.
 
 
-LaTeX Warning: Reference `fig:vokaltrapatr' on page 167 undefined on input line
- 549.
 
-[167] [168] [169] <xymatrix 4x4 534> <xymatrix 4x4 534> [170] [171]
+] [290] [438
 
-LaTeX Warning: Citation 'Kluge02' on page 172 undefined on input line 787.
 
-[172] [173] [174] [175] [176] [177
-
-] [178
-
-]) [179]
-\openout2 = `chapters/wortbildung.aux'.
-
- (./chapters/wortbildung.tex
-[180
 
 
 
 
 ]
-Kapitel 7.
-[181]
-Underfull \hbox (badness 1331) in paragraph at lines 54--54
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Eine Regularität ist produktiv, wenn s
-ie jederzeit und nahezu uneinge-
- []
+[439] [440] [541
 
-[182] [183] [184] [185] <xymatrix 4x4 534> <xymatrix 4x4 530>
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[186] [187]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<xymatrix 4x4 534>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[188] [189] [190] [191] [192] <xymatrix 1x3 160> <xymatrix 4x6 822>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[193] [194] [195] [196] [197] [198] [199]
-LaTeX Font Info:    Font shape `EU1/DejaVuSansMono.ttf(0)/m/n' will be
-(Font)              scaled to size 7.09305pt on input line 742.
-Package microtype Info: Loading generic settings for font family
-(microtype)             `DejaVuSansMono.ttf' (encoding: EU1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
- [200] [201
-
-] [202
-
-]) [203]
-\openout2 = `chapters/nomina.aux'.
-
-
-(./chapters/nomina.tex [204
-
-
-
-
-]
-Kapitel 8.
-[205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215] <xymatrix
-10x3 1064> [216] <xymatrix 5x4 649>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[217]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[218]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[219] [220] [221]
-
-LaTeX Warning: Citation 'Schaefer2015b' on page 222 undefined on input line 793
-.
-
-[222] [223]
-Underfull \hbox (badness 1472) in paragraph at lines 854--854
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Aber ist der Respekt genügend für das 
-Bewusstsein des Mensches?
- []
-
-[224] [225] <xymatrix 5x3 516> [226] [227] <xymatrix 5x3 288>
-Underfull \hbox (badness 10000) in paragraph at lines 989--990
-
- []
-
-[228] [229] [230] <xymatrix 4x4 516> [231] [232] [233] [234] [235] [236]
-<xymatrix 1x3 160> [237]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[238] [239]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[240] <xymatrix 3x3 334>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[241] [242] [243] [244] [245] [246
-
-]
-Underfull \hbox (badness 2126) in paragraph at lines 1724--1724
-[][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Die Beispiele sind dem DeReKo (W-Öffentl
-ich/W) entnommen. Siglen: A10/JAN.00664,
- []
-
-[247
-
-]) [248]
-\openout2 = `chapters/verben.aux'.
-
- (./chapters/verben.tex
-Kapitel 9.
-[249
-
-
-
-
-] [250] [251] [252]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[253]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[254] [255] [256] [257] [258] [259] [260] [261] [262] [263] [264]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[265] [266]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[267] [268] [269] [270] [271] [272] [273]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[274]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[275] [276]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[277] [278]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[279] [280] <xymatrix 4x4 571> [281] [282
-
-]
-Underfull \hbox (badness 3942) in paragraph at lines 1396--1396
-\EU1/LinLibertine_R_B.otf(1)/m/n/9 JUL.00395, RHZ09/MAR.15300, BVZ09/MAI.01348,
- RHZ09/JUN.22699, BRZ09/MAR.11529,
- []
-
-[283
-
-] [284] [285] [286
-
-
-]
-
-LaTeX Warning: Citation 'Engel09' on page 287 undefined on input line 1452.
-
-
-LaTeX Warning: Citation 'HentschelVogel2009' on page 287 undefined on input lin
-e 1453.
-
-
-LaTeX Warning: Citation 'Engel09a' on page 287 undefined on input line 1454.
-
-
-LaTeX Warning: Citation 'Engel09' on page 287 undefined on input line 1454.
-
-
-LaTeX Warning: Citation 'Duden8' on page 287 undefined on input line 1455.
-
-
-LaTeX Warning: Citation 'Katamba06' on page 287 undefined on input line 1456.
-
-
-LaTeX Warning: Citation 'Booj2007' on page 287 undefined on input line 1456.
-
-
-LaTeX Warning: Citation 'Altmann2011' on page 287 undefined on input line 1460.
-
-
-
-LaTeX Warning: Citation 'FB95' on page 287 undefined on input line 1461.
-
-
-LaTeX Warning: Citation 'BTh92' on page 287 undefined on input line 1463.
-
-
-LaTeX Warning: Citation 'Gallmann1999' on page 287 undefined on input line 1464
-.
-
-
-LaTeX Warning: Citation 'NueblingSzczepaniak2009' on page 287 undefined on inpu
-t line 1464.
-
-
-LaTeX Warning: Citation 'EisenbergSayatz2002' on page 287 undefined on input li
-ne 1465.
-
-
-LaTeX Warning: Citation 'ThieroffVogel2009' on page 287 undefined on input line
- 1469.
-
-
-LaTeX Warning: Citation 'IDS' on page 287 undefined on input line 1470.
-
-
-LaTeX Warning: Citation 'Eisenberg2' on page 287 undefined on input line 1470.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1471
-[] []\EU1/LinLibertine_R_B.otf(0)/bx/n/10.95 Flexion[] \EU1/LinLibertine_R_B.ot
-f(0)/m/n/10.95 Einen Überblick über die Flexion des Deutschen bietet
- []
-
-
-Underfull \hbox (badness 1648) in paragraph at lines 1469--1471
-[] \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Der Status von Komparation als Flexio
-n bzw. Wortbil-
- []
-
-
-LaTeX Warning: Citation 'Wiese2012' on page 287 undefined on input line 1473.
-
-
-LaTeX Warning: Citation 'KoepckeZubin1995' on page 287 undefined on input line 
-1474.
-
-
-LaTeX Warning: Citation 'Wegener2004' on page 287 undefined on input line 1475.
-
-
-
-LaTeX Warning: Citation 'Koepcke1995' on page 287 undefined on input line 1476.
-
-
-
-LaTeX Warning: Citation 'Thieroff2003' on page 287 undefined on input line 1476
-.
-
-
-LaTeX Warning: Citation 'Wiese2009' on page 287 undefined on input line 1477.
-
-
-LaTeX Warning: Citation 'Nuebling2011' on page 287 undefined on input line 1477
-.
-
-
-LaTeX Warning: Citation 'Vogel1997' on page 287 undefined on input line 1478.
-
-
-LaTeX Warning: Citation 'Baerentzen2002' on page 287 undefined on input line 14
-79.
-
-
-LaTeX Warning: Citation 'Demske00' on page 287 undefined on input line 1481.
-
-
-LaTeX Warning: Citation 'HS91' on page 287 undefined on input line 1484.
-
-
-LaTeX Warning: Citation 'Wiese08' on page 287 undefined on input line 1485.
-
-
-LaTeX Warning: Citation 'Rothstein2007' on page 287 undefined on input line 148
-9.
-
-
-LaTeX Warning: Citation 'Vater2007' on page 287 undefined on input line 1489.
-
-
-LaTeX Warning: Citation 'Leibukt2011' on page 287 undefined on input line 1491.
-
-
-
-LaTeX Warning: Citation 'Fabricius1997' on page 287 undefined on input line 149
-2.
-
-
-LaTeX Warning: Citation 'Fabricius2000' on page 287 undefined on input line 149
-3.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1489--1494
-[] []\EU1/LinLibertine_R_B.otf(0)/bx/n/10.95 Tempus und Modus[] \EU1/LinLiberti
-ne_R_B.otf(0)/m/n/10.95 Ausführlichere Einführungen zum Tempus sind
- []
-
-
-Underfull \hbox (badness 1990) in paragraph at lines 1489--1494
-[] \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 und [] Weiterführende Lesevorschläge:
- []
- []
-
-
-Underfull \hbox (badness 3240) in paragraph at lines 1489--1494
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 zur sogenannten \EU1/LinLibertine_R_B.ot
-f(0)/m/it/10.95 Höflichkeitsfunktion \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 des
- Konjunktivs; [] zum
- []
-
-[287]) [288] [289
-
-
-
-] [290]
-\openout2 = `chapters/konstituentenstruktur.aux'.
-
- (./chapters/konstituentenstruktur.tex
-Kapitel 10.
-<xymatrix 7x3 612>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<xymatrix 5x5 760>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[291
-
-
-
-] <xymatrix 9x3 619>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[292] [293] <xymatrix 7x2 522> [294] <xymatrix 7x2 522>
-Underfull \hbox (badness 2269) in paragraph at lines 160--160
-[][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Archiv W-TAGGED öffentlich am 11.01.2011
-. Das Archiv enthält zu diesem Zeitpunkt
- []
-
-[295] <xymatrix 3x2 234>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<xymatrix 7x3 474>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[296] [297] [298] [299] [300] [301] [302] [303] [304] <xymatrix 5x2 312>
-<xymatrix 5x3 390> [305] [306] <xymatrix 3x2 168> [307] <xymatrix 4x3 382>
-<xymatrix 3x2 168> <xymatrix 7x3 532>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[308] [309] <xymatrix 4x3 592> [310] [311] [312] <xymatrix 3x2 208> [313]
-[314] [315
-
-]
-Underfull \hbox (badness 6876) in paragraph at lines 895--895
-[][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: A09/DEZ.023
-19, BRZ09/SEP.15424, HMP08/FEB.00096,
- []
-
-
-Underfull \hbox (badness 6725) in paragraph at lines 912--912
-[][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: BRZ06/MAI.0
-5936, A09/DEZ.02319, RHZ04/JUL.20475,
- []
-
-
-Underfull \hbox (badness 4713) in paragraph at lines 912--912
-\EU1/LinLibertine_R_B.otf(1)/m/n/9 HMP08/FEB.00096, NON07/OKT.07665, A97/DEZ.42
-679, K97/MAI.35888, K97/MAI.35888,
- []
-
-[316
-
-]
-
-LaTeX Warning: Citation 'Dekuthy2002' on page 317 undefined on input line 932.
-
-) [317]
-\openout2 = `chapters/phrasen.aux'.
-
- (./chapters/phrasen.tex [318
-
-
-
-
-]
-Kapitel 11.
-<xymatrix 7x4 859> [319] <xymatrix 3x3 448>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<xymatrix 7x3 478>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<xymatrix 3x3 444>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[320] [321] [322] <xymatrix 1x3 160> <xymatrix 4x3 309> [323] <xymatrix 2x3
-172> <xymatrix 4x3 313> <xymatrix 4x3 313>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[324] <xymatrix 6x3 454> [325] [326] <xymatrix 9x3 643> [327] <xymatrix 7x3
-474>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<xymatrix 6x3 478>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[328] <xymatrix 9x4 732> [329] <xymatrix 10x3 787> [330] <xymatrix 3x3 316>
-[331] [332] <xymatrix 4x3 337> [333] <xymatrix 6x3 481> <xymatrix 8x3 658>
-[334] <xymatrix 7x3 486> <xymatrix 5x3 453>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<xymatrix 4x3 325>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[335] <xymatrix 3x4 518> [336] <xymatrix 2x4 374> <xymatrix 4x3 328> [337]
-<xymatrix 4x3 321> [338] [339] <xymatrix 5x3 329> <xymatrix 7x3 482>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<xymatrix 9x3 635>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<xymatrix 15x4 1098>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[340] [341] <xymatrix 1x2 90> <xymatrix 4x3 403>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<xymatrix 4x3 403>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<xymatrix 7x4 708>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[342] [343] <xymatrix 11x7 1210> [344] [345] <xymatrix 8x2 706> <xymatrix 8x3
-928>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[346] <xymatrix 8x4 1118> <xymatrix 8x4 1244>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[347] <xymatrix 8x5 1446> <xymatrix 8x6 1620> [348] [349] [350
-
-]
-Underfull \hbox (badness 1708) in paragraph at lines 1357--1357
-[][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: NON09/OKT.1
-0157, A00/SEP.61566, A00/OKT.71958, A00/
- []
-
-
-Underfull \hbox (badness 3579) in paragraph at lines 1370--1370
-[][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: WPD/SSS.001
-47, BRZ07/OKT.07777, NON09/AUG.06672,
- []
-
-
-Underfull \hbox (badness 3460) in paragraph at lines 1389--1389
-[][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: A00/JAN.051
-23, A09/AUG.03243, A99/DEZ.84493, A09/
- []
-
-[351
-
-]) [352]
-\openout2 = `chapters/saetze.aux'.
-
- (./chapters/saetze.tex
-Kapitel 12.
-[353
-
-
-
-
-] [354] [355] <xymatrix 15x4 1098> [356] <xymatrix 11x4 1039> [357]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[358] [359] [360] [361] [362] [363]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[364] [365] <xymatrix 12x6 1097> <xymatrix 11x5 1225>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[366] [367] <xymatrix 12x5 1138>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<xymatrix 11x5 1225>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[368] [369] <xymatrix 10x5 1080> [370] <xymatrix 11x5 1221>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[371] <xymatrix 9x6 966>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[372] [373] <xymatrix 13x6 1489>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[374] [375] <xymatrix 12x5
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1034.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1034.
-
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1034.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1034.
-
-1358>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[376] <xymatrix 12x5
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1081.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1081.
-
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1081.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1081.
-
-1363>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[377] [378] [379] [380] [381] [382] [383] [384
-
-] [385
-
-] [386]) [387]
-\openout2 = `chapters/relationen.aux'.
-
-
-(./chapters/relationen.tex [388
-
-
-
-
-]
-Kapitel 13.
-[389] [390] [391] [392] [393] [394] [395] [396]
-
-LaTeX Warning: Citation 'Eisenberg2' on page 397 undefined on input line 295.
-
-LaTeX Font Info:    Try loading font information for OT1+LinLibertine_R_B.otf(1
-) on input line 295.
-LaTeX Font Info:    No file OT1LinLibertine_R_B.otf(1).fd. on input line 295.
-
-LaTeX Font Warning: Font shape `OT1/LinLibertine_R_B.otf(1)/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead
-(Font)              for symbol `glqq' on input line 295.
-
-[397] [398] [399] [400] [401] [402] [403] <xymatrix 5x4 615>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[404] [405] [406]
-
-LaTeX Warning: Citation 'Dowty91' on page 407 undefined on input line 803.
-
-[407] [408] [409] [410] [411] [412] [413] [414] [415] [416] <xymatrix 4x6
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1230.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1230.
-
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1230.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1230.
-
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1230.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1230.
-
-922> [417] [418] <xymatrix 3x4 554> [419] <xymatrix 4x4 375> <xymatrix 3x4
-371>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<xymatrix 6x5 701>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<xymatrix 6x5 713>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Citation 'Eisenberg2' on page 420 undefined on input line 1401.
-
-
-LaTeX Warning: Citation 'Duden8' on page 420 undefined on input line 1401.
-
-
-LaTeX Warning: Citation 'Mueller08' on page 420 undefined on input line 1401.
-
-[420] [421] [422] [423] [424] [425] [426] [427] [428] [429] [430]
-Underfull \hbox (badness 1215) in paragraph at lines 1780--1781
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Es gibt zwei Arten von intransitiven V
-erben (bzw. Nominativ-Dativ-
- []
-
-
-Underfull \hbox (badness 2080) in paragraph at lines 1787--1788
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Halbmodalverben (\EU1/LinLibertine_R_B
-.otf(0)/m/it/10.95 scheinen\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ) konstruiere
-n obligatorisch kohärent und
- []
-
-[431
-
-] [432] [433
-
-]
-
-LaTeX Warning: Citation 'Eisenberg2' on page 434 undefined on input line 1856.
-
-[434] [435] [436]
-
-LaTeX Warning: Citation 'Duerscheid2012' on page 437 undefined on input line 19
-26.
-
-
-LaTeX Warning: Citation 'WoellsteinEa1997' on page 437 undefined on input line 
-1926.
-
-
-LaTeX Warning: Citation 'Eroms2000' on page 437 undefined on input line 1926.
-
-
-LaTeX Warning: Citation 'Musan2009' on page 437 undefined on input line 1926.
-
-
-LaTeX Warning: Citation 'Woellstein2010' on page 437 undefined on input line 19
-27.
-
-
-LaTeX Warning: Citation 'Mueller08' on page 437 undefined on input line 1928.
-
-
-LaTeX Warning: Citation 'Mueller10' on page 437 undefined on input line 1929.
-
-
-LaTeX Warning: Citation 'Engel09' on page 437 undefined on input line 1930.
-
-
-LaTeX Warning: Citation 'Buering2005' on page 437 undefined on input line 1931.
-
-
-
-LaTeX Warning: Citation 'Gallmann1996' on page 437 undefined on input line 1934
-.
-
-
-LaTeX Warning: Citation 'Fabricius1993' on page 437 undefined on input line 193
-5.
-
-
-LaTeX Warning: Citation 'Loetscher1981' on page 437 undefined on input line 193
-6.
-
-
-LaTeX Warning: Citation 'Hoehle1986' on page 437 undefined on input line 1937.
-
-
-LaTeX Warning: Citation 'Askedal1986' on page 437 undefined on input line 1938.
-
-
-
-LaTeX Warning: Citation 'Pittner2003' on page 437 undefined on input line 1939.
-
-
-
-LaTeX Warning: Citation 'DekuthyMeurers2001' on page 437 undefined on input lin
-e 1940.
-
-
-LaTeX Warning: Citation 'Richter2002' on page 437 undefined on input line 1941.
-
-
-
-LaTeX Warning: Citation 'Dowty91' on page 437 undefined on input line 1942.
-
-
-LaTeX Warning: Citation 'Reis1982' on page 437 undefined on input line 1943.
-
-
-LaTeX Warning: Citation 'Askedal1990' on page 437 undefined on input line 1944.
-
-
-
-LaTeX Warning: Citation 'Wegener1986' on page 437 undefined on input line 1945.
-
-
-
-LaTeX Warning: Citation 'Wegener1991' on page 437 undefined on input line 1945.
-
-
-
-LaTeX Warning: Citation 'Musan1999' on page 437 undefined on input line 1946.
-
-
-LaTeX Warning: Citation 'HentschelWeydt1995' on page 437 undefined on input lin
-e 1947.
-
-
-LaTeX Warning: Citation 'Leirbukt2013' on page 437 undefined on input line 1947
-.
-
-
-LaTeX Warning: Citation 'Reis2001' on page 437 undefined on input line 1948.
-
-
-LaTeX Warning: Citation 'Askedal1991' on page 437 undefined on input line 1949.
-
-
-
-LaTeX Warning: Citation 'Bech1983' on page 437 undefined on input line 1950.
-
-
-LaTeX Warning: Citation 'Reis2005' on page 437 undefined on input line 1951.
-
-
-LaTeX Warning: Citation 'Askedal1988' on page 437 undefined on input line 1952.
-
-
-) [437
-
-
-] [438
-
-
-
-] [439] [440]
-\openout2 = `chapters/phonschrift.aux'.
-
- (./chapters/phonschrift.tex
-Kapitel 14.
-[441
-
-
-
-] [442] [443] [444] [445] [446]
-
-LaTeX Warning: Reference `tab:pholkonsmerk' on page 447 undefined on input line
- 162.
-
-
-LaTeX Warning: Reference `tab:pholkonsmerk' on page 447 undefined on input line
- 162.
-
-[447]
-Underfull \hbox (badness 10000) in paragraph at lines 201--201
-[][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Konsonantische Segmente des Deutsche
-n und ihre primäre
- []
-
-[448] [449]
-
-LaTeX Warning: Reference `tab:pholvokmerk' on page 450 undefined on input line 
-268.
-
-
-LaTeX Warning: Reference `tab:pholvokmerk' on page 450 undefined on input line 
-268.
-
-[450] [451] [452] [453]
-Overfull \vbox (4.9668pt too high) detected at line 422
- []
-
-
-Overfull \vbox (4.9668pt too high) detected at line 422
- []
-
-[454]
-Overfull \vbox (4.9668pt too high) detected at line 461
- []
-
-
-Overfull \vbox (4.9668pt too high) detected at line 473
- []
-
-[455] <xymatrix 9x4 926>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[456] [457] <xymatrix 7x4 852> <xymatrix 7x4 918> <xymatrix 7x4 918>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[458] [459] [460] [461] [462] [463] [464
-
-] [465
-
-]) [466]
-\openout2 = `chapters/andereschrift.aux'.
-
-
-(./chapters/andereschrift.tex
-Kapitel 15.
-[467
-
-
-
-
-] [468] [469] [470] [471] [472] [473] [474] [475] [476] [477] [478]
-[479] [480] [481] [482] [483] [484
-
-] [485
-
-] [486]
-
-LaTeX Warning: Citation 'Fuhrhop2009' on page 487 undefined on input line 675.
-
-
-LaTeX Warning: Citation 'FuhrhopPeters2013' on page 487 undefined on input line
- 675.
-
-
-LaTeX Warning: Citation 'Bredel2012' on page 487 undefined on input line 676.
-
-
-LaTeX Warning: Citation 'NueblingEa2012' on page 487 undefined on input line 67
-7.
-
-
-LaTeX Warning: Citation 'Eisenberg2012' on page 487 undefined on input line 678
-.
-
-
-LaTeX Warning: Citation 'AugstEa1997' on page 487 undefined on input line 679.
-
-
-LaTeX Warning: Citation 'Coulmas1989' on page 487 undefined on input line 680.
-
-
-LaTeX Warning: Citation 'Gallmann1995' on page 487 undefined on input line 683.
-
-
-
-LaTeX Warning: Citation 'Eisenberg1981' on page 487 undefined on input line 684
-.
-
-
-LaTeX Warning: Citation 'SchaeferSayatz2014' on page 487 undefined on input lin
-e 685.
-
-
-LaTeX Warning: Citation 'Jacobs2005' on page 487 undefined on input line 686.
-
-
-LaTeX Warning: Citation 'Buchmann2015' on page 487 undefined on input line 687.
-
-
-
-LaTeX Warning: Citation 'Primus1993' on page 487 undefined on input line 688.
-
-
-LaTeX Warning: Citation 'Primus2008' on page 487 undefined on input line 689.
-
-
-LaTeX Warning: Citation 'Bredel2008' on page 487 undefined on input line 690.
-
-
-Underfull \hbox (badness 5787) in paragraph at lines 683--691
-[] []\EU1/LinLibertine_R_B.otf(0)/bx/n/10.95 Weiterführende Lesevorschläge[] []
- \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 zur Substantivgroßschrei-
- []
-
-
-Underfull \hbox (badness 1668) in paragraph at lines 683--691
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Getrennt- und Zusammenschreibung; [] zu 
-den Wortzeichen;
- []
-
-) [487
-
-
-]
-\openout2 = `chapters/loesungen.aux'.
-
- (./chapters/loesungen.tex [488
-
-
-
-
-] [489] [490] [491
-
-] [492] [493] [494]
-[495] [496
-
-]
-Underfull \hbox (badness 2277) in paragraph at lines 394--398
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Gerne \EU1/LinLibertine_R_B.otf(0)/m/
-n/10.95 kann als Antwort auf eine Ja/Nein-Frage verwendet werden:
- []
-
-[497] [498] [499] [500
-
-] [501] [502
-
-] [503] [504] [505
-
-] [506] [507] [508
-
-]
-[509] [510] [511] [512] [513
-
-] [514] [515]
-
-LaTeX Warning: Citation 'Dekuthy2002' on page 516 undefined on input line 1043.
-
-
-[516] <xymatrix 5x3 453> <xymatrix 4x3 321> <xymatrix 4x3 337> <xymatrix 7x3
-474> <xymatrix 4x3 321> [517
-
-] <xymatrix 4x3 325> <xymatrix 7x3 474> <xymatrix
-5x3 453> <xymatrix 2x3 304> <xymatrix 7x3 474> [518] <xymatrix 2x3 304>
-<xymatrix 10x4 885> <xymatrix 10x4 873>
-Underfull \hbox (badness 10000) in paragraph at lines 1137--1138
-
- []
-
-[519] <xymatrix 8x4 729> <xymatrix 12x4 1026> <xymatrix 6x4 552> [520]
-<xymatrix 10x4 873> <xymatrix 3x5 628> <xymatrix 3x5 628> [521] <xymatrix 3x5
-628> <xymatrix 3x5 628> [522] [523
-
-] [524] [525] <xymatrix 12x5 1038> [526]
-<xymatrix 10x5 1046> <xymatrix 12x5 1038> <xymatrix 5x4 487> [527] <xymatrix
-14x5 1211> <xymatrix 12x5 1049>
-Underfull \hbox (badness 10000) in paragraph at lines 1427--1436
-
- []
-
-[528] <xymatrix 8x5 623>
-Underfull \hbox (badness 10000) in paragraph at lines 1450--1451
-
- []
-
-<xymatrix 13x5 862>
-Underfull \hbox (badness 10000) in paragraph at lines 1456--1465
-
- []
-
-<xymatrix 10x5 1004> [529] <xymatrix 9x5 869> <xymatrix 11x5 1231> [530]
-<xymatrix 6x4 617> [531] [532
-
-] [533] [534]
-Overfull \vbox (0.31305pt too high) detected at line 1661
- []
-
-
-Overfull \vbox (4.9668pt too high) detected at line 1665
- []
-
-
-Overfull \vbox (0.31305pt too high) detected at line 1674
- []
-
-
-Overfull \vbox (4.9668pt too high) detected at line 1678
- []
-
-[535
-
-] [536] [537] [538
-
-] [539]) [540] [541
 
 
 
@@ -3982,11 +2696,12 @@ Overfull \vbox (4.9668pt too high) detected at line 1678
 
 ] [543
 
-] [544] [545] [546] [547] [548] [549] [550] [551])
+] [544]
+[545] [546] [547] [548] [549] [550] [551])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
-
-(./schaefer-egbd.aux (./chapters/einleitung.aux) (./chapters/grammatik.aux)
+ (./schaefer-egbd.aux
+(./chapters/einleitung.aux) (./chapters/grammatik.aux)
 (./chapters/grundbegriffe.aux) (./chapters/phonetik.aux)
 (./chapters/phonologie.aux) (./chapters/wortklassen.aux)
 (./chapters/morphologie.aux) (./chapters/wortbildung.aux)
@@ -4002,30 +2717,22 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
 
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
 LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
-
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                schaefer-egbd
-(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 \openout1 = `schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48897 strings out of 494865
- 855392 string characters out of 6167200
- 1378029 words of memory out of 5000000
- 51293 multiletter control sequences out of 15000+600000
- 19193 words of font info for 148 fonts, out of 8000000 for 9000
+ 48492 strings out of 494865
+ 848560 string characters out of 6167200
+ 1337478 words of memory out of 5000000
+ 50933 multiletter control sequences out of 15000+600000
+ 19064 words of font info for 139 fonts, out of 8000000 for 9000
  440 hyphenation exceptions out of 8191
- 65i,19n,104p,10460b,1763s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,16n,104p,10460b,1759s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on schaefer-egbd.pdf (567 pages).
+Output written on schaefer-egbd.pdf (109 pages).
