@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  4 JAN 2016 20:40
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  5 JAN 2016 21:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1972,31 +1972,31 @@ LaTeX Warning: Label `ex:msschr007a' multiply defined.
 ) (./chapters/loesungen.aux))
 \openout1 = `schaefer-egbd.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 45.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 46.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 46.
 
 (/opt/local/share/texmf-texlive/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -2040,68 +2040,68 @@ ABD: EveryShipout initializing macros
 .................................................
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 45.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 45.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 45.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 45.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 45.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 45.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 45.
-LaTeX Font Info:    Redeclaring math accent \check on input line 45.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 45.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 45.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 45.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 45.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 46.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 46.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 46.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 46.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 46.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 46.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 46.
+LaTeX Font Info:    Redeclaring math accent \check on input line 46.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 46.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 46.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 46.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 46.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 45.
+(Font)              `operators' in the math version `normal' on input line 46.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/LinLibertine_R_B.otf(0)/m/n on inpu
-t line 45.
+t line 46.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 45.
+(Font)              `operators' in the math version `bold' on input line 46.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/LinLibertine_R_B.otf(0)/m/n on inp
-ut line 45.
+ut line 46.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  EU1/LinLibertine_R_B.otf(0)/m/n --> EU1/LinLibertine_R_
-B.otf(0)/m/n on input line 45.
+B.otf(0)/m/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> EU1/LinLibertine_R_B.otf(0)/m/it on in
-put line 45.
+put line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> EU1/LinLibertine_R_B.otf(0)/bx/n on in
-put line 45.
+put line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> EU1/Arimo_B.ttf(0)/m/n on input line 4
-5.
+6.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> EU1/DejaVuSansMono.ttf(0)/m/n on input
- line 45.
+ line 46.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  EU1/LinLibertine_R_B.otf(0)/m/n --> EU1/LinLibertine_R_
-B.otf(0)/bx/n on input line 45.
+B.otf(0)/bx/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> EU1/LinLibertine_R_B.otf(0)/bx/it on 
-input line 45.
+input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> EU1/Arimo_B.ttf(0)/bx/n on input line
- 45.
+ 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> EU1/DejaVuSansMono.ttf(0)/bx/n on inpu
-t line 45.
-LaTeX Info: Redefining \microtypecontext on input line 45.
+t line 46.
+LaTeX Info: Redefining \microtypecontext on input line 46.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -2125,40 +2125,40 @@ Package biblatex Warning: Data encoding is 'utf8'.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'schaefer-egbd.bbl' found.
 (./schaefer-egbd.bbl)
-Package biblatex Info: Reference section=0 on input line 45.
-Package biblatex Info: Reference segment=0 on input line 45.
+Package biblatex Info: Reference section=0 on input line 46.
+Package biblatex Info: Reference segment=0 on input line 46.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \idxtitle@default=\toks62
 \tf@default=\write7
 \openout7 = `schaefer-egbd.idx'.
 
-Package index Info: Writing index file schaefer-egbd.idx on input line 45.
+Package index Info: Writing index file schaefer-egbd.idx on input line 46.
 \idxtitle@lan=\toks63
 \tf@lan=\write8
 \openout8 = `schaefer-egbd.ldx'.
 
-Package index Info: Writing index file schaefer-egbd.ldx on input line 45.
+Package index Info: Writing index file schaefer-egbd.ldx on input line 46.
 \idxtitle@sbj=\toks64
 \tf@sbj=\write9
 \openout9 = `schaefer-egbd.sdx'.
 
-Package index Info: Writing index file schaefer-egbd.sdx on input line 45.
+Package index Info: Writing index file schaefer-egbd.sdx on input line 46.
 \openout7 = `schaefer-egbd.adx'.
 
-Package index Info: Writing index file schaefer-egbd.adx on input line 45.
+Package index Info: Writing index file schaefer-egbd.adx on input line 46.
 \idxtitle@wrd=\toks65
 \tf@wrd=\write10
 \openout10 = `schaefer-egbd.wdx'.
 
-Package index Info: Writing index file schaefer-egbd.wdx on input line 45.
+Package index Info: Writing index file schaefer-egbd.wdx on input line 46.
 \idxtitle@rwrd=\toks66
 \tf@rwrd=\write11
 \openout11 = `schaefer-egbd.rdx'.
 
-Package index Info: Writing index file schaefer-egbd.rdx on input line 45.
+Package index Info: Writing index file schaefer-egbd.rdx on input line 46.
 \AtBeginShipoutBox=\box104
-Package hyperref Info: Link coloring OFF on input line 45.
+Package hyperref Info: Link coloring OFF on input line 46.
 
 (/opt/local/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -2168,15 +2168,15 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count460
 )
-LaTeX Info: Redefining \ref on input line 45.
-LaTeX Info: Redefining \pageref on input line 45.
-LaTeX Info: Redefining \nameref on input line 45.
+LaTeX Info: Redefining \ref on input line 46.
+LaTeX Info: Redefining \pageref on input line 46.
+LaTeX Info: Redefining \nameref on input line 46.
 
 (./schaefer-egbd.out) (./schaefer-egbd.out)
 \@outlinefile=\write12
 \openout12 = `schaefer-egbd.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 45.
+LaTeX Font Info:    Try loading font information for U+msa on input line 46.
 
 (/opt/local/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -2184,7 +2184,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/opt/local/share/texmf-texlive/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 45.
+LaTeX Font Info:    Try loading font information for U+msb on input line 46.
 
 (/opt/local/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -2196,9 +2196,9 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-Package xypdf Info: Line width: 0.43799pt on input line 45.
+Package xypdf Info: Line width: 0.43799pt on input line 46.
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 8.93295pt on input line 47.
+(Font)              scaled to size 8.93295pt on input line 48.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `Arimo_B.ttf' (encoding: EU1).
 (microtype)             For optimal results, create family-specific settings.
@@ -2304,9 +2304,9 @@ guage=DFLT;mapping=tex-text;"
 . 
 .................................................
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 10.47263pt on input line 47.
+(Font)              scaled to size 10.47263pt on input line 48.
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 49.7331pt on input line 47.
+(Font)              scaled to size 49.7331pt on input line 48.
 .................................................
 . fontspec info: "set-scale"
 . 
@@ -2318,9 +2318,9 @@ LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(1)/m/n' will be
 . Arimo_B.ttf scale = 0.9564119235264212.
 .................................................
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 23.91014pt on input line 47.
+(Font)              scaled to size 23.91014pt on input line 48.
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 13.86853pt on input line 47.
+(Font)              scaled to size 13.86853pt on input line 48.
 File: ./LSP/lsp-logos/langsci_logo_nocolor.pdf Graphic file (type QTm)
 
 <use  "./LSP/lsp-logos/langsci_logo_nocolor.pdf" >
@@ -2344,7 +2344,7 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 . Arimo_B.ttf scale = 0.9564119235264212.
 .................................................
 
-Overfull \hbox (21.32785pt too wide) in paragraph at lines 47--47
+Overfull \hbox (21.32785pt too wide) in paragraph at lines 48--48
 [][][][][][][] 
  []
 
@@ -2352,49 +2352,49 @@ Overfull \hbox (21.32785pt too wide) in paragraph at lines 47--47
 File: ./LSP/lsp-logos/langsci_spinelogo_nocolor.pdf Graphic file (type QTm)
  <use  "./LSP/lsp-logos/langsci_spinelogo_nocolor.pdf" >
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 14.68433pt on input line 47.
-LaTeX Font Info:    Calculating math sizes for size <18> on input line 47.
+(Font)              scaled to size 14.68433pt on input line 48.
+LaTeX Font Info:    Calculating math sizes for size <18> on input line 48.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <18> not available
-(Font)              size <17.28> substituted on input line 47.
+(Font)              size <17.28> substituted on input line 48.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <12.59995> not available
-(Font)              size <12> substituted on input line 47.
+(Font)              size <12> substituted on input line 48.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <18> not available
-(Font)              size <17.28> substituted on input line 47.
+(Font)              size <17.28> substituted on input line 48.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <12.59995> not available
-(Font)              size <12> substituted on input line 47.
+(Font)              size <12> substituted on input line 48.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <18> not available
-(Font)              size <17.28> substituted on input line 47.
+(Font)              size <17.28> substituted on input line 48.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <12.59995> not available
-(Font)              size <12> substituted on input line 47.
+(Font)              size <12> substituted on input line 48.
 
-LaTeX Font Info:    Calculating math sizes for size <16> on input line 47.
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 48.
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16> not available
-(Font)              size <17.28> substituted on input line 47.
+(Font)              size <17.28> substituted on input line 48.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 47.
+(Font)              size <17.28> substituted on input line 48.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 47.
+(Font)              size <17.28> substituted on input line 48.
 
 [-1]
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 8.15796pt on input line 47.
+(Font)              scaled to size 8.15796pt on input line 48.
  (./LSP/lsp-seriesinfo/tbls-info.tex
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/m/n' will be
 (Font)              scaled to size 9.78955pt on input line 2.
@@ -2427,14 +2427,14 @@ File: ./LSP/lsp-logos/langsci_logo_nocolor.pdf Graphic file (type QTm)
 ]
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 47.
+(hyperref)                setting the option has no effect on input line 48.
 
 File: ./LSP/lsp-logos/FULogo_sw_CMYK.pdf Graphic file (type QTm)
 <use  "./LSP/lsp-logos/FULogo_sw_CMYK.pdf" > [2]
 LaTeX Font Info:    Font shape `EU1/LinLibertine_R_B.otf(0)/m/sl' in size <10.9
 5> not available
 (Font)              Font shape `EU1/LinLibertine_R_B.otf(0)/m/it' tried instead
- on input line 47.
+ on input line 48.
  [3] (./schaefer-egbd.toc
 [4
 
@@ -2448,17 +2448,11 @@ LaTeX Font Info:    Font shape `EU1/LinLibertine_R_B.otf(0)/m/sl' in size <10.9
 
 
 
-] [10] [56
+] [10]
+\openout2 = `chapters/grammatik.aux'.
 
-
-
-
-] [57] [58]
-\openout2 = `chapters/phonetik.aux'.
-
-
-(./chapters/phonetik.tex
-Kapitel 3.
+ (./chapters/grammatik.tex
+Kapitel 1.
 
 Class scrbook Warning: \float@addtolists detected!
 (scrbook)              Implementation of \float@addtolist became
@@ -2474,38 +2468,11 @@ Class scrbook Warning: \float@addtolists detected!
 (scrbook)              a package that still implements the
 (scrbook)              deprecated \float@addtolist interface .
 
-[59
+[11
 
 
 
-]
-Overfull \hbox (0.21193pt too wide) in paragraph at lines 66--71
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 gutes Beispiel für eine synchron unmotiv
-ierte Korrespondenz von Laut und Buch-
- []
-
-
-Overfull \hbox (24.1477pt too wide) in paragraph at lines 66--71
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 stabe. Diphthonge sind Kombinationen aus
- zwei Vokalen, um die es in Abschnitt []3.4.9.2[]
- []
-
-[60] [61] [62]
-File: figures/ueberblick.pdf Graphic file (type QTm)
- <use  "figures/ueberblick.pdf" > [63] [64]
-File: figures/mundraum.pdf Graphic file (type QTm)
-
-<use  "figures/mundraum.pdf" >
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[65] [66] [67] [68] [69] [70] [71] [72] <xymatrix 6x3
-
-Package xypdf Warning: The produced DVI file is NOT PORTABLE. Convert it with
-dvipdfm(x) to the PDF format but do not expect the DVI file itself to be
-displayed correctly.
-
-808> [73]
+] [12]
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2564,15 +2531,95 @@ tex-text;mapping=tex-text;+liga;+pnum;+lnum;+smcp;"
 . and font adjustment code:
 . \fontdimen 7\font =0\fontdimen 7\font 
 .................................................
- [74] [75] [76]
+ [13] [14] [15] [16] [17] [18] [19]
 
-LaTeX Warning: Reference `sec:kern' on page 77 undefined on input line 586.
+LaTeX Warning: Citation 'Duden8' on page 20 undefined on input line 278.
 
-[77]
+[20] [21]
+
+LaTeX Warning: Citation 'Mueller03' on page 22 undefined on input line 361.
+
+[22]
+
+LaTeX Warning: Citation 'Mueller03' on page 23 undefined on input line 383.
+
+[23]
+
+LaTeX Warning: Citation 'Eisenberg2' on page 24 undefined on input line 402.
+
+[24]
+LaTeX Font Info:    Try loading font information for OT1+LinLibertine_R_B.otf(0
+) on input line 419.
+LaTeX Font Info:    No file OT1LinLibertine_R_B.otf(0).fd. on input line 419.
+
+
+LaTeX Font Warning: Font shape `OT1/LinLibertine_R_B.otf(0)/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead
+(Font)              for symbol `glqq' on input line 419.
+
+Package microtype Info: Loading generic settings for font family
+(microtype)             `LinLibertine_R_B.otf' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+[25] [26] [27]
+
+LaTeX Warning: Citation 'SchaeferBildhauer2012a' on page 28 undefined on input 
+line 493.
+
+
+Overfull \hbox (4.58572pt too wide) in paragraph at lines 511--520
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 achtete Phänomene gefunden werden.[] In 
+der Physik begnügt man sich z.B.  nicht
+ []
+
+[28] [29] [30]) [31
+
+] [58
+
+
+
+
+] [59] [60]
+\openout2 = `chapters/phonetik.aux'.
+
+ (./chapters/phonetik.tex
+Kapitel 3.
+[61
+
+
+
+]
+Overfull \hbox (0.21193pt too wide) in paragraph at lines 66--71
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 gutes Beispiel für eine synchron unmotiv
+ierte Korrespondenz von Laut und Buch-
+ []
+
+
+Overfull \hbox (24.1477pt too wide) in paragraph at lines 66--71
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 stabe. Diphthonge sind Kombinationen aus
+ zwei Vokalen, um die es in Abschnitt []3.4.9.2[]
+ []
+
+[62] [63] [64]
+File: figures/ueberblick.pdf Graphic file (type QTm)
+ <use  "figures/ueberblick.pdf" > [65] [66]
+File: figures/mundraum.pdf Graphic file (type QTm)
+
+<use  "figures/mundraum.pdf" >
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[78]
+[67] [68] [69] [70] [71] [72] [73] [74] <xymatrix 6x3
+
+Package xypdf Warning: The produced DVI file is NOT PORTABLE. Convert it with
+dvipdfm(x) to the PDF format but do not expect the DVI file itself to be
+displayed correctly.
+
+808> [75] [76] [77] [78] [79]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[80]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -2582,72 +2629,72 @@ Overfull \hbox (0.69633pt too wide) in paragraph at lines 677--685
 h ihres Artikulationsorts schwerer ein-
  []
 
-[79] [80] [81] [82] [83] [84] [85] [86]
+[81] [82] [83]
+
+LaTeX Warning: Reference `u34' on page 84 undefined on input line 754.
+
+[84] [85] [86] [87] [88]
 Overfull \hbox (0.96751pt too wide) in paragraph at lines 991--992
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Verschiedene Segmente kommen durch ver
 schiedene Artikulationen (= Ob-
  []
 
-[87
+[89
 
-] [88
+] [90
 
-]) [89]
+]) [91]
 \openout2 = `chapters/phonologie.aux'.
 
- (./chapters/phonologie.tex [90
+ (./chapters/phonologie.tex [92
 
 
 
 
 ]
 Kapitel 4.
-[91] [92] [93] [94]
+[93] [94] [95] [96]
 
-LaTeX Warning: Reference `sec:phonologischeprozesse' on page 95 undefined on in
+LaTeX Warning: Reference `sec:phonologischeprozesse' on page 97 undefined on in
 put line 176.
 
-[95]
+[97]
 Underfull \hbox (badness 1406) in paragraph at lines 217--217
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Die Silbengrenzen werden in diesem Absch
 nitt zur besonderen Verdeutlichung in den
  []
 
-[96]
+[98]
 
-LaTeX Warning: Reference `fig:artart' on page 97 undefined on input line 229.
+LaTeX Warning: Reference `fig:artart' on page 99 undefined on input line 229.
 
 
-LaTeX Warning: Reference `tab:pholkonsmerk' on page 97 undefined on input line 
+LaTeX Warning: Reference `tab:pholkonsmerk' on page 99 undefined on input line 
 229.
 
 
-LaTeX Warning: Reference `fig:vokaltrapatr' on page 97 undefined on input line 
+LaTeX Warning: Reference `fig:vokaltrapatr' on page 99 undefined on input line 
 251.
 
 
-LaTeX Warning: Reference `fig:vokaltrapatr' on page 97 undefined on input line 
+LaTeX Warning: Reference `fig:vokaltrapatr' on page 99 undefined on input line 
 251.
 
-[97]
+[99]
 
-LaTeX Warning: Reference `sec:konsonantenmerkmale' on page 98 undefined on inpu
-t line 276.
+LaTeX Warning: Reference `sec:konsonantenmerkmale' on page 100 undefined on inp
+ut line 276.
 
-[98] [99] [100]
+[100] [101] [102] [103] [104]
 
-LaTeX Warning: Reference `sec:kern' on page 101 undefined on input line 414.
-
-[101] [102]
-
-LaTeX Warning: Reference `tab:pholkonsmerk' on page 103 undefined on input line
+LaTeX Warning: Reference `tab:pholkonsmerk' on page 105 undefined on input line
  500.
 
-[103] [104] [105] [106]
+[105] [106] [107] [108]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[107] [108] [109] <xymatrix 3x2 234>
+[109] [110] [111] <xymatrix 3x2 234>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -2655,27 +2702,27 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121]
-[122] [123
+[112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123]
+[124] [125
 
-] [124
+] [126
 
-] [125] [126
-
-
-]) [127] [128
+] [127] [128
 
 
+]) [129] [130
 
-] [129] [130] [289
 
 
+] [131] [132] [293
 
 
 
 
 
-] [290] [438
+
+
+] [294] [442
 
 
 
@@ -2683,7 +2730,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 ]
-[439] [440] [541
+[443] [444] [547
 
 
 
@@ -2692,14 +2739,14 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-] (./indices.tex) (./schaefer-egbd.and [542
+] (./indices.tex) (./schaefer-egbd.and [548
 
-] [543
+] [549
 
-] [544]
-[545] [546] [547] [548] [549] [550] [551])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
+] [550]
+[551] [552] [553] [554] [555] [556] [557])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
  (./schaefer-egbd.aux
 (./chapters/einleitung.aux) (./chapters/grammatik.aux)
 (./chapters/grundbegriffe.aux) (./chapters/phonetik.aux)
@@ -2709,12 +2756,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
 (./chapters/konstituentenstruktur.aux) (./chapters/phrasen.aux)
 (./chapters/saetze.aux) (./chapters/relationen.aux) (./chapters/phonschrift.aux
 ) (./chapters/andereschrift.aux) (./chapters/loesungen.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 105.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 105.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 106.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 106.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were undefined references.
@@ -2722,17 +2772,22 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                schaefer-egbd
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 \openout1 = `schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48492 strings out of 494865
- 848560 string characters out of 6167200
- 1337478 words of memory out of 5000000
- 50933 multiletter control sequences out of 15000+600000
+ 48516 strings out of 494865
+ 849099 string characters out of 6167200
+ 1337671 words of memory out of 5000000
+ 50953 multiletter control sequences out of 15000+600000
  19064 words of font info for 139 fonts, out of 8000000 for 9000
  440 hyphenation exceptions out of 8191
  65i,16n,104p,10460b,1759s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on schaefer-egbd.pdf (109 pages).
+Output written on schaefer-egbd.pdf (130 pages).
