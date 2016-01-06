@@ -12,25 +12,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.1.1}Sprache als Symbolsystem}{11}{subsection.1.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.2}Grammatik}{15}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.2}Grammatik}{14}{subsection.1.1.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.1.3}Grammatikalität}{15}{subsection.1.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.4}Ebenen der Grammatik}{18}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.4}Ebenen der Grammatik}{17}{subsection.1.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Deskriptive und präskriptive Grammatik}{19}{section.1.2}
+\contentsline {subsection}{\numberline {1.1.5}Kern und Peripherie}{18}{subsection.1.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.1}Beschreibung und Vorschrift}{19}{subsection.1.2.1}
+\contentsline {section}{\numberline {1.2}Deskriptiv, präskriptiv, theoretisch}{22}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.2}Regel, Regularität und Generalisierung}{21}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.1}Beschreibung und Vorschrift}{22}{subsection.1.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.3}Norm als Beschreibung}{24}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.2}Regel, Regularität und Generalisierung}{23}{subsection.1.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.4}Kern und Peripherie}{26}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.3}Norm als Beschreibung}{27}{subsection.1.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.5}Empirie und Theorie}{27}{subsection.1.2.5}
+\contentsline {subsection}{\numberline {1.2.4}Empirie und Theorie}{29}{subsection.1.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 1}{31}{subsection.1.2.5}
+\contentsline {section}{Zusammenfassung von Kapitel 1}{33}{subsection.1.2.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Grundbegriffe der Grammatik}{31}{chapter.2}
 \defcounter {refsection}{0}\relax 
