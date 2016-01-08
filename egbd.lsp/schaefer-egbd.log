@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  7 JAN 2016 19:34
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  8 JAN 2016 19:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2344,7 +2344,7 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 . Arimo_B.ttf scale = 0.9564119235264212.
 .................................................
 
-Overfull \hbox (21.32785pt too wide) in paragraph at lines 51--51
+Overfull \hbox (43.77582pt too wide) in paragraph at lines 51--51
 [][][][][][][] 
  []
 
@@ -2448,11 +2448,17 @@ LaTeX Font Info:    Font shape `EU1/LinLibertine_R_B.otf(0)/m/sl' in size <10.9
 
 
 
-] [10]
-\openout2 = `chapters/grammatik.aux'.
+] [10] [62
 
- (./chapters/grammatik.tex
-Kapitel 1.
+
+
+
+] [63] [64]
+\openout2 = `chapters/phonetik.aux'.
+
+
+(./chapters/phonetik.tex
+Kapitel 3.
 
 Class scrbook Warning: \float@addtolists detected!
 (scrbook)              Implementation of \float@addtolist became
@@ -2468,11 +2474,123 @@ Class scrbook Warning: \float@addtolists detected!
 (scrbook)              a package that still implements the
 (scrbook)              deprecated \float@addtolist interface .
 
-[11
+
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 21--22
+[][][][][][]
+ []
+
+[65
 
 
 
 ]
+Overfull \hbox (3.95816pt too wide) in paragraph at lines 28--31
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 zung nicht gegeben ist, muss man sich am
+ Lautsystem solcher Sprecher (z.B. Nach-
+ []
+
+[66] [67]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 121--122
+[][][][][][]
+ []
+
+[68]
+File: figures/ueberblick.pdf Graphic file (type QTm)
+ <use  "figures/ueberblick.pdf" > [69] [70]
+File: figures/mundraum.pdf Graphic file (type QTm)
+ <use  "figures/mundraum.pdf" >
+[71] [72]
+Overfull \hbox (3.47597pt too wide) in paragraph at lines 246--247
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 die \EU1/LinLibertine_R_B.otf(0)/m/it/
+10.95 Behinderung \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 (\EU1/LinLibertine_R_B
+.otf(0)/m/it/10.95 Obstruktion\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ) des Luft
+stroms, wodurch Geräusche (Zischen,
+ []
+
+
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 264--265
+[][][][][][]
+ []
+
+
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 268--269
+[][][][][][]
+ []
+
+[73]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 281--282
+[][][][][][]
+ []
+
+
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 293--294
+[][][][][][]
+ []
+
+[74]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 306--307
+[][][][][][]
+ []
+
+
+Overfull \hbox (3.04982pt too wide) in paragraph at lines 313--317
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Das Geräusch, das bei \EU1/LinLibertine_
+R_B.otf(0)/m/it/10.95 Frikativen \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 entsteh
+t, kann als Rauschen (oder Reibegeräusch)
+ []
+
+
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 321--322
+[][][][][][]
+ []
+
+[75]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 338--339
+[][][][][][]
+ []
+
+[76]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 352--353
+[][][][][][]
+ []
+
+
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 365--366
+[][][][][][]
+ []
+
+[77]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 387--388
+[][][][][][]
+ []
+
+[78]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 411--412
+[][][][][][]
+ []
+
+
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 415--416
+[][][][][][]
+ []
+
+
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 424--425
+[][][][][][]
+ []
+
+[79] <xymatrix 6x3
+
+Package xypdf Warning: The produced DVI file is NOT PORTABLE. Convert it with
+dvipdfm(x) to the PDF format but do not expect the DVI file itself to be
+displayed correctly.
+
+808>
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 449--450
+[][][][][][]
+ []
+
+[80]
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2531,51 +2649,28 @@ tex-text;mapping=tex-text;+liga;+pnum;+lnum;+smcp;"
 . and font adjustment code:
 . \fontdimen 7\font =0\fontdimen 7\font 
 .................................................
- [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
-Overfull \hbox (5.10738pt too wide) in paragraph at lines 394--403
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Wichtig ist nun die Abgrenzung zur \EU
-1/LinLibertine_R_B.otf(0)/m/it/10.95 präskriptiven Grammatik\EU1/LinLibertine_R
-_B.otf(0)/m/n/10.95 . Die Duden-Gram-
+ [81] [82] [83] [84] [85]
+Overfull \hbox (0.69633pt too wide) in paragraph at lines 651--659
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Vokale sind gewöhnlicherweise bezüglic
+h ihres Artikulationsorts schwerer ein-
  []
 
-[22] [23] [24] [25] [26]
-LaTeX Font Info:    Try loading font information for OT1+LinLibertine_R_B.otf(0
-) on input line 537.
-LaTeX Font Info:    No file OT1LinLibertine_R_B.otf(0).fd. on input line 537.
-
-
-LaTeX Font Warning: Font shape `OT1/LinLibertine_R_B.otf(0)/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead
-(Font)              for symbol `glqq' on input line 537.
-
-Package microtype Info: Loading generic settings for font family
-(microtype)             `LinLibertine_R_B.otf' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-[27]
-Overfull \hbox (2.5379pt too wide) in paragraph at lines 564--571
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Grundkonsens existierenden Grammatiken, 
-so dass eine eigene Empirie hier nicht
+[86] [87] [88] [89] [90] [91] [92] [93]
+Overfull \hbox (0.96751pt too wide) in paragraph at lines 956--957
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Verschiedene Segmente kommen durch ver
+schiedene Artikulationen (= Ob-
  []
 
-[28] [29] [30]
+[94
 
-LaTeX Warning: Citation 'SchaeferBildhauer2012a' on page 31 undefined on input 
-line 639.
+] [95
 
-[31] [32]) [33
-
-] [62
+]) [96] [136
 
 
 
 
-] [63] [64] [134
-
-
-
-
-] [135] [136] [297
+] [137] [138] [307
 
 
 
@@ -2583,15 +2678,14 @@ line 639.
 
 
 
-] [298] [446
+] [308] [462
 
 
 
 
 
 
-] [447]
-[448] [551
+] [463] [464] [571
 
 
 
@@ -2606,24 +2700,24 @@ Underfull \hbox (badness 2409) in paragraph at lines 98--98
 e Geheimnisse der deutschen würde-
  []
 
-[552] [553]
+[572] [573]
 Underfull \hbox (badness 1303) in paragraph at lines 98--98
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Leirbukt, Oddleif. 2013. \EU1/LinLib
 ertine_R_B.otf(0)/m/it/10.95 Untersuchungen zum bekommen-Passiv im heutigen
  []
 
-[554]
+[574]
 Underfull \hbox (badness 1466) in paragraph at lines 98--98
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Nübling, Damaris & Renata Szczepania
 k. 2009. Religion+s+freiheit, Stabili-
  []
 
-[555] [556] [557] (./indices.tex) (./schaefer-egbd.and [558
+[575] [576] [577] (./indices.tex) (./schaefer-egbd.and [578
 
-] [559
+] [579
 
-] [560]
-[561] [562] [563] [564] [565] [566] [567])
+] [580]
+[581] [582] [583] [584] [585] [586] [587])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
  (./schaefer-egbd.aux
@@ -2643,30 +2737,19 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
 
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
-
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                schaefer-egbd
-(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 \openout1 = `schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48603 strings out of 494865
- 850703 string characters out of 6167200
- 1331663 words of memory out of 5000000
- 51050 multiletter control sequences out of 15000+600000
- 18991 words of font info for 137 fonts, out of 8000000 for 9000
+ 48650 strings out of 494865
+ 851027 string characters out of 6167200
+ 1333909 words of memory out of 5000000
+ 51095 multiletter control sequences out of 15000+600000
+ 19048 words of font info for 137 fonts, out of 8000000 for 9000
  440 hyphenation exceptions out of 8191
- 65i,13n,104p,10460b,2298s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,15n,104p,10460b,2300s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on schaefer-egbd.pdf (69 pages).
+Output written on schaefer-egbd.pdf (78 pages).

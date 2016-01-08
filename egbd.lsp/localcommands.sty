@@ -84,12 +84,15 @@
 \definecolor{lightyellow}{rgb}{1,1,.8}
 \definecolor{lightgray}{rgb}{.9,.9,.9}
 
+
+\setlength{\fboxsep}{0.04\textwidth}
+
 \newcommand{\htb}[4][] % /1:headline/2:color/3:width/4:text/
 {
 	\vspace{0.2cm}
 	\noindent\colorbox{#2}{
 	\begin{minipage}[h]{#3}
-	  \ifthenelse{\equal{#1}{}}{}{\large \textbf{#1}\newline}
+	  \ifthenelse{\equal{#1}{}}{}{\large \textbf{#1}\par\vspace{12pt}}
 		\rmfamily\normalsize #4 \hfill
 	\end{minipage}
 	}
@@ -102,7 +105,7 @@
 	\vspace{0.2cm}
 	\noindent\colorbox{#2}{
 	\begin{boxedminipage}[h]{#3}
-		\ifthenelse{\equal{#1}{}}{}{\large \textbf{#1}\newline}
+		\ifthenelse{\equal{#1}{}}{}{\large \textbf{#1}\par\vspace{12pt}}
 		\rmfamily\normalsize #4 \hfill
 	\end{boxedminipage}
 	}
@@ -151,27 +154,24 @@
 \newcommand{\Phantom}{\phantomsection}
 
 % special reading aids
-\definecolor{bggray}{rgb}{0.9,0.9,0.9}
 \newcommand{\Tu}[1]{
   \vspace{0.1cm}
   \begin{center}
-    \colorbox{bggray}{
-      \begin{minipage}[h]{\textwidth-4.5\fboxsep}
+      \begin{minipage}{\textwidth}
 	☞~#1
       \end{minipage}
-    }
   \end{center}
   \vspace{0.1cm}
 }
 
-\newcommand{\Definition}[2]{\refstepcounter{dgdef}\vspace{0.2cm}\htb[Definition \thechapter.\arabic{dgdef}: \textit{#1}]{lightgray}{\textwidth-4.5\fboxsep}{#2}\vspace{0.2cm}}
+\newcommand{\Definition}[2]{\refstepcounter{dgdef}\vspace{0.2cm}\htb[Definition \thechapter.\arabic{dgdef} \textit{#1}]{lightgray}{\textwidth-2.1\fboxsep}{#2}\vspace{0.2cm}}
 
-\newcommand{\WFilt}[3]{\refstepcounter{deskgram-wfilt}\vspace{0.2cm}\htb[Wortklassenfilter \arabic{deskgram-wfilt}: \textit{#1}]{lightgray}{\textwidth-4.5\fboxsep}{\textbf{Anwendungsbereich}: #2 \newline#3}\vspace{0.2cm}}
+\newcommand{\WFilt}[3]{\refstepcounter{deskgram-wfilt}\vspace{0.2cm}\htb[Wortklassenfilter \arabic{deskgram-wfilt} \textit{#1}]{lightgray}{\textwidth-2.1\fboxsep}{\textbf{Anwendungsbereich}: #2 \newline#3}\vspace{0.2cm}}
 
 \newcommand{\WFiltTree}[6]{
   \refstepcounter{deskgram-wfilt}
   \vspace{0.2cm}
-  \htb[Wortklassenfilter \arabic{deskgram-wfilt}: \textit{#1}]{lightgray}{\textwidth-4.5\fboxsep}{
+  \htb[Wortklassenfilter \arabic{deskgram-wfilt} \textit{#1}]{lightgray}{\textwidth-4.5\fboxsep}{
     \label{#2}
     \vspace{-0.5cm}
     \begin{center}
@@ -186,13 +186,13 @@
   }
 
 
-\newcommand{\Satz}[2]{\refstepcounter{dgsatz}\vspace{0.2cm}\htb[Satz \thechapter.\arabic{dgsatz}: \textit{#1}]{lightgray}{\textwidth-4.5\fboxsep}{#2}\vspace{0.2cm}}
+\newcommand{\Satz}[2]{\refstepcounter{dgsatz}\vspace{0.2cm}\htb[Satz \thechapter.\arabic{dgsatz} \textit{#1}]{lightgray}{\textwidth-2.1\fboxsep}{#2}\vspace{0.2cm}}
 
-\newcommand{\PholProz}[2]{\refstepcounter{deskgram-pholproz}\vspace{0.2cm}\htb[Prozess \arabic{deskgram-pholproz}: \textit{#1}]{lightgray}{\textwidth-4.5\fboxsep}{\vspace{-0.5cm}\begin{center}#2\end{center}\vspace{-0.5cm}}\vspace{0.5cm}}
+\newcommand{\PholProz}[2]{\refstepcounter{deskgram-pholproz}\vspace{0.2cm}\htb[Prozess \arabic{deskgram-pholproz} \textit{#1}]{lightgray}{\textwidth-2.1\fboxsep}{\vspace{-0.5cm}\begin{center}#2\end{center}\vspace{-0.5cm}}\vspace{0.5cm}}
 
 \newcommand{\KTest}[2]{\vspace{0.2cm}\htb[#1]{lightgray}{\textwidth-4.5\fboxsep}{#2}\vspace{0.2cm}}
 
-\newcommand{\Phrasenschema}[2]{\refstepcounter{deskgram-strsch}\vspace{0.2cm}\htb[Phrasenschema \arabic{deskgram-strsch}: \textit{#1}]{lightgray}{\textwidth-4.5\fboxsep}{\vspace{-0.4cm}\begin{center}#2\end{center}}\vspace{0.2cm}}
+\newcommand{\Phrasenschema}[2]{\refstepcounter{deskgram-strsch}\vspace{0.2cm}\htb[Phrasenschema \arabic{deskgram-strsch} \textit{#1}]{lightgray}{\textwidth-2.1\fboxsep}{\vspace{-0.4cm}\begin{center}#2\end{center}}\vspace{0.2cm}}
 
 \newcommand{\WeitereLiteratur}{
   \Phantom
