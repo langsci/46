@@ -154,15 +154,9 @@
 \newcommand{\Phantom}{\phantomsection}
 
 % special reading aids
-\newcommand{\Tu}[1]{
-  \vspace{0.1cm}
-  \begin{center}
-      \begin{minipage}{\textwidth}
-	☞~#1
-      \end{minipage}
-  \end{center}
-  \vspace{0.1cm}
-}
+\newcommand{\TuBegin}{\ding{217}}
+\newcommand{\TuEnd}{}
+
 
 \newcommand{\Definition}[2]{\refstepcounter{dgdef}\vspace{0.2cm}\htb[Definition \thechapter.\arabic{dgdef} \textit{#1}]{lightgray}{\textwidth-2.1\fboxsep}{#2}\vspace{0.2cm}}
 
