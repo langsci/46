@@ -74,6 +74,11 @@
 \newcommand{\Bbeldash}[2][0]{\POS[]-(0,9)\POS+(0,#1)\ar@{--}[#2]+(0,2)}
 \newcommand{\Bbel}[1]{\Bk{-4}{0}{#1}}
 
+% Für Anfangsrand/Endrand in Phonologie
+%\newcommand{\Rxx}[3]{\POS[]+(#1,-1.2)\ar@{-}[#3]-(#2,1.2)}
+%\newcommand{\Rxxx}[4]{\POS[]+(#1,-1.2)\ar@{-}[#4]-(#2,#3)}
+
+
 % boxes and stuff for definitions, axioms etc.
 \definecolor{textblue}{rgb}{0,0,.5}
 \definecolor{textred}{rgb}{.5,0,0}
@@ -158,14 +163,14 @@
 \newcommand{\TuEnd}{}
 
 
-\newcommand{\Definition}[2]{\refstepcounter{dgdef}\vspace{0.2cm}\htb[Definition \thechapter.\arabic{dgdef} \textit{#1}]{lightgray}{\textwidth-2.1\fboxsep}{#2}\vspace{0.2cm}}
+\newcommand{\Definition}[2]{\refstepcounter{dgdef}\vspace{0.2cm}\htb[Definition \thechapter.\arabic{dgdef}\ #1]{lightgray}{\textwidth-2.1\fboxsep}{#2}\vspace{0.2cm}}
 
 \newcommand{\WFilt}[3]{\refstepcounter{deskgram-wfilt}\vspace{0.2cm}\htb[Wortklassenfilter \arabic{deskgram-wfilt} \textit{#1}]{lightgray}{\textwidth-2.1\fboxsep}{\textbf{Anwendungsbereich}: #2 \newline#3}\vspace{0.2cm}}
 
 \newcommand{\WFiltTree}[6]{
   \refstepcounter{deskgram-wfilt}
   \vspace{0.2cm}
-  \htb[Wortklassenfilter \arabic{deskgram-wfilt} \textit{#1}]{lightgray}{\textwidth-4.5\fboxsep}{
+  \htb[Wortklassenfilter \arabic{deskgram-wfilt}\ {#1}]{lightgray}{\textwidth-4.5\fboxsep}{
     \label{#2}
     \vspace{-0.5cm}
     \begin{center}
@@ -180,13 +185,13 @@
   }
 
 
-\newcommand{\Satz}[2]{\refstepcounter{dgsatz}\vspace{0.2cm}\htb[Satz \thechapter.\arabic{dgsatz} \textit{#1}]{lightgray}{\textwidth-2.1\fboxsep}{#2}\vspace{0.2cm}}
+\newcommand{\Satz}[2]{\refstepcounter{dgsatz}\vspace{0.2cm}\htb[Satz \thechapter.\arabic{dgsatz}\ {#1}]{lightgray}{\textwidth-2.1\fboxsep}{#2}\vspace{0.2cm}}
 
-\newcommand{\PholProz}[2]{\refstepcounter{deskgram-pholproz}\vspace{0.2cm}\htb[Prozess \arabic{deskgram-pholproz} \textit{#1}]{lightgray}{\textwidth-2.1\fboxsep}{\vspace{-0.5cm}\begin{center}#2\end{center}\vspace{-0.5cm}}\vspace{0.5cm}}
+\newcommand{\PholProz}[2]{\refstepcounter{deskgram-pholproz}\vspace{0.2cm}\htb[Prozess \arabic{deskgram-pholproz}\ {#1}]{lightgray}{\textwidth-2.1\fboxsep}{\vspace{-0.5cm}\begin{center}#2\end{center}\vspace{-0.5cm}}\vspace{0.5cm}}
 
 \newcommand{\KTest}[2]{\vspace{0.2cm}\htb[#1]{lightgray}{\textwidth-4.5\fboxsep}{#2}\vspace{0.2cm}}
 
-\newcommand{\Phrasenschema}[2]{\refstepcounter{deskgram-strsch}\vspace{0.2cm}\htb[Phrasenschema \arabic{deskgram-strsch} \textit{#1}]{lightgray}{\textwidth-2.1\fboxsep}{\vspace{-0.4cm}\begin{center}#2\end{center}}\vspace{0.2cm}}
+\newcommand{\Phrasenschema}[2]{\refstepcounter{deskgram-strsch}\vspace{0.2cm}\htb[Phrasenschema \arabic{deskgram-strsch}\ {#1}]{lightgray}{\textwidth-2.1\fboxsep}{\vspace{-0.4cm}\begin{center}#2\end{center}}\vspace{0.2cm}}
 
 \newcommand{\WeitereLiteratur}{
   \Phantom
