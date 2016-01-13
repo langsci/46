@@ -198,10 +198,10 @@ Im nächsten Abschnitt werden beispielhaft einige Strukturbedingungen und Vertei
 
 Die Auslautverhärtung lässt sich als Strukturbedingung unter Bezug auf phonetische bzw.\ phonologische Merkmale (Abschnitt~\ref{sec:photpholmerkmale}), bestimmte Positionen in Wort oder Silbe und die Oberklassen für Segmente (Abschnitt~\ref{sec:photoberklassen}) sehr einfach und kompakt beschreiben.
 
-\Definition{Auslautverhärtung}{[\textsc{Obstruent}:~$+$] sind [\textsc{Stimme}:~$-$] am Silbenende.}
+\Definition{Auslautverhärtung}{Segmente mit [\textsc{Obstruent}:~$+$] sind [\textsc{Stimme}:~$-$] am Silbenende.}
 
 Wenn wir zugrundeliegende Formen entsprechend an diese Bedingung anpassen wollen, muss also die Silbenstruktur bekannt sein.
-Um diese geht es in Abschnitt~\ref{sec:silben} im Detail, hier werden die Silbengrenzen vorgegeben und durch Punkte markiert. 
+Um diese geht es in Abschnitt~\ref{sec:silben} noch im Detail, hier werden die Silbengrenzen einfach vorgegeben und durch Punkte markiert. 
 Nur zur Veranschaulichung steht \phopro\ für \textit{wird realisiert als}.
 
 \begin{exe}
@@ -213,8 +213,9 @@ Nur zur Veranschaulichung steht \phopro\ für \textit{wird realisiert als}.
   \end{xlist}
 \end{exe}
 
-Abhängig von der zugrundeliegenden Form und der Silbenstruktur muss eine Veränderung stattfinden oder nicht.
-In (\ref{ex:phol6726a}) steht /\textipa{d}/ an das Silbenende, und weil /\textipa{d}/ den Wert [\textsc{Obstruent}: $+$] hat, wird der Wert des Stimmton-Merkmals auf [\textsc{Stimme}: $-$] gesetzt.
+Abhängig von der zugrundeliegenden Form und der Silbenstruktur muss eine Veränderung stattfinden -- oder eben nicht.
+In (\ref{ex:phol6726a}) steht /\textipa{d}/ an das Silbenende.
+Weil /\textipa{d}/ den Wert [\textsc{Obstruent}: $+$] hat, wird der Wert des Stimmton-Merkmals auf [\textsc{Stimme}: $-$] gesetzt.
 In (\ref{ex:phol6726b}) ist die Silbenstruktur anders, die Bedingung für die Auslautverhärtung ist nicht erfüllt, und die Form bleibt unverändert.
 In (\ref{ex:phol6726c}) steht zwar ein Obstruent /\textipa{t}/ am Silbenende, aber es muss keine Anpassung stattfinden, weil /\textipa{t}/ von vornherein [\textsc{Stimme}: $-$] ist.
 
@@ -223,14 +224,15 @@ In (\ref{ex:phol6726c}) steht zwar ein Obstruent /\textipa{t}/ am Silbenende, ab
 \label{sec:gespanntheit}
 
 Die Formulierung von Strukturbedingung kann helfen, die Menge der Merkmale zu reduzieren, die man zugrundeliegend spezifizieren muss.
+Solche Reduktionen sind typisch für die Phonologie im Gegensatz zur Phonetik, weil eine einfache Systembeschreibung aus allgemeinen Ökonomiegründen einer komplexeren prinzipiell vorzuziehen ist.
 In Abschnitt~\ref{sec:photpholmerkmale} wurde die Vokallänge als gewöhnliches Merkmal (\textsc{Lang}) eingeführt.
 Gleichzeitig wurde festgestellt, dass nur die Vokale \textipa{[i y u e \o\ E o a]} lange und kurze Varianten haben.
 Bezüglich der Akzentuierung bzw.\ Betonung ist ebenfalls bereits klar, dass alle Vokale bis auf \textipa{[@ 5]} betonbar sind, und dass bei den Vokalen mit Längenunterschied die Länge an die Betonung gebunden ist.
-Dieser Abschnitt verfolgt zwei Ziele.
-Erstens wird das Merkmal \textsc{Gespannt} vorgeschlagen, um die längbaren Vokale zusammenzufassen.
+Dieser Abschnitt verfolgt nun zwei Ziele.
+Erstens wird das Merkmal \textsc{Gespannt} vorgeschlagen, um die Vokale zusammenzufassen, die lang und kurz vorkommen.
 Zweitens wird dadurch das Merkmal \textsc{Lang} aus allen zugrundeliegenden Formen eliminiert und das Merkmal \textsc{Lage} wird auf drei Werte reduziert.
 Für die genannten Vokale wird also zunächst das Merkmal \textsc{Gespannt} definiert.
-Es ergibt sich das neue Vokalviereck in Tabelle~\ref{tab:vokalviereckmitgespannt}, das um den Preis erkauft wird, dass \textipa{[E]} und \textipa{[b]} jeweils bald gespannt, bald ungespannt gerechnet werden.
+Es ergibt sich das neue Vokalviereck in Tabelle~\ref{tab:vokalviereckmitgespannt}, das um den Preis erkauft wird, dass \textipa{[E]} und \textipa{[a]} jeweils bald als gespannte, bald als ungespannte Variante angesetzt werden.
 
 \begin{exe}
   \ex \textsc{Gespannt}: $+$, $-$
@@ -241,18 +243,16 @@ Es ergibt sich das neue Vokalviereck in Tabelle~\ref{tab:vokalviereckmitgespannt
   \begin{tabular}{cp{2mm}p{2mm}cp{5mm}cp{5mm}cp{5mm}cp{5mm}cp{2mm}}
    \lsptoprule
    \multicolumn{2}{c}{} & \multicolumn{5}{c}{\textbf{vorne}} & \textbf{zentral} & \multicolumn{5}{c}{\textbf{hinten}} \\
-   \multirow{5}{*}{\textbf{hoch}} &&& && && && && & \\
-   &&& \Dim \rnode{i}{i} &&   &&   &&   &&   &\\
+   &&& && && && && & \\
+   \multirow{3}{*}{\textbf{hoch}} &&& \Dim \rnode{i}{i} &&   &&   &&   &&   &\\
    &&& \Dim \rnode{y}{y} &&  \rnode{I}{\textipa{I}} & &   & &   && \Dim \rnode{u}{u} &\\
    &&& \Dim &&  \rnode{Y}{\textipa{Y}} &&   &&  \rnode{U}{\textipa{U}} &&  \Dim &\\
    &&& \Dim &&   &&   &&   &&  \Dim &\\
 \cline{8-8}
-   \multirow{5}{*}{\textbf{mittel}} &&& \Dim \rnode{e}{e} &&   && \multicolumn{1}{|c|}{\textipa{@}} &&   && \Dim \rnode{o}{o} &\\
-   &&& \Dim &&   && \multicolumn{1}{|c|}{}  &&   &&   &\\
-   &&& \Dim \rnode{oe}{\textipa{\o}} &&  \rnode{OE}{\textipa{\oe}} && \multicolumn{1}{|c|}{\textipa{5}} &&  \rnode{O}{\textipa{O}} &&   &\\
+   \multirow{3}{*}{\textbf{mittel}} &&& \Dim \rnode{e}{e} &&   && \multicolumn{1}{|c|}{\textipa{@}} &&   && \Dim \rnode{o}{o} &\\
+   &&& \Dim \rnode{oe}{\textipa{\o}} &&  \rnode{OE}{\textipa{\oe}} && \multicolumn{1}{|c|}{\textipa{5}} &&   &&   &\\
 \cline{8-8}
-   &&& \Dim &&   &&   &&   &&   &\\
-   &&& \Dim \rnode{E}{\textipa{E}} && \rnode{Eugs}{\textipa{E}} &&  &&   &&   &\\
+   &&& \Dim \rnode{E}{\textipa{E}} && \rnode{Eugs}{\textipa{E}} &&  &&   && \rnode{O}{\textipa{O}}  &\\
    \multirow{5}{*}{\textbf{tief}} &&&  &&   &&   &&   &&   &\\
    &&&   &&   &  &  \rnode{augs}{a} & &   &&   &\\
    &&&   &&   &&   &&   &&   &\\
@@ -272,21 +272,24 @@ Es ergibt sich das neue Vokalviereck in Tabelle~\ref{tab:vokalviereckmitgespannt
   \ncline[nodesep=3pt]{-}{a}{augs}
 \end{table}
 
-Die Vokale in den ersten Silben von \textit{Liebe} \textipa{[li:b@]}, \textit{Tüte} \textipa{[ty:t@]}, \textit{Wut} \textipa{[vu:t]}, \textit{Weg} \textipa{[ve:k]}, \textit{schön} \textipa{[S\oe:n]}, \textit{Käse} \textipa{[kE:z@]}, \textit{rot} \textipa{[ro:t]}, \textit{rate} \textipa{[Ka:t@]} gelten also gemäß dieser leicht veränderten Merkmalstheorie als \textit{gespannt}.
+Die Vokale in den ersten Silben von \textit{Liebe} \textipa{[li:b@]}, \textit{Tüte} \textipa{[ty:t@]}, \textit{Wut} \textipa{[vu:t]}, \textit{Weg} \textipa{[ve:k]}, \textit{schön} \textipa{[S\o:n]}, \textit{Käse} \textipa{[kE:z@]}, \textit{rot} \textipa{[ro:t]}, \textit{rate} \textipa{[Ka:t@]} gelten also gemäß dieser leicht veränderten Merkmalsmenge als \textit{gespannt}.
 In diesen Beispielen sind sie betont und daher lang.
 Ungespannte Vokale können zwar betont werden, aber sie werden dadurch nicht lang, \zB in \textit{Rinder} \textipa{[KInd5]}.
 Formen wie *\textipa{[KI:nd5]} sind ausgeschlossen.
-Man kann die Kategorie der Gespanntheit phonetisch mit einem höheren Luftdruck, erhöhter Muskelanspannung oder einer Veränderung der Position der Zungenwurzel in Verbindung bringen.
+Man kann versuchen, die Kategorie der Gespanntheit mit einer erhöhten Muskelanspannung oder einer Veränderung der Position der Zungenwurzel in Verbindung zu bringen.
 Aus Sicht der Phonologie ist der \textit{systematische} Aspekt aber wichtiger.
 Für die gespannten Vokale gelten gemeinsame Strukturbedingungen, und daher sollte sie die Grammatik in jedem Fall als eine Gruppe auffassen, genauso wie die stimmhaften und stimmlosen Obstruenten usw.
-Die Ablösung von der reinen phonetischen Basis rechtfertigt auch die Annahme von einem gespannten und einem ungespannten \textipa{[a]} und \textipa{[E]}, die phonetisch nicht unterscheidbar sind.
+Mit den Ortsmerkmalen der Vokale und der Lippenrundung kann man die gespannten (und damit längbaren) Vokale aber nicht von den anderen absondern. 
+Die damit einhergehende partielle Ablösung von der reinen phonetischen Basis rechtfertigt auch die Annahme von je einem gespannten und einem ungespannten \textipa{[a]} und \textipa{[E]}.
+Immerhin ist das gespannte \textipa{[a]} phonetisch nicht von dem ungespannten \textipa{[a]} unterscheidbar, und Gleiches gilt für gespanntes und ungespanntes \textipa{[E]}.
+
 Weil die halbvorderen und halbhinteren Vokale jetzt durch die Gespanntheit von den vorderen und hinteren unterscheidbar werden, kann ein weiteres Merkmal in seinen möglichen Werten reduziert werden.
 
 \begin{exe}
   \ex \textsc{Lage}: \textit{vorne}, \textit{zentral}, \textit{hinten}
 \end{exe}
 
-Einige Zusammenhänge sind bemerkenswert.
+Die bemerkenswerten Zusammenhänge werden jetzt auf den Punkt gebracht und zusammengefasst.
 Je nach Auffassung, was der Kernwortschatz ist, gilt im Kernwortschatz (auf jeden Fall aber im Erbwortschatz), dass gespannte Vokale immer betont und damit immer lang sind.
 Innerhalb des Kernwortschatzes gibt es damit die in Tabelle~\ref{tab:vokalviereckmitgespannt} durch Striche markierten Paare aus langen gespannten betonten und kurzen ungespannten betonten oder unbetonten Vokalen.
 Während die ungespannten betont oder unbetont auftreten können, sind die gespannten immer betont.
@@ -312,7 +315,7 @@ Während die ungespannten betont oder unbetont auftreten können, sind die gespa
 \end{table}
 
 \Satz{Gespanntheit im Kernwortschatz}{Im Kernwortschatz sind gespannte Vokale immer betont und lang.
-Zu jedem gespannten Vokal gibt es einen ungespannten.
+Zu jedem gespannten Vokal gibt es einen entsprechenden ungespanten Vokal.
 Der ungespannte ist betont oder unbetont, aber auf jeden Fall immer kurz.}
 
 Im erweiterten Wortschatz, der mehr Vielsilbler enthält, gilt die eingangs erwähnte Strukturbedingung, dass bei den gespannten Vokalen die Betonung die Länge kontrolliert.
@@ -322,7 +325,7 @@ Weil diese Wörter im alltäglichen Gebrauch durchaus häufig vorkommen, wird hi
 \Satz{Gespanntheit im erweiterten Wortschatz}{Im erweiterten Wortschatz sind gespannte Vokale lang, wenn sie betont sind und kurz, wenn sie unbetont sind.
 Es gibt keine ungespannten langen Vokale.}
 
-Völlig außerhalb dieses Systems steht übrigens das Schwa und seine Variante \textipa{[5]}.
+Völlig außerhalb dieses Systems steht das Schwa und seine Variante \textipa{[5]}.
 
 \Satz{Schwa}{Schwa ist immer kurz und nie betont.}
 
@@ -343,8 +346,8 @@ Man erhält zum Beispiel (\ref{ex:phol013}).
 \label{sec:prozichach}
 
 Die sogenannten \textit{ich}- und \textit{ach}-Segmente sind komplementär verteilt.
-Es gibt kein Wort, in dem sie einen lexikalischen Unterschied markieren können.
-Einige Beispielwörter, in denen \textipa{[\c{c}]} (\ref{ex:phol6110a}) und \textipa{[X]} (\ref{ex:phol6110b}) vorkommen, illustrieren dies.
+Es gibt kein Wort, in dem sie einen lexikalischen Unterschied markieren.
+Einige Beispielwörter, in denen \textipa{[\c{c}]} und \textipa{[X]} vorkommen, illustrieren dies in (\ref{ex:phol6110}).
 
 \begin{exe}
   \ex\label{ex:phol6110}
@@ -355,151 +358,68 @@ Einige Beispielwörter, in denen \textipa{[\c{c}]} (\ref{ex:phol6110a}) und \tex
 \end{exe}
 
 Ausschlaggebend für das Vorkommen von \textipa{[\c{c}]} und \textipa{[X]} ist der unmittelbar vorangehende Kontext.
-Nach /\textipa{i:}/, /\textipa{y:}/, /\textipa{I}/, /\textipa{Y}/, /\textipa{e:}/, /\textipa{\o}/, /\textipa{E:}/, /\textipa{E}/, /\textipa{\oe}/ kommt \textipa{[\c{c}]} vor, nach /\textipa{u:}/, /\textipa{U}/, /\textipa{o:}/, /\textipa{O}/, /\textipa{a:}/ und /\textipa{a}/ hingegen \textipa{[X]} (nach Schwa kommt keins der beiden Segmente vor).
-Ein Blick auf das Vokalviereck (Abbildung~\ref{fig:vokaltrapatr}, S.~\pageref{fig:vokaltrapatr}) zeigt sofort, was der relevante Merkmalsunterschied ist.
-Nach Vokalen, die [\textsc{Hinten}: $-$] sind, steht \textipa{[\c{c}]}, nach Vokalen, die [\textsc{Hinten}: $+$] sind, steht hingegen \textipa{[X]}.
-Die relevanten Merkmale der beiden Frikative sind die in (\ref{ex:phol1190}).
+Nach /\textipa{i}/, /\textipa{y}/, /\textipa{I}/, /\textipa{Y}/, /\textipa{e}/, /\textipa{\o}/, /\textipa{E}/, /\textipa{E}/, /\textipa{\oe}/ kommt \textipa{[\c{c}]} vor, nach /\textipa{u}/, /\textipa{U}/, /\textipa{o}/, /\textipa{O}/ und /\textipa{a}/ hingegen \textipa{[X]}.
+Nach Schwa kommt keins der beiden Segmente vor.
+Ein Blick auf das phonologische Vokalviereck in Abbildung~\ref{tab:vokalviereckmitgespannt} zeigt sofort, was der relevante Merkmalsunterschied zwischen den beiden Gruppen von Vokalen ist.
+Nach Vokalen, die [\textsc{Lage}: \textit{vorne}] sind, steht \textipa{[\c{c}]}.
+Nach allen anderen Vokalen steht hingegen \textipa{[X]}.
+Dabei handelt es sich um eine Angleichung des Artikulationsorts des Frikativs an den des Vokals, eine sogenannte \textit{Assimilation}.\index{Assimilation}
 
-\begin{exe}
-  \ex\label{ex:phol1190}
-  \begin{xlist}
-    \ex{\textipa{[\c{c}]} $=$ [\textsc{Kons}: $+$, \textsc{Appr}: $-$, \textsc{Son}: $-$, \textsc{Kont}: $+$, \textsc{Ort}: \textit{dor}, \textsc{Hinten}: $-$]}
-    \ex{\textipa{[X]} $=$ [\textsc{Kons}: $+$, \textsc{Appr}: $-$, \textsc{Son}: $-$, \textsc{Kont}: $+$, \textsc{Ort}: \textit{dor}, \textsc{Hinten}: $+$]}
-  \end{xlist}
-\end{exe}
+Es muss jetzt nur noch entschieden werden, wie die zugrundeliegende Form in diesem Fall aussieht.
+Aufschlussreich ist hier die Betrachtung von Wörtern wie \textit{Milch} /\textipa{mIl\c{c}}/, \textit{Storch} /\textipa{StOK\c{c}}/ oder \textit{Röckchen} /\textipa{K\oe k\c{c}@n}/, in denen \textipa{[\c{c}]}, aber niemals \textipa{[X]} nach einem Konsonanten vorkommt.
+Es ist also günstiger, anzunehmen, dass /\textipa{\c{c}}/ zugrundeliegt und \textipa{[X]} das phonetische Resultat einer Assimilation ist.
+Das heißt, dass \textipa{[X]} kein zugrundeliegendes Segment ist und nicht in /~/ gehört.
+Mit der entsprechenden Strukturbedingung ergeben sich die Beispiele wie in (\ref{ex:phol8011}).
 
-Hier wird ein Vorteil der zunächst vielleicht etwas umständlich wirkenden phonologischen Merkmale deutlich.
-Dank des sowohl vokalischen als auch konsonantischen Merkmals \textsc{Hinten} kann die Frage der Realisierung von \textipa{[\c{c}]} und \textipa{[X]} als Prozess beschrieben werden, der den Wert des Merkmals \textsc{Hinten} beim Frikativ an den entsprechenden Wert des vorangehenden Vokals angleicht bzw.\ assimiliert.
-Assimilation heißt hier nichts anderes, als dass der Wert eines Merkmals mit dem eines anderen gleichgesetzt wird, was durch eine Variable (hier \textit{x}) angezeigt werden kann.
-Alle Merkmale, über die auf der rechten Seite keine Angaben gemacht werden, bleiben wie sie sind.
-
-\PholProz{\textsc{Hinten}-Assimilation (HA)}{\index{hinten!Assimilation}
-[\textsc{Son}: $-$, \textsc{Kont}: $+$, \textsc{Ort}: \textit{dor}] \PhPr{HA} [\textsc{Hinten}: \textit{x}]\\
-nach [\textsc{Kons}:$-$, \textsc{Hinten}: \textit{x}]
-}
-
-Es muss jetzt nur noch entschieden werden, ob in der zugrundeliegenden Form für \textipa{[\c{c}]} und \textipa{[X]} gar kein Wert für \textsc{Hinten} gespeichert ist, oder ob vielleicht einer der beiden möglichen Werte ($+$ oder $-$) zugrundeliegt und in einem der beiden Fälle geändert wird.
-Aufschlussreich ist hier die Betrachtung von Wörtern wie \textit{Milch} /\textipa{mIl\c{c}}/, \textit{Storch} /\textipa{StOK\c{c}}/ oder \textit{Röckchen} /\textipa{K\oe k\c{c}@n}/, in denen \textipa{[\c{c}]} (aber niemals \textipa{[X]}) nach einem Konsonanten vorkommt.
-Es ist also besser, anzunehmen, dass /\textipa{\c{c}}/ zugrundeliegt und \textipa{[X]} das phonetische Resultat einer Assimilation ist.
-Aus diesem Grund wurde in Abschnitt~\ref{sec:konsonantenmerkmale} das Segment \textipa{[X]} auch nicht in /~/ gesetzt.
-Es ist kein zugrundeliegendes Segment.
-Damit ergeben sich die Anwendungen des Prozesses wie in (\ref{ex:phol8011}).
+\Definition{/ç/-Assimilation}{/ç/ kann nicht nach Vokalen stehen, die nicht [\textsc{Lage}: \textit{vorne}] sind.}
 
 \begin{exe}
   \ex\label{ex:phol8011}
   \begin{xlist}
-    \ex{/\textipa{I\c{c}}/ \PhPr{HA} \textipa{[PI\c{c}]}}
-    \ex{/\textipa{a\c{c}}/ \PhPr{HA} \textipa{[PaX]}}
+    \ex{/\textipa{I\c{c}}/ \phopro \textipa{[PI\c{c}]}}
+    \ex{/\textipa{a\c{c}}/ \phopro \textipa{[PaX]}}
   \end{xlist}
 \end{exe}
 
-\subsection{Frikativierung von /g/}
-
-\label{sec:prozgfrik}
-
-Im Standard wird /\textipa{Ig}/ als \textipa{[I\c{c}.]} realisiert.
-Das /\textipa{g}/ wird also zum Frikativ, und kein anderer Vokal außer /\textipa{I}/ hat diese Wirkung auf das /\textipa{g}/.
-Der Prozess wird als /\textipa{g}/-Frikativierung oder /\textipa{g}/-Spirantisierung bezeichnet.
-In (\ref{ex:phol8482}) sind die einzigen Merkmale von /\textipa{g}/ und /\textipa{\c{c}}/ gegenübergestellt, die sich in ihren Werten unterscheiden.
-
-\begin{exe}
-  \ex\label{ex:phol8482}
-  \begin{xlist}
-    \ex{/\textipa{g}/ $=$ [\textsc{Kont}: $-$, \textsc{Stimme}: $+$]}
-    \ex{/\textipa{\c{c}}/ $=$ [\textsc{Kont}: $+$, \textsc{Stimme}: $-$]}
-  \end{xlist}
-\end{exe}
-
-Die Änderung dieser Werte ist offensichtlich nicht gut als Assimilation an die Merkmale von /\textipa{I}/ zu beschreiben.
-Der Prozess hat vielmehr etwas Willkürliches an sich.
-Daher können wir ihn auch unter Bezugnahme auf ganze Segmente formulieren und müssen diese nicht unbedingt in Merkmale aufschlüsseln.%
-\footnote{Man kann den Verlust der Stimmhaftigkeit auch der Auslautverhärtung überlassen.
-Dies hat aber weitere Implikationen bezüglich der Reihenfolge, in der die Prozesse stattfinden müssen, weswegen dies hier nicht besprochen wird.}
-
-\PholProz{/g/-Frikativierung (GF)}{\textipa{Ig} \PhPr{GF} \textipa{I\c{c}} in Coda}
-
-Die Formulierung des Prozesses enthält eine wichtige Einschränkung, nämlich dass der Prozess nur am Silbenende stattfindet.
-In (\ref{ex:phol9990}) sind einige Beispiele angegeben, in denen diese Einschränkung zusammen mit dem Silbifizierungsprozess interessante Resultate erzeugt.
-
-\begin{exe}
-  \ex\label{ex:phol9990}
-  \begin{xlist}
-    \ex{/\textipa{ve:nIg}/ \PhPr{SI} \textipa{[.ve:.nIg.]} \PhPr{GF} \textipa{[.ve:.nI\c{c}.]}}
-    \ex{/\textipa{ve:nIg@}/ \PhPr{SI} \textipa{[.ve:.nI.g@.]} \PhPr{GF} \textipa{[.ve:.nI.g@.]}}
-  \end{xlist}
-\end{exe}
-
-Wie schon bei der Auslautverhärtung (Abschnitt~\ref{sec:prozauslautverh}) kann die Silbifizierung die Anwendbarkeit anderer Prozesse beeinflussen.
-Weil im Wort \textit{wenige} das /\textipa{g}/ in den Onset der letzten Silbe gerät (und nicht in die Coda wie bei \textit{wenig}), kann die \textit{g}-Frikativierung nicht eintreten, denn sie ist beschränkt auf die Codaposition.
-
-\subsection{/ʁ/-Vokalisierungen}
+\subsubsection{/ʁ/-Vokalisierungen}
 
 \label{sec:prozrvok}
 
-Mit der Diskussion der /\textipa{K}/-Vo\-ka\-li\-sie\-rung (RV) schließt jetzt der Abschnitt über die phonologischen Prozesse.
 In Abschnitt~\ref{sec:realisr} wurden verschiedene phonetische Korrelate von geschriebenem \textit{r} besprochen.
 Die Schrift ist hier eigentlich besonders systematisch, denn orthographisches \textit{r} entspricht immer einem zugrundeliegenden /\textipa{K}/ (vgl.\ auch Abschnitt~\ref{sec:buchstabensegmente}).
-In (\ref{ex:phol9906}) sind einige Beispiele zusammengestellt, die dies illustrieren.
+In (\ref{ex:phol9906}) sind einige Beispiele zusammengestellt (inkl.\ Silbengrenzen), die dies illustrieren.
 
 \begin{exe}
   \ex\label{ex:phol9906}
   \begin{xlist}
-    \ex{geringer \textipa{[.g@.KIN.5.]}, geringere \textipa{[.g@.KIN.@.K@.]}}
-    \ex{Bär \textipa{[.b\t{E5}.]}, Bären \textipa{[.bE:.K@n.]}}
-    \ex{knarr \textipa{[.kn\t{a@}.]}, knarre \textipa{[.kna.K@.]}}
+    \ex{geringer \textipa{[g@.KIN.5]}, geringere \textipa{[g@.KIN.@.K@]}}
+    \ex{Bär \textipa{[b\t{E5}]}, Bären \textipa{[bE:.K@n]}}
+    \ex{knarr \textipa{[kn\t{a@}]}, knarre \textipa{[kna.K@]}}
   \end{xlist}
 \end{exe}
 
-Wenn ein zugrundeliegendes /\textipa{K}/ im Onset steht, wird es als konsonantisches \textipa{[K]} realisiert.
-Demgegenüber müssen für /\textipa{K}/ in Codas drei Fälle unterschieden werden.
-Erstens gibt es eine dem Schwa ähnliche Realisierung von /\textipa{@K}/, nämlich \textipa{[5]}.
-Dieses steht niemals in einer akzentuierten Silbe, da Schwa niemals in solchen Silben vorkommt.
-Bei allen anderen Vokalen muss zwischen langen und kurzen Vokalen unterschieden werden.
-Ein langer Vokal vor /\textipa{K}/ verliert an Länge, und das /\textipa{K}/ wird als \textipa{[5]} realisiert.
-Nach kurzem Vokal wird /\textipa{K}/ schließlich als \textipa{[@]} realisiert.
-Wegen der komplizierten Verhältnisse versuchen wir im Fall der /\textipa{K}/-Vokalisierung nicht, den Prozess vollständig mit Merkmalen zu beschreiben und geben einfach die drei möglichen Varianten an.
+Wenn ein zugrundeliegendes /\textipa{K}/ am Silbenanfang steht, wird es als Konsonant \textipa{[K]} realisiert.
+Demgegenüber findet am Silbenende immer eine Vokalisierung von /\textipa{K}/statt.
+Nach gespannten Vokalen wird /\textipa{K}/ zu \textipa{[5]}, nach ungespannten zu \textipa{[@]}.
+Nach (stets unbetontem) Schwa wird /\textipa{K}/ gar nicht realisiert, und Schwa wird zu \textipa{[5]}.
+Diese Vorgänge formal genau aufzuschreiben, würde den hier gegebenen Rahmen sprengen.
+Aus Sicht der Phonologie sind aber auf jeden Fall die Unterschiede zwischen \textipa{[@]} und \textipa{[5]} nicht sonderlich erheblich, stellen sie doch nur minimal unterschiedliche Färbungen des Schwa-Segments dar.
+Die entsprechende Strukturbedingung und ihre Effekte werden daher nur grob in Definition~\ref{def:rvokalisierung} beschrieben.
+Beispiele folgen in (\ref{ex:phol696969}).
 
-\PholProz{/ʁ/-Vokalisierung}{\index{r-Vokalisierung}
-\begin{tabular}{ccc}
-  \textipa{@K} & \PhPr{RV} & \textipa{5} am Silbenende\\
-  {}\textipa{K} & \PhPr{RV} & \textipa{5} nach [\textsc{Lang}: $+$] am Silbenende\\
-  {}\textipa{K} & \PhPr{RV} & \textipa{@} nach [\textsc{Lang}: $-$] am Silbenende
-\end{tabular}
-}
+\Definition{/ʁ/-Vokalisierung}{
+\label{def:rvokalisierung}
+Zugrundeliegendes /\textipa{K}/ kann nicht am Silbenende stehen.
+Es wird als (ggf.\ gefärbtes) Schwa-Segment realisiert.}
 
-Interessant ist, dass in allen diesen Fällen die Coda der Silbe letztendlich nicht besetzt wird, sondern im Nukleus ein sekundärer Diphthong entsteht.
-Der Begriff des sekundären Diphthongs wurde in Abschnitt~\ref{sec:realisr} bereits benutzt, jetzt können wir genauer angeben, was darunter zu verstehen ist.
-Es handelt sich um Diphthonge, die auf die Vokalisierung eines zugrundeliegenden Konsonanten zurückgehen.
-
-%\subsection{Affrikaten}
-%
-%\label{sec:affrikaten}
-%
-%\textbf{?? ERWEITERN, INTEGRATION PRÜFEN}
-%
-%Die Affrikaten sind hier aus Platzgründen weitgehend aus der Diskussion ausgespart worden.
-%Eine wichtige Frage ist allerdings, ob in der Phonologie Affrikaten wie \textipa{[\t{ts}]} als ein Segment behandelt werden sollen, oder als eine Folge aus zwei Segmenten (hier \textipa{[t]} und \textipa{[s]}).
-%Der Weg zur Lösung dieser Frage führt über die Verteilung der Affrikaten.
-%Wenn Fremdwörter (bzw.\ Wörter jenseits des Kernwortschatzes, vgl.\ Abschnitt~\ref{sec:nichtkernschreib}) einmal ausgeklammert werden (\zB \textit{Chips} oder \textit{tschechisch}), ergibt sich ein interessantes Bild für die drei primären Kandidaten für Affrikaten.
-%Vgl.\ dazu die Beispiele in (\ref{ex:phol81209}).
-%
-%\begin{exe}
-%  \ex\label{ex:phol81209} 
-%  \begin{xlist}
-%    \ex{\label{ex:phol81209a} Zange, Platz}
-%    \ex{\label{ex:phol81209b} Pfund, Napf}
-%    \ex{\label{ex:phol81209c} --, Matsch}
-%  \end{xlist}
-%\end{exe}
-%
-%Während /\textipa{\t{ts}}/ und /\textipa{\t{pf}}/ im Onset und in der Coda von Silben vorkommen können, kann /\textipa{\t{tS}}/ nur im Auslaut vorkommen.
-%Weil sich /\textipa{\t{ts}}/ und /\textipa{\t{pf}}/ also verteilen wie andere stimmlose Obstruenten, kann man sie parallel zu diesen als ein Segment behandeln, aber /\textipa{\t{tS}}/ eher nicht.
-%
-%Bei /\textipa{\t{pf}}/ kommt hinzu, dass das /\textipa{f}/ als einzelnes Segment in dieser Position eine weitere Verletzung des Sonoritätskontur mit sich brächte.
-%Durch die Auffassung, dass /\textipa{\t{pf}}/ zusammen ein Segment darstellt, verhindert man dies.
-%
-%
-
+\begin{exe}
+  \ex \label{ex:phol696969}
+  \begin{xlist}
+  	\ex /\textipa{[g@KIN@K]}/ \phopro \textipa{[g@.KIN.5]}
+  	\ex /\textipa{[bEK]}/ \phopro \textipa{[b\t{E5}]}
+  	\ex /\textipa{[knaK]}/ \phopro \textipa{[kn\t{a@}]}
+  \end{xlist}
+\end{exe}
 
 
 
@@ -732,7 +652,7 @@ Wenn im Anfangsrand \textit{zwei} Konsonanten stehen, sind die Kombinationsmögl
 In unseren Überlegungen setzen wir jetzt jeweils (in dieser Reihenfolge) Plosive, Frikative, Nasale und Approximanten als zweites Segment ein und überlegen, welche Segmente dann davor stehen können.
 Die Beispiele sind möglichst so gewählt, dass rechts vom Vokal nichts steht, aber wenn ein solches Beispiel zufällig nicht existiert, wird auf andere Einsilbler (im Notfall auf Mehrsilbler) ausgewichen.
 
-\textbf{Plosive an zweiter Position} sind im zweisegmentalen Anfangsrand nahezu unmöglich (\ref{ex:phol777202a}) mit der Ausnahme von \textipa{[p]} und \textipa{[t]} nach \textipa{[S]} (\ref{ex:phol777202a}).
+Plosive an zweiter Position sind im zweisegmentalen Anfangsrand nahezu unmöglich (\ref{ex:phol777202a}) mit der Ausnahme von \textipa{[p]} und \textipa{[t]} nach \textipa{[S]} (\ref{ex:phol777202a}).
 Es gibt jedoch sehr seltene Lehnwörter (meist keine Einsilbler), die abweichende Konsonantenverbindungen links vom Vokal enthalten.
 Diese wenigen Ausnahmen wie in (\ref{ex:phol777202c}) sind wegen dieses ungewöhnlichen Silbenbaus nicht zum Kern des Systems zu rechnen (Abschnitt~\ref{sec:kern}).
 Sie sind also nicht nur Lehnwörter, sondern auch Fremdwörter.
@@ -747,9 +667,9 @@ Wörter wie \textit{stygisch} sind im Übrigen nur dann betroffen, wenn \textipa
 	\end{xlist}
 \end{exe}
 
-\textbf{Frikative an zweiter Position} kommen nur eingeschränkt vor.
+Frikative an zweiter Position kommen nur eingeschränkt vor.
 Da wir \textipa{[\t{pf}]} wie in \textit{Pfau} und \textipa{[\t{ts}]} wie in \textit{zieh} sowie das seltene \textipa{[\t{tS}]} wie in \textit{Chips} als Affrikaten (also ein einziger Konsonant) auffassen (Abschnitte~\ref{sec:affrikatenhomorgan} und~\ref{sec:affrikaten}), fallen die Frikative \textipa{[f]}, \textipa{[s]}, \textipa{[S]}, \textipa{[h]}, \textipa{[z]} und \textipa{[J]} komplett als zweites Segment im Anfangsrand aus (\ref{ex:phol777203a}).%
-\footnote{Außerdem kann die Kombination \textipa{[tJ]} bzw.\ \textipa{[t\c{c}a]} wie in \textit{tja} \textipa{[tJa]} (oder \textipa{[t\c{c}a]})  oder dem norddeutschen Namen \textit{Tjark} \textipa{[tJ\t{aE}k]} (oder \textipa{[t\s{c}\t{aE}k]}) zum System gerechnet werden oder nicht.
+\footnote{Außerdem kann die Kombination \textipa{[tJ]} bzw.\ \textipa{[t\c{c}a]} wie in \textit{tja} \textipa{[tJa]} (oder \textipa{[t\c{c}a]})  oder dem norddeutschen Namen \textit{Tjark} \textipa{[tJ\t{a@}k]} (oder \textipa{[t\s{c}\t{aE}k]}) zum System gerechnet werden oder nicht.
 Wesentliches ändert sich dadurch nicht, und wir sehen hier davon ab.}
 Es kommt \textipa{[K]} vor, aber nur nach den Plosiven \textipa{[f]}, \textipa{[S]} und \textipa{[v]} (\ref{ex:phol777203b}).
 Außerdem findet man \textipa{[v]}, aber nur nach \textipa{[k]} und \textipa{[S]} (\ref{ex:phol777203c}).
@@ -758,12 +678,13 @@ Außerdem findet man \textipa{[v]}, aber nur nach \textipa{[k]} und \textipa{[S]
 	\ex\label{ex:phol777203}
 	\begin{xlist}
 		\ex{\label{ex:phol777203a} *ksie \textipa{[ksi:]}, *tfa \textipa{[tfa:]}, *gsau \textipa{[gz\t{aO}]} usw.}
-		\ex{\label{ex:phol777203b} Pracht \textipa{[pKaXt]}, brüh \textipa{[bKy:]}, trau \textipa{[tK\t{aO}]}, dreh \textipa{[dKe:]}, kräh \textipa{[kKE:]}, grau \textipa{[gK\t{aO}]}, früh \textipa{[fKy:]}, Schrei \textipa{[SK\t{aE}]}, Wrack \textipa{[vKak]}}
+		\ex{\label{ex:phol777203b} Pracht \textipa{[pKaXt]}, brüh \textipa{[bKy:]}, trau \textipa{[tK\t{aO}]}, dreh \textipa{[dKe:]}, kräh \textipa{[kKE:]},\\
+		   grau \textipa{[gK\t{aO}]}, früh \textipa{[fKy:]}, Schrei \textipa{[SK\t{aE}]}, Wrack \textipa{[vKak]}}
 		\ex{\label{ex:phol777203c} Qual \textipa{[kva:l]}, Schwur \textipa{[Sv\t{u5}]}}
 	\end{xlist}
 \end{exe}
 
-\textbf{Nasale an zweiter Position} kommen ebenfalls kaum vor, sowohl nach Plosiven (\ref{ex:phol777204a}) als auch nach Frikativen (\ref{ex:phol777204b}).
+Nasale an zweiter Position kommen ebenfalls kaum vor, sowohl nach Plosiven (\ref{ex:phol777204a}) als auch nach Frikativen (\ref{ex:phol777204b}).
 Die einzigen systematischen Ausnahmen sind \textipa{[kn]} und selten \textipa{[gn]} (\ref{ex:phol777204c}) sowie \textipa{[Sn]} und \textipa{[Sm]} (\ref{ex:phol777204d}).%
 \footnote{Wörter mit \textipa{[pn]} sind extrem seltene Lehnwörter wie \textit{Pneu}.
 Das einzige häufiger vorkommende Erbwort mit \textipa{[gn]} in einem Anfangsrand ist \textit{Gnade}.
@@ -780,7 +701,7 @@ Ob der Anlaut \textipa{[gn]} also zum Kern gehört, kann bezweifelt werden.}
 	\end{xlist}
 \end{exe}
 
-Der einzige \textbf{laterale Approximant des Deutschen (\textipa{[l]}) an zweiter Position} ist im Wesentlichen auf zwei Fälle beschränkt.
+Der einzige laterale Approximant des Deutschen (\textipa{[l]}) an zweiter Position ist im Wesentlichen auf zwei Fälle beschränkt.
 Er steht nach allen Plosiven mit Ausnahme der alveolaren (\ref{ex:phol777205a}).
 Außerdem findet man ihn nach den stimmlosen Frikativen \textipa{[f]} und \textipa{[S]} (\ref{ex:phol777205b}).
 
@@ -830,7 +751,7 @@ Mehr zu den Gründen findet sich dann in Abschnitt~\ref{sec:prozrvok}.
 
 Bei den zweisegmentalen Endrändern verfahren wir genau wie bei den zweisegmentalen Anfangsrändern.
 Wir gehen also von innen die Artikulationsarten (Plosive, Frikative, Nasale, Approximanten) durch und prüfen, inwiefern sie die Wahl des zweiten Segments einschränken.
-Anders als im Anfangsrand sind zunächst \textbf{Folgen aus zwei Plosiven} möglich, allerdings von allen sechs möglichen nur \textipa{[pt]} und \textipa{[kt]}.
+Anders als im Anfangsrand sind zunächst Folgen aus zwei Plosiven möglich, allerdings von allen sechs möglichen nur \textipa{[pt]} und \textipa{[kt]}.
 
 \begin{exe}
   \ex\label{ex:phol4712}
@@ -840,7 +761,7 @@ Anders als im Anfangsrand sind zunächst \textbf{Folgen aus zwei Plosiven} mögl
   \end{xlist}
 \end{exe}
 
-Die Auswahl des zweiten Segments ist bei \textbf{Frikativen an erster Position} stark eingeschränkt.
+Die Auswahl des zweiten Segments ist bei Frikativen an erster Position stark eingeschränkt.
 Es kann nur ein Plosiv folgen, im Fall von \textipa{[f s \c{c} X]} ist dies aber immer \textipa{[t]} wie in (\ref{ex:phol4713a}).
 Völlig ausgeschlossen ist \textipa{[S]}.
 \textipa{[K]} kann hingegen mit allen stimmlosen Plosiven kombiniert werden, s.\ (\ref{ex:phol4713b}).
@@ -859,7 +780,7 @@ Außerdem können alle Frikative bis auf \textipa{[s]} mit folgendem \textipa{[s
   \ex{\label{ex:phol47135} Laufs, Reichs, Bachs, Kurs}
 \end{exe}
 
-\textbf{Nasale in erster Position} kombinieren sich alle mit homorganen Plosiven, also solchen, die den gleichen Artikulationsort haben, vgl.\ (\ref{ex:phol4714}).
+Nasale in erster Position kombinieren sich alle mit homorganen Plosiven, also solchen, die den gleichen Artikulationsort haben, vgl.\ (\ref{ex:phol4714}).
 \textipa{[m]} und \textipa{[N]} können zusätzlich mit \textipa{[t]} verbunden werden.
 Einzelne Verbindungen wie \textipa{[mp]} sind sehr selten.
 
@@ -894,7 +815,7 @@ Etwas häufiger sind die Kombinationen \textipa{[nf]} uns \textipa{[ns]}, sehr s
 Das Problem bei der Sequenz aus Nasal und Frikativ im Endrand ist also vor allem die geringe Typenhäufigkeit einiger Kombinationen.
 Ob man \zB für ein einzelnes Wort wie \textit{Ramsch} -- ggf.\ flankiert durch gespreizte Bildungen wie \textit{grimmsch} -- einen eigenen Silbentyp aufmachen möchte, ist wie bei ähnlichen Fällen im Anfangsrand kaum systematisch festzulegen.
 
-Für den \textbf{Approximant in erster Position} ist die Angelegenheit etwas klarer.
+Für den Approximant in erster Position ist die Angelegenheit etwas klarer.
 Er kombiniert sich gut mit den drei Plosiven, vgl.\ (\ref{ex:phol4716a}).
 Von den Frikativen kommen \textipa{[f s \c{c}]} in Frage wie in (\ref{ex:phol4716b}), \textipa{[S X K]} nicht.
 Von den drei Nasalen können nur \textipa{[m n]} folgen, s.\ (\ref{ex:phol4716c}).
@@ -1085,13 +1006,7 @@ Die einzige Ausnahme bilden \textit{s}-Frikative am äußersten Silbenrand.
   \ncline[nodesep=3pt]{->}{F31}{P21}
   \caption{Sonorität am Beispiel von \textit{strolchst}}
   \label{fig:sonhiersstrolchst}
-\end{figure}
-
-
-
-
-
-
+\end{figure}
 
 
 \subsection{Die Systematik von Anfangsrand und Endrand}
@@ -1167,7 +1082,7 @@ In der Beschreibung des Endrands wird sich diese Klassenbildung sofort weiter au
 \index{Liquid}
 
 \Definition{Liquid}{Liquide sind \textit{l}- und \textit{r}-Segmente.
-Die Gruppierung erfolgt für das Deutsche auf Basis phonologischer und nicht phonetischer Kriterien.}
+Die Gruppierung erfolgt für das Deutsche auf Basis phonologischer, nicht aber phonetischer Kriterien.}
 
 \Satz{Präferenz in duplexen Anfangsrändern}{Die präferierte Struktur für duplexe Anfangsränder ist die aus einem Plosiv und Liquid.}
 
@@ -1209,8 +1124,8 @@ Sie lassen sich mit allen anderen Segmenten außer \textipa{[X]} kombinieren (da
                    & m           &             &                               &   & p &   &   && \textit{Lump}    \\
                    & m           &             &                               &   &   & t &   && \textit{klemmt}  \\
 %   \midrule
-                   &             &             & f \textipa{\c{c}} \textipa{X} & s &   &   &   && \textit{Laufs}, \textit{Reichs}, \textit{Bachs}  \\
-                   &             &             & f \textipa{\c{c}} \textipa{X} &   &   & t &   && \textit{Luft}, \textit{reicht}, \textit{acht}   \\
+                   &             &             & f \textipa{S \c{c}}           & s &   &   &   && \textit{Laufs}, \textit{Reichs}, \textit{Bachs}  \\
+                   &             &             & f \textipa{S \c{c}}           &   &   & t &   && \textit{Luft}, \textit{reicht}, \textit{acht}   \\
                    &             &             &                               & s &   & t &   && \textit{Ast}    \\
 %   \midrule
                    &             &             &                               &   & p k & t &  && \textit{Abt}, \textit{nackt}    \\

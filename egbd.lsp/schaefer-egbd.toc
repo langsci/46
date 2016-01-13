@@ -158,45 +158,43 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.1.4.1}Verteilung von [ç] und [χ]}{107}{subsubsection.4.1.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.5}Frikativierung von /g/}{108}{subsection.4.1.5}
+\contentsline {subsubsection}{\numberline {4.1.4.2}/ʁ/-Vokalisierungen}{108}{subsubsection.4.1.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.6}/ʁ/-Vokalisierungen}{109}{subsection.4.1.6}
+\contentsline {section}{\numberline {4.2}Silben und Wörter}{109}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Silben und Wörter}{110}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Phonotaktik}{109}{subsection.4.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}Phonotaktik}{110}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Silben}{109}{subsection.4.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.2}Silben}{111}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Strukturformat für Silben}{112}{subsection.4.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.3}Strukturformat für Silben}{114}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Einsilbler}{114}{subsection.4.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.4}Einsilbler}{115}{subsection.4.2.4}
+\contentsline {subsubsection}{\numberline {4.2.4.1}Anfangsrand}{114}{subsubsection.4.2.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.4.1}Anfangsrand}{115}{subsubsection.4.2.4.1}
+\contentsline {subsubsection}{\numberline {4.2.4.2}Endrand}{116}{subsubsection.4.2.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.4.2}Endrand}{118}{subsubsection.4.2.4.2}
+\contentsline {subsection}{\numberline {4.2.5}Sonorität}{119}{subsection.4.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.5}Sonorität}{121}{subsection.4.2.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.6}Die Systematik von Anfangsrand und Endrand}{123}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.6}Die Systematik von Anfangsrand und Endrand}{122}{subsection.4.2.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.7}Einsilbler und Mehrsilbler}{127}{subsection.4.2.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Wortakzent}{128}{section.4.3}
+\contentsline {section}{\numberline {4.3}Wortakzent}{127}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.1}Prosodie}{128}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.1}Prosodie}{127}{subsection.4.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.2}Wortakzent im Deutschen}{130}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.2}Wortakzent im Deutschen}{129}{subsection.4.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.3}Einfügung des Glottalverschlusses}{133}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.3}Einfügung des Glottalverschlusses}{132}{subsection.4.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.4}Prosodisches und phonologisches Wort}{134}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.4}Prosodisches und phonologisches Wort}{133}{subsection.4.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Phone und Phoneme}{135}{section.4.4}
+\contentsline {section}{\numberline {4.4}Phone und Phoneme}{134}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 4}{138}{Item.506}
+\contentsline {section}{Zusammenfassung von Kapitel 4}{138}{Item.501}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 4}{139}{Item.516}
+\contentsline {section}{Übungen zu Kapitel 4}{139}{Item.511}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Weiterführende Literatur zu II}{140}{Exer.4.7}
 \defcounter {refsection}{0}\relax 
@@ -688,8 +686,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Lösungen zu den Übungen}{524}{section*.56}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{577}{section*.136}
+\contentsline {chapter}{Bibliographie}{577}{section*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{577}{chapter*.137}
+\contentsline {chapter}{\nonumberline Literatur}{577}{chapter*.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{584}{section*.138}
+\contentsline {chapter}{Index}{584}{section*.10}
