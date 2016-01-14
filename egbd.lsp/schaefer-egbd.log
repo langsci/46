@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  14 JAN 2016 01:39
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  14 JAN 2016 21:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1953,7 +1953,10 @@ LaTeX Warning: Label `ex:phol4714a' multiply defined.
 LaTeX Warning: Label `ex:phol4714a' multiply defined.
 
 
-LaTeX Warning: Label `ex:' multiply defined.
+LaTeX Warning: Label `ex:phol0800009003d' multiply defined.
+
+
+LaTeX Warning: Label `ex:phol0800009003d' multiply defined.
 
 ) (./chapters/wortklassen.aux) (./chapters/morphologie.aux)
 (./chapters/wortbildung.aux) (./chapters/nomina.aux) (./chapters/verben.aux)
@@ -2829,10 +2832,6 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 338--339
 [][][][][][]
  []
 
-
-LaTeX Warning: Reference `sec:affrikaten' on page 76 undefined on input line 34
-1.
-
 [76]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 352--353
 [][][][][][]
@@ -2937,162 +2936,204 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 196--197
  []
 
 [103] [104]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 323--324
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 322--323
 [][][][][][]
  []
 
 [105]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 330--331
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 329--330
 [][][][][][]
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 334--335
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 333--334
 [][][][][][]
  []
 
-[106]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 379--380
+[106] [107]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 378--379
 [][][][][][]
  []
 
-[107]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 418--419
+
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 417--418
 [][][][][][]
  []
 
 [108]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 456--457
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 455--456
 [][][][][][]
  []
 
 [109] [110] [111]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 535--536
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 534--535
 [][][][][][]
  []
 
 
-Overfull \hbox (15.40503pt too wide) in paragraph at lines 537--541
+Overfull \hbox (15.40503pt too wide) in paragraph at lines 536--540
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 struktur des Deutschen gelingt am leicht
 esten über einsilbige Wörter. Abschnitt []4.2.4[]
  []
 
 [112]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 567--568
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 566--567
 [][][][][][]
  []
 
 <xymatrix 3x3 308> <xymatrix 7x4 694> [113] [114] [115] [116]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 717--718
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 716--717
 [][][][][][]
  []
 
-[117] [118] [119] [120]
-Overfull \hbox (2.01036pt too wide) in paragraph at lines 950--955
+[117] [118] [119]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 868--869
+[][][][][][]
+ []
+
+[120]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 878--879
+[][][][][][]
+ []
+
+<xymatrix 5x5 566> [121]
+Overfull \hbox (2.01036pt too wide) in paragraph at lines 974--979
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Was die Sonorität aus phonetisch-artik
 ulatorischer (oder perzeptorischer) Sicht
  []
 
-[121]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 962--963
+[122] <xymatrix 4x9 810> [123]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1045--1046
 [][][][][][]
  []
 
-[122] <xymatrix 4x9 810> [123] <xymatrix 5x9 1151> [124] <xymatrix 4x9 1013>
-[125] [126]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1146--1147
+[124] <xymatrix 5x9 1151> [125] <xymatrix 4x8 867> [126] [127]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1182--1183
 [][][][][][]
  []
 
-[127]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1210--1211
+[128]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1196--1197
 [][][][][][]
  []
 
-[128] [129]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1277--1278
-[][][][][][]
- []
-
-
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1285--1286
+[129]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1235--1236
 [][][][][][]
  []
 
 
-LaTeX Warning: Reference `sec:akzentsitztest' on page 130 undefined on input li
-ne 1287.
-
-[130]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1311--1312
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1247--1248
 [][][][][][]
  []
 
-[131]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1371--1372
+[130] [131]
+
+LaTeX Warning: Reference `satz:maxanfangsrand' on page 132 undefined on input l
+ine 1292.
+
+
+Overfull \hbox (20.31612pt too wide) in paragraph at lines 1290--1293
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 schlecht sind. Das wäre der Fall, wenn m
+an zum Beispiel versuchen wollte, *[kɔmpl.ɛt]
+ []
+
+
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1295--1296
 [][][][][][]
+ []
+
+
+Overfull \hbox (0.96379pt too wide) in paragraph at lines 1297--1299
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 weitgehend richtig silbifizieren und die
+ möglichen Silbentypen kompakt beschrei-
+ []
+
+
+Overfull \hbox (1.74762pt too wide) in paragraph at lines 1297--1299
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ben. Wenn doch Zweifelsfälle entstehen, 
+helfen vollständigere Grammatiken oder
  []
 
 [132]
-
-LaTeX Warning: Reference `sec:silbifizierung' on page 133 undefined on input li
-ne 1409.
-
-[133]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1427--1428
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1340--1341
 [][][][][][]
  []
 
-[134]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1454--1455
+[133] [134]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1407--1408
 [][][][][][]
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1469--1470
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1415--1416
 [][][][][][]
  []
+
+
+LaTeX Warning: Reference `sec:akzentsitztest' on page 135 undefined on input li
+ne 1417.
 
 [135]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1441--1442
+[][][][][][]
+ []
 
-LaTeX Warning: Reference `tab:pholkonsmerk' on page 136 undefined on input line
- 1495.
+[136] [137]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1522--1523
+[][][][][][]
+ []
 
-[136] [137] [138
+[138]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1543--1544
+[][][][][][]
+ []
+
+
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1558--1559
+[][][][][][]
+ []
+
+[139]
+
+LaTeX Warning: Reference `tab:pholkonsmerk' on page 140 undefined on input line
+ 1584.
+
+[140] [141] [142
 
 ]
 
-LaTeX Warning: Reference `fig:sonhiers-strolchst' on page 139 undefined on inpu
-t line 1553.
+LaTeX Warning: Reference `fig:sonhiers-strolchst' on page 143 undefined on inpu
+t line 1642.
 
 
-LaTeX Warning: Reference `sec:silbifizierung' on page 139 undefined on input li
-ne 1554.
+LaTeX Warning: Reference `sec:silbifizierung' on page 143 undefined on input li
+ne 1643.
 
-[139
+[143
 
 ]
 
-LaTeX Warning: Reference `ex:phol8882' on page 140 undefined on input line 1593
+LaTeX Warning: Reference `ex:phol8882' on page 144 undefined on input line 1682
 .
 
 
-LaTeX Warning: Reference `ex:phol8882' on page 140 undefined on input line 1593
+LaTeX Warning: Reference `ex:phol8882' on page 144 undefined on input line 1682
 .
 
-[140]) [141
+[144] [145] [146
 
 
-] [142
+]) [147] [148
 
 
 
-] [143] [144]
+] [149] [150]
 \openout2 = `chapters/wortklassen.aux'.
 
  (./chapters/wortklassen.tex
 Kapitel 5.
-[145
+[151
 
 
 
@@ -3101,7 +3142,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 55--56
 [][][][][][]
  []
 
-[146]
+[152]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 92--93
 [][][][][][]
  []
@@ -3116,7 +3157,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 104--105
 [][][][][][]
  []
 
-[147] [148] [149]
+[153] [154] [155]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 179--180
 [][][][][][]
  []
@@ -3126,7 +3167,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 191--192
 [][][][][][]
  []
 
-[150] [151] [152] [153]
+[156] [157] [158] [159]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 328--329
 [][][][][][]
  []
@@ -3136,22 +3177,22 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 335--336
 [][][][][][]
  []
 
-[154]
+[160]
 
-LaTeX Warning: Reference `sec:paradigmasyntagmamerkmale' on page 155 undefined 
+LaTeX Warning: Reference `sec:paradigmasyntagmamerkmale' on page 161 undefined 
 on input line 357.
 
-[155] [156]
+[161] [162]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 424--425
 [][][][][][]
  []
 
-[157] [158]
+[163] [164]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 457--458
 [][][][][][]
  []
 
-<xymatrix 5x3 288> [159] <xymatrix 5x3 288>
+<xymatrix 5x3 288> [165] <xymatrix 5x3 288>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 497--498
 [][][][][][]
  []
@@ -3161,36 +3202,36 @@ Overfull \hbox (40.61522pt too wide) in paragraph at lines 504--504
  [] 
  []
 
-[160] <xymatrix 5x3 288> [161] <xymatrix 5x3 288> [162]
+[166] <xymatrix 5x3 288> [167] <xymatrix 5x3 288> [168]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 583--584
 [][][][][][]
  []
 
-<xymatrix 5x3 288> [163] [164] <xymatrix 5x3 288>
+<xymatrix 5x3 288> [169] [170] <xymatrix 5x3 288>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 623--624
 [][][][][][]
  []
 
-[165] <xymatrix 5x3 288> <xymatrix 5x3 288> [166] [167] <xymatrix 5x3 288>
+[171] <xymatrix 5x3 288> <xymatrix 5x3 288> [172] [173] <xymatrix 5x3 288>
 <xymatrix 14x13 2672>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[168] [169] [170
+[174] [175] [176
 
-] [171
+] [177
 
-]) [172]
+]) [178]
 \openout2 = `chapters/morphologie.aux'.
 
  (./chapters/morphologie.tex
 Kapitel 6.
-[173
+[179
 
 
 
 
-] [174] [175] [176]
+] [180] [181] [182]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 154--155
 [][][][][][]
  []
@@ -3200,54 +3241,54 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 180--181
 [][][][][][]
  []
 
-[177]
+[183]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 188--189
 [][][][][][]
  []
 
-[178] [179]
+[184] [185]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 288--289
 [][][][][][]
  []
 
-[180] [181] <xymatrix 7x3 890>
+[186] [187] <xymatrix 7x3 890>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[182] [183] [184] [185]
+[188] [189] [190] [191]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 517--518
 [][][][][][]
  []
 
-[186]
+[192]
 
-LaTeX Warning: Reference `fig:vokaltrapatr' on page 187 undefined on input line
+LaTeX Warning: Reference `fig:vokaltrapatr' on page 193 undefined on input line
  549.
 
 
-LaTeX Warning: Reference `fig:vokaltrapatr' on page 187 undefined on input line
+LaTeX Warning: Reference `fig:vokaltrapatr' on page 193 undefined on input line
  549.
 
-[187]
+[193]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 587--588
 [][][][][][]
  []
 
-[188]
+[194]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 615--616
 [][][][][][]
  []
 
-[189]
+[195]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 655--656
 [][][][][][]
  []
 
-[190] <xymatrix 4x4 534> <xymatrix 4x4 534>
+[196] <xymatrix 4x4 534> <xymatrix 4x4 534>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[191] [192]
+[197] [198]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 757--758
 [][][][][][]
  []
@@ -3257,33 +3298,33 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 778--779
 [][][][][][]
  []
 
-[193]
+[199]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 812--813
 [][][][][][]
  []
 
-[194]
+[200]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 820--821
 [][][][][][]
  []
 
 
-LaTeX Warning: Reference `sec:paradigmasyntagmamerkmale' on page 195 undefined 
+LaTeX Warning: Reference `sec:paradigmasyntagmamerkmale' on page 201 undefined 
 on input line 824.
 
-[195]
+[201]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 845--846
 [][][][][][]
  []
 
-[196] [197] [198] [199
+[202] [203] [204] [205
 
-] [200
+] [206
 
-]) [201]
+]) [207]
 \openout2 = `chapters/wortbildung.aux'.
 
- (./chapters/wortbildung.tex [202
+ (./chapters/wortbildung.tex [208
 
 
 
@@ -3295,7 +3336,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 22--23
 [][][][][][]
  []
 
-[203]
+[209]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 54--55
 [][][][][][]
  []
@@ -3305,52 +3346,52 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 65--66
 [][][][][][]
  []
 
-[204]
+[210]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 81--82
 [][][][][][]
  []
 
-[205] [206]
+[211] [212]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 181--182
 [][][][][][]
  []
 
-[207] [208] <xymatrix 4x4 534> <xymatrix 4x4 530> [209] [210]
+[213] [214] <xymatrix 4x4 534> <xymatrix 4x4 530> [215] [216]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 261--262
 [][][][][][]
  []
 
-[211] <xymatrix 4x4 534> [212]
+[217] <xymatrix 4x4 534> [218]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 365--366
 [][][][][][]
  []
 
-[213] [214] [215] <xymatrix 1x3 160> <xymatrix 4x6 822>
+[219] [220] [221] <xymatrix 1x3 160> <xymatrix 4x6 822>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[216] [217]
+[222] [223]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 533--534
 [][][][][][]
  []
 
-[218] [219] [220] [221] [222]
+[224] [225] [226] [227] [228]
 LaTeX Font Info:    Font shape `EU1/DejaVuSansMono.ttf(0)/m/n' will be
 (Font)              scaled to size 7.09305pt on input line 742.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `DejaVuSansMono.ttf' (encoding: EU1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [223] [224
+ [229] [230
 
-] [225
+] [231
 
-]) [226]
+]) [232]
 \openout2 = `chapters/nomina.aux'.
 
  (./chapters/nomina.tex
 Kapitel 8.
-[227
+[233
 
 
 
@@ -3360,7 +3401,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 34--35
 [][][][][][]
  []
 
-[228] [229] [230] [231] [232] [233] [234]
+[234] [235] [236] [237] [238] [239] [240]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 349--350
 [][][][][][]
  []
@@ -3370,22 +3411,22 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 377--378
 [][][][][][]
  []
 
-[235] [236] [237] <xymatrix 10x3 1064>
+[241] [242] [243] <xymatrix 10x3 1064>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[238] <xymatrix 5x4 649>
+[244] <xymatrix 5x4 649>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[239]
+[245]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[240] [241] [242]
+[246] [247] [248]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 661--662
 [][][][][][]
  []
@@ -3393,18 +3434,18 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 661--662
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[243]
+[249]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 719--720
 [][][][][][]
  []
 
-[244] [245] [246]
+[250] [251] [252]
 Underfull \hbox (badness 1472) in paragraph at lines 854--854
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Aber ist der Respekt genügend für das 
 Bewusstsein des Mensches?
  []
 
-[247] [248] <xymatrix 5x3 516> [249] [250]
+[253] [254] <xymatrix 5x3 516> [255] [256]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 981--982
 [][][][][][]
  []
@@ -3419,7 +3460,7 @@ Overfull \hbox (28.80016pt too wide) in paragraph at lines 989--989
  [] 
  []
 
-[251] [252] [253]
+[257] [258] [259]
 Underfull \hbox (badness 1681) in paragraph at lines 1084--1084
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Reine Pronomina sind Pronomina, für di
 e ein gleichlautender
@@ -3430,24 +3471,24 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 1084--1085
 [][][][][][]
  []
 
-<xymatrix 4x4 516> [254]
+<xymatrix 4x4 516> [260]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[255]
+[261]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[256] [257]
+[262] [263]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[258] [259] <xymatrix 1x3 160> [260] [261] [262]
+[264] [265] <xymatrix 1x3 160> [266] [267] [268]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1466--1467
 [][][][][][]
  []
 
-[263]
+[269]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1476--1477
 [][][][][][]
  []
@@ -3455,7 +3496,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 1476--1477
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[264] [265] <xymatrix 3x3 334> [266] [267] [268] [269] [270
+[270] [271] <xymatrix 3x3 334> [272] [273] [274] [275] [276
 
 ]
 Underfull \hbox (badness 2126) in paragraph at lines 1724--1724
@@ -3463,33 +3504,33 @@ Underfull \hbox (badness 2126) in paragraph at lines 1724--1724
 ich/W) entnommen. Siglen: A10/JAN.00664,
  []
 
-[271
+[277
 
-]) [272]
+]) [278]
 \openout2 = `chapters/verben.aux'.
 
  (./chapters/verben.tex
 Kapitel 9.
-[273
+[279
 
 
 
 
-] [274]
+] [280]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 114--115
 [][][][][][]
  []
 
-[275] [276] [277]
+[281] [282] [283]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[278]
+[284]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 287--288
 [][][][][][]
  []
 
-[279] [280] [281] [282]
+[285] [286] [287] [288]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 439--440
 [][][][][][]
  []
@@ -3499,29 +3540,29 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 445--446
 [][][][][][]
  []
 
-[283]
+[289]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[284] [285] [286] [287] [288] [289] [290]
+[290] [291] [292] [293] [294] [295] [296]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 735--736
 [][][][][][]
  []
 
-[291] [292]
+[297] [298]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[293] [294] [295] [296] [297] [298] [299] [300] [301]
+[299] [300] [301] [302] [303] [304] [305] [306] [307]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[302] [303]
+[308] [309]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1336--1337
 [][][][][][]
  []
 
-[304] [305] <xymatrix 4x4 571> [306] [307
+[310] [311] <xymatrix 4x4 571> [312] [313
 
 ]
 Underfull \hbox (badness 3942) in paragraph at lines 1396--1396
@@ -3529,16 +3570,16 @@ Underfull \hbox (badness 3942) in paragraph at lines 1396--1396
  RHZ09/JUN.22699, BRZ09/MAR.11529,
  []
 
-[308
+[314
 
-] [309] [310] [311
-
-
-]) [312] [313
+] [315] [316] [317
 
 
+]) [318] [319
 
-] [314]
+
+
+] [320]
 \openout2 = `chapters/konstituentenstruktur.aux'.
 
 
@@ -3552,7 +3593,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[315
+[321
 
 
 
@@ -3560,18 +3601,18 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[316]
+[322]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 92--93
 [][][][][][]
  []
 
-[317] <xymatrix 7x2 522> [318] <xymatrix 7x2 522>
+[323] <xymatrix 7x2 522> [324] <xymatrix 7x2 522>
 Underfull \hbox (badness 2269) in paragraph at lines 160--160
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Archiv W-TAGGED öffentlich am 11.01.2011
 . Das Archiv enthält zu diesem Zeitpunkt
  []
 
-[319] <xymatrix 3x2 234>
+[325] <xymatrix 3x2 234>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -3579,7 +3620,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[320] [321] [322] [323] [324] [325] [326] [327] [328] <xymatrix 5x2 312>
+[326] [327] [328] [329] [330] [331] [332] [333] [334] <xymatrix 5x2 312>
 <xymatrix 5x3 390>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -3589,33 +3630,33 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 554--555
 [][][][][][]
  []
 
-[329]
+[335]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 566--567
 [][][][][][]
  []
 
-[330]
+[336]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 608--609
 [][][][][][]
  []
 
-[331] <xymatrix 3x2 168> [332] <xymatrix 4x3 382> <xymatrix 3x2 168> <xymatrix
-7x3 532> [333] <xymatrix 4x3 592> [334] [335]
+[337] <xymatrix 3x2 168> [338] <xymatrix 4x3 382> <xymatrix 3x2 168> <xymatrix
+7x3 532> [339] <xymatrix 4x3 592> [340] [341]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 783--784
 [][][][][][]
  []
 
-[336]
+[342]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 799--800
 [][][][][][]
  []
 
-[337] <xymatrix 3x2 208>
+[343] <xymatrix 3x2 208>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 862--863
 [][][][][][]
  []
 
-[338] [339] [340
+[344] [345] [346
 
 ]
 Underfull \hbox (badness 6876) in paragraph at lines 895--895
@@ -3635,14 +3676,14 @@ Underfull \hbox (badness 4713) in paragraph at lines 912--912
 679, K97/MAI.35888, K97/MAI.35888,
  []
 
-[341
+[347
 
-]) [342]
+]) [348]
 \openout2 = `chapters/phrasen.aux'.
 
  (./chapters/phrasen.tex
 Kapitel 11.
-<xymatrix 7x4 859> [343
+<xymatrix 7x4 859> [349
 
 
 
@@ -3652,7 +3693,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 51--52
 [][][][][][]
  []
 
-[344] <xymatrix 3x3 448> <xymatrix 7x3 478> <xymatrix 3x3 444> [345] [346]
+[350] <xymatrix 3x3 448> <xymatrix 7x3 478> <xymatrix 3x3 444> [351] [352]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 131--132
 [][][][][][]
  []
@@ -3667,19 +3708,19 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 146--147
 [][][][][][]
  []
 
-[347] <xymatrix 1x3 160> <xymatrix 4x3 309> <xymatrix 2x3 172>
+[353] <xymatrix 1x3 160> <xymatrix 4x3 309> <xymatrix 2x3 172>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[348] <xymatrix 4x3 313> <xymatrix 4x3 313>
+[354] <xymatrix 4x3 313> <xymatrix 4x3 313>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[349] <xymatrix 6x3 454> [350] <xymatrix 9x3 643>
+[355] <xymatrix 6x3 454> [356] <xymatrix 9x3 643>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[351] [352] <xymatrix 7x3 474>
+[357] [358] <xymatrix 7x3 474>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -3687,22 +3728,22 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[353] <xymatrix 9x4 732> [354] <xymatrix 10x3 787> [355] <xymatrix 3x3 316>
-[356] [357]
+[359] <xymatrix 9x4 732> [360] <xymatrix 10x3 787> [361] <xymatrix 3x3 316>
+[362] [363]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 631--632
 [][][][][][]
  []
 
-<xymatrix 4x3 337> [358] <xymatrix 6x3 481> <xymatrix 8x3 658>
+<xymatrix 4x3 337> [364] <xymatrix 6x3 481> <xymatrix 8x3 658>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 718--719
 [][][][][][]
  []
 
-[359] <xymatrix 7x3 486> <xymatrix 5x3 453>
+[365] <xymatrix 7x3 486> <xymatrix 5x3 453>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<xymatrix 4x3 325> [360] <xymatrix 3x4 518>
+<xymatrix 4x3 325> [366] <xymatrix 3x4 518>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -3715,11 +3756,11 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 832--833
 [][][][][][]
  []
 
-[361] <xymatrix 4x3 328>
+[367] <xymatrix 4x3 328>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[362]
+[368]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 869--870
 [][][][][][]
  []
@@ -3728,32 +3769,32 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 869--870
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[363]
+[369]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 936--937
 [][][][][][]
  []
 
-[364]
+[370]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 946--947
 [][][][][][]
  []
 
-[365] <xymatrix 5x3 329> <xymatrix 7x3 482> <xymatrix 9x3 635> <xymatrix 15x4
+[371] <xymatrix 5x3 329> <xymatrix 7x3 482> <xymatrix 9x3 635> <xymatrix 15x4
 1098>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[366]
+[372]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1043--1044
 [][][][][][]
  []
 
-[367] <xymatrix 1x2 90> <xymatrix 4x3 403> <xymatrix 4x3 403> <xymatrix 7x4
+[373] <xymatrix 1x2 90> <xymatrix 4x3 403> <xymatrix 4x3 403> <xymatrix 7x4
 708>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[368] <xymatrix 11x7 1210> [369] [370] [371]
+[374] <xymatrix 11x7 1210> [375] [376] [377]
 Underfull \hbox (badness 1286) in paragraph at lines 1204--1204
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Bei der Analyse von Konstituentenstruk
 turen sind folgende Schritte
@@ -3768,8 +3809,8 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 1204--1205
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[372] <xymatrix 8x4 1118> [373] <xymatrix 8x4 1244> <xymatrix 8x5 1446>
-[374] <xymatrix 8x6 1620> [375] [376
+[378] <xymatrix 8x4 1118> [379] <xymatrix 8x4 1244> <xymatrix 8x5 1446>
+[380] <xymatrix 8x6 1620> [381] [382
 
 ]
 Underfull \hbox (badness 1708) in paragraph at lines 1357--1357
@@ -3789,9 +3830,9 @@ Underfull \hbox (badness 3460) in paragraph at lines 1389--1389
 23, A09/AUG.03243, A99/DEZ.84493, A09/
  []
 
-[377
+[383
 
-]) [378]
+]) [384]
 \openout2 = `chapters/saetze.aux'.
 
  (./chapters/saetze.tex
@@ -3801,7 +3842,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 28--29
 [][][][][][]
  []
 
-[379
+[385
 
 
 
@@ -3811,23 +3852,23 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 54--55
 [][][][][][]
  []
 
-[380] [381] <xymatrix 15x4 1098> [382] <xymatrix 11x4 1039> [383]
+[386] [387] <xymatrix 15x4 1098> [388] <xymatrix 11x4 1039> [389]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 203--204
 [][][][][][]
  []
 
-[384] [385]
+[390] [391]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[386] [387] [388] [389]
+[392] [393] [394] [395]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[390] [391] <xymatrix 12x6 1097>
+[396] [397] <xymatrix 12x6 1097>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -3835,12 +3876,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[392]
+[398]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 670--671
 [][][][][][]
  []
 
-[393] <xymatrix 12x5 1138> [394] <xymatrix 11x5 1225>
+[399] <xymatrix 12x5 1138> [400] <xymatrix 11x5 1225>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 737--738
 [][][][][][]
  []
@@ -3849,15 +3890,15 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 737--738
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[395] [396] <xymatrix 11x5 1221>
+[401] [402] <xymatrix 11x5 1221>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[397] <xymatrix 9x6 966>
+[403] <xymatrix 9x6 966>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[398] [399]
+[404] [405]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 924--925
 [][][][][][]
  []
@@ -3871,7 +3912,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 937--938
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[400] [401] <xymatrix 12x5
+[406] [407] <xymatrix 12x5
 
 Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              You should note, that in 1994 font command `\sc' has
@@ -3910,7 +3951,7 @@ LaTeX Font Warning: Command \sc invalid in math mode on input line 1034.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[402] <xymatrix 12x5
+[408] <xymatrix 12x5
 
 Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              You should note, that in 1994 font command `\sc' has
@@ -3949,12 +3990,12 @@ LaTeX Font Warning: Command \sc invalid in math mode on input line 1081.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[403] [404] [405]
+[409] [410] [411]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1175--1176
 [][][][][][]
  []
 
-[406] [407]
+[412] [413]
 Underfull \hbox (badness 10000) in paragraph at lines 1331--1331
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Ein Adverbialsatz ist ein mit Kompleme
 ntierer eingeleiteter VL-
@@ -3965,21 +4006,21 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 1331--1332
 [][][][][][]
  []
 
-[408]
+[414]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1367--1368
 [][][][][][]
  []
 
-[409] [410] [411
+[415] [416] [417
 
-] [412
+] [418
 
-] [413]) [414]
+] [419]) [420]
 \openout2 = `chapters/relationen.aux'.
 
  (./chapters/relationen.tex
 Kapitel 13.
-[415
+[421
 
 
 
@@ -3989,7 +4030,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 49--50
 [][][][][][]
  []
 
-[416]
+[422]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 83--84
 [][][][][][]
  []
@@ -3999,12 +4040,12 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 89--90
 [][][][][][]
  []
 
-[417]
+[423]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 120--121
 [][][][][][]
  []
 
-[418] [419] [420] [421] [422]
+[424] [425] [426] [427] [428]
 LaTeX Font Info:    Try loading font information for OT1+LinLibertine_R_B.otf(1
 ) on input line 295.
 LaTeX Font Info:    No file OT1LinLibertine_R_B.otf(1).fd. on input line 295.
@@ -4014,36 +4055,36 @@ LaTeX Font Warning: Font shape `OT1/LinLibertine_R_B.otf(1)/m/n' undefined
 (Font)              using `OT1/cmr/m/n' instead
 (Font)              for symbol `glqq' on input line 295.
 
-[423]
+[429]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 319--320
 [][][][][][]
  []
 
-[424]
+[430]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 402--403
 [][][][][][]
  []
 
-[425] [426] [427] [428] [429] [430] <xymatrix 5x4 615>
+[431] [432] [433] [434] [435] [436] <xymatrix 5x4 615>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[431] [432]
+[437] [438]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 748--749
 [][][][][][]
  []
 
-[433] [434] [435]
+[439] [440] [441]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 843--844
 [][][][][][]
  []
 
-[436] [437]
+[442] [443]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 945--946
 [][][][][][]
  []
 
-[438] [439] [440]
+[444] [445] [446]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1034--1035
 [][][][][][]
  []
@@ -4053,12 +4094,12 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 1044--1045
 [][][][][][]
  []
 
-[441] [442] [443]
+[447] [448] [449]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1202--1203
 [][][][][][]
  []
 
-[444] <xymatrix 4x6
+[450] <xymatrix 4x6
 
 Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              You should note, that in 1994 font command `\sc' has
@@ -4114,11 +4155,11 @@ LaTeX Font Warning: Command \sc invalid in math mode on input line 1230.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[445] [446] <xymatrix 3x4 554>
+[451] [452] <xymatrix 3x4 554>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[447] [448]
+[453] [454]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1333--1334
 [][][][][][]
  []
@@ -4135,27 +4176,27 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[449] [450]
+[455] [456]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1432--1433
 [][][][][][]
  []
 
-[451] [452] [453] [454] [455]
+[457] [458] [459] [460] [461]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1617--1618
 [][][][][][]
  []
 
-[456] [457]
+[462] [463]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1717--1718
 [][][][][][]
  []
 
-[458]
+[464]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1767--1768
 [][][][][][]
  []
 
-[459] [460]
+[465] [466]
 Underfull \hbox (badness 1215) in paragraph at lines 1780--1781
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Es gibt zwei Arten von intransitiven V
 erben (bzw. Nominativ-Dativ-
@@ -4168,60 +4209,60 @@ Underfull \hbox (badness 2080) in paragraph at lines 1787--1788
 n obligatorisch kohärent und
  []
 
-[461
+[467
 
-] [462] [463
+] [468] [469
 
-] [464] [465] [466]) [467
-
-
-] [468
+] [470] [471] [472]) [473
 
 
+] [474
 
-] [469] [470]
+
+
+] [475] [476]
 \openout2 = `chapters/phonschrift.aux'.
 
 
 (./chapters/phonschrift.tex
 Kapitel 14.
-[471
+[477
 
 
 
-] [472] [473] [474] [475] [476] [477]
+] [478] [479] [480] [481] [482] [483]
 
-LaTeX Warning: Reference `tab:pholkonsmerk' on page 478 undefined on input line
+LaTeX Warning: Reference `tab:pholkonsmerk' on page 484 undefined on input line
  164.
 
 
-LaTeX Warning: Reference `tab:pholkonsmerk' on page 478 undefined on input line
+LaTeX Warning: Reference `tab:pholkonsmerk' on page 484 undefined on input line
  164.
 
-[478]
+[484]
 Underfull \hbox (badness 10000) in paragraph at lines 203--203
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Konsonantische Segmente des Deutsche
 n und ihre primäre
  []
 
 
-LaTeX Warning: Reference `sec:prozgfrik' on page 479 undefined on input line 23
+LaTeX Warning: Reference `sec:prozgfrik' on page 485 undefined on input line 23
 4.
 
-[479] [480]
+[485] [486]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 265--266
 [][][][][][]
  []
 
 
-LaTeX Warning: Reference `tab:pholvokmerk' on page 481 undefined on input line 
+LaTeX Warning: Reference `tab:pholvokmerk' on page 487 undefined on input line 
 270.
 
 
-LaTeX Warning: Reference `tab:pholvokmerk' on page 481 undefined on input line 
+LaTeX Warning: Reference `tab:pholvokmerk' on page 487 undefined on input line 
 270.
 
-[481] [482] [483]
+[487] [488] [489]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 355--356
 [][][][][][]
  []
@@ -4231,12 +4272,12 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 361--362
 [][][][][][]
  []
 
-[484]
+[490]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 378--379
 [][][][][][]
  []
 
-[485]
+[491]
 Overfull \vbox (4.9668pt too high) detected at line 424
  []
 
@@ -4244,7 +4285,7 @@ Overfull \vbox (4.9668pt too high) detected at line 424
 Overfull \vbox (4.9668pt too high) detected at line 424
  []
 
-[486]
+[492]
 Overfull \vbox (4.9668pt too high) detected at line 463
  []
 
@@ -4252,12 +4293,12 @@ Overfull \vbox (4.9668pt too high) detected at line 463
 Overfull \vbox (4.9668pt too high) detected at line 475
  []
 
-[487]
+[493]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 516--517
 [][][][][][]
  []
 
-[488] <xymatrix 9x4 926> [489] [490]
+[494] <xymatrix 9x4 926> [495] [496]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 555--556
 [][][][][][]
  []
@@ -4266,23 +4307,23 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 555--556
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[491] [492] [493] [494]
+[497] [498] [499] [500]
 
-LaTeX Warning: Reference `vert:affrikaten' on page 495 undefined on input line 
+LaTeX Warning: Reference `vert:affrikaten' on page 501 undefined on input line 
 696.
 
 
-LaTeX Warning: Reference `vert:affrikaten' on page 495 undefined on input line 
+LaTeX Warning: Reference `vert:affrikaten' on page 501 undefined on input line 
 696.
 
-[495] [496] [497
+[501] [502] [503
 
-] [498
+] [504
 
-]) [499]
+]) [505]
 \openout2 = `chapters/andereschrift.aux'.
 
- (./chapters/andereschrift.tex [500
+ (./chapters/andereschrift.tex [506
 
 
 
@@ -4294,60 +4335,60 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 19--20
 [][][][][][]
  []
 
-[501] [502] [503]
+[507] [508] [509]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 91--92
 [][][][][][]
  []
 
-[504] [505] [506]
+[510] [511] [512]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 244--245
 [][][][][][]
  []
 
-[507] [508] [509]
+[513] [514] [515]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 296--297
 [][][][][][]
  []
 
-[510] [511]
+[516] [517]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 393--394
 [][][][][][]
  []
 
-[512]
+[518]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 405--406
 [][][][][][]
  []
 
-[513] [514]
+[519] [520]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 466--467
 [][][][][][]
  []
 
-[515] [516]
+[521] [522]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 554--555
 [][][][][][]
  []
 
-[517] [518] [519] [520
+[523] [524] [525] [526
 
-] [521
+] [527
 
-] [522]) [523
+] [528]) [529
 
 
 ]
 \openout2 = `chapters/loesungen.aux'.
 
- (./chapters/loesungen.tex [524
+ (./chapters/loesungen.tex [530
 
 
 
 
 ]
-[525] [526] [527
+[531] [532] [533
 
-] [528] [529] [530] [531] [532
+] [534] [535] [536] [537] [538
 
 ]
 Underfull \hbox (badness 2277) in paragraph at lines 394--398
@@ -4355,40 +4396,40 @@ Underfull \hbox (badness 2277) in paragraph at lines 394--398
 n/10.95 kann als Antwort auf eine Ja/Nein-Frage verwendet werden:
  []
 
-[533] [534] [535] [536
+[539] [540] [541] [542
 
-] [537] [538
+] [543] [544
 
-] [539] [540] [541
+] [545] [546] [547
 
-] [542] [543] [544
+] [548] [549] [550
 
 ]
-[545] [546] [547] [548] [549
+[551] [552] [553] [554] [555
 
-] [550] [551] [552] <xymatrix 5x3 453> <xymatrix
-4x3 321> <xymatrix 4x3 337> <xymatrix 7x3 474> <xymatrix 4x3 321> [553
+] [556] [557] [558] <xymatrix 5x3 453> <xymatrix
+4x3 321> <xymatrix 4x3 337> <xymatrix 7x3 474> <xymatrix 4x3 321> [559
 
 ]
 <xymatrix 4x3 325> <xymatrix 7x3 474> <xymatrix 5x3 453> <xymatrix 2x3 304>
-<xymatrix 7x3 474> [554] <xymatrix 2x3 304> <xymatrix 10x4 885> <xymatrix 10x4
+<xymatrix 7x3 474> [560] <xymatrix 2x3 304> <xymatrix 10x4 885> <xymatrix 10x4
 873>
 Underfull \hbox (badness 10000) in paragraph at lines 1137--1138
 
  []
 
-[555] <xymatrix 8x4 729> <xymatrix 12x4 1026> <xymatrix 6x4 552> [556]
-<xymatrix 10x4 873> <xymatrix 3x5 628> <xymatrix 3x5 628> [557] <xymatrix 3x5
-628> <xymatrix 3x5 628> [558] [559
+[561] <xymatrix 8x4 729> <xymatrix 12x4 1026> <xymatrix 6x4 552> [562]
+<xymatrix 10x4 873> <xymatrix 3x5 628> <xymatrix 3x5 628> [563] <xymatrix 3x5
+628> <xymatrix 3x5 628> [564] [565
 
-] [560] [561] <xymatrix 12x5 1038> [562]
-<xymatrix 10x5 1046> <xymatrix 12x5 1038> <xymatrix 5x4 487> [563] <xymatrix
+] [566] [567] <xymatrix 12x5 1038> [568]
+<xymatrix 10x5 1046> <xymatrix 12x5 1038> <xymatrix 5x4 487> [569] <xymatrix
 14x5 1211> <xymatrix 12x5 1049>
 Underfull \hbox (badness 10000) in paragraph at lines 1427--1436
 
  []
 
-[564] <xymatrix 8x5 623>
+[570] <xymatrix 8x5 623>
 Underfull \hbox (badness 10000) in paragraph at lines 1450--1451
 
  []
@@ -4398,10 +4439,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1456--1465
 
  []
 
-<xymatrix 10x5 1004> [565] <xymatrix 9x5 869> <xymatrix 11x5 1231> [566]
-<xymatrix 6x4 617> [567] [568
+<xymatrix 10x5 1004> [571] <xymatrix 9x5 869> <xymatrix 11x5 1231> [572]
+<xymatrix 6x4 617> [573] [574
 
-] [569] [570]
+] [575] [576]
 Overfull \vbox (0.31305pt too high) detected at line 1661
  []
 
@@ -4417,11 +4458,11 @@ Overfull \vbox (0.31305pt too high) detected at line 1674
 Overfull \vbox (4.9668pt too high) detected at line 1678
  []
 
-[571
+[577
 
-] [572] [573] [574
+] [578] [579] [580
 
-] [575]) [576] [577
+] [581]) [582] [583
 
 
 
@@ -4434,24 +4475,24 @@ Underfull \hbox (badness 2409) in paragraph at lines 98--98
 e Geheimnisse der deutschen würde-
  []
 
-[578] [579]
+[584] [585]
 Underfull \hbox (badness 1303) in paragraph at lines 98--98
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Leirbukt, Oddleif. 2013. \EU1/LinLib
 ertine_R_B.otf(0)/m/it/10.95 Untersuchungen zum bekommen-Passiv im heutigen
  []
 
-[580]
+[586]
 Underfull \hbox (badness 1466) in paragraph at lines 98--98
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Nübling, Damaris & Renata Szczepania
 k. 2009. Religion+s+freiheit, Stabili-
  []
 
-[581] [582] [583] (./indices.tex) (./schaefer-egbd.and [584
+[587] [588] [589] (./indices.tex) (./schaefer-egbd.and [590
 
-] [585
+] [591
 
-] [586]
-[587] [588] [589] [590] [591] [592] [593])
+] [592]
+[593] [594] [595] [596] [597] [598] [599])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
  (./schaefer-egbd.aux
@@ -4484,12 +4525,12 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49268 strings out of 494865
- 860415 string characters out of 6167200
- 1413071 words of memory out of 5000000
- 51662 multiletter control sequences out of 15000+600000
+ 49304 strings out of 494865
+ 861078 string characters out of 6167200
+ 1414256 words of memory out of 5000000
+ 51698 multiletter control sequences out of 15000+600000
  20170 words of font info for 149 fonts, out of 8000000 for 9000
  440 hyphenation exceptions out of 8191
  65i,19n,104p,10460b,2289s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on schaefer-egbd.pdf (609 pages).
+Output written on schaefer-egbd.pdf (615 pages).
