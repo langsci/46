@@ -466,7 +466,7 @@ Intuitiv sind sie Einheiten, die größer sein können (aber nicht müssen) als 
 Der Extremfall, bei dem Segment, Silbe und Wort zusammenfallen, ist im Deutschen nur möglich, wenn man den Glottalverschluss ignoriert.
 Selbst dann ist dieser Fall im Deutschen im normalen Wortschatz marginal und auf Interjektionen (Rufwörter) wie \textit{oh} \textipa{[Po:]} und \textit{ah} \textipa{[Pa:]} beschränkt.
 Wenn man Diphthonge als ein Segment zählt, kommt das Substantiv \textit{Ei} \textipa{[P\t{aE}]} hinzu.
-Auch in anderen Sprachen ist dieser Fall eher selten, vergleiche französische Substantive wie \textit{œufs} \textipa{[\o:]} `Eier' (nur im Plural) oder \textit{eau} \textipa{[o:]} `Wasser' sowie das schwedische Substantiv \textit{ö} \textipa{[\o:]} `Insel' (nur im Singular), die insgesamt auch innerhalb ihrer eigenen Sprachsysteme eher Exoten darstellen.%
+Auch in anderen Sprachen ist dieser Fall eher selten, vergleiche französische Substantive wie \textit{œufs} \textipa{[\o:]} `Eier' (nur im Plural) oder \textit{eau} \textipa{[o:]} `Wasser' sowie das schwedische Substantiv \textit{ö} \textipa{[\oe:]} `Insel' (nur im Singular), die insgesamt auch innerhalb ihrer eigenen Sprachsysteme eher Exoten darstellen.%
 \footnote{Auf jeden Fall entfällt in diesen Sprachen aber der Glottalverschluss.} 
 Meistens bestehen Silben aus mehreren Segmenten, und Wörter bestehen häufig aus mehreren Silben.
 Beispiele für einsilbige Wörter aus zwei Segmenten im Deutschen sind \textit{Schuh} \textipa{[Su:]} oder \textit{Tee} \textipa{[te:]}, Beispiele für zweisilbige Wörter aus zweisegmentalen Silben sind \textit{Tüte} \textipa{[ty:t@]} oder \textit{rege} \textipa{[Ke:g@]}.
@@ -837,17 +837,14 @@ Auch hier behandeln wir also /\textipa{K}/ und /l/ wieder als eine Klasse (Liqui
 
 \begin{figure}
   \centering
-  \begin{tabular}{l|p{6pt}cccccp{6pt}|r}
-    \cline{2-8}
-    && & & & & && \\
-    (minimal sonor) && \rnode{HP}{P} & \rnode{HF}{F} & \rnode{HN}{N} & \rnode{HA}{L} & \rnode{HV}{V} && (maximal sonor) \\
-    && & & & & && \\
-    \cline{2-8}
+  \begin{tabular}{cp{0mm}c}
+     \rnode{SOb}{maximal sonor} && \textbf{Vokale} \\
+                                && \textbf{Liquide} \\
+                                && \textbf{Nasale} \\
+                                && \textbf{Frikative} \\
+     \rnode{SUn}{minimal sonor} && \textbf{Plosive} \\
   \end{tabular}
-  \ncline[nodesep=3pt]{->}{HP}{HF}
-  \ncline[nodesep=3pt]{->}{HF}{HN}
-  \ncline[nodesep=3pt]{->}{HN}{HA}
-  \ncline[nodesep=3pt]{->}{HA}{HV}
+  \ncline[nodesep=3pt]{->}{SUn}{SOb}
   \caption{Sonoritätshierarchie}
   \label{fig:sonoritaetshierarchie}
 \end{figure}
@@ -1071,7 +1068,7 @@ Es ergibt sich Abbildung~\ref{fig:endranduplex}, die den duplexen Endrand ohne e
                &&             & \K{k (g)} \\
                && \K{n}\Rxx{3.7}{5}{r}_{\text{Frikativ}}\Rxx{3.7}{5}{ur}^{\text{Plosiv}} & \K{\textipa{f S}} \\
                & \K{}\Rxxxx{5}{1.75}{3.7}{1.2}{r} & \K{m}\R{r}^{\text{Plosiv}}\R{dr}_{\text{Frikativ}} & \K{p} \\
-  \K{Vokal~~~}\R{uurr}_{\text{Nasal}}\R{ddrr}_{\text{Liquid}} &&& \K{\textipa{S}} \\
+  \K{Vokal~~~}\R{uurr}^{\text{Nasal}}\R{ddrr}_{\text{Liquid}} &&& \K{\textipa{S}} \\
                &&             & \K{p k} \\
                && \K{\textipa{K l}}\Rxx{3.7}{5.5}{r}^{\text{~~~~~~~Frikativ}}\Rxx{3.7}{4.5}{ur}^{\text{Plosiv}}\R{dr}_{\text{Nasal}} & \K{\textipa{f S \c{c}}} \\
                &&             & \K{m n} \\
@@ -1210,8 +1207,8 @@ Eine solche Regularität wird in (\ref{ex:phol0815}) illustriert.
   	\ex{\label{ex:phol0815g} Mie.te \textipa{[mi:.t@]}}
   	\ex{\label{ex:phol0815h} Mi.tte \textipa{[mI.t@]}}
   	\ex{\label{ex:phol0815i} liebte \textipa{[li:b.t@]}}
-  	\ex{\label{ex:phol0815j} wirkte \textipa{[vIKk.t@]}}
-  	\ex{\label{ex:phol0815k} \textipa{[vi:Kk.t@]}}
+  	\ex{\label{ex:phol0815j} wirkte \textipa{[v\t{I@}k.t@]}}
+  	\ex{\label{ex:phol0815k} *\textipa{[v\t{i5}k.t@]}}
   \end{xlist}
 \end{exe}
 
@@ -1224,7 +1221,8 @@ Wenn der Vokal gespannt (lang) ist, darf der Endrand unbesetzt sein wie in (\ref
 Wenn der Endrand des Einsilblers duplex ist wie in (\ref{ex:phol0815e}), sind gespannte (lange) Vokale ebenfalls nicht möglich, s.\ (\ref{ex:phol0815f}).
 
 Die Bedingung, dass Silben mit ungespanntem (kurzen) Vokal einen gefüllten Endrand haben müssen, gilt im Zweisilbler nicht, wie (\ref{ex:phol0815h}) zeigt.
-Ansonsten gilt aber trotzdem, dass Silben nicht einen gespannten (langen) Vokal im Kern enthalten und gleichzeitig einen komplex besetzten Endrand haben können, s.\ (\ref{ex:phol0815k}).
+Ansonsten gilt aber trotzdem, dass Silben nicht einen gespannten (langen) Vokal im Kern enthalten und gleichzeitig einen komplex besetzten Endrand haben können, s.\ (\ref{ex:phol0815k}) verglichen mit (\ref{ex:phol0815j}).%
+\footnote{Das gespannte \textipa{[i]} in *\textipa{[v\t{i5}k.t@]} muss für diesen Zweck zweimorig gezählt werden.}
 Diese Verhältnisse lassen sich mit Bezug auf eine Längeneinheit für Silben recht gut beschreiben, die \textit{More} (Definition~\ref{def:more}).
 
 \Definition{More}{\label{def:more}
@@ -1250,7 +1248,7 @@ Nach der vorgeschlagenen Analyse besteht der Reim in Wörtern wie \textit{lang} 
 Dann wäre es zu erwarten, dass an der Position des /a/ keine langen Vokale oder Diphthonge stehen können.
 Das ist auch so, denn während \textit{Ahn} /\textipa{a:n}/ ein einwandfreier Einsilbler ist, ist */\textipa{a:ng}/ (phonetisch *\textipa{[a:N]}) dies nicht.
 
-Mit einer verwandten Argumentationen müssen alle extrasilbischen /t/ und /s/ aus Abschnitt~\ref{sec:anfangsrandendrand} extrasilbisch sein, wenn die Bedingung aus Satz~\ref{satz:silbenlaenge} gelten soll.
+Auf Basis einer parallelen Argumentationen \textit{müssen} alle extrasilbischen /t/ und /s/ aus Abschnitt~\ref{sec:anfangsrandendrand} extrasilbisch sein, wenn die Bedingung aus Satz~\ref{satz:silbenlaenge} gelten soll.
 Sonst wäre ein Einsilbler wie \textit{ahnt} mit /\textipa{a:nt}/ bereits viermorig und damit zu lang, Wörter wie \textit{ahnst} erst recht.
 Damit können wir auch die Endränder in \textit{Mensch} und \textit{Ramsch} oder \textit{Milch} und \textit{falsch} aber gut begründet davor bewahren, auch noch zu einem simplexen Endrand nebst einem extrasilbischen /\textipa{S}/ zerstückelt zu werden.
 In diesen Einsilbler-Typen -- bzw.\ \textit{allen}, die durch Abbildung~\ref{fig:endranduplex} beschrieben werden -- ist prinzipiell ein langer Vokal ausgeschlossen, s.\ (\ref{ex:phol2003}).
@@ -1258,7 +1256,7 @@ In diesen Einsilbler-Typen -- bzw.\ \textit{allen}, die durch Abbildung~\ref{fig
 \begin{exe}
   \ex \label{ex:phol2003}
   \begin{xlist}
-  	\ex *\textipa{[me:nS]}
+  	\ex *\textipa{[mE:nS]}
   	\ex *\textipa{[ra:mS]}
   	\ex *\textipa{[mi:l\c{c}]}
   	\ex *\textipa{[fa:lS]}
@@ -1527,7 +1525,8 @@ Es gibt natürlich viele Fälle, in denen das phonologische Wort gleich dem pros
 
 \label{sec:phonphonem}
 
-In diesem optionalen Abschnitt soll kurz auf einige oft erwähnte phonologische Begriffe -- vor allem auf den des Phonems -- eingegangen werden.
+In diesem optionalen Abschnitt soll kurz auf einige oft benutzte phonologische Begriffe -- vor allem auf den des Phonems -- eingegangen werden.
+Phonembasierte Argumentationen sind typisch für diverse Varianten des sogenannten \textit{Strukturalismus}, einer vor allem in der ersten Hälfte des zwanzigsten Jahrhunderts populären Richtung in der linguistischen Theoriebildung.
 Dabei soll gezeigt werden, warum eine einfache Phonemtheorie bestimmte Probleme mit sich bringt, zumal wenn sie ohne phonologische Merkmale formuliert wird.
 
 Zugrundeliegende Formen und phonologische Prozesse gibt es in der Phonemtheorie zunächst nicht.
@@ -1537,7 +1536,7 @@ In \textipa{[ta:k]} sind drei Phone zu beobachten, nämlich \textipa{[t]}, \text
 
 \Definition{Phon}{
 \label{def:phon}
-Das Phon ist eine segmentale phonetische Realisierung.
+Ein Phon entspricht der phonetischen Realisierung eines Segments.
 \index{Phon}
 }
 
@@ -1549,7 +1548,7 @@ Man würde sagen, \textipa{[\c{c}]} und \textipa{[X]} sind Allophone eines Phone
 Wie man das Phonem nennt, ist dabei egal.
 Man könnte es auch /P\Tidx{42}/ oder /\#/ nennen, solange nicht schon ein anderes Phonem so benannt wurde.
 
-\Definition{Phonem}{
+\Definition{Phonem und Allophon}{
 \label{def:phonem}
 Ein Phonem ist eine Abstraktion von (potentiell) mehreren Phonen, die nicht distinktiv sind.
 Die verschiedenen möglichen Phone zu einem Phonem werden Allophone genannt.
@@ -1568,28 +1567,39 @@ Als Beispiel wird (\ref{ex:phol2209}) gegeben.
 
 An dieser Theorie ist im Prinzip nichts Falsches, sie ist lediglich explanatorisch schwächer als die bisher vorgestellte Theorie.
 Die Phoneme sind zunächst nur abstrakte Größen, die nicht als Mengen von Merkmalen, sondern über die Distinktivität definiert werden.
-Selbst wenn man Merkmalsanalysen hinzufügt, fehlt das Konzept des phonologischen Prozesses.
-Phonologische Alternationen können also nicht effektiv als Prozess (Änderung von Werten phonologischer Merkmale) beschrieben werden.
+Selbst wenn man Merkmalsanalysen hinzufügt, fehlt ein formalisiertes Konzept von lexikalischen, zugrundeliegenden Formen und der Anpassung an Strukturbedingungen.
+Phonologische Alternationen können nicht effektiv als Änderung von Werten phonologischer Merkmale beschrieben werden.
 
 Man kann dies an der Auslautverhärtung gut demonstrieren.
 In der hier benutzten Darstellung lässt sich die Auslautverhärtung kompakt als Prozess der Änderung eines Merkmals unter einer bestimmten Bedingung formulieren (vgl.\ Abschnitt~\ref{sec:prozauslautverh}).
 In einer reinen Phonemtheorie müsste man sagen, dass das Phonem /\textipa{b}/ je nach Umgebung zwei Allophone hat, nämlich Allophon \textipa{[p]} im Silbenauslaut und Allophon \textipa{[b]} in allen anderen Positionen.
 Dasselbe müsste man für /\textipa{d}/ und /\textipa{g}/ (und ihre Allophone) wiederholen, wobei die eigentliche Regularität, die wir in einem einfachen Prozess dargestellt haben, nicht erfasst wird.
+Ein möglicher Ausweg in einer phonembasierten Theorie ist das \textit{Archiphonem}.
+Dieses wäre \zB die Abstraktion von \textipa{[p]} und \textipa{[b]} in den Positionen, in denen die Auslautverhärtung stattfinden kann.
+Man würde \textit{Lab} dann als /l\textipa{a:}B/ repräsentieren und damit anzeigen, dass anstelle des Archiphonems /B/ positionsbedingt verschiedene Allophone zu erwarten sind.
+Es kommt dem Konzept zugrundeliegenden Form konzeptuell recht nahe.
+Der Nachteil ist allerdings, dass /b/ in \textit{Rübe} und /B/ in /l\textipa{a:}B/ zwei verschiedene zugrundeliegende Segmente sind.
+Das erspart man sich in alternativen Theorien wie der hier vorgestellten.
 
-Als abschließendes Beispiel soll gezeigt werden, dass sich die fehlende Merk\-mals\-ana\-lyse noch auf ganz andere Weise bemerkbar macht.
+Als abschließendes Beispiel soll gezeigt werden, dass sich die fehlende Merk\-mals\-ana\-lyse noch auf ganz andere Weise bemerkbar macht.%
+\footnote{Ein anonymer Gutachter der ersten Auflage wies mich darauf hin, dass phonembasierte Theorien (auch historisch) durchaus mit Merkmalen formuliert werden und wurden.
+Auf diese völlig korrekte Tatsache weise ich hier explizit hin.
+Andererseits ist nicht zu leugnen, dass strukturalistische Theorien besonders in Einführungen in die Linguistik oft ohne Merkmalstheorie vorgestellt werden.
+Ein prominentes Beispiel ist die strukturalistische Einführung in die Phonologie von Elmar Ternes \citep{Ternes2012}, die die Themen der Phonologie vollständig abhandelt und erst am Ende des Buches (S.\ 223--239) Merkmalstheorien diskutiert.
+Ob dies ein Nachteil ist, ist eine Entscheidung, die jeder Leser selber fällen muss.}
 Die Phone \textipa{[h]} und \textipa{[N]} sind im Deutschen zueinander nicht distinktiv (vgl.\ Abschnitt~\ref{sec:verteilungen}, vor allem (\ref{ex:phol6439}) auf S.~\pageref{ex:phol6439}).
 Man könnte sie daher ohne weiteres als Allophone eines abstrakten Phonems /\textipa{h}/ auffassen.
 Dieses Phonem hätte zwei Allophone, nämlich \textipa{[h]} im Anfangsrand und \textipa{[N]} im Endrand.
 Wegen der geringen phonetischen Ähnlichkeit dieser potentiellen Allophone erscheint dies zunächst absurd.
 Darüber hinaus stehen diese Segmente aber strukturell auch in keinerlei Beziehung, es ist sozusagen offensichtlicher Zufall, dass sie komplementär verteilt sind.
 Bei \textipa{[\c{c}]} und \textipa{[X]} ist die komplementäre Verteilung hingegen eindeutig nicht zufällig, wie in Abschnitt~\ref{sec:prozichach} demonstriert wurde.
-Daher fügt man für die Phonembildung als Lösungsversuch gerne die Bedingung hinzu, dass Allophone eines Phonems phonetisch ähnlich sein sollen.
+Daher fügt man für die Phonembildung als Lösungsversuch gerne die Bedingung hinzu, dass Allophone eines Phonems \textit{phonetisch ähnlich} sein sollen.
 Wenn es aber keine Merkmalsanalysen gibt, weiß man nicht so recht, was phonetische Ähnlichkeit eigentlich sein soll.
 
 Außerdem kann man zeigen, dass phonetische Ähnlichkeit generell kein gutes Kriterium ist, wenn die strukturelle Analyse eine Allophon-Beziehung zwischen zwei Phonen nahelegt.
 Nach Vokalen müsste man \zB annehmen, dass \textipa{[@]} und \textipa{[5]} als Allophone eines Phonems /\textipa{r}/ vorkommen.
 Ebenso wäre im Anfangsrand \textipa{[K]} ein Allophon von /\textipa{r}/ (vgl.\ Abschnitt~\ref{sec:prozrvok}).%
-\footnote{Hier wird absichtlich /\textipa{r}/ als Symbol für das Phonem verwendet, um deutlich zu machen, dass es sich eben nicht um eine zugrundeliegende Form handelt und man daher irgendein Symbol nehmen kann.
+\footnote{Hier wird absichtlich /\textipa{r}/ als Symbol für das Phonem verwendet, um deutlich zu machen, dass es sich eben nicht um eine zugrundeliegende Form handelt und man daher irgendein Symbol hernehmen kann.
 Hier ist es eben dasjenige, das der Schreibung entspricht.}
 Phonetisch ähnlich sind sich \textipa{[@]} und \textipa{[K]} aber in keiner Weise.
 Es zeigt sich also, dass die noch gebräuchliche Rede von Phonemen und Allophonen zwar nicht falsch ist, aber in vielen Punkten gegenüber der hier verwendeten Darstellung Nachteile mit sich bringt.
