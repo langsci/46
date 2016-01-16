@@ -182,9 +182,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.8}Silbengrenzen und maximale Anfangsränder}{132}{subsection.4.2.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Wortakzent}{132}{section.4.3}
+\contentsline {section}{\numberline {4.3}Wortakzent}{133}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.1}Prosodie}{132}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.1}Prosodie}{133}{subsection.4.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.3.2}Wortakzent im Deutschen}{135}{subsection.4.3.2}
 \defcounter {refsection}{0}\relax 
@@ -192,11 +192,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.4}Phone und Phoneme}{139}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 4}{142}{Item.534}
+\contentsline {section}{Zusammenfassung von Kapitel 4}{143}{Item.534}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 4}{143}{Item.544}
+\contentsline {section}{Übungen zu Kapitel 4}{144}{Item.544}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Weiterführende Literatur zu II}{145}{Exer.4.8}
+\contentsline {chapter}{Weiterführende Literatur zu II}{146}{Exer.4.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{\numberline {III}Wort und Wortform}{149}{part.3}
 \defcounter {refsection}{0}\relax 
@@ -686,8 +686,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Lösungen zu den Übungen}{530}{section*.56}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{583}{section*.136}
+\contentsline {chapter}{Bibliographie}{583}{section*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{583}{chapter*.137}
+\contentsline {chapter}{\nonumberline Literatur}{583}{chapter*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{590}{section*.138}
+\contentsline {chapter}{Index}{590}{section*.8}
