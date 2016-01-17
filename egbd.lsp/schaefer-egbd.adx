@@ -49,12 +49,13 @@
 \indexentry {Vorfeld|hyperpage}{27}
 \indexentry {Müller, Stefan|hyperpage}{27}
 \indexentry {{M}ehrfache {V}orfeldbesetzung@\emph {{M}ehrfache {V}orfeldbesetzung}|hyperpage}{27}
+\indexentry {Fabricius-Hansen, Cathrine|hyperpage}{28}
+\indexentry {{D}uden 04. {D}ie {G}rammatik@\emph {{D}uden 04. {D}ie {G}rammatik}|hyperpage}{28}
 \indexentry {Eisenberg, Peter|hyperpage}{28}
 \indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{28}
 \indexentry {Eisenberg, Peter|hyperpage}{28}
 \indexentry {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz@\emph {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz}|hyperpage}{28}
 \indexentry {Empirie|hyperpage}{29}
-\indexentry {Korpus|hyperpage}{32}
 \indexentry {Sprouse, Jon|hyperpage}{32}
 \indexentry {Sch{\"u}tze, Carson~T|hyperpage}{32}
 \indexentry {Almeida, Diogo|hyperpage}{32}
@@ -62,994 +63,996 @@
 \indexentry {Sch{\"u}tze, Carson~T|hyperpage}{32}
 \indexentry {Sprouse, Jon|hyperpage}{32}
 \indexentry {Judgment data@\emph {Judgment data}|hyperpage}{32}
-\indexentry {Schäfer, Roland|hyperpage}{32}
-\indexentry {Bildhauer, Felix|hyperpage}{32}
-\indexentry {Building Large Corpora from the Web Using a New Efficient Tool Chain@\emph {Building Large Corpora from the Web Using a New Efficient Tool Chain}|hyperpage}{32}
-\indexentry {Einheit|hyperpage}{35}
-\indexentry {Merkmal|hyperpage}{35}
-\indexentry {Wert|hyperpage}{35}
-\indexentry {Kategorie|hyperpage}{36}
-\indexentry {Merkmal|hyperpage}{36}
-\indexentry {Kategorie|hyperpage}{37}
-\indexentry {Lexikon|hyperpage}{37}
-\indexentry {Wort|hyperpage}{38}
-\indexentry {Genus|hyperpage}{38}
-\indexentry {Wort!flektierbar|hyperpage}{38}
-\indexentry {Numerus|hyperpage}{39}
-\indexentry {Wort!flektierbar|hyperpage}{39}
-\indexentry {Wortklasse|hyperpage}{39}
+\indexentry {Korpus|hyperpage}{33}
+\indexentry {Schäfer, Roland|hyperpage}{33}
+\indexentry {Bildhauer, Felix|hyperpage}{33}
+\indexentry {Building Large Corpora from the Web Using a New Efficient Tool Chain@\emph {Building Large Corpora from the Web Using a New Efficient Tool Chain}|hyperpage}{33}
+\indexentry {Einheit|hyperpage}{37}
+\indexentry {Merkmal|hyperpage}{37}
+\indexentry {Wert|hyperpage}{37}
+\indexentry {Kategorie|hyperpage}{38}
+\indexentry {Merkmal|hyperpage}{38}
 \indexentry {Kategorie|hyperpage}{39}
-\indexentry {Paradigma|hyperpage}{41}
-\indexentry {Nebensatz|hyperpage}{41}
-\indexentry {Infinitiv|hyperpage}{41}
-\indexentry {Syntagma|hyperpage}{42}
-\indexentry {Merkmal|hyperpage}{42}
-\indexentry {Substantiv|hyperpage}{43}
-\indexentry {Paradigma!Genus--|hyperpage}{43}
-\indexentry {Paradigma!Numerus--|hyperpage}{43}
-\indexentry {Merkmal!Motivation|hyperpage}{44}
-\indexentry {Synkretismus|hyperpage}{45}
-\indexentry {Struktur|hyperpage}{46}
-\indexentry {Baumdiagramm|hyperpage}{46}
-\indexentry {Konstituente|hyperpage}{47}
-\indexentry {Konstituente!mittelbar|hyperpage}{47}
-\indexentry {Konstituente!unmittelbar|hyperpage}{47}
-\indexentry {Relation|hyperpage}{48}
-\indexentry {Rektion|hyperpage}{49}
-\indexentry {Kongruenz|hyperpage}{50}
-\indexentry {Valenz|hyperpage}{51}
-\indexentry {Lizenzierung|hyperpage}{53}
-\indexentry {Iterierbarkeit|hyperpage}{54}
-\indexentry {Kasus!Bedeutung|hyperpage}{55}
-\indexentry {Rolle|hyperpage}{55}
-\indexentry {Angabe|hyperpage}{56}
-\indexentry {Ergänzung|hyperpage}{56}
-\indexentry {Valenz|hyperpage}{57}
-\indexentry {Verb!transitiv|hyperpage}{57}
-\indexentry {Verb!ditransitiv|hyperpage}{57}
-\indexentry {Verb!intransitiv|hyperpage}{57}
+\indexentry {Lexikon|hyperpage}{39}
+\indexentry {Wort|hyperpage}{40}
+\indexentry {Genus|hyperpage}{40}
+\indexentry {Wort!flektierbar|hyperpage}{40}
+\indexentry {Numerus|hyperpage}{41}
+\indexentry {Wort!flektierbar|hyperpage}{41}
+\indexentry {Wortklasse|hyperpage}{41}
+\indexentry {Kategorie|hyperpage}{41}
+\indexentry {Paradigma|hyperpage}{43}
+\indexentry {Nebensatz|hyperpage}{43}
+\indexentry {Infinitiv|hyperpage}{43}
+\indexentry {Syntagma|hyperpage}{44}
+\indexentry {Merkmal|hyperpage}{44}
+\indexentry {Substantiv|hyperpage}{45}
+\indexentry {Paradigma!Genus--|hyperpage}{45}
+\indexentry {Paradigma!Numerus--|hyperpage}{45}
+\indexentry {Merkmal!Motivation|hyperpage}{46}
+\indexentry {Synkretismus|hyperpage}{47}
+\indexentry {Struktur|hyperpage}{48}
+\indexentry {Baumdiagramm|hyperpage}{48}
+\indexentry {Konstituente|hyperpage}{49}
+\indexentry {Konstituente!mittelbar|hyperpage}{49}
+\indexentry {Konstituente!unmittelbar|hyperpage}{49}
+\indexentry {Relation|hyperpage}{50}
+\indexentry {Rektion|hyperpage}{51}
+\indexentry {Kongruenz|hyperpage}{52}
+\indexentry {Valenz|hyperpage}{53}
+\indexentry {Lizenzierung|hyperpage}{55}
+\indexentry {Iterierbarkeit|hyperpage}{56}
+\indexentry {Kasus!Bedeutung|hyperpage}{56}
+\indexentry {Rolle|hyperpage}{57}
+\indexentry {Angabe|hyperpage}{58}
+\indexentry {Ergänzung|hyperpage}{58}
+\indexentry {Valenz|hyperpage}{59}
+\indexentry {Verb!transitiv|hyperpage}{59}
+\indexentry {Verb!ditransitiv|hyperpage}{59}
+\indexentry {Verb!intransitiv|hyperpage}{59}
 \indexentry {Merkmal!Listen--|hyperpage}{59}
 \indexentry {Valenz!als Liste|hyperpage}{59}
-\indexentry {Meibauer, Jörg|hyperpage}{61}
-\indexentry {{E}inführung in die germanistische {L}inguistik@\emph {{E}inführung in die germanistische {L}inguistik}|hyperpage}{61}
-\indexentry {Eisenberg, Peter|hyperpage}{61}
-\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{61}
-\indexentry {Engel, Ulrich|hyperpage}{61}
-\indexentry {{S}yntax der deutschen {G}egenwartssprache@\emph {{S}yntax der deutschen {G}egenwartssprache}|hyperpage}{61}
-\indexentry {Engel, Ulrich|hyperpage}{61}
-\indexentry {{S}yntax der deutschen {G}egenwartssprache@\emph {{S}yntax der deutschen {G}egenwartssprache}|hyperpage}{61}
-\indexentry {Müller, Stefan|hyperpage}{61}
-\indexentry {{G}rammatiktheorie@\emph {{G}rammatiktheorie}|hyperpage}{61}
-\indexentry {Müller, Stefan|hyperpage}{61}
-\indexentry {{H}ead-{D}riven {P}hrase {S}turcture {G}rammar: {E}ine {E}inführung@\emph {{H}ead-{D}riven {P}hrase {S}turcture {G}rammar: {E}ine {E}inführung}|hyperpage}{61}
-\indexentry {Meinunger, Andr\'e|hyperpage}{61}
-\indexentry {{S}ick of {S}ick? {E}in {S}treifzug durch die {S}prache als {A}ntwort auf den {Z}wiebelfisch@\emph {{S}ick of {S}ick? {E}in {S}treifzug durch die {S}prache als {A}ntwort auf den {Z}wiebelfisch}|hyperpage}{61}
-\indexentry {Eisenberg, Peter|hyperpage}{61}
-\indexentry {{R}ichtig gutes und richtig schlechtes {D}eutsch@\emph {{R}ichtig gutes und richtig schlechtes {D}eutsch}|hyperpage}{61}
-\indexentry {Eisenberg, Peter|hyperpage}{61}
-\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{61}
-\indexentry {Eisenberg, Peter|hyperpage}{61}
-\indexentry {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz@\emph {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz}|hyperpage}{61}
-\indexentry {Nübling, Damaris|hyperpage}{61}
-\indexentry {Duke, Janet|hyperpage}{61}
-\indexentry {Szczepaniak, Renata|hyperpage}{61}
-\indexentry {{H}istorische {S}prachwissenschaft des {D}eutschen. {E}ine {E}inführung in die {P}rinzipien des {S}prachwandels@\emph {{H}istorische {S}prachwissenschaft des {D}eutschen. {E}ine {E}inführung in die {P}rinzipien des {S}prachwandels}|hyperpage}{61}
-\indexentry {Albert, Ruth|hyperpage}{61}
-\indexentry {{M}ethoden des empirischen {A}rbeitens in der {L}inguistik@\emph {{M}ethoden des empirischen {A}rbeitens in der {L}inguistik}|hyperpage}{61}
-\indexentry {Perkuhn, Rainer|hyperpage}{61}
-\indexentry {Keibel, Holger|hyperpage}{61}
-\indexentry {Kupietz, Marc|hyperpage}{61}
-\indexentry {{K}orpuslinguistik@\emph {{K}orpuslinguistik}|hyperpage}{61}
-\indexentry {Helbig, Gerhard|hyperpage}{61}
-\indexentry {Schenkel, Wolfgang|hyperpage}{61}
-\indexentry {{W}örterbuch zur {V}alenz und {D}istribution deutscher {V}erben@\emph {{W}örterbuch zur {V}alenz und {D}istribution deutscher {V}erben}|hyperpage}{61}
-\indexentry {Schumacher, Helmut|hyperpage}{61}
-\indexentry {{V}{A}{L}{B}{U}, {V}alenzwörterbuch deutscher {V}erben@\emph {{V}{A}{L}{B}{U}, {V}alenzwörterbuch deutscher {V}erben}|hyperpage}{61}
-\indexentry {Phonetik|hyperpage}{65}
-\indexentry {Orthographie|hyperpage}{66}
-\indexentry {Graphematik|hyperpage}{66}
-\indexentry {Buchstabe|hyperpage}{66}
-\indexentry {Segment|hyperpage}{69}
-\indexentry {Stimmton|hyperpage}{71}
-\indexentry {Artikulator|hyperpage}{73}
-\indexentry {Stimmhaftigkeit|hyperpage}{74}
-\indexentry {Obstruent|hyperpage}{74}
-\indexentry {Plosiv|hyperpage}{75}
-\indexentry {Frikativ|hyperpage}{76}
-\indexentry {Affrikate|hyperpage}{76}
-\indexentry {Approximant|hyperpage}{77}
-\indexentry {Nasal|hyperpage}{77}
-\indexentry {Vokal|hyperpage}{78}
-\indexentry {Sonorant|hyperpage}{79}
-\indexentry {Obstruent|hyperpage}{79}
-\indexentry {Konsonant|hyperpage}{80}
-\indexentry {IPA|hyperpage}{81}
-\indexentry {Laryngal|hyperpage}{82}
-\indexentry {Uvular|hyperpage}{82}
-\indexentry {Velar|hyperpage}{83}
-\indexentry {Palatal|hyperpage}{83}
-\indexentry {Alveolar|hyperpage}{84}
-\indexentry {Labial|hyperpage}{84}
-\indexentry {Affrikate!Homorganität|hyperpage}{85}
-\indexentry {Vokal|hyperpage}{86}
-\indexentry {Vokalviereck|hyperpage}{86}
-\indexentry {Lippenrundung|hyperpage}{87}
-\indexentry {Schwa|hyperpage}{87}
-\indexentry {Diphthong|hyperpage}{87}
-\indexentry {Auslautverhärtung|hyperpage}{90}
-\indexentry {r-Vokalisierung|hyperpage}{92}
-\indexentry {Diphthong!sekundär|hyperpage}{92}
-\indexentry {Verteilung|hyperpage}{98}
-\indexentry {Kontrast|hyperpage}{99}
-\indexentry {Verteilung!komplementär|hyperpage}{99}
-\indexentry {Neutralisierung|hyperpage}{100}
-\indexentry {phonologischer Prozess|hyperpage}{101}
-\indexentry {zugrundeliegende Form|hyperpage}{102}
-\indexentry {Strukturbedingung|hyperpage}{102}
-\indexentry {Assimilation|hyperpage}{107}
-\indexentry {Phonotaktik|hyperpage}{110}
-\indexentry {Silbe|hyperpage}{110}
-\indexentry {Silbe!Klatschmethode|hyperpage}{110}
+\indexentry {Meibauer, Jörg|hyperpage}{63}
+\indexentry {{E}inführung in die germanistische {L}inguistik@\emph {{E}inführung in die germanistische {L}inguistik}|hyperpage}{63}
+\indexentry {Eisenberg, Peter|hyperpage}{63}
+\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{63}
+\indexentry {Engel, Ulrich|hyperpage}{63}
+\indexentry {{S}yntax der deutschen {G}egenwartssprache@\emph {{S}yntax der deutschen {G}egenwartssprache}|hyperpage}{63}
+\indexentry {Engel, Ulrich|hyperpage}{63}
+\indexentry {{S}yntax der deutschen {G}egenwartssprache@\emph {{S}yntax der deutschen {G}egenwartssprache}|hyperpage}{63}
+\indexentry {Müller, Stefan|hyperpage}{63}
+\indexentry {{G}rammatiktheorie@\emph {{G}rammatiktheorie}|hyperpage}{63}
+\indexentry {Müller, Stefan|hyperpage}{63}
+\indexentry {{H}ead-{D}riven {P}hrase {S}turcture {G}rammar: {E}ine {E}inführung@\emph {{H}ead-{D}riven {P}hrase {S}turcture {G}rammar: {E}ine {E}inführung}|hyperpage}{63}
+\indexentry {Meinunger, Andr\'e|hyperpage}{63}
+\indexentry {{S}ick of {S}ick? {E}in {S}treifzug durch die {S}prache als {A}ntwort auf den {Z}wiebelfisch@\emph {{S}ick of {S}ick? {E}in {S}treifzug durch die {S}prache als {A}ntwort auf den {Z}wiebelfisch}|hyperpage}{63}
+\indexentry {Eisenberg, Peter|hyperpage}{63}
+\indexentry {{R}ichtig gutes und richtig schlechtes {D}eutsch@\emph {{R}ichtig gutes und richtig schlechtes {D}eutsch}|hyperpage}{63}
+\indexentry {Eisenberg, Peter|hyperpage}{63}
+\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{63}
+\indexentry {Eisenberg, Peter|hyperpage}{63}
+\indexentry {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz@\emph {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz}|hyperpage}{63}
+\indexentry {Nübling, Damaris|hyperpage}{63}
+\indexentry {Duke, Janet|hyperpage}{63}
+\indexentry {Szczepaniak, Renata|hyperpage}{63}
+\indexentry {{H}istorische {S}prachwissenschaft des {D}eutschen. {E}ine {E}inführung in die {P}rinzipien des {S}prachwandels@\emph {{H}istorische {S}prachwissenschaft des {D}eutschen. {E}ine {E}inführung in die {P}rinzipien des {S}prachwandels}|hyperpage}{63}
+\indexentry {Albert, Ruth|hyperpage}{63}
+\indexentry {{M}ethoden des empirischen {A}rbeitens in der {L}inguistik@\emph {{M}ethoden des empirischen {A}rbeitens in der {L}inguistik}|hyperpage}{63}
+\indexentry {Perkuhn, Rainer|hyperpage}{63}
+\indexentry {Keibel, Holger|hyperpage}{63}
+\indexentry {Kupietz, Marc|hyperpage}{63}
+\indexentry {{K}orpuslinguistik@\emph {{K}orpuslinguistik}|hyperpage}{63}
+\indexentry {Helbig, Gerhard|hyperpage}{63}
+\indexentry {Schenkel, Wolfgang|hyperpage}{63}
+\indexentry {{W}örterbuch zur {V}alenz und {D}istribution deutscher {V}erben@\emph {{W}örterbuch zur {V}alenz und {D}istribution deutscher {V}erben}|hyperpage}{63}
+\indexentry {Schumacher, Helmut|hyperpage}{63}
+\indexentry {{V}{A}{L}{B}{U}, {V}alenzwörterbuch deutscher {V}erben@\emph {{V}{A}{L}{B}{U}, {V}alenzwörterbuch deutscher {V}erben}|hyperpage}{63}
+\indexentry {Phonetik|hyperpage}{67}
+\indexentry {Orthographie|hyperpage}{68}
+\indexentry {Graphematik|hyperpage}{68}
+\indexentry {Buchstabe|hyperpage}{68}
+\indexentry {Segment|hyperpage}{71}
+\indexentry {Stimmton|hyperpage}{73}
+\indexentry {Artikulator|hyperpage}{75}
+\indexentry {Stimmhaftigkeit|hyperpage}{76}
+\indexentry {Obstruent|hyperpage}{76}
+\indexentry {Plosiv|hyperpage}{77}
+\indexentry {Frikativ|hyperpage}{78}
+\indexentry {Affrikate|hyperpage}{78}
+\indexentry {Approximant|hyperpage}{79}
+\indexentry {Nasal|hyperpage}{79}
+\indexentry {Vokal|hyperpage}{80}
+\indexentry {Sonorant|hyperpage}{81}
+\indexentry {Obstruent|hyperpage}{81}
+\indexentry {Konsonant|hyperpage}{82}
+\indexentry {IPA|hyperpage}{83}
+\indexentry {Laryngal|hyperpage}{84}
+\indexentry {Uvular|hyperpage}{84}
+\indexentry {Velar|hyperpage}{85}
+\indexentry {Palatal|hyperpage}{85}
+\indexentry {Alveolar|hyperpage}{86}
+\indexentry {Palatoalveolar|hyperpage}{86}
+\indexentry {Labial|hyperpage}{86}
+\indexentry {Affrikate!Homorganität|hyperpage}{87}
+\indexentry {Vokal|hyperpage}{88}
+\indexentry {Vokalviereck|hyperpage}{88}
+\indexentry {Lippenrundung|hyperpage}{88}
+\indexentry {Schwa|hyperpage}{89}
+\indexentry {Diphthong|hyperpage}{89}
+\indexentry {Auslautverhärtung|hyperpage}{91}
+\indexentry {r-Vokalisierung|hyperpage}{94}
+\indexentry {Diphthong!sekundär|hyperpage}{94}
+\indexentry {Verteilung|hyperpage}{100}
+\indexentry {Kontrast|hyperpage}{101}
+\indexentry {Verteilung!komplementär|hyperpage}{101}
+\indexentry {Neutralisierung|hyperpage}{102}
+\indexentry {phonologischer Prozess|hyperpage}{103}
+\indexentry {zugrundeliegende Form|hyperpage}{104}
+\indexentry {Strukturbedingung|hyperpage}{104}
+\indexentry {Assimilation|hyperpage}{109}
+\indexentry {Phonotaktik|hyperpage}{112}
 \indexentry {Silbe|hyperpage}{112}
-\indexentry {Silbe!Kern|hyperpage}{113}
-\indexentry {Silbe!Anfangsrand|hyperpage}{113}
-\indexentry {Silbe!Endrand|hyperpage}{113}
-\indexentry {Silbe!Reim|hyperpage}{113}
-\indexentry {Liquid|hyperpage}{117}
-\indexentry {Sonorität!Hierarchie|hyperpage}{120}
-\indexentry {Sonorität|hyperpage}{120}
-\indexentry {Silbe!Silbifizierung|hyperpage}{129}
-\indexentry {Wort!phonologisch|hyperpage}{129}
-\indexentry {Prosodie|hyperpage}{133}
-\indexentry {Akzent|hyperpage}{134}
-\indexentry {Akzent!Stamm--|hyperpage}{135}
-\indexentry {Akzent!in Komposita|hyperpage}{136}
-\indexentry {Akzent!Präfixe und Partikeln|hyperpage}{136}
-\indexentry {Wort!phonologisch|hyperpage}{139}
-\indexentry {Wort!prosodisch|hyperpage}{139}
-\indexentry {Phon|hyperpage}{139}
-\indexentry {Phonem|hyperpage}{140}
-\indexentry {Ternes, Elmar|hyperpage}{141}
-\indexentry {{E}inführung in die {P}honologie@\emph {{E}inführung in die {P}honologie}|hyperpage}{141}
-\indexentry {Laver, John|hyperpage}{147}
-\indexentry {{P}rinciples of Phonetics@\emph {{P}rinciples of Phonetics}|hyperpage}{147}
-\indexentry {Rues, Beate|hyperpage}{147}
-\indexentry {{P}honetische {T}ranskription des {D}eutschen: {E}in {A}rbeitsbuch@\emph {{P}honetische {T}ranskription des {D}eutschen: {E}in {A}rbeitsbuch}|hyperpage}{147}
-\indexentry {Wiese, Richard|hyperpage}{147}
-\indexentry {{P}honetik und {P}honologie@\emph {{P}honetik und {P}honologie}|hyperpage}{147}
-\indexentry {Krech, Eva-Maria|hyperpage}{147}
-\indexentry {{D}eutsches {A}ussprachewörterbuch@\emph {{D}eutsches {A}ussprachewörterbuch}|hyperpage}{147}
-\indexentry {Krech, Eva-Maria|hyperpage}{147}
-\indexentry {{D}eutsches {A}ussprachewörterbuch@\emph {{D}eutsches {A}ussprachewörterbuch}|hyperpage}{147}
-\indexentry {Mangold, Max|hyperpage}{147}
-\indexentry {{D}uden 06. {D}as {A}ussprachewörterbuch@\emph {{D}uden 06. {D}as {A}ussprachewörterbuch}|hyperpage}{147}
-\indexentry {Hall, Tracy~Alan|hyperpage}{147}
-\indexentry {{P}honologie. {E}ine {E}inführung@\emph {{P}honologie. {E}ine {E}inführung}|hyperpage}{147}
-\indexentry {Wiese, Richard|hyperpage}{147}
-\indexentry {{P}honetik und {P}honologie@\emph {{P}honetik und {P}honologie}|hyperpage}{147}
-\indexentry {Eisenberg, Peter|hyperpage}{147}
-\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{147}
-\indexentry {Ternes, Elmar|hyperpage}{147}
-\indexentry {{E}inführung in die {P}honologie@\emph {{E}inführung in die {P}honologie}|hyperpage}{147}
-\indexentry {Wiese, Richard|hyperpage}{147}
-\indexentry {The Phonology of {G}erman@\emph {The Phonology of {G}erman}|hyperpage}{147}
-\indexentry {Wort|hyperpage}{151}
-\indexentry {Kasus|hyperpage}{155}
-\indexentry {Numerus|hyperpage}{155}
-\indexentry {Paradigma|hyperpage}{155}
-\indexentry {Syntagma|hyperpage}{155}
-\indexentry {Wort!syntaktisch|hyperpage}{156}
-\indexentry {Wort!lexikalisch|hyperpage}{156}
-\indexentry {Wortklasse!semantisch|hyperpage}{157}
-\indexentry {Adjektiv|hyperpage}{158}
-\indexentry {Paradigma|hyperpage}{159}
-\indexentry {Verb|hyperpage}{159}
-\indexentry {Adjektiv|hyperpage}{159}
-\indexentry {Substantiv|hyperpage}{159}
-\indexentry {Paradigma|hyperpage}{160}
-\indexentry {Wortklasse!morphologisch|hyperpage}{160}
-\indexentry {Paradigma|hyperpage}{160}
-\indexentry {Wortbildung|hyperpage}{161}
-\indexentry {Flexion|hyperpage}{161}
-\indexentry {Distribution|hyperpage}{162}
-\indexentry {Engel, Ulrich|hyperpage}{164}
-\indexentry {{S}yntax der deutschen {G}egenwartssprache@\emph {{S}yntax der deutschen {G}egenwartssprache}|hyperpage}{164}
-\indexentry {Engel, Ulrich|hyperpage}{165}
-\indexentry {{S}yntax der deutschen {G}egenwartssprache@\emph {{S}yntax der deutschen {G}egenwartssprache}|hyperpage}{165}
-\indexentry {Wort!flektierbar|hyperpage}{165}
-\indexentry {Numerus|hyperpage}{165}
-\indexentry {Verb|hyperpage}{166}
-\indexentry {Nomen|hyperpage}{166}
-\indexentry {Tempus|hyperpage}{166}
-\indexentry {Finitheit|hyperpage}{166}
-\indexentry {Substantiv|hyperpage}{167}
-\indexentry {Genus|hyperpage}{167}
-\indexentry {Adjektiv|hyperpage}{168}
-\indexentry {Pronomen|hyperpage}{168}
-\indexentry {Stärke!Adjektiv|hyperpage}{168}
-\indexentry {Präposition|hyperpage}{169}
-\indexentry {Valenz|hyperpage}{169}
-\indexentry {Nebensatz|hyperpage}{169}
-\indexentry {Komplementierer|hyperpage}{170}
-\indexentry {Partikel|hyperpage}{171}
-\indexentry {Adverb|hyperpage}{171}
-\indexentry {Vorfeld!Fähigkeit|hyperpage}{171}
-\indexentry {Adverb|hyperpage}{172}
-\indexentry {Kopulapartikel|hyperpage}{172}
-\indexentry {Kopula|hyperpage}{172}
-\indexentry {Satzäquivalent|hyperpage}{172}
+\indexentry {Silbe!Klatschmethode|hyperpage}{112}
+\indexentry {Silbe|hyperpage}{114}
+\indexentry {Silbe!Kern|hyperpage}{115}
+\indexentry {Silbe!Anfangsrand|hyperpage}{115}
+\indexentry {Silbe!Endrand|hyperpage}{115}
+\indexentry {Silbe!Reim|hyperpage}{115}
+\indexentry {Liquid|hyperpage}{119}
+\indexentry {Sonorität!Hierarchie|hyperpage}{122}
+\indexentry {Sonorität|hyperpage}{122}
+\indexentry {Silbe!Silbifizierung|hyperpage}{131}
+\indexentry {Wort!phonologisch|hyperpage}{131}
+\indexentry {Prosodie|hyperpage}{135}
+\indexentry {Akzent|hyperpage}{136}
+\indexentry {Akzent!Stamm--|hyperpage}{137}
+\indexentry {Akzent!in Komposita|hyperpage}{138}
+\indexentry {Akzent!Präfixe und Partikeln|hyperpage}{138}
+\indexentry {Wort!phonologisch|hyperpage}{141}
+\indexentry {Wort!prosodisch|hyperpage}{141}
+\indexentry {Phon|hyperpage}{141}
+\indexentry {Phonem|hyperpage}{142}
+\indexentry {Ternes, Elmar|hyperpage}{143}
+\indexentry {{E}inführung in die {P}honologie@\emph {{E}inführung in die {P}honologie}|hyperpage}{143}
+\indexentry {Laver, John|hyperpage}{149}
+\indexentry {{P}rinciples of Phonetics@\emph {{P}rinciples of Phonetics}|hyperpage}{149}
+\indexentry {Rues, Beate|hyperpage}{149}
+\indexentry {{P}honetische {T}ranskription des {D}eutschen: {E}in {A}rbeitsbuch@\emph {{P}honetische {T}ranskription des {D}eutschen: {E}in {A}rbeitsbuch}|hyperpage}{149}
+\indexentry {Wiese, Richard|hyperpage}{149}
+\indexentry {{P}honetik und {P}honologie@\emph {{P}honetik und {P}honologie}|hyperpage}{149}
+\indexentry {Krech, Eva-Maria|hyperpage}{149}
+\indexentry {{D}eutsches {A}ussprachewörterbuch@\emph {{D}eutsches {A}ussprachewörterbuch}|hyperpage}{149}
+\indexentry {Krech, Eva-Maria|hyperpage}{149}
+\indexentry {{D}eutsches {A}ussprachewörterbuch@\emph {{D}eutsches {A}ussprachewörterbuch}|hyperpage}{149}
+\indexentry {Mangold, Max|hyperpage}{149}
+\indexentry {{D}uden 06. {D}as {A}ussprachewörterbuch@\emph {{D}uden 06. {D}as {A}ussprachewörterbuch}|hyperpage}{149}
+\indexentry {Hall, Tracy~Alan|hyperpage}{149}
+\indexentry {{P}honologie. {E}ine {E}inführung@\emph {{P}honologie. {E}ine {E}inführung}|hyperpage}{149}
+\indexentry {Wiese, Richard|hyperpage}{149}
+\indexentry {{P}honetik und {P}honologie@\emph {{P}honetik und {P}honologie}|hyperpage}{149}
+\indexentry {Eisenberg, Peter|hyperpage}{149}
+\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{149}
+\indexentry {Ternes, Elmar|hyperpage}{149}
+\indexentry {{E}inführung in die {P}honologie@\emph {{E}inführung in die {P}honologie}|hyperpage}{149}
+\indexentry {Wiese, Richard|hyperpage}{149}
+\indexentry {The Phonology of {G}erman@\emph {The Phonology of {G}erman}|hyperpage}{149}
+\indexentry {Wort|hyperpage}{153}
+\indexentry {Kasus|hyperpage}{157}
+\indexentry {Numerus|hyperpage}{157}
+\indexentry {Paradigma|hyperpage}{157}
+\indexentry {Syntagma|hyperpage}{157}
+\indexentry {Wort!syntaktisch|hyperpage}{158}
+\indexentry {Wort!lexikalisch|hyperpage}{158}
+\indexentry {Wortklasse!semantisch|hyperpage}{159}
+\indexentry {Adjektiv|hyperpage}{160}
+\indexentry {Paradigma|hyperpage}{161}
+\indexentry {Verb|hyperpage}{161}
+\indexentry {Adjektiv|hyperpage}{161}
+\indexentry {Substantiv|hyperpage}{161}
+\indexentry {Paradigma|hyperpage}{162}
+\indexentry {Wortklasse!morphologisch|hyperpage}{162}
+\indexentry {Paradigma|hyperpage}{162}
+\indexentry {Wortbildung|hyperpage}{163}
+\indexentry {Flexion|hyperpage}{163}
+\indexentry {Distribution|hyperpage}{164}
+\indexentry {Engel, Ulrich|hyperpage}{166}
+\indexentry {{S}yntax der deutschen {G}egenwartssprache@\emph {{S}yntax der deutschen {G}egenwartssprache}|hyperpage}{166}
+\indexentry {Engel, Ulrich|hyperpage}{166}
+\indexentry {{S}yntax der deutschen {G}egenwartssprache@\emph {{S}yntax der deutschen {G}egenwartssprache}|hyperpage}{166}
+\indexentry {Wort!flektierbar|hyperpage}{166}
+\indexentry {Numerus|hyperpage}{166}
+\indexentry {Verb|hyperpage}{167}
+\indexentry {Nomen|hyperpage}{167}
+\indexentry {Tempus|hyperpage}{168}
+\indexentry {Finitheit|hyperpage}{168}
+\indexentry {Substantiv|hyperpage}{168}
+\indexentry {Genus|hyperpage}{168}
+\indexentry {Adjektiv|hyperpage}{169}
+\indexentry {Pronomen|hyperpage}{169}
+\indexentry {Stärke!Adjektiv|hyperpage}{169}
+\indexentry {Präposition|hyperpage}{170}
+\indexentry {Valenz|hyperpage}{170}
+\indexentry {Nebensatz|hyperpage}{170}
+\indexentry {Komplementierer|hyperpage}{171}
+\indexentry {Partikel|hyperpage}{172}
+\indexentry {Vorfeld|hyperpage}{172}
+\indexentry {Vorfeld!Fähigkeit|hyperpage}{172}
+\indexentry {Adverb|hyperpage}{173}
+\indexentry {Kopulapartikel|hyperpage}{173}
+\indexentry {Kopula|hyperpage}{173}
+\indexentry {Satzäquivalent|hyperpage}{174}
 \indexentry {Konjunktion|hyperpage}{174}
-\indexentry {Flexion|hyperpage}{181}
-\indexentry {Kasus!Funktion|hyperpage}{181}
-\indexentry {Akkusativ|hyperpage}{181}
-\indexentry {Subjekt|hyperpage}{181}
-\indexentry {Objekt|hyperpage}{181}
-\indexentry {Präposition!Wechsel--|hyperpage}{182}
-\indexentry {Akkusativ|hyperpage}{182}
-\indexentry {Dativ|hyperpage}{182}
-\indexentry {Morphologie|hyperpage}{183}
-\indexentry {Morph|hyperpage}{184}
-\indexentry {Markierungsfunktion|hyperpage}{184}
-\indexentry {Kasus|hyperpage}{185}
-\indexentry {Numerus|hyperpage}{185}
-\indexentry {Wort!Bedeutung|hyperpage}{185}
-\indexentry {Morphem|hyperpage}{186}
-\indexentry {Allomorph|hyperpage}{186}
-\indexentry {Konditionierung|hyperpage}{187}
-\indexentry {Markierungsfunktion|hyperpage}{190}
-\indexentry {Wort|hyperpage}{191}
-\indexentry {Stamm|hyperpage}{192}
-\indexentry {Markierungsfunktion!lexikalisch|hyperpage}{192}
-\indexentry {Vokalviereck|hyperpage}{193}
-\indexentry {hinten|hyperpage}{194}
-\indexentry {Umlaut|hyperpage}{194}
-\indexentry {Ablaut|hyperpage}{195}
-\indexentry {Affix|hyperpage}{196}
-\indexentry {Präfix|hyperpage}{196}
-\indexentry {Suffix|hyperpage}{196}
-\indexentry {Zirkumfix|hyperpage}{196}
-\indexentry {Baumdiagramm|hyperpage}{197}
-\indexentry {Wortklasse|hyperpage}{198}
-\indexentry {Merkmal!statisch|hyperpage}{199}
-\indexentry {Lexikon!Unbegrenztheit|hyperpage}{199}
-\indexentry {Lehnwort|hyperpage}{200}
-\indexentry {Kluge, Friedrich|hyperpage}{200}
-\indexentry {Seebold, Elmar|hyperpage}{200}
-\indexentry {{E}tymologisches {W}örterbuch der deutschen {S}prache@\emph {{E}tymologisches {W}örterbuch der deutschen {S}prache}|hyperpage}{200}
-\indexentry {Wortbildung|hyperpage}{201}
-\indexentry {Flexion|hyperpage}{201}
-\indexentry {Komposition|hyperpage}{209}
-\indexentry {Produktivität|hyperpage}{210}
-\indexentry {Transparenz|hyperpage}{211}
-\indexentry {Kopf!Komposition|hyperpage}{211}
-\indexentry {Kompositum!Rektions--|hyperpage}{212}
-\indexentry {Kompositum!Determinativ--|hyperpage}{212}
-\indexentry {Eisenberg, Peter|hyperpage}{212}
-\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{212}
-\indexentry {Rekursion|hyperpage}{214}
-\indexentry {Rekursion!in der Morphologie|hyperpage}{217}
-\indexentry {Kompositionsfuge|hyperpage}{217}
-\indexentry {Fugenelement|hyperpage}{217}
-\indexentry {Kompositionsfuge|hyperpage}{218}
-\indexentry {Konversion|hyperpage}{219}
-\indexentry {Wortklasse|hyperpage}{219}
-\indexentry {Wort!Stamm|hyperpage}{220}
-\indexentry {Eisenberg, Peter|hyperpage}{221}
-\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{221}
-\indexentry {Derivation|hyperpage}{224}
-\indexentry {Wortklasse|hyperpage}{225}
-\indexentry {Nomen|hyperpage}{225}
-\indexentry {Verb|hyperpage}{226}
-\indexentry {Eisenberg, Peter|hyperpage}{227}
-\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{227}
-\indexentry {Substantiv|hyperpage}{227}
-\indexentry {Adjektiv|hyperpage}{227}
-\indexentry {Verb|hyperpage}{227}
-\indexentry {Diminutiv|hyperpage}{229}
-\indexentry {Kurzwort|hyperpage}{232}
-\indexentry {Nominalphrase|hyperpage}{234}
-\indexentry {Numerus!Nomen|hyperpage}{234}
-\indexentry {Singularetantum|hyperpage}{235}
-\indexentry {Pluraletantum|hyperpage}{235}
-\indexentry {Kongruenz!Numerus--|hyperpage}{235}
-\indexentry {Koordination|hyperpage}{236}
-\indexentry {Kasus|hyperpage}{236}
-\indexentry {Kasus!Hierarchie|hyperpage}{236}
-\indexentry {Grammatikerfrage|hyperpage}{236}
-\indexentry {Akkusativ|hyperpage}{237}
-\indexentry {Nominativ|hyperpage}{237}
-\indexentry {Kasus!Bedeutung|hyperpage}{237}
-\indexentry {Satzglied|hyperpage}{238}
-\indexentry {Dativ!Funktion u.\ Bedeutung|hyperpage}{239}
-\indexentry {Genitiv!Funktion u.\ Bedeutung|hyperpage}{239}
-\indexentry {Kasus!strukturell|hyperpage}{239}
-\indexentry {Kasus!oblik|hyperpage}{239}
-\indexentry {Person!Nomen|hyperpage}{240}
-\indexentry {Deixis|hyperpage}{240}
-\indexentry {Pronomen!deiktisch|hyperpage}{240}
-\indexentry {Anapher|hyperpage}{241}
-\indexentry {Pronomen!anaphorisch|hyperpage}{241}
-\indexentry {Genus|hyperpage}{243}
-\indexentry {Substantiv!Stärke|hyperpage}{244}
-\indexentry {Substantiv!Subklassen|hyperpage}{244}
-\indexentry {Stärke!Substantiv|hyperpage}{244}
-\indexentry {Substantiv!Plural|hyperpage}{246}
-\indexentry {Schwa!Tilgung!Substantiv|hyperpage}{249}
-\indexentry {Nomen!Kasus|hyperpage}{249}
-\indexentry {Genitiv|hyperpage}{250}
-\indexentry {Dativ|hyperpage}{250}
-\indexentry {Schwa!Tilgung!Substantiv|hyperpage}{250}
-\indexentry {Substantiv!Stärke|hyperpage}{251}
-\indexentry {Substantiv!schwach|hyperpage}{251}
-\indexentry {Eigenname|hyperpage}{252}
-\indexentry {Substantiv!Subklassen|hyperpage}{253}
-\indexentry {Numerus|hyperpage}{253}
-\indexentry {Schäfer, Roland|hyperpage}{253}
-\indexentry {Genus|hyperpage}{255}
-\indexentry {Artikelwort|hyperpage}{256}
-\indexentry {Artikel!Unterschied zum Pronomen|hyperpage}{256}
-\indexentry {Pronomen!Unterschied zum Artikel|hyperpage}{256}
-\indexentry {Artikelfunktion|hyperpage}{257}
-\indexentry {Pronominalfunktion|hyperpage}{257}
-\indexentry {Pronomen!possessiv|hyperpage}{258}
-\indexentry {Kongruenz!Possessor--|hyperpage}{258}
+\indexentry {Flexion|hyperpage}{183}
+\indexentry {Kasus!Funktion|hyperpage}{183}
+\indexentry {Akkusativ|hyperpage}{183}
+\indexentry {Subjekt|hyperpage}{183}
+\indexentry {Objekt|hyperpage}{183}
+\indexentry {Präposition!Wechsel--|hyperpage}{184}
+\indexentry {Akkusativ|hyperpage}{184}
+\indexentry {Dativ|hyperpage}{184}
+\indexentry {Morphologie|hyperpage}{185}
+\indexentry {Morph|hyperpage}{186}
+\indexentry {Markierungsfunktion|hyperpage}{186}
+\indexentry {Kasus|hyperpage}{187}
+\indexentry {Numerus|hyperpage}{187}
+\indexentry {Wort!Bedeutung|hyperpage}{187}
+\indexentry {Morphem|hyperpage}{188}
+\indexentry {Allomorph|hyperpage}{188}
+\indexentry {Konditionierung|hyperpage}{189}
+\indexentry {Markierungsfunktion|hyperpage}{192}
+\indexentry {Wort|hyperpage}{193}
+\indexentry {Stamm|hyperpage}{194}
+\indexentry {Markierungsfunktion!lexikalisch|hyperpage}{194}
+\indexentry {Vokalviereck|hyperpage}{195}
+\indexentry {hinten|hyperpage}{196}
+\indexentry {Umlaut|hyperpage}{196}
+\indexentry {Ablaut|hyperpage}{197}
+\indexentry {Affix|hyperpage}{198}
+\indexentry {Präfix|hyperpage}{198}
+\indexentry {Suffix|hyperpage}{198}
+\indexentry {Zirkumfix|hyperpage}{198}
+\indexentry {Baumdiagramm|hyperpage}{199}
+\indexentry {Wortklasse|hyperpage}{200}
+\indexentry {Merkmal!statisch|hyperpage}{201}
+\indexentry {Lexikon!Unbegrenztheit|hyperpage}{201}
+\indexentry {Lehnwort|hyperpage}{202}
+\indexentry {Kluge, Friedrich|hyperpage}{202}
+\indexentry {Seebold, Elmar|hyperpage}{202}
+\indexentry {{E}tymologisches {W}örterbuch der deutschen {S}prache@\emph {{E}tymologisches {W}örterbuch der deutschen {S}prache}|hyperpage}{202}
+\indexentry {Wortbildung|hyperpage}{203}
+\indexentry {Flexion|hyperpage}{203}
+\indexentry {Komposition|hyperpage}{211}
+\indexentry {Produktivität|hyperpage}{212}
+\indexentry {Transparenz|hyperpage}{213}
+\indexentry {Kopf!Komposition|hyperpage}{213}
+\indexentry {Kompositum!Rektions--|hyperpage}{214}
+\indexentry {Kompositum!Determinativ--|hyperpage}{214}
+\indexentry {Eisenberg, Peter|hyperpage}{214}
+\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{214}
+\indexentry {Rekursion|hyperpage}{216}
+\indexentry {Rekursion!in der Morphologie|hyperpage}{219}
+\indexentry {Kompositionsfuge|hyperpage}{219}
+\indexentry {Fugenelement|hyperpage}{219}
+\indexentry {Kompositionsfuge|hyperpage}{220}
+\indexentry {Konversion|hyperpage}{221}
+\indexentry {Wortklasse|hyperpage}{221}
+\indexentry {Wort!Stamm|hyperpage}{222}
+\indexentry {Eisenberg, Peter|hyperpage}{223}
+\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{223}
+\indexentry {Derivation|hyperpage}{226}
+\indexentry {Wortklasse|hyperpage}{227}
+\indexentry {Nomen|hyperpage}{227}
+\indexentry {Verb|hyperpage}{228}
+\indexentry {Eisenberg, Peter|hyperpage}{229}
+\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{229}
+\indexentry {Substantiv|hyperpage}{229}
+\indexentry {Adjektiv|hyperpage}{229}
+\indexentry {Verb|hyperpage}{229}
+\indexentry {Diminutiv|hyperpage}{231}
+\indexentry {Kurzwort|hyperpage}{234}
+\indexentry {Nominalphrase|hyperpage}{236}
+\indexentry {Numerus!Nomen|hyperpage}{236}
+\indexentry {Singularetantum|hyperpage}{237}
+\indexentry {Pluraletantum|hyperpage}{237}
+\indexentry {Kongruenz!Numerus--|hyperpage}{237}
+\indexentry {Koordination|hyperpage}{238}
+\indexentry {Kasus|hyperpage}{238}
+\indexentry {Kasus!Hierarchie|hyperpage}{238}
+\indexentry {Grammatikerfrage|hyperpage}{238}
+\indexentry {Akkusativ|hyperpage}{239}
+\indexentry {Nominativ|hyperpage}{239}
+\indexentry {Kasus!Bedeutung|hyperpage}{239}
+\indexentry {Satzglied|hyperpage}{240}
+\indexentry {Dativ!Funktion u.\ Bedeutung|hyperpage}{241}
+\indexentry {Genitiv!Funktion u.\ Bedeutung|hyperpage}{241}
+\indexentry {Kasus!strukturell|hyperpage}{241}
+\indexentry {Kasus!oblik|hyperpage}{241}
+\indexentry {Person!Nomen|hyperpage}{242}
+\indexentry {Deixis|hyperpage}{242}
+\indexentry {Pronomen!deiktisch|hyperpage}{242}
+\indexentry {Anapher|hyperpage}{243}
+\indexentry {Pronomen!anaphorisch|hyperpage}{243}
+\indexentry {Genus|hyperpage}{245}
+\indexentry {Substantiv!Stärke|hyperpage}{246}
+\indexentry {Substantiv!Subklassen|hyperpage}{246}
+\indexentry {Stärke!Substantiv|hyperpage}{246}
+\indexentry {Substantiv!Plural|hyperpage}{248}
+\indexentry {Schwa!Tilgung!Substantiv|hyperpage}{251}
+\indexentry {Nomen!Kasus|hyperpage}{251}
+\indexentry {Genitiv|hyperpage}{252}
+\indexentry {Dativ|hyperpage}{252}
+\indexentry {Schwa!Tilgung!Substantiv|hyperpage}{252}
+\indexentry {Substantiv!Stärke|hyperpage}{253}
+\indexentry {Substantiv!schwach|hyperpage}{253}
+\indexentry {Eigenname|hyperpage}{254}
+\indexentry {Substantiv!Subklassen|hyperpage}{255}
+\indexentry {Numerus|hyperpage}{255}
+\indexentry {Schäfer, Roland|hyperpage}{255}
+\indexentry {Genus|hyperpage}{257}
+\indexentry {Artikelwort|hyperpage}{258}
+\indexentry {Artikel!Unterschied zum Pronomen|hyperpage}{258}
+\indexentry {Pronomen!Unterschied zum Artikel|hyperpage}{258}
+\indexentry {Artikelfunktion|hyperpage}{259}
+\indexentry {Pronominalfunktion|hyperpage}{259}
+\indexentry {Pronomen!possessiv|hyperpage}{260}
+\indexentry {Kongruenz!Possessor--|hyperpage}{260}
 \indexentry {Pronomen!Flexionsklassen|hyperpage}{260}
 \indexentry {Artikel!Flexionsklassen|hyperpage}{260}
-\indexentry {Pronomen!Flexion|hyperpage}{261}
-\indexentry {Artikel!definit!Flexion|hyperpage}{262}
-\indexentry {Artikel!indefinit!Flexion|hyperpage}{264}
-\indexentry {Artikel!possessiv!Flexion|hyperpage}{264}
-\indexentry {Kongruenz!Genus--|hyperpage}{265}
-\indexentry {Kongruenz!Numerus--|hyperpage}{265}
-\indexentry {Adjektiv!attributiv|hyperpage}{265}
-\indexentry {Adjektiv!Kurzform|hyperpage}{265}
-\indexentry {Adjektiv!prädikativ|hyperpage}{265}
-\indexentry {Adjektiv!adverbial|hyperpage}{266}
-\indexentry {Adjektiv!Valenz|hyperpage}{267}
-\indexentry {Valenz!Adjektiv|hyperpage}{267}
-\indexentry {Stärke!Adjektiv|hyperpage}{267}
-\indexentry {Adjektiv!Flexion|hyperpage}{269}
-\indexentry {Monoflexion|hyperpage}{270}
-\indexentry {Adjektiv!adjektival|hyperpage}{270}
+\indexentry {Pronomen!Flexion|hyperpage}{263}
+\indexentry {Artikel!definit!Flexion|hyperpage}{264}
+\indexentry {Artikel!indefinit!Flexion|hyperpage}{266}
+\indexentry {Artikel!possessiv!Flexion|hyperpage}{266}
+\indexentry {Kongruenz!Genus--|hyperpage}{267}
+\indexentry {Kongruenz!Numerus--|hyperpage}{267}
+\indexentry {Adjektiv!attributiv|hyperpage}{267}
+\indexentry {Adjektiv!Kurzform|hyperpage}{267}
+\indexentry {Adjektiv!prädikativ|hyperpage}{267}
+\indexentry {Adjektiv!adverbial|hyperpage}{268}
+\indexentry {Adjektiv!Valenz|hyperpage}{269}
+\indexentry {Valenz!Adjektiv|hyperpage}{269}
+\indexentry {Stärke!Adjektiv|hyperpage}{269}
 \indexentry {Adjektiv!Flexion|hyperpage}{271}
-\indexentry {Adjektiv!Komparation!Funktion|hyperpage}{272}
-\indexentry {Adjektiv!Komparation!Flexion|hyperpage}{273}
-\indexentry {Wortbildung!Komparation als --|hyperpage}{274}
-\indexentry {Eisenberg, Peter|hyperpage}{274}
-\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{274}
-\indexentry {Vergleichselement|hyperpage}{274}
-\indexentry {Numerus!Verb|hyperpage}{279}
-\indexentry {Person!Verb|hyperpage}{279}
-\indexentry {Tempus!einfach|hyperpage}{280}
-\indexentry {Sprechzeitpunkt|hyperpage}{281}
-\indexentry {Ereigniszeitpunkt|hyperpage}{281}
-\indexentry {Tempus|hyperpage}{281}
-\indexentry {Tempus!einfach|hyperpage}{281}
-\indexentry {Präsens!Bedeutung|hyperpage}{282}
-\indexentry {Futur!Bedeutung|hyperpage}{282}
-\indexentry {Referenzzeitpunkt|hyperpage}{283}
-\indexentry {Futurperfekt!Bedeutung|hyperpage}{284}
-\indexentry {Präteritumsperfekt!Bedeutung|hyperpage}{284}
-\indexentry {Tempus!Folge|hyperpage}{285}
-\indexentry {Tempus!komplex|hyperpage}{285}
-\indexentry {Präsens|hyperpage}{286}
-\indexentry {Präteritum|hyperpage}{286}
-\indexentry {Perfekt|hyperpage}{286}
-\indexentry {Präteritumsperfekt|hyperpage}{286}
-\indexentry {Futur|hyperpage}{286}
-\indexentry {Perfekt|hyperpage}{286}
-\indexentry {Tempus!synthetisch vs.\ analytisch|hyperpage}{287}
-\indexentry {Finitheit|hyperpage}{290}
-\indexentry {Infinitheit|hyperpage}{290}
-\indexentry {Kongruenz!Subjekt--Verb--|hyperpage}{290}
-\indexentry {Status|hyperpage}{290}
-\indexentry {Passiv|hyperpage}{292}
-\indexentry {Verb!Flexionsklassen|hyperpage}{294}
-\indexentry {Verb!Voll--|hyperpage}{294}
-\indexentry {Hilfsverb|hyperpage}{294}
-\indexentry {Modalverb|hyperpage}{295}
-\indexentry {Kopula|hyperpage}{295}
-\indexentry {Ablaut|hyperpage}{296}
-\indexentry {Ablaut!Stufen|hyperpage}{297}
-\indexentry {Verb!stark|hyperpage}{297}
-\indexentry {Stärke!Verb|hyperpage}{297}
-\indexentry {Verb!schwach|hyperpage}{297}
-\indexentry {Verb!schwach!Flexion|hyperpage}{298}
-\indexentry {Präsens|hyperpage}{298}
-\indexentry {Präteritum|hyperpage}{298}
-\indexentry {Indikativ|hyperpage}{298}
-\indexentry {Verb!stark!Flexion|hyperpage}{299}
-\indexentry {Präsens|hyperpage}{299}
-\indexentry {Präteritum|hyperpage}{299}
-\indexentry {Indikativ|hyperpage}{299}
-\indexentry {Numerus!Verb|hyperpage}{299}
-\indexentry {Person!Verb|hyperpage}{299}
-\indexentry {Verb!Person-Numerus-Suffixe|hyperpage}{299}
-\indexentry {Konjunktiv!Form vs.\ Funktion|hyperpage}{300}
-\indexentry {Konjunktiv!Flexion|hyperpage}{301}
-\indexentry {Verb!schwach!Flexion|hyperpage}{301}
+\indexentry {Monoflexion|hyperpage}{272}
+\indexentry {Adjektiv!adjektival|hyperpage}{272}
+\indexentry {Adjektiv!Flexion|hyperpage}{273}
+\indexentry {Adjektiv!Komparation!Funktion|hyperpage}{274}
+\indexentry {Adjektiv!Komparation!Flexion|hyperpage}{275}
+\indexentry {Wortbildung!Komparation als --|hyperpage}{276}
+\indexentry {Eisenberg, Peter|hyperpage}{276}
+\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{276}
+\indexentry {Vergleichselement|hyperpage}{276}
+\indexentry {Numerus!Verb|hyperpage}{281}
+\indexentry {Person!Verb|hyperpage}{281}
+\indexentry {Tempus!einfach|hyperpage}{282}
+\indexentry {Sprechzeitpunkt|hyperpage}{283}
+\indexentry {Ereigniszeitpunkt|hyperpage}{283}
+\indexentry {Tempus|hyperpage}{283}
+\indexentry {Tempus!einfach|hyperpage}{283}
+\indexentry {Präsens!Bedeutung|hyperpage}{284}
+\indexentry {Futur!Bedeutung|hyperpage}{284}
+\indexentry {Referenzzeitpunkt|hyperpage}{285}
+\indexentry {Futurperfekt!Bedeutung|hyperpage}{286}
+\indexentry {Präteritumsperfekt!Bedeutung|hyperpage}{286}
+\indexentry {Tempus!Folge|hyperpage}{287}
+\indexentry {Tempus!komplex|hyperpage}{287}
+\indexentry {Präsens|hyperpage}{288}
+\indexentry {Präteritum|hyperpage}{288}
+\indexentry {Perfekt|hyperpage}{288}
+\indexentry {Präteritumsperfekt|hyperpage}{288}
+\indexentry {Futur|hyperpage}{288}
+\indexentry {Perfekt|hyperpage}{288}
+\indexentry {Tempus!synthetisch vs.\ analytisch|hyperpage}{289}
+\indexentry {Finitheit|hyperpage}{292}
+\indexentry {Infinitheit|hyperpage}{292}
+\indexentry {Kongruenz!Subjekt--Verb--|hyperpage}{292}
+\indexentry {Status|hyperpage}{292}
+\indexentry {Passiv|hyperpage}{294}
+\indexentry {Verb!Flexionsklassen|hyperpage}{296}
+\indexentry {Verb!Voll--|hyperpage}{296}
+\indexentry {Hilfsverb|hyperpage}{296}
+\indexentry {Modalverb|hyperpage}{297}
+\indexentry {Kopula|hyperpage}{297}
+\indexentry {Ablaut|hyperpage}{298}
+\indexentry {Ablaut!Stufen|hyperpage}{299}
+\indexentry {Verb!stark|hyperpage}{299}
+\indexentry {Stärke!Verb|hyperpage}{299}
+\indexentry {Verb!schwach|hyperpage}{299}
+\indexentry {Verb!schwach!Flexion|hyperpage}{300}
+\indexentry {Präsens|hyperpage}{300}
+\indexentry {Präteritum|hyperpage}{300}
+\indexentry {Indikativ|hyperpage}{300}
+\indexentry {Verb!stark!Flexion|hyperpage}{301}
 \indexentry {Präsens|hyperpage}{301}
 \indexentry {Präteritum|hyperpage}{301}
-\indexentry {Konjunktiv|hyperpage}{301}
-\indexentry {Präsens|hyperpage}{302}
-\indexentry {Präteritum|hyperpage}{302}
-\indexentry {Konjunktiv|hyperpage}{302}
-\indexentry {Verb!stark!Flexion|hyperpage}{302}
-\indexentry {Verb!Flexion!finit|hyperpage}{303}
-\indexentry {Schwa!Tilgung!Verb|hyperpage}{303}
-\indexentry {Verb!Flexion!infinit|hyperpage}{304}
-\indexentry {Infinitiv|hyperpage}{304}
-\indexentry {Partizip|hyperpage}{304}
-\indexentry {Status|hyperpage}{304}
-\indexentry {Verb!Präfix-- vs.\ Partikel--|hyperpage}{305}
-\indexentry {Imperativ|hyperpage}{305}
-\indexentry {Verb!Flexion!Imperativ|hyperpage}{306}
-\indexentry {Modalverb!Flexion|hyperpage}{307}
-\indexentry {Präteritalpräsens|hyperpage}{307}
-\indexentry {Verb!Flexion!unregelmäßig|hyperpage}{309}
-\indexentry {Verb!gemischt|hyperpage}{309}
-\indexentry {Stärke!Verb|hyperpage}{309}
-\indexentry {Eisenberg, Peter|hyperpage}{317}
-\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{317}
-\indexentry {Engel, Ulrich|hyperpage}{317}
-\indexentry {{S}yntax der deutschen {G}egenwartssprache@\emph {{S}yntax der deutschen {G}egenwartssprache}|hyperpage}{317}
-\indexentry {Hentschel, Elke|hyperpage}{317}
-\indexentry {Vogel, Petra~Maria|hyperpage}{317}
-\indexentry {{D}eutsche {M}orphologie@\emph {{D}eutsche {M}orphologie}|hyperpage}{317}
-\indexentry {Engel, Ulrich|hyperpage}{317}
-\indexentry {{D}eutsche {G}rammatik@\emph {{D}eutsche {G}rammatik}|hyperpage}{317}
-\indexentry {Engel, Ulrich|hyperpage}{317}
-\indexentry {{S}yntax der deutschen {G}egenwartssprache@\emph {{S}yntax der deutschen {G}egenwartssprache}|hyperpage}{317}
-\indexentry {Fabricius-Hansen, Cathrine|hyperpage}{317}
-\indexentry {{D}uden 04. {D}ie {G}rammatik@\emph {{D}uden 04. {D}ie {G}rammatik}|hyperpage}{317}
-\indexentry {Katamba, Francis|hyperpage}{317}
-\indexentry {{M}orphology@\emph {{M}orphology}|hyperpage}{317}
-\indexentry {Booij, Geert|hyperpage}{317}
-\indexentry {The Grammar of Words. {A}n Introduction to Morphology@\emph {The Grammar of Words. {A}n Introduction to Morphology}|hyperpage}{317}
-\indexentry {Altmann, Hans|hyperpage}{317}
-\indexentry {{P}rüfungswissen {W}ortbildung@\emph {{P}rüfungswissen {W}ortbildung}|hyperpage}{317}
-\indexentry {Fleischer, Wolfgang|hyperpage}{317}
-\indexentry {Barz, Irmhild|hyperpage}{317}
-\indexentry {{W}ortbildung der deutschen {G}egenwartssprache@\emph {{W}ortbildung der deutschen {G}egenwartssprache}|hyperpage}{317}
-\indexentry {Breindl, Eva|hyperpage}{317}
-\indexentry {Thurmair, Maria|hyperpage}{317}
-\indexentry {{D}er {F}ürstbischof im {H}osenrock -- {E}ine {S}tudie zu den nominalen {K}opulativkomposita des {D}eutschen@\emph {{D}er {F}ürstbischof im {H}osenrock -- {E}ine {S}tudie zu den nominalen {K}opulativkomposita des {D}eutschen}|hyperpage}{317}
-\indexentry {Gallmann, Peter|hyperpage}{317}
-\indexentry {{F}ugenmorpheme als {N}icht-{K}asus-{S}uffixe@\emph {{F}ugenmorpheme als {N}icht-{K}asus-{S}uffixe}|hyperpage}{317}
-\indexentry {Nübling, Damaris|hyperpage}{317}
-\indexentry {Szczepaniak, Renata|hyperpage}{317}
-\indexentry {{R}eligion+s+freiheit, {S}tabilität+s+pakt und {S}ubjekt(+s+)pronomen. {F}ugenelemente als {M}arker phonologischer {W}ortgrenzen@\emph {{R}eligion+s+freiheit, {S}tabilität+s+pakt und {S}ubjekt(+s+)pronomen. {F}ugenelemente als {M}arker phonologischer {W}ortgrenzen}|hyperpage}{317}
-\indexentry {Eisenberg, Peter|hyperpage}{317}
-\indexentry {Sayatz, Ulrike|hyperpage}{317}
-\indexentry {{K}ategorienhierarchie und {G}enus. {Z}ur {A}bfolge der {D}erivationssuffixe im {D}eutschen@\emph {{K}ategorienhierarchie und {G}enus. {Z}ur {A}bfolge der {D}erivationssuffixe im {D}eutschen}|hyperpage}{317}
-\indexentry {Thieroff, Rolf|hyperpage}{317}
-\indexentry {Vogel, Petra~Maria|hyperpage}{317}
-\indexentry {{F}lexion@\emph {{F}lexion}|hyperpage}{317}
-\indexentry {Zifonun, Gisela|hyperpage}{317}
-\indexentry {Hoffmann, Ludger|hyperpage}{317}
-\indexentry {Strecker, Bruno|hyperpage}{317}
-\indexentry {{G}rammatik der deutschen {S}prache@\emph {{G}rammatik der deutschen {S}prache}|hyperpage}{317}
-\indexentry {Eisenberg, Peter|hyperpage}{317}
-\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{317}
-\indexentry {Eisenberg, Peter|hyperpage}{317}
-\indexentry {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz@\emph {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz}|hyperpage}{317}
-\indexentry {Wiese, Bernd|hyperpage}{317}
-\indexentry {{Deklinationsklassen}. {Zur} vergleichenden {Betrachtung} der {Substantivflexion}@\emph {{Deklinationsklassen}. {Zur} vergleichenden {Betrachtung} der {Substantivflexion}}|hyperpage}{317}
-\indexentry {Köpcke, Klaus-Michael|hyperpage}{317}
-\indexentry {Zubin, David~A.|hyperpage}{317}
-\indexentry {{P}rinzipien für die {G}enuszuweisung im {D}eutschen@\emph {{P}rinzipien für die {G}enuszuweisung im {D}eutschen}|hyperpage}{317}
-\indexentry {Wegener, Heide|hyperpage}{317}
-\indexentry {{P}izzas und {P}izzen, die {P}luralformen (un)assimilierter {F}remdwörter im {D}eutschen@\emph {{P}izzas und {P}izzen, die {P}luralformen (un)assimilierter {F}remdwörter im {D}eutschen}|hyperpage}{317}
-\indexentry {Köpcke, Klaus-Michael|hyperpage}{317}
-\indexentry {{D}ie {K}lassifikation der schwachen {M}askulina in der deutschen {G}egenwartssprache@\emph {{D}ie {K}lassifikation der schwachen {M}askulina in der deutschen {G}egenwartssprache}|hyperpage}{317}
-\indexentry {Thieroff, Rolf|hyperpage}{317}
-\indexentry {{D}ie {B}edienung des {A}utomatens durch den {M}ensch. {D}eklination der schwachen {M}askulina als {Z}weifelsfall@\emph {{D}ie {B}edienung des {A}utomatens durch den {M}ensch. {D}eklination der schwachen {M}askulina als {Z}weifelsfall}|hyperpage}{317}
-\indexentry {Wiese, Bernd|hyperpage}{317}
-\indexentry {{V}ariation in der {F}lexionsmorphologie: {S}tarke und schwache {A}djektivflexion nach {P}ronominaladjektiven@\emph {{V}ariation in der {F}lexionsmorphologie: {S}tarke und schwache {A}djektivflexion nach {P}ronominaladjektiven}|hyperpage}{317}
-\indexentry {Nübling, Damaris|hyperpage}{317}
-\indexentry {{U}nter großem persönlichem oder persönlichen {E}insatz? {D}er sprachliche {Z}weifelsfall adjektivischer {P}arallel- vs. {W}echselflexion als {B}eispiel für aktuellen grammatischen {W}andel@\emph {{U}nter großem persönlichem oder persönlichen {E}insatz? {D}er sprachliche {Z}weifelsfall adjektivischer {P}arallel- vs. {W}echselflexion als {B}eispiel für aktuellen grammatischen {W}andel}|hyperpage}{317}
-\indexentry {Vogel, Petra~Maria|hyperpage}{317}
-\indexentry {{U}nflektierte {A}djektive im {D}eutschen. {Z}um {V}erhältnis von semantischer {S}truktur und syntaktischer {F}unktion und ein {V}ergleich mit flektierten {A}djektiven@\emph {{U}nflektierte {A}djektive im {D}eutschen. {Z}um {V}erhältnis von semantischer {S}truktur und syntaktischer {F}unktion und ein {V}ergleich mit flektierten {A}djektiven}|hyperpage}{317}
-\indexentry {Bærentzen, Per|hyperpage}{317}
-\indexentry {{Zum} {G}ebrauch der {Pronominalformen} deren und derer im heutigen {D}eutsch@\emph {{Zum} {G}ebrauch der {Pronominalformen} deren und derer im heutigen {D}eutsch}|hyperpage}{317}
-\indexentry {Demske, Ulrike|hyperpage}{317}
-\indexentry {{M}erkmale {U}nd {R}elationen: {D}iachrone {S}tudien {Z}ur {N}ominalphrase {D}es {D}eutschen@\emph {{M}erkmale {U}nd {R}elationen: {D}iachrone {S}tudien {Z}ur {N}ominalphrase {D}es {D}eutschen}|hyperpage}{317}
-\indexentry {Helbig, Gerhard|hyperpage}{317}
-\indexentry {Schenkel, Wolfgang|hyperpage}{317}
-\indexentry {{W}örterbuch zur {V}alenz und {D}istribution deutscher {V}erben@\emph {{W}örterbuch zur {V}alenz und {D}istribution deutscher {V}erben}|hyperpage}{317}
-\indexentry {Wiese, Bernd|hyperpage}{317}
-\indexentry {Form and Function of Verbal Ablaut in Contemporary Standard {G}erman@\emph {Form and Function of Verbal Ablaut in Contemporary Standard {G}erman}|hyperpage}{317}
-\indexentry {Rothstein, Björn|hyperpage}{318}
-\indexentry {{T}empus@\emph {{T}empus}|hyperpage}{318}
-\indexentry {Vater, Heinz|hyperpage}{318}
-\indexentry {{E}inführung in die {Z}eit-{L}inguistik@\emph {{E}inführung in die {Z}eit-{L}inguistik}|hyperpage}{318}
-\indexentry {Leirbukt, Oddleif|hyperpage}{318}
-\indexentry {{Z}ur {A}nzeige von {H}öflichkeit im {D}eutschen und im {N}orwegischen: konjunktivische und indikativische {A}usdrucksmittel im {V}ergleich@\emph {{Z}ur {A}nzeige von {H}öflichkeit im {D}eutschen und im {N}orwegischen: konjunktivische und indikativische {A}usdrucksmittel im {V}ergleich}|hyperpage}{318}
-\indexentry {Fabricius-Hansen, Cathrine|hyperpage}{318}
-\indexentry {{D}er {K}onjunktiv als {P}roblem des {D}eutschen als {F}remdsprache@\emph {{D}er {K}onjunktiv als {P}roblem des {D}eutschen als {F}remdsprache}|hyperpage}{318}
-\indexentry {Fabricius-Hansen, Cathrine|hyperpage}{318}
-\indexentry {{D}ie {G}eheimnisse der deutschen würde-{K}onstruktion@\emph {{D}ie {G}eheimnisse der deutschen würde-{K}onstruktion}|hyperpage}{318}
-\indexentry {Grammatikalität|hyperpage}{323}
-\indexentry {Syntax|hyperpage}{323}
-\indexentry {Rekursion!in der Syntax|hyperpage}{327}
-\indexentry {Konstituententest|hyperpage}{328}
-\indexentry {Pronominalisierungstest|hyperpage}{329}
-\indexentry {Fragetest|hyperpage}{330}
-\indexentry {Vorfeldtest|hyperpage}{332}
-\indexentry {Koordinationstest|hyperpage}{333}
-\indexentry {Satzglied|hyperpage}{336}
-\indexentry {Konstituente!atomar|hyperpage}{336}
-\indexentry {Ambiguität|hyperpage}{338}
-\indexentry {Baumdiagramm|hyperpage}{338}
-\indexentry {Baumdiagramm!Kante|hyperpage}{338}
-\indexentry {Baumdiagramm!Tochterknoten|hyperpage}{338}
-\indexentry {Baumdiagramm!Mutterknoten|hyperpage}{338}
-\indexentry {Valenz|hyperpage}{341}
-\indexentry {Dependenz|hyperpage}{342}
-\indexentry {Kopf!Phrase|hyperpage}{343}
-\indexentry {Kopf-Merkmal-Prinzip|hyperpage}{344}
-\indexentry {De Kuthy, Kordula|hyperpage}{348}
-\indexentry {Discontinuous {NPs} in {G}erman: A Case Study of the Interaction of Syntax, Semantics and Pragmatics@\emph {Discontinuous {NPs} in {G}erman: A Case Study of the Interaction of Syntax, Semantics and Pragmatics}|hyperpage}{348}
-\indexentry {Phrasenschema|hyperpage}{349}
-\indexentry {Baumdiagramm|hyperpage}{349}
-\indexentry {Koordination|hyperpage}{350}
-\indexentry {Konjunktion|hyperpage}{350}
-\indexentry {Attribut|hyperpage}{353}
-\indexentry {Nominalphrase|hyperpage}{353}
-\indexentry {Artikel!Position|hyperpage}{353}
-\indexentry {Adjektivphrase|hyperpage}{353}
-\indexentry {Relativsatz|hyperpage}{353}
-\indexentry {Genitiv!pränominal|hyperpage}{353}
-\indexentry {Nomen!vs.\ Substantiv|hyperpage}{353}
-\indexentry {Genitiv!postnominal|hyperpage}{355}
-\indexentry {Valenz!Substantiv|hyperpage}{356}
-\indexentry {Nominalisierung|hyperpage}{356}
+\indexentry {Indikativ|hyperpage}{301}
+\indexentry {Numerus!Verb|hyperpage}{301}
+\indexentry {Person!Verb|hyperpage}{301}
+\indexentry {Verb!Person-Numerus-Suffixe|hyperpage}{301}
+\indexentry {Konjunktiv!Form vs.\ Funktion|hyperpage}{302}
+\indexentry {Konjunktiv!Flexion|hyperpage}{303}
+\indexentry {Verb!schwach!Flexion|hyperpage}{303}
+\indexentry {Präsens|hyperpage}{303}
+\indexentry {Präteritum|hyperpage}{303}
+\indexentry {Konjunktiv|hyperpage}{303}
+\indexentry {Präsens|hyperpage}{304}
+\indexentry {Präteritum|hyperpage}{304}
+\indexentry {Konjunktiv|hyperpage}{304}
+\indexentry {Verb!stark!Flexion|hyperpage}{304}
+\indexentry {Verb!Flexion!finit|hyperpage}{305}
+\indexentry {Schwa!Tilgung!Verb|hyperpage}{305}
+\indexentry {Verb!Flexion!infinit|hyperpage}{306}
+\indexentry {Infinitiv|hyperpage}{306}
+\indexentry {Partizip|hyperpage}{306}
+\indexentry {Status|hyperpage}{306}
+\indexentry {Verb!Präfix-- vs.\ Partikel--|hyperpage}{307}
+\indexentry {Imperativ|hyperpage}{307}
+\indexentry {Verb!Flexion!Imperativ|hyperpage}{308}
+\indexentry {Modalverb!Flexion|hyperpage}{309}
+\indexentry {Präteritalpräsens|hyperpage}{309}
+\indexentry {Verb!Flexion!unregelmäßig|hyperpage}{311}
+\indexentry {Verb!gemischt|hyperpage}{311}
+\indexentry {Stärke!Verb|hyperpage}{311}
+\indexentry {Eisenberg, Peter|hyperpage}{319}
+\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{319}
+\indexentry {Engel, Ulrich|hyperpage}{319}
+\indexentry {{S}yntax der deutschen {G}egenwartssprache@\emph {{S}yntax der deutschen {G}egenwartssprache}|hyperpage}{319}
+\indexentry {Hentschel, Elke|hyperpage}{319}
+\indexentry {Vogel, Petra~Maria|hyperpage}{319}
+\indexentry {{D}eutsche {M}orphologie@\emph {{D}eutsche {M}orphologie}|hyperpage}{319}
+\indexentry {Engel, Ulrich|hyperpage}{319}
+\indexentry {{D}eutsche {G}rammatik@\emph {{D}eutsche {G}rammatik}|hyperpage}{319}
+\indexentry {Engel, Ulrich|hyperpage}{319}
+\indexentry {{S}yntax der deutschen {G}egenwartssprache@\emph {{S}yntax der deutschen {G}egenwartssprache}|hyperpage}{319}
+\indexentry {Fabricius-Hansen, Cathrine|hyperpage}{319}
+\indexentry {{D}uden 04. {D}ie {G}rammatik@\emph {{D}uden 04. {D}ie {G}rammatik}|hyperpage}{319}
+\indexentry {Katamba, Francis|hyperpage}{319}
+\indexentry {{M}orphology@\emph {{M}orphology}|hyperpage}{319}
+\indexentry {Booij, Geert|hyperpage}{319}
+\indexentry {The Grammar of Words. {A}n Introduction to Morphology@\emph {The Grammar of Words. {A}n Introduction to Morphology}|hyperpage}{319}
+\indexentry {Altmann, Hans|hyperpage}{319}
+\indexentry {{P}rüfungswissen {W}ortbildung@\emph {{P}rüfungswissen {W}ortbildung}|hyperpage}{319}
+\indexentry {Fleischer, Wolfgang|hyperpage}{319}
+\indexentry {Barz, Irmhild|hyperpage}{319}
+\indexentry {{W}ortbildung der deutschen {G}egenwartssprache@\emph {{W}ortbildung der deutschen {G}egenwartssprache}|hyperpage}{319}
+\indexentry {Breindl, Eva|hyperpage}{319}
+\indexentry {Thurmair, Maria|hyperpage}{319}
+\indexentry {{D}er {F}ürstbischof im {H}osenrock -- {E}ine {S}tudie zu den nominalen {K}opulativkomposita des {D}eutschen@\emph {{D}er {F}ürstbischof im {H}osenrock -- {E}ine {S}tudie zu den nominalen {K}opulativkomposita des {D}eutschen}|hyperpage}{319}
+\indexentry {Gallmann, Peter|hyperpage}{319}
+\indexentry {{F}ugenmorpheme als {N}icht-{K}asus-{S}uffixe@\emph {{F}ugenmorpheme als {N}icht-{K}asus-{S}uffixe}|hyperpage}{319}
+\indexentry {Nübling, Damaris|hyperpage}{319}
+\indexentry {Szczepaniak, Renata|hyperpage}{319}
+\indexentry {{R}eligion+s+freiheit, {S}tabilität+s+pakt und {S}ubjekt(+s+)pronomen. {F}ugenelemente als {M}arker phonologischer {W}ortgrenzen@\emph {{R}eligion+s+freiheit, {S}tabilität+s+pakt und {S}ubjekt(+s+)pronomen. {F}ugenelemente als {M}arker phonologischer {W}ortgrenzen}|hyperpage}{319}
+\indexentry {Eisenberg, Peter|hyperpage}{319}
+\indexentry {Sayatz, Ulrike|hyperpage}{319}
+\indexentry {{K}ategorienhierarchie und {G}enus. {Z}ur {A}bfolge der {D}erivationssuffixe im {D}eutschen@\emph {{K}ategorienhierarchie und {G}enus. {Z}ur {A}bfolge der {D}erivationssuffixe im {D}eutschen}|hyperpage}{319}
+\indexentry {Thieroff, Rolf|hyperpage}{319}
+\indexentry {Vogel, Petra~Maria|hyperpage}{319}
+\indexentry {{F}lexion@\emph {{F}lexion}|hyperpage}{319}
+\indexentry {Zifonun, Gisela|hyperpage}{319}
+\indexentry {Hoffmann, Ludger|hyperpage}{319}
+\indexentry {Strecker, Bruno|hyperpage}{319}
+\indexentry {{G}rammatik der deutschen {S}prache@\emph {{G}rammatik der deutschen {S}prache}|hyperpage}{319}
+\indexentry {Eisenberg, Peter|hyperpage}{319}
+\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{319}
+\indexentry {Eisenberg, Peter|hyperpage}{319}
+\indexentry {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz@\emph {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz}|hyperpage}{319}
+\indexentry {Wiese, Bernd|hyperpage}{319}
+\indexentry {{Deklinationsklassen}. {Zur} vergleichenden {Betrachtung} der {Substantivflexion}@\emph {{Deklinationsklassen}. {Zur} vergleichenden {Betrachtung} der {Substantivflexion}}|hyperpage}{319}
+\indexentry {Köpcke, Klaus-Michael|hyperpage}{319}
+\indexentry {Zubin, David~A.|hyperpage}{319}
+\indexentry {{P}rinzipien für die {G}enuszuweisung im {D}eutschen@\emph {{P}rinzipien für die {G}enuszuweisung im {D}eutschen}|hyperpage}{319}
+\indexentry {Wegener, Heide|hyperpage}{319}
+\indexentry {{P}izzas und {P}izzen, die {P}luralformen (un)assimilierter {F}remdwörter im {D}eutschen@\emph {{P}izzas und {P}izzen, die {P}luralformen (un)assimilierter {F}remdwörter im {D}eutschen}|hyperpage}{319}
+\indexentry {Köpcke, Klaus-Michael|hyperpage}{319}
+\indexentry {{D}ie {K}lassifikation der schwachen {M}askulina in der deutschen {G}egenwartssprache@\emph {{D}ie {K}lassifikation der schwachen {M}askulina in der deutschen {G}egenwartssprache}|hyperpage}{319}
+\indexentry {Thieroff, Rolf|hyperpage}{319}
+\indexentry {{D}ie {B}edienung des {A}utomatens durch den {M}ensch. {D}eklination der schwachen {M}askulina als {Z}weifelsfall@\emph {{D}ie {B}edienung des {A}utomatens durch den {M}ensch. {D}eklination der schwachen {M}askulina als {Z}weifelsfall}|hyperpage}{319}
+\indexentry {Wiese, Bernd|hyperpage}{319}
+\indexentry {{V}ariation in der {F}lexionsmorphologie: {S}tarke und schwache {A}djektivflexion nach {P}ronominaladjektiven@\emph {{V}ariation in der {F}lexionsmorphologie: {S}tarke und schwache {A}djektivflexion nach {P}ronominaladjektiven}|hyperpage}{319}
+\indexentry {Nübling, Damaris|hyperpage}{319}
+\indexentry {{U}nter großem persönlichem oder persönlichen {E}insatz? {D}er sprachliche {Z}weifelsfall adjektivischer {P}arallel- vs. {W}echselflexion als {B}eispiel für aktuellen grammatischen {W}andel@\emph {{U}nter großem persönlichem oder persönlichen {E}insatz? {D}er sprachliche {Z}weifelsfall adjektivischer {P}arallel- vs. {W}echselflexion als {B}eispiel für aktuellen grammatischen {W}andel}|hyperpage}{319}
+\indexentry {Vogel, Petra~Maria|hyperpage}{319}
+\indexentry {{U}nflektierte {A}djektive im {D}eutschen. {Z}um {V}erhältnis von semantischer {S}truktur und syntaktischer {F}unktion und ein {V}ergleich mit flektierten {A}djektiven@\emph {{U}nflektierte {A}djektive im {D}eutschen. {Z}um {V}erhältnis von semantischer {S}truktur und syntaktischer {F}unktion und ein {V}ergleich mit flektierten {A}djektiven}|hyperpage}{319}
+\indexentry {Bærentzen, Per|hyperpage}{319}
+\indexentry {{Zum} {G}ebrauch der {Pronominalformen} deren und derer im heutigen {D}eutsch@\emph {{Zum} {G}ebrauch der {Pronominalformen} deren und derer im heutigen {D}eutsch}|hyperpage}{319}
+\indexentry {Demske, Ulrike|hyperpage}{319}
+\indexentry {{M}erkmale {U}nd {R}elationen: {D}iachrone {S}tudien {Z}ur {N}ominalphrase {D}es {D}eutschen@\emph {{M}erkmale {U}nd {R}elationen: {D}iachrone {S}tudien {Z}ur {N}ominalphrase {D}es {D}eutschen}|hyperpage}{319}
+\indexentry {Helbig, Gerhard|hyperpage}{319}
+\indexentry {Schenkel, Wolfgang|hyperpage}{319}
+\indexentry {{W}örterbuch zur {V}alenz und {D}istribution deutscher {V}erben@\emph {{W}örterbuch zur {V}alenz und {D}istribution deutscher {V}erben}|hyperpage}{319}
+\indexentry {Wiese, Bernd|hyperpage}{319}
+\indexentry {Form and Function of Verbal Ablaut in Contemporary Standard {G}erman@\emph {Form and Function of Verbal Ablaut in Contemporary Standard {G}erman}|hyperpage}{319}
+\indexentry {Rothstein, Björn|hyperpage}{320}
+\indexentry {{T}empus@\emph {{T}empus}|hyperpage}{320}
+\indexentry {Vater, Heinz|hyperpage}{320}
+\indexentry {{E}inführung in die {Z}eit-{L}inguistik@\emph {{E}inführung in die {Z}eit-{L}inguistik}|hyperpage}{320}
+\indexentry {Leirbukt, Oddleif|hyperpage}{320}
+\indexentry {{Z}ur {A}nzeige von {H}öflichkeit im {D}eutschen und im {N}orwegischen: konjunktivische und indikativische {A}usdrucksmittel im {V}ergleich@\emph {{Z}ur {A}nzeige von {H}öflichkeit im {D}eutschen und im {N}orwegischen: konjunktivische und indikativische {A}usdrucksmittel im {V}ergleich}|hyperpage}{320}
+\indexentry {Fabricius-Hansen, Cathrine|hyperpage}{320}
+\indexentry {{D}er {K}onjunktiv als {P}roblem des {D}eutschen als {F}remdsprache@\emph {{D}er {K}onjunktiv als {P}roblem des {D}eutschen als {F}remdsprache}|hyperpage}{320}
+\indexentry {Fabricius-Hansen, Cathrine|hyperpage}{320}
+\indexentry {{D}ie {G}eheimnisse der deutschen würde-{K}onstruktion@\emph {{D}ie {G}eheimnisse der deutschen würde-{K}onstruktion}|hyperpage}{320}
+\indexentry {Grammatikalität|hyperpage}{325}
+\indexentry {Syntax|hyperpage}{325}
+\indexentry {Rekursion!in der Syntax|hyperpage}{329}
+\indexentry {Konstituententest|hyperpage}{330}
+\indexentry {Pronominalisierungstest|hyperpage}{331}
+\indexentry {Fragetest|hyperpage}{332}
+\indexentry {Vorfeldtest|hyperpage}{334}
+\indexentry {Koordinationstest|hyperpage}{335}
+\indexentry {Satzglied|hyperpage}{338}
+\indexentry {Konstituente!atomar|hyperpage}{338}
+\indexentry {Ambiguität|hyperpage}{340}
+\indexentry {Baumdiagramm|hyperpage}{340}
+\indexentry {Baumdiagramm!Kante|hyperpage}{340}
+\indexentry {Baumdiagramm!Tochterknoten|hyperpage}{340}
+\indexentry {Baumdiagramm!Mutterknoten|hyperpage}{340}
+\indexentry {Valenz|hyperpage}{343}
+\indexentry {Dependenz|hyperpage}{344}
+\indexentry {Kopf!Phrase|hyperpage}{345}
+\indexentry {Kopf-Merkmal-Prinzip|hyperpage}{346}
+\indexentry {De Kuthy, Kordula|hyperpage}{350}
+\indexentry {Discontinuous {NPs} in {G}erman: A Case Study of the Interaction of Syntax, Semantics and Pragmatics@\emph {Discontinuous {NPs} in {G}erman: A Case Study of the Interaction of Syntax, Semantics and Pragmatics}|hyperpage}{350}
+\indexentry {Phrasenschema|hyperpage}{351}
+\indexentry {Baumdiagramm|hyperpage}{351}
+\indexentry {Koordination|hyperpage}{352}
+\indexentry {Konjunktion|hyperpage}{352}
+\indexentry {Attribut|hyperpage}{355}
+\indexentry {Nominalphrase|hyperpage}{355}
+\indexentry {Artikel!Position|hyperpage}{355}
+\indexentry {Adjektivphrase|hyperpage}{355}
+\indexentry {Relativsatz|hyperpage}{355}
+\indexentry {Genitiv!pränominal|hyperpage}{355}
+\indexentry {Nomen!vs.\ Substantiv|hyperpage}{355}
 \indexentry {Genitiv!postnominal|hyperpage}{357}
-\indexentry {Genitiv!pränominal|hyperpage}{357}
-\indexentry {Objektsgenitiv|hyperpage}{357}
-\indexentry {Akkusativ|hyperpage}{357}
-\indexentry {Subjektsgenitiv|hyperpage}{357}
-\indexentry {Stoffsubstantiv|hyperpage}{362}
-\indexentry {Artikel!NP ohne|hyperpage}{362}
-\indexentry {Adjektivphrase|hyperpage}{364}
-\indexentry {Präpositionalphrase|hyperpage}{366}
-\indexentry {Postposition|hyperpage}{366}
-\indexentry {Präposition!flektierbar|hyperpage}{367}
-\indexentry {Adverbphrase|hyperpage}{368}
-\indexentry {Komplementierer|hyperpage}{369}
-\indexentry {Komplementiererphrase|hyperpage}{369}
-\indexentry {Verb-Letzt-Satz|hyperpage}{369}
-\indexentry {Verb-Zweit-Satz|hyperpage}{369}
-\indexentry {Verb-Erst-Satz|hyperpage}{369}
-\indexentry {Verbphrase|hyperpage}{371}
-\indexentry {Verbalkomplex|hyperpage}{371}
-\indexentry {Valenz!Verb|hyperpage}{371}
-\indexentry {Scrambling|hyperpage}{373}
-\indexentry {Tempus!analytisch|hyperpage}{373}
-\indexentry {Status|hyperpage}{374}
-\indexentry {Hilfsverb|hyperpage}{375}
-\indexentry {Modalverb|hyperpage}{375}
-\indexentry {Baumdiagramm|hyperpage}{377}
-\indexentry {Satz|hyperpage}{385}
-\indexentry {Matrixsatz|hyperpage}{386}
-\indexentry {Matrixsatz|hyperpage}{386}
-\indexentry {Verbphrase|hyperpage}{386}
-\indexentry {Konstituente|hyperpage}{386}
-\indexentry {Verbalkomplex|hyperpage}{387}
-\indexentry {Bewegung|hyperpage}{388}
-\indexentry {Spur|hyperpage}{389}
-\indexentry {Feldermodell|hyperpage}{390}
-\indexentry {Satzklammer|hyperpage}{390}
-\indexentry {Vorfeld|hyperpage}{390}
-\indexentry {Mittelfeld|hyperpage}{390}
-\indexentry {Komplementierer|hyperpage}{390}
-\indexentry {w-Frage|hyperpage}{391}
-\indexentry {Echofrage|hyperpage}{391}
-\indexentry {Fragesatz|hyperpage}{391}
-\indexentry {w-Satz|hyperpage}{391}
-\indexentry {Relativsatz|hyperpage}{392}
-\indexentry {Fragesatz!eingebettet|hyperpage}{392}
-\indexentry {Verb-Erst-Satz|hyperpage}{392}
-\indexentry {Verb-Letzt-Satz|hyperpage}{392}
-\indexentry {Verb-Zweit-Satz|hyperpage}{392}
+\indexentry {Valenz!Substantiv|hyperpage}{358}
+\indexentry {Nominalisierung|hyperpage}{358}
+\indexentry {Genitiv!postnominal|hyperpage}{359}
+\indexentry {Genitiv!pränominal|hyperpage}{359}
+\indexentry {Objektsgenitiv|hyperpage}{359}
+\indexentry {Akkusativ|hyperpage}{359}
+\indexentry {Subjektsgenitiv|hyperpage}{359}
+\indexentry {Stoffsubstantiv|hyperpage}{364}
+\indexentry {Artikel!NP ohne|hyperpage}{364}
+\indexentry {Adjektivphrase|hyperpage}{366}
+\indexentry {Präpositionalphrase|hyperpage}{368}
+\indexentry {Postposition|hyperpage}{368}
+\indexentry {Präposition!flektierbar|hyperpage}{369}
+\indexentry {Adverbphrase|hyperpage}{370}
+\indexentry {Komplementierer|hyperpage}{371}
+\indexentry {Komplementiererphrase|hyperpage}{371}
+\indexentry {Verb-Letzt-Satz|hyperpage}{371}
+\indexentry {Verb-Zweit-Satz|hyperpage}{371}
+\indexentry {Verb-Erst-Satz|hyperpage}{371}
+\indexentry {Verbphrase|hyperpage}{373}
+\indexentry {Verbalkomplex|hyperpage}{373}
+\indexentry {Valenz!Verb|hyperpage}{373}
+\indexentry {Scrambling|hyperpage}{375}
+\indexentry {Tempus!analytisch|hyperpage}{375}
+\indexentry {Status|hyperpage}{376}
+\indexentry {Hilfsverb|hyperpage}{377}
+\indexentry {Modalverb|hyperpage}{377}
+\indexentry {Baumdiagramm|hyperpage}{379}
+\indexentry {Satz|hyperpage}{387}
+\indexentry {Matrixsatz|hyperpage}{388}
+\indexentry {Matrixsatz|hyperpage}{388}
+\indexentry {Verbphrase|hyperpage}{388}
+\indexentry {Konstituente|hyperpage}{388}
+\indexentry {Verbalkomplex|hyperpage}{389}
+\indexentry {Bewegung|hyperpage}{390}
+\indexentry {Spur|hyperpage}{391}
+\indexentry {Feldermodell|hyperpage}{392}
+\indexentry {Satzklammer|hyperpage}{392}
+\indexentry {Vorfeld|hyperpage}{392}
+\indexentry {Mittelfeld|hyperpage}{392}
+\indexentry {Komplementierer|hyperpage}{392}
+\indexentry {w-Frage|hyperpage}{393}
+\indexentry {Echofrage|hyperpage}{393}
+\indexentry {Fragesatz|hyperpage}{393}
 \indexentry {w-Satz|hyperpage}{393}
-\indexentry {Relativsatz|hyperpage}{396}
-\indexentry {Komplementsatz|hyperpage}{396}
-\indexentry {Nachfeld|hyperpage}{396}
-\indexentry {Konnektor|hyperpage}{396}
-\indexentry {Konnektorfeld|hyperpage}{396}
-\indexentry {Verb-Zweit-Satz|hyperpage}{398}
-\indexentry {Bewegung|hyperpage}{398}
-\indexentry {Spur|hyperpage}{398}
-\indexentry {Verb-Erst-Satz|hyperpage}{401}
-\indexentry {Fragesatz!Entscheidungs--|hyperpage}{401}
-\indexentry {Imperativ!Satz|hyperpage}{403}
-\indexentry {Verb!Partikel--|hyperpage}{403}
-\indexentry {Verbalkomplex|hyperpage}{403}
-\indexentry {Kopula|hyperpage}{403}
-\indexentry {Kopulasatz|hyperpage}{403}
-\indexentry {Relativsatz|hyperpage}{406}
-\indexentry {Fragesatz!w-Frage|hyperpage}{406}
-\indexentry {Relativphrase|hyperpage}{406}
-\indexentry {Relativsatz!Einleitung|hyperpage}{406}
-\indexentry {Genitiv!pränominal|hyperpage}{408}
-\indexentry {Relativadverb|hyperpage}{408}
-\indexentry {Relativsatz!frei|hyperpage}{409}
-\indexentry {Nachfeld|hyperpage}{411}
-\indexentry {Komplementsatz|hyperpage}{412}
-\indexentry {Subjektsatz|hyperpage}{412}
-\indexentry {Objektsatz|hyperpage}{412}
-\indexentry {Mittelfeld|hyperpage}{413}
-\indexentry {Korrelat|hyperpage}{413}
-\indexentry {Nebensatz|hyperpage}{413}
-\indexentry {Spur|hyperpage}{413}
-\indexentry {Komplementierer|hyperpage}{414}
-\indexentry {Adverbialsatz|hyperpage}{415}
-\indexentry {Nachfeld|hyperpage}{415}
+\indexentry {Relativsatz|hyperpage}{394}
+\indexentry {Fragesatz!eingebettet|hyperpage}{394}
+\indexentry {Verb-Erst-Satz|hyperpage}{394}
+\indexentry {Verb-Letzt-Satz|hyperpage}{394}
+\indexentry {Verb-Zweit-Satz|hyperpage}{394}
+\indexentry {w-Satz|hyperpage}{395}
+\indexentry {Relativsatz|hyperpage}{398}
+\indexentry {Komplementsatz|hyperpage}{398}
+\indexentry {Nachfeld|hyperpage}{398}
+\indexentry {Konnektor|hyperpage}{398}
+\indexentry {Konnektorfeld|hyperpage}{398}
+\indexentry {Verb-Zweit-Satz|hyperpage}{400}
+\indexentry {Bewegung|hyperpage}{400}
+\indexentry {Spur|hyperpage}{400}
+\indexentry {Verb-Erst-Satz|hyperpage}{403}
+\indexentry {Fragesatz!Entscheidungs--|hyperpage}{403}
+\indexentry {Imperativ!Satz|hyperpage}{405}
+\indexentry {Verb!Partikel--|hyperpage}{405}
+\indexentry {Verbalkomplex|hyperpage}{405}
+\indexentry {Kopula|hyperpage}{405}
+\indexentry {Kopulasatz|hyperpage}{405}
+\indexentry {Relativsatz|hyperpage}{408}
+\indexentry {Fragesatz!w-Frage|hyperpage}{408}
+\indexentry {Relativphrase|hyperpage}{408}
+\indexentry {Relativsatz!Einleitung|hyperpage}{408}
+\indexentry {Genitiv!pränominal|hyperpage}{410}
+\indexentry {Relativadverb|hyperpage}{410}
+\indexentry {Relativsatz!frei|hyperpage}{411}
+\indexentry {Nachfeld|hyperpage}{413}
+\indexentry {Komplementsatz|hyperpage}{414}
+\indexentry {Subjektsatz|hyperpage}{414}
+\indexentry {Objektsatz|hyperpage}{414}
 \indexentry {Mittelfeld|hyperpage}{415}
-\indexentry {Adverbialsatz|hyperpage}{415}
-\indexentry {Konditionalsatz|hyperpage}{415}
-\indexentry {Verb-Erst-Satz|hyperpage}{415}
-\indexentry {Rolle|hyperpage}{422}
-\indexentry {Mitspieler|hyperpage}{422}
-\indexentry {Agens|hyperpage}{423}
-\indexentry {Experiencer|hyperpage}{424}
-\indexentry {Rolle!Zuweisung|hyperpage}{425}
-\indexentry {Angabe!präpositional|hyperpage}{425}
-\indexentry {Valenz|hyperpage}{425}
-\indexentry {Rolle|hyperpage}{425}
-\indexentry {Ergänzung|hyperpage}{426}
-\indexentry {Angabe|hyperpage}{426}
-\indexentry {Dativ!frei|hyperpage}{426}
-\indexentry {Prädikat|hyperpage}{426}
-\indexentry {Subjekt|hyperpage}{426}
-\indexentry {Satzglied|hyperpage}{427}
-\indexentry {Ergänzung!prädikativ|hyperpage}{428}
-\indexentry {Prädikatsnomen|hyperpage}{428}
-\indexentry {Kopula|hyperpage}{428}
-\indexentry {Prädikat!resultativ|hyperpage}{428}
-\indexentry {Eisenberg, Peter|hyperpage}{429}
-\indexentry {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz@\emph {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz}|hyperpage}{429}
-\indexentry {Prädikativ|hyperpage}{430}
-\indexentry {Subjekt|hyperpage}{430}
-\indexentry {Ergänzung!Nominativ--|hyperpage}{430}
-\indexentry {Nebensatz|hyperpage}{431}
-\indexentry {Komplementsatz|hyperpage}{432}
+\indexentry {Korrelat|hyperpage}{415}
+\indexentry {Nebensatz|hyperpage}{415}
+\indexentry {Spur|hyperpage}{415}
+\indexentry {Komplementierer|hyperpage}{416}
+\indexentry {Adverbialsatz|hyperpage}{417}
+\indexentry {Nachfeld|hyperpage}{417}
+\indexentry {Mittelfeld|hyperpage}{417}
+\indexentry {Adverbialsatz|hyperpage}{417}
+\indexentry {Konditionalsatz|hyperpage}{417}
+\indexentry {Verb-Erst-Satz|hyperpage}{417}
+\indexentry {Rolle|hyperpage}{424}
+\indexentry {Mitspieler|hyperpage}{424}
+\indexentry {Agens|hyperpage}{425}
+\indexentry {Experiencer|hyperpage}{426}
+\indexentry {Rolle!Zuweisung|hyperpage}{427}
+\indexentry {Angabe!präpositional|hyperpage}{427}
+\indexentry {Valenz|hyperpage}{427}
+\indexentry {Rolle|hyperpage}{427}
+\indexentry {Ergänzung|hyperpage}{428}
+\indexentry {Angabe|hyperpage}{428}
+\indexentry {Dativ!frei|hyperpage}{428}
+\indexentry {Prädikat|hyperpage}{428}
+\indexentry {Subjekt|hyperpage}{428}
+\indexentry {Satzglied|hyperpage}{429}
+\indexentry {Ergänzung!prädikativ|hyperpage}{430}
+\indexentry {Prädikatsnomen|hyperpage}{430}
+\indexentry {Kopula|hyperpage}{430}
+\indexentry {Prädikat!resultativ|hyperpage}{430}
+\indexentry {Eisenberg, Peter|hyperpage}{431}
+\indexentry {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz@\emph {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz}|hyperpage}{431}
+\indexentry {Prädikativ|hyperpage}{432}
 \indexentry {Subjekt|hyperpage}{432}
-\indexentry {Passiv|hyperpage}{432}
-\indexentry {Imperativ|hyperpage}{432}
-\indexentry {Subjekt|hyperpage}{432}
-\indexentry {Korrelat|hyperpage}{435}
-\indexentry {Verb!Wetter--|hyperpage}{436}
-\indexentry {Verb!Experiencer--|hyperpage}{436}
-\indexentry {Pronomen!positional|hyperpage}{437}
-\indexentry {Passiv!werden--|hyperpage}{437}
-\indexentry {Verb!transitiv|hyperpage}{439}
-\indexentry {Passiv!unpersönlich|hyperpage}{439}
-\indexentry {Valenz|hyperpage}{439}
-\indexentry {Agens|hyperpage}{439}
-\indexentry {Lexikonregel|hyperpage}{440}
-\indexentry {Passiv!als Valenzänderung|hyperpage}{440}
-\indexentry {Passiv!werden--|hyperpage}{440}
-\indexentry {Verb!unergativ|hyperpage}{440}
-\indexentry {Verb!unakkusativ|hyperpage}{440}
-\indexentry {Verb!intransitiv|hyperpage}{440}
+\indexentry {Ergänzung!Nominativ--|hyperpage}{432}
+\indexentry {Nebensatz|hyperpage}{433}
+\indexentry {Komplementsatz|hyperpage}{434}
+\indexentry {Subjekt|hyperpage}{434}
+\indexentry {Passiv|hyperpage}{434}
+\indexentry {Imperativ|hyperpage}{434}
+\indexentry {Subjekt|hyperpage}{434}
+\indexentry {Korrelat|hyperpage}{437}
+\indexentry {Verb!Wetter--|hyperpage}{438}
+\indexentry {Verb!Experiencer--|hyperpage}{438}
+\indexentry {Pronomen!positional|hyperpage}{439}
+\indexentry {Passiv!werden--|hyperpage}{439}
+\indexentry {Verb!transitiv|hyperpage}{441}
+\indexentry {Passiv!unpersönlich|hyperpage}{441}
+\indexentry {Valenz|hyperpage}{441}
 \indexentry {Agens|hyperpage}{441}
-\indexentry {Dowty, David|hyperpage}{441}
-\indexentry {{T}hematic proto-roles and argument selection@\emph {{T}hematic proto-roles and argument selection}|hyperpage}{441}
-\indexentry {Agens|hyperpage}{442}
+\indexentry {Lexikonregel|hyperpage}{442}
 \indexentry {Passiv!als Valenzänderung|hyperpage}{442}
-\indexentry {Passiv!bekommen--|hyperpage}{442}
-\indexentry {Valenz|hyperpage}{442}
-\indexentry {Verb!unergativ|hyperpage}{443}
-\indexentry {Dativ!Bewertungs--|hyperpage}{443}
-\indexentry {Akkusativ|hyperpage}{443}
-\indexentry {Akkusativ!Doppel--|hyperpage}{444}
-\indexentry {Angabe!Akkusativ--|hyperpage}{444}
-\indexentry {Grammatikerfrage|hyperpage}{444}
-\indexentry {Objekt!direkt|hyperpage}{444}
-\indexentry {Ergänzung!Akkusativ--|hyperpage}{444}
-\indexentry {Dativ|hyperpage}{444}
-\indexentry {Dativ!frei|hyperpage}{445}
-\indexentry {Dativ!Bewertungs--|hyperpage}{446}
-\indexentry {Dativ!Nutznießer--|hyperpage}{446}
-\indexentry {Dativ!Pertinenz--|hyperpage}{446}
-\indexentry {Valenz|hyperpage}{446}
-\indexentry {Ergänzung!Dativ--|hyperpage}{447}
-\indexentry {Angabe!Dativ--|hyperpage}{447}
-\indexentry {Objekt!indirekt|hyperpage}{447}
-\indexentry {Ergänzung!PP--|hyperpage}{447}
-\indexentry {Objekt!präpositional|hyperpage}{447}
+\indexentry {Passiv!werden--|hyperpage}{442}
+\indexentry {Verb!unergativ|hyperpage}{442}
+\indexentry {Verb!unakkusativ|hyperpage}{442}
+\indexentry {Verb!intransitiv|hyperpage}{442}
+\indexentry {Agens|hyperpage}{443}
+\indexentry {Dowty, David|hyperpage}{443}
+\indexentry {{T}hematic proto-roles and argument selection@\emph {{T}hematic proto-roles and argument selection}|hyperpage}{443}
+\indexentry {Agens|hyperpage}{444}
+\indexentry {Passiv!als Valenzänderung|hyperpage}{444}
+\indexentry {Passiv!bekommen--|hyperpage}{444}
+\indexentry {Valenz|hyperpage}{444}
+\indexentry {Verb!unergativ|hyperpage}{445}
+\indexentry {Dativ!Bewertungs--|hyperpage}{445}
+\indexentry {Akkusativ|hyperpage}{445}
+\indexentry {Akkusativ!Doppel--|hyperpage}{446}
+\indexentry {Angabe!Akkusativ--|hyperpage}{446}
+\indexentry {Grammatikerfrage|hyperpage}{446}
+\indexentry {Objekt!direkt|hyperpage}{446}
+\indexentry {Ergänzung!Akkusativ--|hyperpage}{446}
+\indexentry {Dativ|hyperpage}{446}
+\indexentry {Dativ!frei|hyperpage}{447}
 \indexentry {Dativ!Bewertungs--|hyperpage}{448}
-\indexentry {Wackernagel-Position|hyperpage}{448}
-\indexentry {Hilfsverb|hyperpage}{449}
-\indexentry {Tempus!analytisch|hyperpage}{449}
-\indexentry {Perfekt|hyperpage}{449}
-\indexentry {Futur|hyperpage}{449}
-\indexentry {Status|hyperpage}{449}
-\indexentry {Präsensperfekt|hyperpage}{450}
-\indexentry {Präteritumsperfekt|hyperpage}{450}
-\indexentry {Futurperfekt|hyperpage}{450}
-\indexentry {Doppelperfekt|hyperpage}{451}
-\indexentry {Perfekt!Semantik|hyperpage}{451}
-\indexentry {Ersatzinfinitiv|hyperpage}{453}
-\indexentry {Oberfeldumstellung|hyperpage}{453}
-\indexentry {Status|hyperpage}{454}
-\indexentry {Oberfeldumstellung|hyperpage}{455}
+\indexentry {Dativ!Nutznießer--|hyperpage}{448}
+\indexentry {Dativ!Pertinenz--|hyperpage}{448}
+\indexentry {Valenz|hyperpage}{448}
+\indexentry {Ergänzung!Dativ--|hyperpage}{449}
+\indexentry {Angabe!Dativ--|hyperpage}{449}
+\indexentry {Objekt!indirekt|hyperpage}{449}
+\indexentry {Ergänzung!PP--|hyperpage}{449}
+\indexentry {Objekt!präpositional|hyperpage}{449}
+\indexentry {Dativ!Bewertungs--|hyperpage}{450}
+\indexentry {Wackernagel-Position|hyperpage}{450}
+\indexentry {Hilfsverb|hyperpage}{451}
+\indexentry {Tempus!analytisch|hyperpage}{451}
+\indexentry {Perfekt|hyperpage}{451}
+\indexentry {Futur|hyperpage}{451}
+\indexentry {Status|hyperpage}{451}
+\indexentry {Präsensperfekt|hyperpage}{452}
+\indexentry {Präteritumsperfekt|hyperpage}{452}
+\indexentry {Futurperfekt|hyperpage}{452}
+\indexentry {Doppelperfekt|hyperpage}{453}
+\indexentry {Perfekt!Semantik|hyperpage}{453}
 \indexentry {Ersatzinfinitiv|hyperpage}{455}
-\indexentry {Partizip|hyperpage}{455}
-\indexentry {Kohärenz|hyperpage}{455}
-\indexentry {Verbalkomplex|hyperpage}{455}
-\indexentry {Infinitiv|hyperpage}{455}
-\indexentry {Status|hyperpage}{455}
-\indexentry {Eisenberg, Peter|hyperpage}{456}
-\indexentry {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz@\emph {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz}|hyperpage}{456}
-\indexentry {Fabricius-Hansen, Cathrine|hyperpage}{456}
-\indexentry {{D}uden 04. {D}ie {G}rammatik@\emph {{D}uden 04. {D}ie {G}rammatik}|hyperpage}{456}
-\indexentry {Müller, Stefan|hyperpage}{456}
-\indexentry {{H}ead-{D}riven {P}hrase {S}turcture {G}rammar: {E}ine {E}inführung@\emph {{H}ead-{D}riven {P}hrase {S}turcture {G}rammar: {E}ine {E}inführung}|hyperpage}{456}
-\indexentry {Kohärenz|hyperpage}{458}
-\indexentry {Status|hyperpage}{458}
-\indexentry {Modalverb|hyperpage}{458}
-\indexentry {Kongruenz!Subjekt--Verb--|hyperpage}{458}
-\indexentry {Kohärenz|hyperpage}{458}
-\indexentry {Rolle|hyperpage}{459}
-\indexentry {Subjekt|hyperpage}{459}
-\indexentry {Subjekt|hyperpage}{459}
-\indexentry {Modalverb|hyperpage}{459}
-\indexentry {Halbmodalverb|hyperpage}{460}
-\indexentry {Kontrollverb|hyperpage}{460}
-\indexentry {Infinitiv!zu--|hyperpage}{460}
-\indexentry {Subjektinfinitiv|hyperpage}{461}
-\indexentry {Objektinfinitiv|hyperpage}{461}
-\indexentry {Korrelat|hyperpage}{461}
-\indexentry {Kontrolle|hyperpage}{462}
-\indexentry {Bindung|hyperpage}{464}
-\indexentry {Pronomen!reflexiv|hyperpage}{464}
-\indexentry {Bindungstheorie|hyperpage}{466}
-\indexentry {Eisenberg, Peter|hyperpage}{470}
-\indexentry {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz@\emph {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz}|hyperpage}{470}
-\indexentry {Dürscheid, Christa|hyperpage}{473}
-\indexentry {{S}yntax: {G}rundlagen und {T}heorien@\emph {{S}yntax: {G}rundlagen und {T}heorien}|hyperpage}{473}
-\indexentry {Wöllstein-Leisten, Angelika|hyperpage}{473}
-\indexentry {{D}eutsche {S}atzstruktur -- {G}rundlagen der syntaktischen {A}nalyse@\emph {{D}eutsche {S}atzstruktur -- {G}rundlagen der syntaktischen {A}nalyse}|hyperpage}{473}
-\indexentry {Eroms, Hans-Werner|hyperpage}{473}
-\indexentry {{S}yntax der deutschen {S}prache@\emph {{S}yntax der deutschen {S}prache}|hyperpage}{473}
-\indexentry {Musan, Renate|hyperpage}{473}
-\indexentry {{S}atzgliedanalyse@\emph {{S}atzgliedanalyse}|hyperpage}{473}
-\indexentry {Wöllstein, Angelika|hyperpage}{473}
-\indexentry {{T}opologisches {S}atzmodell@\emph {{T}opologisches {S}atzmodell}|hyperpage}{473}
-\indexentry {Müller, Stefan|hyperpage}{473}
-\indexentry {{H}ead-{D}riven {P}hrase {S}turcture {G}rammar: {E}ine {E}inführung@\emph {{H}ead-{D}riven {P}hrase {S}turcture {G}rammar: {E}ine {E}inführung}|hyperpage}{473}
-\indexentry {Müller, Stefan|hyperpage}{473}
-\indexentry {{G}rammatiktheorie@\emph {{G}rammatiktheorie}|hyperpage}{473}
-\indexentry {Engel, Ulrich|hyperpage}{473}
-\indexentry {{S}yntax der deutschen {G}egenwartssprache@\emph {{S}yntax der deutschen {G}egenwartssprache}|hyperpage}{473}
-\indexentry {Büring, Daniel|hyperpage}{473}
-\indexentry {Binding Theory@\emph {Binding Theory}|hyperpage}{473}
-\indexentry {Gallmann, Peter|hyperpage}{473}
-\indexentry {{D}ie {S}teuerung der {F}lexion in der {DP}@\emph {{D}ie {S}teuerung der {F}lexion in der {DP}}|hyperpage}{473}
-\indexentry {Fabricius-Hansen, Cathrine|hyperpage}{473}
-\indexentry {{N}ominalphrasen mit {Kompositum} als {K}ern@\emph {{N}ominalphrasen mit {Kompositum} als {K}ern}|hyperpage}{473}
-\indexentry {Lötscher, Andreas|hyperpage}{473}
-\indexentry {{A}bfolgeregeln für {E}rgänzungen im {M}ittelfeld@\emph {{A}bfolgeregeln für {E}rgänzungen im {M}ittelfeld}|hyperpage}{473}
-\indexentry {Höhle, Tilman~N.|hyperpage}{473}
-\indexentry {{D}er {B}egriff {M}ittelfeld. {A}nmerkungen über die {T}heorie der topologischen {F}elder@\emph {{D}er {B}egriff {M}ittelfeld. {A}nmerkungen über die {T}heorie der topologischen {F}elder}|hyperpage}{473}
-\indexentry {Askedal, John~Ole|hyperpage}{473}
-\indexentry {{Ü}ber {S}tellungsfelder und {S}atztypen im {D}eutschen@\emph {{Ü}ber {S}tellungsfelder und {S}atztypen im {D}eutschen}|hyperpage}{473}
-\indexentry {Pittner, Karin|hyperpage}{473}
-\indexentry {{K}asuskonflikte bei freien {R}elativsätzen - {E}ine {K}orpusstudie@\emph {{K}asuskonflikte bei freien {R}elativsätzen - {E}ine {K}orpusstudie}|hyperpage}{473}
-\indexentry {De Kuthy, Kordula|hyperpage}{473}
-\indexentry {Meurers, Walt~Detmar|hyperpage}{473}
-\indexentry {On Partial Constituent Fronting in {G}erman@\emph {On Partial Constituent Fronting in {G}erman}|hyperpage}{473}
-\indexentry {Richter, Michael|hyperpage}{473}
-\indexentry {{K}omplexe {P}rädikate in resultativen {K}onstruktionen@\emph {{K}omplexe {P}rädikate in resultativen {K}onstruktionen}|hyperpage}{473}
-\indexentry {Dowty, David|hyperpage}{473}
-\indexentry {{T}hematic proto-roles and argument selection@\emph {{T}hematic proto-roles and argument selection}|hyperpage}{473}
-\indexentry {Reis, Marga|hyperpage}{473}
-\indexentry {{Z}um {S}ubjektbegriff im {D}eutschen@\emph {{Z}um {S}ubjektbegriff im {D}eutschen}|hyperpage}{473}
-\indexentry {Askedal, John~Ole|hyperpage}{473}
-\indexentry {{Z}ur syntaktischen und referentiell-semantischen {T}ypisierung der deutschen {P}ronominalform es@\emph {{Z}ur syntaktischen und referentiell-semantischen {T}ypisierung der deutschen {P}ronominalform es}|hyperpage}{473}
-\indexentry {Wegener, Heide|hyperpage}{473}
-\indexentry {{G}ibt es im {D}eutschen ein indirektes {O}bjekt?@\emph {{G}ibt es im {D}eutschen ein indirektes {O}bjekt?}|hyperpage}{473}
-\indexentry {Wegener, Heide|hyperpage}{473}
-\indexentry {{D}er {D}ativ - ein struktureller {K}asus?@\emph {{D}er {D}ativ - ein struktureller {K}asus?}|hyperpage}{473}
-\indexentry {Musan, Renate|hyperpage}{473}
-\indexentry {Die {L}esarten des {P}erfekts@\emph {Die {L}esarten des {P}erfekts}|hyperpage}{473}
-\indexentry {Hentschel, Elke|hyperpage}{473}
-\indexentry {Weydt, Harald|hyperpage}{473}
-\indexentry {{D}as leidige bekommen-{P}assiv@\emph {{D}as leidige bekommen-{P}assiv}|hyperpage}{473}
-\indexentry {Leirbukt, Oddleif|hyperpage}{473}
-\indexentry {{U}ntersuchungen zum bekommen-{P}assiv im heutigen {D}eutsch@\emph {{U}ntersuchungen zum bekommen-{P}assiv im heutigen {D}eutsch}|hyperpage}{473}
-\indexentry {Reis, Marga|hyperpage}{473}
-\indexentry {{B}ilden {M}odalverben im {D}eutschen eine syntaktische {K}lasse?@\emph {{B}ilden {M}odalverben im {D}eutschen eine syntaktische {K}lasse?}|hyperpage}{473}
-\indexentry {Askedal, John~Ole|hyperpage}{473}
-\indexentry {{E}rsatzinfinitiv/\penalty \exhyphenpenalty {P}artizipersatz und {V}erwandtes@\emph {{E}rsatzinfinitiv\slash {P}artizipersatz und {V}erwandtes}|hyperpage}{473}
-\indexentry {Bech, Gunnar|hyperpage}{473}
-\indexentry {{S}tudien über das deutsche verbum infinitum@\emph {{S}tudien über das deutsche verbum infinitum}|hyperpage}{473}
-\indexentry {Reis, Marga|hyperpage}{473}
-\indexentry {{Z}ur {G}rammatik der sog.\ {H}albmodale drohen/versprechen + {I}nfinitiv@\emph {{Z}ur {G}rammatik der sog.\ {H}albmodale drohen/versprechen + {I}nfinitiv}|hyperpage}{473}
-\indexentry {Askedal, John~Ole|hyperpage}{473}
-\indexentry {{Ü}ber den {I}nfinitiv als {S}ubjekt im {D}eutschen@\emph {{Ü}ber den {I}nfinitiv als {S}ubjekt im {D}eutschen}|hyperpage}{473}
-\indexentry {Graphematik|hyperpage}{479}
-\indexentry {Orthographie|hyperpage}{481}
-\indexentry {Gebrauchsschreibung|hyperpage}{482}
-\indexentry {Minuskel|hyperpage}{483}
-\indexentry {Majuskel|hyperpage}{483}
-\indexentry {Kernwortschatz|hyperpage}{483}
-\indexentry {Eisenberg, Peter|hyperpage}{483}
-\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{483}
-\indexentry {Buchstabe!konsonantisch|hyperpage}{485}
-\indexentry {Konsonant!Schreibung|hyperpage}{485}
-\indexentry {Auslautverhärtung!Schreibung|hyperpage}{485}
-\indexentry {r-Vokalisierung!Schreibung|hyperpage}{485}
-\indexentry {Schreibprinzip!phonologisch|hyperpage}{487}
-\indexentry {Buchstabe!vokalisch|hyperpage}{487}
-\indexentry {Vokal!Schreibung|hyperpage}{487}
-\indexentry {gespannt!Schreibung|hyperpage}{487}
-\indexentry {Dehnungsschreibung|hyperpage}{487}
-\indexentry {Schärfungsschreibung|hyperpage}{487}
-\indexentry {Diphthong!Schreibung|hyperpage}{489}
-\indexentry {Schärfungsschreibung|hyperpage}{490}
-\indexentry {Dehnungsschreibung|hyperpage}{490}
-\indexentry {Silbe!offen|hyperpage}{491}
-\indexentry {Silbe!geschlossen|hyperpage}{491}
-\indexentry {Simplex|hyperpage}{492}
-\indexentry {Silbe!und Schreibung|hyperpage}{492}
-\indexentry {Schwa|hyperpage}{492}
-\indexentry {Dehnungsschreibung|hyperpage}{493}
-\indexentry {Schärfungsschreibung|hyperpage}{493}
-\indexentry {Coda|hyperpage}{495}
-\indexentry {Onset|hyperpage}{495}
-\indexentry {Silbengelenk|hyperpage}{495}
-\indexentry {Affrikate!Schreibung|hyperpage}{495}
-\indexentry {Auslautverhärtung!am Silbengelenk|hyperpage}{495}
-\indexentry {Schreibprinzip!Gelenkschreibung|hyperpage}{497}
-\indexentry {Silbengelenk!und Eszett|hyperpage}{497}
-\indexentry {Majuskel|hyperpage}{499}
-\indexentry {Akzent!Schreibung|hyperpage}{499}
-\indexentry {Kernwortschatz|hyperpage}{500}
-\indexentry {Spatium|hyperpage}{507}
-\indexentry {Schreibprinzip!Spatienschreibung|hyperpage}{507}
-\indexentry {Wort!graphematisch|hyperpage}{507}
-\indexentry {Wortklasse!Schreibung|hyperpage}{510}
-\indexentry {Majuskel|hyperpage}{510}
-\indexentry {Substantiv!Großschreibung|hyperpage}{510}
-\indexentry {Konversion|hyperpage}{510}
-\indexentry {Substantivierung|hyperpage}{510}
-\indexentry {Substantiv!Großschreibung|hyperpage}{511}
-\indexentry {Univerbierung|hyperpage}{511}
-\indexentry {Eigenname!Schreibung|hyperpage}{512}
-\indexentry {Kompositum!Schreibung|hyperpage}{513}
-\indexentry {Bindestrich|hyperpage}{513}
-\indexentry {Zeichen!Wort--|hyperpage}{514}
-\indexentry {Majuskel|hyperpage}{514}
-\indexentry {Spatium|hyperpage}{514}
-\indexentry {Kurzwort|hyperpage}{515}
-\indexentry {Substantiv!s-Flexion|hyperpage}{515}
-\indexentry {Klitikon|hyperpage}{516}
-\indexentry {Gebrauchsschreibung|hyperpage}{516}
-\indexentry {Apostroph|hyperpage}{516}
-\indexentry {Artikel!indefinit|hyperpage}{517}
-\indexentry {Genitiv!sächsisch|hyperpage}{517}
-\indexentry {Schreibprinzip!Konstanz|hyperpage}{518}
-\indexentry {Silbengelenk|hyperpage}{519}
-\indexentry {Schärfungsschreibung|hyperpage}{519}
-\indexentry {Dehnungsschreibung|hyperpage}{519}
-\indexentry {Umlaut!Schreibung|hyperpage}{519}
-\indexentry {Koordination!Schreibung|hyperpage}{520}
-\indexentry {Konjunktion|hyperpage}{520}
-\indexentry {Komma|hyperpage}{520}
-\indexentry {Zeichen!syntaktisch|hyperpage}{521}
-\indexentry {Parenthese|hyperpage}{521}
-\indexentry {Gedankenstrich|hyperpage}{521}
-\indexentry {Satz!Schreibung|hyperpage}{521}
-\indexentry {Punkt|hyperpage}{522}
-\indexentry {Satz!Koordination|hyperpage}{522}
-\indexentry {Satz!graphematisch|hyperpage}{523}
-\indexentry {Nebensatz!Schreibung|hyperpage}{523}
-\indexentry {Kohärenz!Schreibung|hyperpage}{524}
-\indexentry {Infinitiv|hyperpage}{524}
-\indexentry {Komplementsatz|hyperpage}{524}
-\indexentry {Eisenberg, Peter|hyperpage}{529}
-\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{529}
-\indexentry {Fuhrhop, Nana|hyperpage}{529}
-\indexentry {{O}rthographie@\emph {{O}rthographie}|hyperpage}{529}
-\indexentry {Fuhrhop, Nanna|hyperpage}{529}
-\indexentry {Peters, Jörg|hyperpage}{529}
-\indexentry {{E}inführung in die {P}honologie und {G}raphematik@\emph {{E}inführung in die {P}honologie und {G}raphematik}|hyperpage}{529}
-\indexentry {Bredel, Ursula|hyperpage}{529}
-\indexentry {{I}nterpunktion@\emph {{I}nterpunktion}|hyperpage}{529}
-\indexentry {Nübling, Damaris|hyperpage}{529}
-\indexentry {Fahlbusch, Fabian|hyperpage}{529}
-\indexentry {Heuser, Rita|hyperpage}{529}
-\indexentry {{N}amen. {E}ine {E}inführung in die {O}nomastik@\emph {{N}amen. {E}ine {E}inführung in die {O}nomastik}|hyperpage}{529}
-\indexentry {Eisenberg, Peter|hyperpage}{529}
-\indexentry {{D}as {F}remdwort im {D}eutschen@\emph {{D}as {F}remdwort im {D}eutschen}|hyperpage}{529}
-\indexentry {Augst, Gerhard|hyperpage}{529}
-\indexentry {{Z}ur {N}euregelung der deutschen {O}rthographie. {B}egründung und {K}ritik@\emph {{Z}ur {N}euregelung der deutschen {O}rthographie. {B}egründung und {K}ritik}|hyperpage}{529}
-\indexentry {Coulmas, Florian|hyperpage}{529}
-\indexentry {{T}he Writing Systems of the World@\emph {{T}he Writing Systems of the World}|hyperpage}{529}
-\indexentry {Gallmann, Peter|hyperpage}{529}
-\indexentry {{K}onzepte der {S}ubstantivgroßschreibung@\emph {{K}onzepte der {S}ubstantivgroßschreibung}|hyperpage}{529}
-\indexentry {Eisenberg, Peter|hyperpage}{529}
-\indexentry {{S}ubstantiv oder {E}igenname? {Ü}ber die {P}rinzipien unserer {R}egeln zur {G}roß und {K}leinschreibung@\emph {{S}ubstantiv oder {E}igenname? {Ü}ber die {P}rinzipien unserer {R}egeln zur {G}roß und {K}leinschreibung}|hyperpage}{529}
-\indexentry {Schäfer, Roland|hyperpage}{529}
-\indexentry {Sayatz, Ulrike|hyperpage}{529}
-\indexentry {{D}ie {K}urzformen des {I}ndefinitartikels im {D}eutschen@\emph {{D}ie {K}urzformen des {I}ndefinitartikels im {D}eutschen}|hyperpage}{529}
-\indexentry {Jacobs, Joachim|hyperpage}{529}
-\indexentry {{S}patien: {Z}um {S}ystem der {G}etrennt- und {Z}usammenschreibung im heutigen {D}eutsch@\emph {{S}patien: {Z}um {S}ystem der {G}etrennt- und {Z}usammenschreibung im heutigen {D}eutsch}|hyperpage}{529}
-\indexentry {Buchmann, Franziska|hyperpage}{529}
-\indexentry {{D}ie {W}ortzeichen im {D}eutschen@\emph {{D}ie {W}ortzeichen im {D}eutschen}|hyperpage}{529}
-\indexentry {Primus, Beatrice|hyperpage}{529}
-\indexentry {{S}prachnorm und {S}prachregularität: {D}as {K}omma im {D}eutschen@\emph {{S}prachnorm und {S}prachregularität: {D}as {K}omma im {D}eutschen}|hyperpage}{529}
-\indexentry {Primus, Beatrice|hyperpage}{529}
-\indexentry {{D}iese -- etwas vernachlässigte -- pränominale {H}erausstellung@\emph {{D}iese -- etwas vernachlässigte -- pränominale {H}erausstellung}|hyperpage}{529}
-\indexentry {Bredel, Ursula|hyperpage}{529}
-\indexentry {{D}ie {I}nterpunktion des {D}eutschen. {E}in kompositionelles {S}ystem zur {O}nline-{S}teuerung des {L}esens@\emph {{D}ie {I}nterpunktion des {D}eutschen. {E}in kompositionelles {S}ystem zur {O}nline-{S}teuerung des {L}esens}|hyperpage}{529}
-\indexentry {De Kuthy, Kordula|hyperpage}{558}
-\indexentry {Discontinuous {NPs} in {G}erman: A Case Study of the Interaction of Syntax, Semantics and Pragmatics@\emph {Discontinuous {NPs} in {G}erman: A Case Study of the Interaction of Syntax, Semantics and Pragmatics}|hyperpage}{558}
-\indexentry {Fremdwort|hyperindexformat{\see {Lehnwort}}}{590}
-\indexentry {Partizip|hyperindexformat{\see {Status}}}{590}
-\indexentry {Infinitiv|hyperindexformat{\see {Status}}}{590}
-\indexentry {Grammatik!normativ|hyperindexformat{\see {Grammatik!präskriptiv}}}{590}
-\indexentry {Inkohärenz|hyperindexformat{\see {Kohärenz}}}{590}
-\indexentry {Kopula|hyperindexformat{\see {Verb!Kopula}}}{590}
-\indexentry {Singular|hyperindexformat{\see {Numerus}}}{590}
-\indexentry {Plural|hyperindexformat{\see {Numerus}}}{590}
-\indexentry {Positiv|hyperindexformat{\see {Adjektiv!Komparation}}}{590}
-\indexentry {Komparativ|hyperindexformat{\see {Adjektiv!Komparation}}}{590}
-\indexentry {Superlativ|hyperindexformat{\see {Adjektiv!Komparation}}}{590}
-\indexentry {Einzahl|hyperindexformat{\see {Numerus}}}{590}
-\indexentry {Mehrzahl|hyperindexformat{\see {Numerus}}}{590}
-\indexentry {Fall|hyperindexformat{\see {Kasus}}}{590}
-\indexentry {Gruppe|hyperindexformat{\see {Phrase}}}{590}
-\indexentry {Hauptwort|hyperindexformat{\see {Substantiv}}}{590}
-\indexentry {Eigenschaftswort|hyperindexformat{\see {Adjektiv}}}{590}
-\indexentry {Fürwort|hyperindexformat{\see {Pronomen}}}{590}
-\indexentry {Bindewort|hyperindexformat{\see {Konjunktion}}}{590}
-\indexentry {Tuwort|hyperindexformat{\see {Verb}}}{590}
-\indexentry {Zeitwort|hyperindexformat{\see {Verb}}}{590}
-\indexentry {Beiwort|hyperindexformat{\see {Adverb}}}{590}
-\indexentry {Zeitform|hyperindexformat{\see {Tempus}}}{590}
-\indexentry {Satzbau|hyperindexformat{\see {Syntax}}}{590}
-\indexentry {Formenlehre|hyperindexformat{\see {Morphologie}}}{590}
-\indexentry {Wortart|hyperindexformat{\see {Wortklasse}}}{590}
-\indexentry {Geschlecht|hyperindexformat{\see {Genus}}}{590}
-\indexentry {Determinativ|hyperindexformat{\see {Artikelwort}}}{590}
-\indexentry {Beugung|hyperindexformat{\see {Flexion}}}{590}
-\indexentry {Vokaltrapez|hyperindexformat{\see {Vokalviereck}}}{590}
-\indexentry {Distribution|hyperindexformat{\see {Verteilung}}}{590}
-\indexentry {Silbifizierung|hyperindexformat{\see {Silbe}}}{590}
-\indexentry {Betonung|hyperindexformat{\see {Akzent}}}{590}
-\indexentry {Wortform|hyperindexformat{\see {Wort!syntaktisches}}}{590}
-\indexentry {Vorsilbe|hyperindexformat{\see {Präfix}}}{590}
-\indexentry {Plusquamperfekt|hyperindexformat{\see {Präteritumsperfekt}}}{590}
-\indexentry {Futur II|hyperindexformat{\see {Futurperfekt}}}{590}
-\indexentry {Genus verbi|hyperindexformat{\see {Passiv}}}{590}
-\indexentry {Aktiv|hyperindexformat{\see {Passiv}}}{590}
-\indexentry {Auxiliar|hyperindexformat{\see {Hilfsverb}}}{590}
-\indexentry {Adjunkt|hyperindexformat{\see {Angabe}}}{590}
-\indexentry {Argument|hyperindexformat{\see {Ergänzung}}}{590}
-\indexentry {Komplement|hyperindexformat{\see {Ergänzung}}}{590}
-\indexentry {Trace|hyperindexformat{\see {Spur}}}{590}
-\indexentry {Hauptsatz|hyperindexformat{\see {Satz}}}{590}
-\indexentry {In-Situ-Frage|hyperindexformat{\see {Echofrage}}}{590}
-\indexentry {Stirnsatz|hyperindexformat{\see {Verb-Erst-Satz}}}{590}
-\indexentry {V1-Satz|hyperindexformat{\see {Verb-Erst-Satz}}}{590}
-\indexentry {Kernsatz|hyperindexformat{\see {Verb-Zweit-Satz}}}{590}
-\indexentry {V2-Satz|hyperindexformat{\see {Verb-Zweit-Satz}}}{590}
-\indexentry {Spannsatz|hyperindexformat{\see {Verb-Letzt-Satz}}}{590}
-\indexentry {VL-Satz|hyperindexformat{\see {Verb-Letzt-Satz}}}{590}
-\indexentry {Vorgangspassiv|hyperindexformat{\see {werden-Passiv}}}{590}
-\indexentry {Dativ!Commodi|hyperindexformat{\see {Nutznießer-Dativ}}}{590}
-\indexentry {Dativ!Iudicantis|hyperindexformat{\see {Bewertungs-Dativ}}}{590}
-\indexentry {Dativ!Zugehörigkeits--|hyperindexformat{\see {Dativ!Pertinenz}}}{590}
-\indexentry {Anhebungsverb|hyperindexformat{\see {Halbmodalverb}}}{590}
-\indexentry {Klitisierung|hyperindexformat{\see {Klitikon}}}{590}
-\indexentry {Konstantschreibung|hyperindexformat{\see {Schreibprinzip|Konstanz}}}{590}
-\indexentry {Diathese|hyperindexformat{\see {Passiv}}}{590}
-\indexentry {Endrand|hyperindexformat{\see {Coda}}}{590}
-\indexentry {Anfangsrand|hyperindexformat{\see {Onset}}}{590}
-\indexentry {Silbenkern|hyperindexformat{\see {Nukleus}}}{590}
-\indexentry {Trill|hyperindexformat{\see {Vibrant}}}{590}
+\indexentry {Oberfeldumstellung|hyperpage}{455}
+\indexentry {Status|hyperpage}{456}
+\indexentry {Oberfeldumstellung|hyperpage}{457}
+\indexentry {Ersatzinfinitiv|hyperpage}{457}
+\indexentry {Partizip|hyperpage}{457}
+\indexentry {Kohärenz|hyperpage}{457}
+\indexentry {Verbalkomplex|hyperpage}{457}
+\indexentry {Infinitiv|hyperpage}{457}
+\indexentry {Status|hyperpage}{457}
+\indexentry {Eisenberg, Peter|hyperpage}{458}
+\indexentry {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz@\emph {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz}|hyperpage}{458}
+\indexentry {Fabricius-Hansen, Cathrine|hyperpage}{458}
+\indexentry {{D}uden 04. {D}ie {G}rammatik@\emph {{D}uden 04. {D}ie {G}rammatik}|hyperpage}{458}
+\indexentry {Müller, Stefan|hyperpage}{458}
+\indexentry {{H}ead-{D}riven {P}hrase {S}turcture {G}rammar: {E}ine {E}inführung@\emph {{H}ead-{D}riven {P}hrase {S}turcture {G}rammar: {E}ine {E}inführung}|hyperpage}{458}
+\indexentry {Kohärenz|hyperpage}{460}
+\indexentry {Status|hyperpage}{460}
+\indexentry {Modalverb|hyperpage}{460}
+\indexentry {Kongruenz!Subjekt--Verb--|hyperpage}{460}
+\indexentry {Kohärenz|hyperpage}{460}
+\indexentry {Rolle|hyperpage}{461}
+\indexentry {Subjekt|hyperpage}{461}
+\indexentry {Subjekt|hyperpage}{461}
+\indexentry {Modalverb|hyperpage}{461}
+\indexentry {Halbmodalverb|hyperpage}{462}
+\indexentry {Kontrollverb|hyperpage}{462}
+\indexentry {Infinitiv!zu--|hyperpage}{462}
+\indexentry {Subjektinfinitiv|hyperpage}{463}
+\indexentry {Objektinfinitiv|hyperpage}{463}
+\indexentry {Korrelat|hyperpage}{463}
+\indexentry {Kontrolle|hyperpage}{464}
+\indexentry {Bindung|hyperpage}{466}
+\indexentry {Pronomen!reflexiv|hyperpage}{466}
+\indexentry {Bindungstheorie|hyperpage}{468}
+\indexentry {Eisenberg, Peter|hyperpage}{472}
+\indexentry {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz@\emph {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz}|hyperpage}{472}
+\indexentry {Dürscheid, Christa|hyperpage}{475}
+\indexentry {{S}yntax: {G}rundlagen und {T}heorien@\emph {{S}yntax: {G}rundlagen und {T}heorien}|hyperpage}{475}
+\indexentry {Wöllstein-Leisten, Angelika|hyperpage}{475}
+\indexentry {{D}eutsche {S}atzstruktur -- {G}rundlagen der syntaktischen {A}nalyse@\emph {{D}eutsche {S}atzstruktur -- {G}rundlagen der syntaktischen {A}nalyse}|hyperpage}{475}
+\indexentry {Eroms, Hans-Werner|hyperpage}{475}
+\indexentry {{S}yntax der deutschen {S}prache@\emph {{S}yntax der deutschen {S}prache}|hyperpage}{475}
+\indexentry {Musan, Renate|hyperpage}{475}
+\indexentry {{S}atzgliedanalyse@\emph {{S}atzgliedanalyse}|hyperpage}{475}
+\indexentry {Wöllstein, Angelika|hyperpage}{475}
+\indexentry {{T}opologisches {S}atzmodell@\emph {{T}opologisches {S}atzmodell}|hyperpage}{475}
+\indexentry {Müller, Stefan|hyperpage}{475}
+\indexentry {{H}ead-{D}riven {P}hrase {S}turcture {G}rammar: {E}ine {E}inführung@\emph {{H}ead-{D}riven {P}hrase {S}turcture {G}rammar: {E}ine {E}inführung}|hyperpage}{475}
+\indexentry {Müller, Stefan|hyperpage}{475}
+\indexentry {{G}rammatiktheorie@\emph {{G}rammatiktheorie}|hyperpage}{475}
+\indexentry {Engel, Ulrich|hyperpage}{475}
+\indexentry {{S}yntax der deutschen {G}egenwartssprache@\emph {{S}yntax der deutschen {G}egenwartssprache}|hyperpage}{475}
+\indexentry {Büring, Daniel|hyperpage}{475}
+\indexentry {Binding Theory@\emph {Binding Theory}|hyperpage}{475}
+\indexentry {Gallmann, Peter|hyperpage}{475}
+\indexentry {{D}ie {S}teuerung der {F}lexion in der {DP}@\emph {{D}ie {S}teuerung der {F}lexion in der {DP}}|hyperpage}{475}
+\indexentry {Fabricius-Hansen, Cathrine|hyperpage}{475}
+\indexentry {{N}ominalphrasen mit {Kompositum} als {K}ern@\emph {{N}ominalphrasen mit {Kompositum} als {K}ern}|hyperpage}{475}
+\indexentry {Lötscher, Andreas|hyperpage}{475}
+\indexentry {{A}bfolgeregeln für {E}rgänzungen im {M}ittelfeld@\emph {{A}bfolgeregeln für {E}rgänzungen im {M}ittelfeld}|hyperpage}{475}
+\indexentry {Höhle, Tilman~N.|hyperpage}{475}
+\indexentry {{D}er {B}egriff {M}ittelfeld. {A}nmerkungen über die {T}heorie der topologischen {F}elder@\emph {{D}er {B}egriff {M}ittelfeld. {A}nmerkungen über die {T}heorie der topologischen {F}elder}|hyperpage}{475}
+\indexentry {Askedal, John~Ole|hyperpage}{475}
+\indexentry {{Ü}ber {S}tellungsfelder und {S}atztypen im {D}eutschen@\emph {{Ü}ber {S}tellungsfelder und {S}atztypen im {D}eutschen}|hyperpage}{475}
+\indexentry {Pittner, Karin|hyperpage}{475}
+\indexentry {{K}asuskonflikte bei freien {R}elativsätzen - {E}ine {K}orpusstudie@\emph {{K}asuskonflikte bei freien {R}elativsätzen - {E}ine {K}orpusstudie}|hyperpage}{475}
+\indexentry {De Kuthy, Kordula|hyperpage}{475}
+\indexentry {Meurers, Walt~Detmar|hyperpage}{475}
+\indexentry {On Partial Constituent Fronting in {G}erman@\emph {On Partial Constituent Fronting in {G}erman}|hyperpage}{475}
+\indexentry {Richter, Michael|hyperpage}{475}
+\indexentry {{K}omplexe {P}rädikate in resultativen {K}onstruktionen@\emph {{K}omplexe {P}rädikate in resultativen {K}onstruktionen}|hyperpage}{475}
+\indexentry {Dowty, David|hyperpage}{475}
+\indexentry {{T}hematic proto-roles and argument selection@\emph {{T}hematic proto-roles and argument selection}|hyperpage}{475}
+\indexentry {Reis, Marga|hyperpage}{475}
+\indexentry {{Z}um {S}ubjektbegriff im {D}eutschen@\emph {{Z}um {S}ubjektbegriff im {D}eutschen}|hyperpage}{475}
+\indexentry {Askedal, John~Ole|hyperpage}{475}
+\indexentry {{Z}ur syntaktischen und referentiell-semantischen {T}ypisierung der deutschen {P}ronominalform es@\emph {{Z}ur syntaktischen und referentiell-semantischen {T}ypisierung der deutschen {P}ronominalform es}|hyperpage}{475}
+\indexentry {Wegener, Heide|hyperpage}{475}
+\indexentry {{G}ibt es im {D}eutschen ein indirektes {O}bjekt?@\emph {{G}ibt es im {D}eutschen ein indirektes {O}bjekt?}|hyperpage}{475}
+\indexentry {Wegener, Heide|hyperpage}{475}
+\indexentry {{D}er {D}ativ - ein struktureller {K}asus?@\emph {{D}er {D}ativ - ein struktureller {K}asus?}|hyperpage}{475}
+\indexentry {Musan, Renate|hyperpage}{475}
+\indexentry {Die {L}esarten des {P}erfekts@\emph {Die {L}esarten des {P}erfekts}|hyperpage}{475}
+\indexentry {Hentschel, Elke|hyperpage}{475}
+\indexentry {Weydt, Harald|hyperpage}{475}
+\indexentry {{D}as leidige bekommen-{P}assiv@\emph {{D}as leidige bekommen-{P}assiv}|hyperpage}{475}
+\indexentry {Leirbukt, Oddleif|hyperpage}{475}
+\indexentry {{U}ntersuchungen zum bekommen-{P}assiv im heutigen {D}eutsch@\emph {{U}ntersuchungen zum bekommen-{P}assiv im heutigen {D}eutsch}|hyperpage}{475}
+\indexentry {Reis, Marga|hyperpage}{475}
+\indexentry {{B}ilden {M}odalverben im {D}eutschen eine syntaktische {K}lasse?@\emph {{B}ilden {M}odalverben im {D}eutschen eine syntaktische {K}lasse?}|hyperpage}{475}
+\indexentry {Askedal, John~Ole|hyperpage}{475}
+\indexentry {{E}rsatzinfinitiv/\penalty \exhyphenpenalty {P}artizipersatz und {V}erwandtes@\emph {{E}rsatzinfinitiv\slash {P}artizipersatz und {V}erwandtes}|hyperpage}{475}
+\indexentry {Bech, Gunnar|hyperpage}{475}
+\indexentry {{S}tudien über das deutsche verbum infinitum@\emph {{S}tudien über das deutsche verbum infinitum}|hyperpage}{475}
+\indexentry {Reis, Marga|hyperpage}{475}
+\indexentry {{Z}ur {G}rammatik der sog.\ {H}albmodale drohen/versprechen + {I}nfinitiv@\emph {{Z}ur {G}rammatik der sog.\ {H}albmodale drohen/versprechen + {I}nfinitiv}|hyperpage}{475}
+\indexentry {Askedal, John~Ole|hyperpage}{475}
+\indexentry {{Ü}ber den {I}nfinitiv als {S}ubjekt im {D}eutschen@\emph {{Ü}ber den {I}nfinitiv als {S}ubjekt im {D}eutschen}|hyperpage}{475}
+\indexentry {Graphematik|hyperpage}{481}
+\indexentry {Orthographie|hyperpage}{483}
+\indexentry {Gebrauchsschreibung|hyperpage}{484}
+\indexentry {Minuskel|hyperpage}{485}
+\indexentry {Majuskel|hyperpage}{485}
+\indexentry {Kernwortschatz|hyperpage}{485}
+\indexentry {Eisenberg, Peter|hyperpage}{485}
+\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{485}
+\indexentry {Buchstabe!konsonantisch|hyperpage}{487}
+\indexentry {Konsonant!Schreibung|hyperpage}{487}
+\indexentry {Auslautverhärtung!Schreibung|hyperpage}{487}
+\indexentry {r-Vokalisierung!Schreibung|hyperpage}{487}
+\indexentry {Schreibprinzip!phonologisch|hyperpage}{489}
+\indexentry {Buchstabe!vokalisch|hyperpage}{489}
+\indexentry {Vokal!Schreibung|hyperpage}{489}
+\indexentry {gespannt!Schreibung|hyperpage}{489}
+\indexentry {Dehnungsschreibung|hyperpage}{489}
+\indexentry {Schärfungsschreibung|hyperpage}{489}
+\indexentry {Diphthong!Schreibung|hyperpage}{491}
+\indexentry {Schärfungsschreibung|hyperpage}{492}
+\indexentry {Dehnungsschreibung|hyperpage}{492}
+\indexentry {Silbe!offen|hyperpage}{493}
+\indexentry {Silbe!geschlossen|hyperpage}{493}
+\indexentry {Simplex|hyperpage}{494}
+\indexentry {Silbe!und Schreibung|hyperpage}{494}
+\indexentry {Schwa|hyperpage}{494}
+\indexentry {Dehnungsschreibung|hyperpage}{495}
+\indexentry {Schärfungsschreibung|hyperpage}{495}
+\indexentry {Coda|hyperpage}{497}
+\indexentry {Onset|hyperpage}{497}
+\indexentry {Silbengelenk|hyperpage}{497}
+\indexentry {Affrikate!Schreibung|hyperpage}{497}
+\indexentry {Auslautverhärtung!am Silbengelenk|hyperpage}{497}
+\indexentry {Schreibprinzip!Gelenkschreibung|hyperpage}{499}
+\indexentry {Silbengelenk!und Eszett|hyperpage}{499}
+\indexentry {Majuskel|hyperpage}{501}
+\indexentry {Akzent!Schreibung|hyperpage}{501}
+\indexentry {Kernwortschatz|hyperpage}{502}
+\indexentry {Spatium|hyperpage}{509}
+\indexentry {Schreibprinzip!Spatienschreibung|hyperpage}{509}
+\indexentry {Wort!graphematisch|hyperpage}{509}
+\indexentry {Wortklasse!Schreibung|hyperpage}{512}
+\indexentry {Majuskel|hyperpage}{512}
+\indexentry {Substantiv!Großschreibung|hyperpage}{512}
+\indexentry {Konversion|hyperpage}{512}
+\indexentry {Substantivierung|hyperpage}{512}
+\indexentry {Substantiv!Großschreibung|hyperpage}{513}
+\indexentry {Univerbierung|hyperpage}{513}
+\indexentry {Eigenname!Schreibung|hyperpage}{514}
+\indexentry {Kompositum!Schreibung|hyperpage}{515}
+\indexentry {Bindestrich|hyperpage}{515}
+\indexentry {Zeichen!Wort--|hyperpage}{516}
+\indexentry {Majuskel|hyperpage}{516}
+\indexentry {Spatium|hyperpage}{516}
+\indexentry {Kurzwort|hyperpage}{517}
+\indexentry {Substantiv!s-Flexion|hyperpage}{517}
+\indexentry {Klitikon|hyperpage}{518}
+\indexentry {Gebrauchsschreibung|hyperpage}{518}
+\indexentry {Apostroph|hyperpage}{518}
+\indexentry {Artikel!indefinit|hyperpage}{519}
+\indexentry {Genitiv!sächsisch|hyperpage}{519}
+\indexentry {Schreibprinzip!Konstanz|hyperpage}{520}
+\indexentry {Silbengelenk|hyperpage}{521}
+\indexentry {Schärfungsschreibung|hyperpage}{521}
+\indexentry {Dehnungsschreibung|hyperpage}{521}
+\indexentry {Umlaut!Schreibung|hyperpage}{521}
+\indexentry {Koordination!Schreibung|hyperpage}{522}
+\indexentry {Konjunktion|hyperpage}{522}
+\indexentry {Komma|hyperpage}{522}
+\indexentry {Zeichen!syntaktisch|hyperpage}{523}
+\indexentry {Parenthese|hyperpage}{523}
+\indexentry {Gedankenstrich|hyperpage}{523}
+\indexentry {Satz!Schreibung|hyperpage}{523}
+\indexentry {Punkt|hyperpage}{524}
+\indexentry {Satz!Koordination|hyperpage}{524}
+\indexentry {Satz!graphematisch|hyperpage}{525}
+\indexentry {Nebensatz!Schreibung|hyperpage}{525}
+\indexentry {Kohärenz!Schreibung|hyperpage}{526}
+\indexentry {Infinitiv|hyperpage}{526}
+\indexentry {Komplementsatz|hyperpage}{526}
+\indexentry {Eisenberg, Peter|hyperpage}{531}
+\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{531}
+\indexentry {Fuhrhop, Nana|hyperpage}{531}
+\indexentry {{O}rthographie@\emph {{O}rthographie}|hyperpage}{531}
+\indexentry {Fuhrhop, Nanna|hyperpage}{531}
+\indexentry {Peters, Jörg|hyperpage}{531}
+\indexentry {{E}inführung in die {P}honologie und {G}raphematik@\emph {{E}inführung in die {P}honologie und {G}raphematik}|hyperpage}{531}
+\indexentry {Bredel, Ursula|hyperpage}{531}
+\indexentry {{I}nterpunktion@\emph {{I}nterpunktion}|hyperpage}{531}
+\indexentry {Nübling, Damaris|hyperpage}{531}
+\indexentry {Fahlbusch, Fabian|hyperpage}{531}
+\indexentry {Heuser, Rita|hyperpage}{531}
+\indexentry {{N}amen. {E}ine {E}inführung in die {O}nomastik@\emph {{N}amen. {E}ine {E}inführung in die {O}nomastik}|hyperpage}{531}
+\indexentry {Eisenberg, Peter|hyperpage}{531}
+\indexentry {{D}as {F}remdwort im {D}eutschen@\emph {{D}as {F}remdwort im {D}eutschen}|hyperpage}{531}
+\indexentry {Augst, Gerhard|hyperpage}{531}
+\indexentry {{Z}ur {N}euregelung der deutschen {O}rthographie. {B}egründung und {K}ritik@\emph {{Z}ur {N}euregelung der deutschen {O}rthographie. {B}egründung und {K}ritik}|hyperpage}{531}
+\indexentry {Coulmas, Florian|hyperpage}{531}
+\indexentry {{T}he Writing Systems of the World@\emph {{T}he Writing Systems of the World}|hyperpage}{531}
+\indexentry {Gallmann, Peter|hyperpage}{531}
+\indexentry {{K}onzepte der {S}ubstantivgroßschreibung@\emph {{K}onzepte der {S}ubstantivgroßschreibung}|hyperpage}{531}
+\indexentry {Eisenberg, Peter|hyperpage}{531}
+\indexentry {{S}ubstantiv oder {E}igenname? {Ü}ber die {P}rinzipien unserer {R}egeln zur {G}roß und {K}leinschreibung@\emph {{S}ubstantiv oder {E}igenname? {Ü}ber die {P}rinzipien unserer {R}egeln zur {G}roß und {K}leinschreibung}|hyperpage}{531}
+\indexentry {Schäfer, Roland|hyperpage}{531}
+\indexentry {Sayatz, Ulrike|hyperpage}{531}
+\indexentry {{D}ie {K}urzformen des {I}ndefinitartikels im {D}eutschen@\emph {{D}ie {K}urzformen des {I}ndefinitartikels im {D}eutschen}|hyperpage}{531}
+\indexentry {Jacobs, Joachim|hyperpage}{531}
+\indexentry {{S}patien: {Z}um {S}ystem der {G}etrennt- und {Z}usammenschreibung im heutigen {D}eutsch@\emph {{S}patien: {Z}um {S}ystem der {G}etrennt- und {Z}usammenschreibung im heutigen {D}eutsch}|hyperpage}{531}
+\indexentry {Buchmann, Franziska|hyperpage}{531}
+\indexentry {{D}ie {W}ortzeichen im {D}eutschen@\emph {{D}ie {W}ortzeichen im {D}eutschen}|hyperpage}{531}
+\indexentry {Primus, Beatrice|hyperpage}{531}
+\indexentry {{S}prachnorm und {S}prachregularität: {D}as {K}omma im {D}eutschen@\emph {{S}prachnorm und {S}prachregularität: {D}as {K}omma im {D}eutschen}|hyperpage}{531}
+\indexentry {Primus, Beatrice|hyperpage}{531}
+\indexentry {{D}iese -- etwas vernachlässigte -- pränominale {H}erausstellung@\emph {{D}iese -- etwas vernachlässigte -- pränominale {H}erausstellung}|hyperpage}{531}
+\indexentry {Bredel, Ursula|hyperpage}{531}
+\indexentry {{D}ie {I}nterpunktion des {D}eutschen. {E}in kompositionelles {S}ystem zur {O}nline-{S}teuerung des {L}esens@\emph {{D}ie {I}nterpunktion des {D}eutschen. {E}in kompositionelles {S}ystem zur {O}nline-{S}teuerung des {L}esens}|hyperpage}{531}
+\indexentry {De Kuthy, Kordula|hyperpage}{560}
+\indexentry {Discontinuous {NPs} in {G}erman: A Case Study of the Interaction of Syntax, Semantics and Pragmatics@\emph {Discontinuous {NPs} in {G}erman: A Case Study of the Interaction of Syntax, Semantics and Pragmatics}|hyperpage}{560}
+\indexentry {Fremdwort|hyperindexformat{\see {Lehnwort}}}{592}
+\indexentry {Partizip|hyperindexformat{\see {Status}}}{592}
+\indexentry {Infinitiv|hyperindexformat{\see {Status}}}{592}
+\indexentry {Grammatik!normativ|hyperindexformat{\see {Grammatik!präskriptiv}}}{592}
+\indexentry {Inkohärenz|hyperindexformat{\see {Kohärenz}}}{592}
+\indexentry {Kopula|hyperindexformat{\see {Verb!Kopula}}}{592}
+\indexentry {Singular|hyperindexformat{\see {Numerus}}}{592}
+\indexentry {Plural|hyperindexformat{\see {Numerus}}}{592}
+\indexentry {Positiv|hyperindexformat{\see {Adjektiv!Komparation}}}{592}
+\indexentry {Komparativ|hyperindexformat{\see {Adjektiv!Komparation}}}{592}
+\indexentry {Superlativ|hyperindexformat{\see {Adjektiv!Komparation}}}{592}
+\indexentry {Einzahl|hyperindexformat{\see {Numerus}}}{592}
+\indexentry {Mehrzahl|hyperindexformat{\see {Numerus}}}{592}
+\indexentry {Fall|hyperindexformat{\see {Kasus}}}{592}
+\indexentry {Gruppe|hyperindexformat{\see {Phrase}}}{592}
+\indexentry {Hauptwort|hyperindexformat{\see {Substantiv}}}{592}
+\indexentry {Eigenschaftswort|hyperindexformat{\see {Adjektiv}}}{592}
+\indexentry {Fürwort|hyperindexformat{\see {Pronomen}}}{592}
+\indexentry {Bindewort|hyperindexformat{\see {Konjunktion}}}{592}
+\indexentry {Tuwort|hyperindexformat{\see {Verb}}}{592}
+\indexentry {Zeitwort|hyperindexformat{\see {Verb}}}{592}
+\indexentry {Beiwort|hyperindexformat{\see {Adverb}}}{592}
+\indexentry {Zeitform|hyperindexformat{\see {Tempus}}}{592}
+\indexentry {Satzbau|hyperindexformat{\see {Syntax}}}{592}
+\indexentry {Formenlehre|hyperindexformat{\see {Morphologie}}}{592}
+\indexentry {Wortart|hyperindexformat{\see {Wortklasse}}}{592}
+\indexentry {Geschlecht|hyperindexformat{\see {Genus}}}{592}
+\indexentry {Determinativ|hyperindexformat{\see {Artikelwort}}}{592}
+\indexentry {Beugung|hyperindexformat{\see {Flexion}}}{592}
+\indexentry {Vokaltrapez|hyperindexformat{\see {Vokalviereck}}}{592}
+\indexentry {Distribution|hyperindexformat{\see {Verteilung}}}{592}
+\indexentry {Silbifizierung|hyperindexformat{\see {Silbe}}}{592}
+\indexentry {Betonung|hyperindexformat{\see {Akzent}}}{592}
+\indexentry {Wortform|hyperindexformat{\see {Wort!syntaktisches}}}{592}
+\indexentry {Vorsilbe|hyperindexformat{\see {Präfix}}}{592}
+\indexentry {Plusquamperfekt|hyperindexformat{\see {Präteritumsperfekt}}}{592}
+\indexentry {Futur II|hyperindexformat{\see {Futurperfekt}}}{592}
+\indexentry {Genus verbi|hyperindexformat{\see {Passiv}}}{592}
+\indexentry {Aktiv|hyperindexformat{\see {Passiv}}}{592}
+\indexentry {Auxiliar|hyperindexformat{\see {Hilfsverb}}}{592}
+\indexentry {Adjunkt|hyperindexformat{\see {Angabe}}}{592}
+\indexentry {Argument|hyperindexformat{\see {Ergänzung}}}{592}
+\indexentry {Komplement|hyperindexformat{\see {Ergänzung}}}{592}
+\indexentry {Trace|hyperindexformat{\see {Spur}}}{592}
+\indexentry {Hauptsatz|hyperindexformat{\see {Satz}}}{592}
+\indexentry {In-Situ-Frage|hyperindexformat{\see {Echofrage}}}{592}
+\indexentry {Stirnsatz|hyperindexformat{\see {Verb-Erst-Satz}}}{592}
+\indexentry {V1-Satz|hyperindexformat{\see {Verb-Erst-Satz}}}{592}
+\indexentry {Kernsatz|hyperindexformat{\see {Verb-Zweit-Satz}}}{592}
+\indexentry {V2-Satz|hyperindexformat{\see {Verb-Zweit-Satz}}}{592}
+\indexentry {Spannsatz|hyperindexformat{\see {Verb-Letzt-Satz}}}{592}
+\indexentry {VL-Satz|hyperindexformat{\see {Verb-Letzt-Satz}}}{592}
+\indexentry {Vorgangspassiv|hyperindexformat{\see {werden-Passiv}}}{592}
+\indexentry {Dativ!Commodi|hyperindexformat{\see {Nutznießer-Dativ}}}{592}
+\indexentry {Dativ!Iudicantis|hyperindexformat{\see {Bewertungs-Dativ}}}{592}
+\indexentry {Dativ!Zugehörigkeits--|hyperindexformat{\see {Dativ!Pertinenz}}}{592}
+\indexentry {Anhebungsverb|hyperindexformat{\see {Halbmodalverb}}}{592}
+\indexentry {Klitisierung|hyperindexformat{\see {Klitikon}}}{592}
+\indexentry {Konstantschreibung|hyperindexformat{\see {Schreibprinzip|Konstanz}}}{592}
+\indexentry {Diathese|hyperindexformat{\see {Passiv}}}{592}
+\indexentry {Endrand|hyperindexformat{\see {Coda}}}{592}
+\indexentry {Anfangsrand|hyperindexformat{\see {Onset}}}{592}
+\indexentry {Silbenkern|hyperindexformat{\see {Nukleus}}}{592}
+\indexentry {Trill|hyperindexformat{\see {Vibrant}}}{592}
