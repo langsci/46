@@ -286,9 +286,9 @@ Um dies wieder am Beispiel zu illustrieren, folgen (\ref{ex:wa9393}) bis (\ref{e
     \ex{ein schneller Ball\\
       der schnelle Ball\\
       schneller Ball}
-    \ex{ein ehemaliger Chef\\
-      der ehemalige Chef\\
-      ehemaliger Chef}
+    \ex{ein leckerer Kuchen\\
+      der leckere Kuchen\\
+      leckerer Kuchen}
   \end{xlist}
   \ex \label{ex:wa9395}
   \begin{xlist}
@@ -441,10 +441,16 @@ Andererseits haben Wortklassen für den Menschen, der eine Grammatik oder eine g
 Am deutlichsten wird diese beim Lernen einer Fremdsprache.
 Wie sollte man eine Sprache lernen, wenn man von Anfang an jede kleinste grammatische Unterscheidung berücksichtigen würde?
 Viel einfacher ist es, sich zunächst grobe Verallgemeinerungen einzuprägen und Details nach und nach zu lernen.
-
-Dieses Vorgehen hat später immer wieder zur Folge, dass wir Generalisierungen effizient und elegant bezüglich ganzer Wortklassen beschreiben und alle Abweichungen oder Verfeinerungen, die sich für einzelne Wörter ergeben, als Ausnahme behandeln können.
+Durch die bewusst grobe Klassenbildung können wir später Generalisierungen effizient und elegant bezüglich ganzer Wortklassen beschreiben und alle Abweichungen oder Verfeinerungen, die sich für einzelne Wörter ergeben, als Ausnahme behandeln.
 Hier wird eine von vielen möglichen Klassifikationen konstruiert.
-Die Methode folgt dabei einem Filtermodell und lehnt sich damit an die Klassifikation von \citet{Engel09} an.
+Die Methode folgt dabei einem \textit{Filtermodell}, bei die Menge aller Wörter jeweils auf Basis eines einzigen definitorischen Kriteriums, das auf ein Wort entweder zutrifft oder nicht, in zwei Teile teilt.
+
+Dieses Vorgehen ist an die Klassifikation von \citet{Engel09} angelehnt.
+Im Unterschied zu \citet{Engel09} erlauben wir die mehrfache Klassifikation im Sinne einer Unterklassifikation bereits klassifizierter Wörter.
+Dies hat zur Folge, dass für jeden Filter angegeben werden muss, auf welche Restmenge er anzuwenden ist.
+Die Restmenge wird der \textit{Anwendungsbereich} genannt und steht in den Filter-Diagrammen ganz oben.
+In den folgenden Abschnitten werden die Filter -- und damit die Wortklassen -- einzeln eingeführt und erläutert.
+Definition~\ref{def:wfilter} fasst die Filtermethode zusammen.
 
 \Definition{Wortklassenfilter}{
 \label{def:wfilter}
@@ -452,11 +458,6 @@ Ein Wortklassenfilter ist eine Bedingung bezüglich des morphologischen (paradig
 Anhand mehrerer Filter werden Wörter der Reihe nach in je zwei Klassen eingeteilt (\textit{Filter trifft zu} oder \textit{Filter trifft nicht zu}), die durch folgende Filter weiter klassifiziert werden können.
 Damit ergibt sich eine hierarchische Gliederung des Lexikons.
 }
-
-Im Unterschied zu \citet{Engel09} erlauben wir die mehrfache Klassifikation im Sinne einer Unterklassifikation bereits klassifizierter Wörter.
-Dies hat zur Folge, dass für jeden Filter angegeben werden muss, auf welche Restmenge er anzuwenden ist.
-Die Restmenge wird der \textit{Anwendungsbereich} genannt und steht in den Filter-Diagrammen ganz oben.
-In den folgenden Abschnitten werden die Filter -- und damit die Wortklassen -- einzeln eingeführt und erläutert.
 
 \subsection{Flektierbare Wörter}
 
@@ -471,11 +472,15 @@ Allerdings ist \textit{Flektierbarkeit} an sich nicht als Teil der formalen Merk
 Im Deutschen haben aber alle flektierbaren Wörter ein \textsc{Numerus}-Merkmal.%
 \footnote{Die Verben haben in ihren infiniten Formen kein \textsc{Numerus}-Merkmal, aber alle Verben (im Sinn \textit{lexikalischer Wörter}) können auch finit flektieren (s.\ Abschnitt~\ref{sec:finit}).}
 Dass dies so ist, ist kein Zufall, sondern hat seine Wurzeln in den Kongruenzverhältnissen des Deutschen.
-Kongruenz ist laut Abschnitt~\ref{sec:rektionkongruenz} eine Übereinstimmung der Werte von Merkmalen.
+Kongruenz ist laut Abschnitt~\ref{sec:rektionkongruenz} eine Übereinstimmung der Werte von Merkmalen bestimmter Einheiten in einer Struktur.
+In Strukturen mit einem finiten Verb und einem von diesem regierten Nominativ herrscht Person- und Numerus-Kongruenz, und innerhalb einer zusammengehörenden Gruppe aus Nomina wie \textit{dieser leckere Keks} oder \textit{diese leckeren Kekse} herrscht Numeruskongruenz.%
+\footnote{Da Nomina in der ersten und zweiten Person immer Pronomina sind, die nur alleine auftreten (\textit{ich}, \textit{du} usw.), ist Person-Kongruenz innerhalb von nominalen Gruppen kein sichtbares Phänomen.
+Vgl.\ auch Abschnitt~\ref{sec:person}.}
+Es folgt, dass sowohl Verben als auch Nomina eine Singular- und eine Pluralform haben müssen, um überhaupt kongruieren zu können.
+In Abschnitt~\ref{sec:kategoriennomen} wird argumentiert, dass die Unterscheidung von Singular und Plural semantisch bei den Nomina motiviert ist.
+Die Kongruenz innerhalb der nominalen Gruppen und ihre Kongruenz mit dem Verb sind Mittel, um die Satzstruktur besser zu markieren.
 
-\textbf{?? HIER WEITER}
-
-Die Beispiele in (\ref{ex:wk01011}) und (\ref{ex:wk01012}) illustrieren die Flektierbarkeit.
+Die Beispiele in (\ref{ex:wk01011}) und (\ref{ex:wk01012}) illustrieren abschließend einige Formveränderungen flektierbarer Wörter.
 Filter~\ref{wfilt:flektierbare} wird entsprechend formuliert.
 
 \begin{exe}
@@ -497,24 +502,13 @@ Filter~\ref{wfilt:flektierbare} wird entsprechend formuliert.
 \index{Verb}
 \index{Nomen}
 
-\WFiltTree{Verb und Nomen}{wfilt:verbennomina}{flektierbares Wort}{Kann das Wort im finiten Paradigma stehen?}{Verb}{Nomen}
-
-\Definition{Finitheit}{
-\label{def:finitheit}
-Ein Verb ist finit flektiert, wenn es ein Merkmal \textsc{Tempus} hat, und infinit flektiert, wenn es keins hat.\index{Tempus}
-\index{Finitheit}
-}
-Nur Verben haben ein \textsc{Tempus}-Merkmal.
-Es sei angemerkt, dass wir als morphologische Tempora für das Deutsche nur Präsens (eigentlich ohne Gegenwartsbezug, aber trotzdem oft \textit{Gegenwartsform} genannt) und Präteritum (mit Vergangenheitsbezug) annehmen, vgl.\ Kapitel~\ref{sec:verben}.
-
-\subsection{Substantive}
-
-\label{sec:substantivewortklassen}
-
-\index{Substantiv}
-\WFiltTree{Substantiv}{wfilt:subst}{Nomen}{Hat das Nomen ein in seinem Wert nicht veränderliches \textsc{Genus}-Merkmal?}{Substantiv}{anderes Nomen}
-
-Der Vollständigkeit halber wird in (\ref{ex:wk9123}) je ein Beispiel gegeben.
+Verben und Nomina haben zwar beide die Merkmale \textsc{Numerus} und \textsc{Person}, aber ansonsten durchaus unterschiedliche Merkmalsausstattungen.
+Verben haben keinen Kasus und kein Genus, Nomina kein Tempus und keinen Modus (Indikativ oder Konjunktiv).
+Wir führen den Begriff der \textit{Finitheit} ein, den wir später in Kapitel~\ref{sec:verben} noch benötigen, und knüpfen ihn an das \textsc{Tempus}-Merkmal.
+Zwar könnte man sich genauso gut auf \textsc{Modus} beziehen, weil beide immer zusammen auftreten, aber eine hinreichende Definition lässt sich auch mit nur einem der beiden Merkmale geben.
+In Kapitel~\ref{sec:verben} wird ausführlich die Funktion von Tempus (und Modus) eingeführt.
+Außerdem werden Gründe genannt, dass im Deutschen nur Präsens (eigentlich ohne Gegenwartsbezug, aber trotzdem oft \textit{Gegenwartsform} genannt) und Präteritum (mit Vergangenheitsbezug) Tempora im eigentlichen Sinn darstellen.
+In (\ref{ex:wk9123}) je ein Beispiel für Präsens und Präteritum gegeben.
 
 \begin{exe}
   \ex\label{ex:wk9123}
@@ -524,29 +518,44 @@ Der Vollständigkeit halber wird in (\ref{ex:wk9123}) je ein Beispiel gegeben.
   \end{xlist}
 \end{exe}
 
-Der nicht veränderliche Wert für \textsc{Genus} bei Substantiven ist einfach zu illustrieren.\index{Genus}
-In (\ref{ex:wk8103456}) ändern die Adjektive (\textit{sensationell}) und die Artikel (\textit{ein}, \textit{eine}) jeweils ihren \textsc{Genus}-Wert (und dabei auch ihre Form) abhängig vom Substantiv (\textit{Ball}, \textit{Spielerin}, \textit{Spiel}).
-Artikelwörter und Adjektive kongruieren (vgl.\ Abschnitt~\ref{sec:rektionkongruenz}) mit dem Substantiv in ihrem Genus.
-Der Wert des Merkmals \textsc{Genus} ist also beim Substantiv fest, bei den anderen Nomina aber nicht.
+\Definition{Finitheit}{
+\label{def:finitheit}
+Ein Verb ist finit flektiert, wenn es ein Merkmal \textsc{Tempus} hat, und infinit flektiert, wenn es keins hat.\index{Tempus}
+\index{Finitheit}
+}
+
+\WFiltTree{Verb und Nomen}{wfilt:verbennomina}{flektierbares Wort}{Kann das Wort im finiten Paradigma stehen?}{Verb}{Nomen}
+
+\subsection{Substantive}
+
+\label{sec:substantivewortklassen}
+
+Der Begriff \textit{Nomen} wird hier als Oberbegriff verwendet, der \textit{Substantive}, \textit{Adjektive}, \textit{Artikel} und \textit{Pronomina} umfasst.
+In anderen Traditionen steht \textit{Nomen} für \textit{Substantiv}, also nur für die oft sogenannten \textit{Hauptwörter}.
+Die Filter~\ref{wfilt:subst} und \ref{wfilt:adjartpron} haben die Funktion, innerhalb der Oberklasse der Nomina weiter zu gliedern.
+Das Substantiv ist leicht als der lexikalische Träger des \textsc{Genus}-Merkmals zu identifizieren, das bei ihm nicht paradigmatisch variiert.
+
+\index{Substantiv}
+\WFiltTree{Substantiv}{wfilt:subst}{Nomen}{Hat das Nomen ein in seinem Wert nicht veränderliches \textsc{Genus}-Merkmal?}{Substantiv}{anderes Nomen}
+
+Der unveränderliche Wert für \textsc{Genus} bei Substantiven ist einfach zu illustrieren.\index{Genus}
+In (\ref{ex:wk8103456}) ändern die Adjektive (\textit{stark}) und die Artikel (\textit{die}, \textit{der}, \textit{das}) jeweils ihren \textsc{Genus}-Wert (und dabei auch ihre Form) abhängig vom Substantiv (\textit{Gewichtheberin}, \textit{Versuch}, \textit{Gewicht}).
+Artikelwörter und Adjektive kongruieren also nur mit dem Substantiv in ihrem Genus.
+Der Wert des Merkmals \textsc{Genus} ist damit beim Substantiv fest, bei den anderen Nomina aber nicht.
 Pronomina haben normalerweise verschiedene Genus-Formen wie \textit{dieser}, \textit{dieses} und \textit{diese}.
 
 \begin{exe}
   \ex\label{ex:wk8103456}
   \begin{xlist}
-    \ex{Ein sensationeller Ball ging gestern leider nicht ins Netz.}
-    \ex{Eine sensationelle Spielerin konnten wir gestern bewundern.}
-    \ex{Ein sensationelles Spiel gab es gestern in Duisburg zu sehen.}
+    \ex{Die stärkste Gewichtheberin wurde Weltmeisterin.}
+    \ex{Der stärkste Versuch war der zweite.}
+    \ex{Das schwerste Gewicht wurde von Tatjana gerissen.}
   \end{xlist}
 \end{exe}
 
 \subsection{Adjektive}
 
 \label{sec:adjektivewortklassen}
-
-\index{Adjektiv}
-\index{Pronomen}
-\index{Stärke!Adjektiv}
-\WFiltTree{Adjektiv}{wfilt:adjartpron}{anderes Nomen nach Filter \ref{wfilt:subst}}{Flektiert das Nomen nach dem Stärkeparadigma?}{Adjektiv}{Artikel\slash Pronomen}
 
 In den folgenden Sätzen finden wir jeweils das gleiche Substantiv und das gleiche davorstehende Adjektiv (\textit{groß}).
 Dennoch ändert sich die Form der Adjektive, je nachdem, ob ein Artikel davor steht, bzw.\ welcher Artikel es ist.
@@ -565,10 +574,18 @@ Dennoch ändert sich die Form der Adjektive, je nachdem, ob ein Artikel davor st
   \end{xlist}
 \end{exe}
 
-Der Filter ist dazu da, diejenigen nicht-substantivischen Nomina, die diesem speziellen Stärkeparadigma folgen (also Adjektive) von den verbleibenden Nomina zu trennen.
-Die verbleibenden Nomina sind die Artikel und Pronomina, und diese sind wiederum genau die Nomina, die syntaktisch noch vor der Gruppe aus Adjektiv und Substantiv stehen können.
+Man spricht hier vom \textit{Stärkeparadigma} der Adjektive.
+Man kann diese Formen sehr umständlich als Raster mit insgesamt 48 Formen beschreiben, aber eigentlich sind die verschiedenen Stärkeformen recht einfach verteilt (Abschnitt~\ref{sec:schwacheadj}).
+
+Der Filter trennt diejenigen nicht-substantivischen Nomina, die diesem speziellen Stärkeparadigma folgen (also Adjektive) von den verbleibenden Nomina.
+Die verbleibenden Nomina sind genau diejenigen, die syntaktisch noch vor der Gruppe aus Adjektiv und Substantiv stehen können, nämlich Artikel und Pronomina.
 Dadurch erklärt sich die etwas umständliche Klausel in der Formulierung des Filters \textit{in Abhängigkeit von davor stehenden anderen nicht-substantivischen Nomina}.
 Die Artikel und Pronomina werden erst in Abschnitt~\ref{sec:artikelpronomen} voneinander getrennt.
+
+\index{Adjektiv}
+\index{Pronomen}
+\index{Stärke!Adjektiv}
+\WFiltTree{Adjektiv}{wfilt:adjartpron}{anderes Nomen nach Filter \ref{wfilt:subst}}{Flektiert das Nomen nach dem Stärkeparadigma?}{Adjektiv}{Artikel\slash Pronomen}
 
 \subsection{Präpositionen}
 
@@ -576,37 +593,38 @@ Die Artikel und Pronomina werden erst in Abschnitt~\ref{sec:artikelpronomen} von
 
 \index{Präposition}
 
-\WFiltTree{Präposition}{wfilt:prep}{nicht flektierbares Wort}{Hat das Wort eine einstellige Valenz und Kasusrektion?}{Präposition}{anderes}
-
+Mit der Abgrenzung der Präpositionen beginnt die Unterklassifizierung der nichtflektierbaren Wörter. 
 Bereits in Kapitel~\ref{sec:grundbegriffe} haben wir Valenz und Rektion definiert und dabei an Verben illustriert.\index{Valenz}
 Dass auch Präpositionen Valenz und Rektion haben, kann man an den folgenden Sätzen leicht sehen.
 
 \begin{exe}
   \ex
   \begin{xlist}
-    \ex{Mit dem Rasen ist nichts mehr anzufangen.}
-    \ex{Angesichts des Rasens wurde das Spiel abgesagt.}
+    \ex{Mit dem kaputten Rasen ist nichts mehr anzufangen.}
+    \ex{Angesichts des kaputten Rasens wurde das Spiel abgesagt.}
   \end{xlist}
 \end{exe}
 
-Welchen Wert für \textsc{Kasus} das Substantiv \textit{Rasen} (und der Artikel) haben, hängt hier von der Präposition ab, \textit{mit} regiert den Dativ, \textit{angesichts} regiert immer den Genitiv.
-Kein andere Art von nicht-flektierbaren Wörtern verhält sich so.
+Welchen Wert für \textsc{Kasus} das Substantiv \textit{Rasen} (und die mit ihm zusammenhängenden Nomina wie Adjektive und Artikel) haben, hängt hier von der Präposition ab, die davorsteht.
+\textit{mit} regiert den Dativ, \textit{angesichts} regiert den Genitiv.
+Kein andere Art von nicht-flektierbaren Wörtern verhält sich so, und Filter~\ref{wfilt:prep} bezieht sich daher auf dieses Verhalten.
+
+\WFiltTree{Präposition}{wfilt:prep}{nicht flektierbares Wort}{Hat das Wort eine einstellige Valenz und Kasusrektion?}{Präposition}{anderes}
 
 \subsection{Komplementierer}
 
 \label{sec:komplementiererwortklassen}
 
+\index{Komplementierer}
+
 Der nächste Filter verlangt nach einer Definition des Nebensatz-Begriffs, auch wenn ausführlich über Nebensätze erst in Kapitel~\ref{sec:saetze} gesprochen wird.
+Definition~\ref{def:nebensatz} ist also als vorläufig zu betrachten.
 
 \Definition{Nebensatz}{
 \label{def:nebensatz}
-Ein Nebensatz ist eine syntaktische Struktur, (1) die ein finites Verb enthält, das an letzter Stelle steht, (2) innerhalb derer typischerweise alle Ergänzungen und Angaben dieses Verbes enthalten sind, (3) die syntaktisch abhängig ist (nicht alleine stehen kann).
+Ein Nebensatz ist eine syntaktische Struktur, die ein finites Verb enthält, das an letzter Stelle steht, innerhalb derer typischerweise alle Ergänzungen und Angaben dieses Verbes enthalten sind und die syntaktisch abhängig ist (nicht alleine stehen kann).
 \index{Nebensatz}
 }
-
-\index{Komplementierer}
-
-\WFiltTree{Komplementierer}{wfilt:subjunktion}{anderes aus Filter \ref{wfilt:prep}}{Kann das Wort einen Nebensatz einleiten?}{Komplementierer}{Partikel\slash Adverb}
 
 Hier einige Beispiele, um die Definition zu illustrieren.
 Die Nebensätze sind dabei in [~] gesetzt.
@@ -620,25 +638,32 @@ Die Nebensätze sind dabei in [~] gesetzt.
 
 In (\ref{ex:wa9911}) ist die Definition des Nebensatzes erfüllt, weil \textit{enthält} ein \textsc{Tempus}-Merkmal hat und damit finit ist.
 Außerdem sind alle Ergänzungen des Verbs (der Nominativ \textit{dieser Nebensatz} und der Akkusativ \textit{ein Verb}) enthalten.
-Weil \textit{dass} diese Struktur einleitet, ist es gemäß Filter \ref{wfilt:subjunktion} ein Komplementierer.
-In (\ref{ex:wa9912}) liegt im Grunde dieselbe Situation vor.
+In (\ref{ex:wa9912}) ist es ähnlich.
 In (\ref{ex:wa9913}) hingegen ist \textit{zu laufen} ein Infinitiv (ohne Tempusflexion) und ist daher nicht finit.
-Die Struktur \textit{zu laufen} kann daher nach der hier vertretenen Definition kein Nebensatz sein, und \textit{zu} damit auch kein Komplementierer.%
+Die Struktur \textit{zu laufen} kann daher nach der hier vertretenen Definition kein Nebensatz sein.%
 \footnote{Es gibt auch andere Ansätze, in denen \textit{zu}-Infinitive wie Nebensätze behandelt werden.
 Ein guter Grund dafür ist, dass sich diese Infinitive im übergeordneten Satz relativ frei verhalten und dabei ähnliche grammatische Funktionen wie Nebensätze haben können.
 Das wird in Abschnitt~\ref{sec:kohaerenz} besprochen.}
 (\ref{ex:wa9914}) demonstriert schließlich, dass ein Nebensatz wie \textit{obwohl kein Tor fiel} normalerweise nicht alleine stehen kann.
+Nebensatzeinleiter sind laut Filter~\ref{wfilt:subjunktion} \textit{Komplementierer} und werden auch \textit{subordinierende Konjunktionen} oder \textit{Subjunktor} genannt.
+
+\WFiltTree{Komplementierer}{wfilt:subjunktion}{anderes aus Filter \ref{wfilt:prep}}{Kann das Wort einen Nebensatz einleiten?}{Komplementierer}{Partikel\slash Adverb}
+
+Weil \textit{dass} in (\ref{ex:wa9911}) und (\ref{ex:wa9912}) Nebensatzstrukturen einleitet, ist es gemäß Filter \ref{wfilt:subjunktion} ein Komplementierer.
+In (\ref{ex:wa9914}) kommt \textit{obwohl} als Komplementierer vor, auch wenn insgesamt die Struktur nicht grammatisch ist.
+In (\ref{ex:wa9913}) ist \textit{zu} kein Komplementierer, weil die eingeleitete Struktur nicht Definition~\ref{def:nebensatz} erfüllt.
 
 \subsection{Adverben und Partikeln}
 
 \label{sec:adverbenpartikelnwortklassen}
 
 \index{Partikel}
-\WFiltTree{Adverb}{wfilt:advpart}{Partikel\slash Adverb}{Ist das Wort ein Vorfeldbesetzer?}{Adverb}{Partikel}
 
-Es ist zu definieren, was ein Vorfeldbesetzer sein soll.\index{Vorfeld}
+Die Unterscheidung von Adverben und Partikeln ist eine delikate Angelegenheit.
+Syntaktisch gesehen sind Adverben flexibler im Satz positionierbar als Partikeln. 
+Dazu definieren wir zuerst den Begriff \textit{Vorfeldbesetzer} bzw.\ \textit{Vorfeldfähigkeit}.\index{Vorfeld}
 Warum man hier den Terminus \textit{Vorfeld} benutzt, wird in Kapitel~\ref{sec:saetze} genauer erklärt.
-Auch ohne dieses Konzept genau zu kennen, kann das Kriterium definiert werden.
+Auch ohne die zugehörigen Konzepte genau zu kennen, kann das Kriterium aber trotzdem definiert werden.
 
 \Definition{Vorfeldbesetzer\slash Vorfeldfähigkeit}{
 \label{def:vorfeldfaehig}
@@ -647,6 +672,7 @@ Vorfeldbesetzer sind Wörter, die einen unabhängigen Aussagesatz einleiten und 
 }
 
 Auf die in den folgenden Sätzen am Satzanfang stehenden Wörter trifft diese Definition offensichtlich jeweils zu oder nicht zu.
+Das \textit{doch} in Satz (\ref{ex:wa2829d}) soll dabei verstanden werden wie das nicht betonbare \textit{doch} in (\ref{ex:wa282999}).
 
 \begin{exe}
   \ex\label{ex:wa2829}
@@ -657,16 +683,13 @@ Auf die in den folgenden Sätzen am Satzanfang stehenden Wörter trifft diese De
     \ex[*]{Doch ist das aber nicht das Ende der Saison.\label{ex:wa2829d}}
     \ex[*]{Und ist die Saison zuende.}
   \end{xlist}
-\end{exe}
-
-Das \textit{doch} in Satz (\ref{ex:wa2829d}) soll hier gelesen werden wie das nicht betonbare \textit{doch} in (\ref{ex:wa282999}).
-
-\begin{exe}
   \ex\label{ex:wa282999} Das ist aber doch nicht das Ende der Saison.
 \end{exe}
 
 Die Beispiele in (\ref{ex:wa2829}) sind hilfreich für die Klassifizierung der in ihnen vorkommenden satzeinleitenden Wörter.
 \textit{Gestern}, \textit{erfreulicherweise} und \textit{oben} sind gemäß Filter \ref{wfilt:advpart} Adverben, \textit{doch} und \textit{und} jedoch Partikeln.
+
+\WFiltTree{Adverb}{wfilt:advpart}{Partikel\slash Adverb}{Ist das Wort ein Vorfeldbesetzer?}{Adverb}{Partikel}
 
 \subsection{Kopulapartikeln}
 
@@ -674,8 +697,6 @@ Die Beispiele in (\ref{ex:wa2829}) sind hilfreich für die Klassifizierung der i
 
 \index{Adverb}
 \index{Kopulapartikel}
-
-\WFiltTree{Kopulapartikel}{wfilt:advkopulaele}{Partikel}{Tritt das Wort prototypisch mit einem Kopulaverb auf?}{Kopulapartikel}{anderes}
 
 Die Beispielsätze in (\ref{ex:wa2220}) zeigen Kopulapartikeln, die jeweils mit einem sogenannten \textit{Kopulaverb} (KoV) wie \textit{sein}, \textit{bleiben} oder \textit{werden} auftreten.\index{Kopula}
 
@@ -704,26 +725,29 @@ Den Kopulapartikeln fehlt damit jegliche Flektierbarkeit, was der Grund für die
   \end{xlist}
 \end{exe}
 
+\WFiltTree{Kopulapartikel}{wfilt:advkopulaele}{Partikel}{Tritt das Wort prototypisch mit einem Kopulaverb auf?}{Kopulapartikel}{anderes}
+
 \subsection{Satzäquivalente}
 
 \label{sec:satzaequivalentewortklassen}
 
 \index{Satzäquivalent}
 
-\WFiltTree{Satzäquivalent}{wfilt:satzaeq}{anderes aus Filter \ref{wfilt:advkopulaele}}{Ist die Partikel wie ein Satz unabhängig verwendbar?}{Satzäquivalent}{anderes}
-
+Mit den Satzäquivalenten sind wir bei einer relativ kleinen Klasse angekommen, die wahrscheinlich eher für gesprochene Sprache -- zumindest aber für dialogische Sprache -- typisch ist.
 Wörter, die traditionell auch als Interjektionen bezeichnet werden, gehören in die Gruppe der Satzäquivalente, also \textit{Ja!} oder \textit{Ohje!}
+
+\WFiltTree{Satzäquivalent}{wfilt:satzaeq}{anderes aus Filter \ref{wfilt:advkopulaele}}{Ist die Partikel wie ein Satz unabhängig verwendbar?}{Satzäquivalent}{anderes}
 
 \subsection{Konjunktionen}
 
 \label{sec:konjunktionenwortklassen}
 
 \index{Konjunktion}
-\WFiltTree{Konjunktion}{wfilt:konjpart}{anderes aus Filter \ref{wfilt:satzaeq}}{Kann die Partikel zwei gleichartige Konstituenten verbinden?}{Konjunktion}{andere Partikel}
 
 Wie in Kapitel~\ref{sec:konstituentenstruktur} und Kapitel~\ref{sec:phrasen} ausführlich gezeigt wird, können Wörter wie \textit{und} oder \textit{oder} jede Art von syntaktischer Konstituente verbinden (bis auf einige Partikeln).
 Das Ergebnis der Verbindung verhält sich syntaktisch genauso, wie sich auch die verbundenen Konstituenten verhalten.
 Einige Beispiele sind in (\ref{ex:wa7392}) angegeben, die verbundenen Konstituenten stehen jeweils in [~].
+Es handelt sich um Konjunktionen (Filter~\ref{wfilt:konjpart}), traditionell auch \textit{koordinierende Konjunktionen}.
 
 \begin{exe}
   \ex\label{ex:wa7392} 
@@ -734,8 +758,10 @@ Einige Beispiele sind in (\ref{ex:wa7392}) angegeben, die verbundenen Konstituen
   \end{xlist}
 \end{exe}
 
-In der Kategorie der restlichen Partikeln finden sich jetzt Wörter wie \textit{wie}, \textit{als}, \textit{eben} oder \textit{doch}.
-Auch diese verhalten sich unterschiedlich, aber für eine grobe Einteilung können wir an dieser Stelle die Klassifikation abschließen.
+In der übrig bleibenden Kategorie der restlichen Partikeln finden sich jetzt Wörter wie \textit{wie}, \textit{als}, \textit{eben} oder \textit{doch}.
+Auch diese verhalten sich unterschiedlich, aber eine Restmenge bleibt realistisch gesehen immer, und für eine grobe Einteilung können wir an dieser Stelle die Klassifikation abschließen.
+
+\WFiltTree{Konjunktion}{wfilt:konjpart}{anderes aus Filter \ref{wfilt:satzaeq}}{Kann die Partikel zwei gleichartige Konstituenten verbinden?}{Konjunktion}{andere Partikel}
 
 \subsection{Gesamtübersicht}
 
@@ -749,22 +775,22 @@ Im Wesentlichen leistet unsere Klassifikation aber eine Rekonstruktion der tradi
 \newcommand{\Bjn}{\B{dl}_{\textnormal{Ja}}\B{dr}^{\textnormal{Nein}}}
 \newcommand{\Bjnd}{\B{dll}_{\textnormal{Ja}}\B{drr}^{\textnormal{Nein}}}
 
-\begin{figure}[!h]
+\begin{figure}
   \centering
   \resizebox{\textwidth}{!}{
     \Treek[0.5]{2.5}{
     &&&& \K{\textbf{Wort}}\B{d} \\
-    &&&& \K{\fbox{F1 hat \textsc{Numerus}?}}\B{dlll}_{\textnormal{Ja}}\B{drrr}^{\textnormal{Nein}} \\
+    &&&& \K{(F1) hat \textsc{Numerus}?}\B{dlll}_{\textnormal{Ja}}\B{drrr}^{\textnormal{Nein}} \\
     & \K{flektierbar}\B{d} &&&&&& \K{nicht flektierbar}\B{d} \\
-    & \K{\fbox{F2 finit flektierbar?}}\Bjn &&&&&& \K{\fbox{F5 Valenz+Kasusrektion?}}\Bjn \\
+    & \K{(F2) finit flektierbar?}\Bjn &&&&&& \K{(F5) Valenz+Kasusrektion?}\Bjn \\
     \K{\textbf{Verb}} && \K{Nomen}\B{d} &&&& \K{\textbf{Präposition}} && \K{andere}\B{d} \\
-    && \K{\fbox{F3 \textsc{Genus} fest?}}\Bjn &&&&&& \K{\fbox{F6 nebensatzeinleitend?}}\Bjn \\
+    && \K{(F3) \textsc{Genus} fest?}\Bjn &&&&&& \K{(F6) nebensatzeinleitend?}\Bjn \\
     & \K{\textbf{Substantiv}} && \K{andere}\B{d} &&&& \K{\textbf{Komplemen-}}\Below{\textbf{tierer}} && \K{Partikel/Adverb}\B{d} \\
-    &&& \K{\fbox{F4 Stärkeflexion?}}\Bjn &&&&&& \K{\fbox{F7 Vorfeldbesetzer?}}\Bjnd \\
+    &&& \K{(F4) Stärkeflexion?}\Bjn &&&&&& \K{(F7) Vorfeldbesetzer?}\Bjnd \\
     && \K{\textbf{Adjektiv}} && \K{\textbf{Artikel\slash}}\Below{\textbf{Pronomen}} &&& \K{Adverb\slash Kopulapartikel}\B{d} &&&& \K{Partikel}\B{d} \\
-    &&&&&&& \K{\fbox{F8 immer mit KoV?}}\Bjn &&&& \K{\fbox{F9 satzersetzend?}}\Bjn \\
+    &&&&&&& \K{(F8) immer mit KoV?}\Bjn &&&& \K{(F9) satzersetzend?}\Bjn \\
     &&&&&& \K{\textbf{Kopulapartikel}} && \K{\textbf{Adverb}} && \K{\textbf{Satzäquivalent}} && \K{andere}\B{d} \\
-    &&&&&&&&&&&& \K{\fbox{F10 Konstituentenverbinder?}}\Bjn \\
+    &&&&&&&&&&&& \K{(F10) Konstituentenverbinder?}\Bjn \\
     &&&&&&&&&&& \K{\textbf{Konjunktion}} && \K{\textbf{Rest}}
     }
   }

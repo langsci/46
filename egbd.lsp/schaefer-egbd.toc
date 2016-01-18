@@ -218,21 +218,21 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3.6}Präpositionen}{170}{subsection.5.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.7}Komplementierer}{170}{subsection.5.3.7}
+\contentsline {subsection}{\numberline {5.3.7}Komplementierer}{171}{subsection.5.3.7}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3.8}Adverben und Partikeln}{172}{subsection.5.3.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.9}Kopulapartikeln}{173}{subsection.5.3.9}
+\contentsline {subsection}{\numberline {5.3.9}Kopulapartikeln}{174}{subsection.5.3.9}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3.10}Satzäquivalente}{174}{subsection.5.3.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.11}Konjunktionen}{174}{subsection.5.3.11}
+\contentsline {subsection}{\numberline {5.3.11}Konjunktionen}{175}{subsection.5.3.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.12}Gesamtübersicht}{175}{subsection.5.3.12}
+\contentsline {subsection}{\numberline {5.3.12}Gesamtübersicht}{176}{subsection.5.3.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 5}{177}{figure.5.1}
+\contentsline {section}{Zusammenfassung von Kapitel 5}{178}{figure.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 5}{178}{Item.689}
+\contentsline {section}{Übungen zu Kapitel 5}{179}{Item.689}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}Morphologie}{181}{chapter.6}
 \defcounter {refsection}{0}\relax 
