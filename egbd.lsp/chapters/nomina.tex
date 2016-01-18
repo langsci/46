@@ -479,7 +479,7 @@ Die Merkmalsnotation wird benutzt, wenn die formale Notation für die Argumentat
     \Treek[1]{3}{
       && \K{\textbf{Mask}}\B{dll}\B{d}\B{drr}\B{drrrr} && \K{\textbf{Neut}}\B{dll}\B{d}\B{drr} &&&& \K{\textbf{Fem}}\B{d}\B{dll} \\
       \K{\textbf{schwach} (S1)} && \K{\textbf{stark} (S2)}\Bdash{dl}\Bdash{d}\Bdash{dr} && \K{\textbf{gemischt} (S3)} && \K{\textbf{\textit{s}-Flexion} (S5)} && \K{S4}\Bdash{dl}\Bdash{dr}\\
-      & \K{Plural}\Below{\textit{\~-e} (S2a)} & \K{Plural}\Below{\textit{-e} (S2b)} & \K{Plural}\Below{\textit{\~-er} (S2c)} &&&& \K{Plural}\Below{\textit{-en} (S4a)} && \K{Plural}\Below{\~-e (S4b)} \\
+      & \K{Plural}\Below{\textit{\char`~e} (S2a)} & \K{Plural}\Below{\textit{-e} (S2b)} & \K{Plural}\Below{\textit{\char`~er} (S2c)} &&&& \K{Plural}\Below{\textit{-en} (S4a)} && \K{Plural}\Below{\char`~e (S4b)} \\
     }
   }
   \caption{Traditionelle Flexionsklassen der Substantive}
@@ -490,7 +490,7 @@ Rein formal lassen sich die traditionellen Flexionsklassen der Substantive zunä
 Zusätzlich gibt es eine Klasse, die wir hier \textit{s}-Flexion nennen wollen, und in die Substantive aus allen Genera fallen.
 Abbildung~\ref{fig:substflexklassen} zeigt die Zusammenhänge, wobei die gestrichelten Linien Subklassifizierungen andeuten.
 Einen Überblick über die wichtigen Flexionsmuster gibt Tabelle~\ref{tab:tradflexsubst}.
-Wir benutzen \textit{\~-} als Zeichen, dass ein Suffix den Umlaut auslöst, wenn der Stammvokal umlautfähig ist.
+Wir benutzen \textit{\char`~} als Zeichen, dass ein Suffix den Umlaut auslöst, wenn der Stammvokal umlautfähig ist.
 In Tabelle~\ref{tab:tradflexsubst} ist der Typ S2b (\textit{Gurt}, \textit{Schaf}) nicht extra aufgeführt, weil er sich von S2a (\textit{Stuhl}, \textit{Floß}) nur durch das Fehlen des Umlauts im Plural unterscheidet.
 
 \index{Substantiv!Stärke}
@@ -529,7 +529,7 @@ Der Entscheidungsbaum in Abbildung~\ref{fig:substklassentsch} zeigt, wie die Hau
   \Treek[2]{4}{
     && \K{Genus?}\QQw\DLqQ_{\textnormal{Mask}}^{\textnormal{Neut}}\DRq^{\textnormal{Fem}}\\
     & \K{Gen Sg?}\QQw\DLq_{\textnormal{\textit{-(e)n}}}\DRqQ^{\textnormal{\textit{-(e)s}}} && \K{\textbf{Fem}}\Below{(S4)} \\
-    \K{\textbf{schwach}}\Below{(S1)} && \K{Nom Pl?}\QQw\DRq^{\textnormal{\textit{-(e)n}}}\DLq_{\textnormal{\textit{\~-e\slash-e}}}^{\textnormal{\textit{\~-er}}} && \\
+    \K{\textbf{schwach}}\Below{(S1)} && \K{Nom Pl?}\QQw\DRq^{\textnormal{\textit{-(e)n}}}\DLq_{\textnormal{\textit{\char`~e\slash-e}}}^{\textnormal{\textit{\char`~er}}} && \\
     & \K{\textbf{stark}}\Below{(S2)} && \K{\textbf{gemischt}}\Below{(S3)} \\ 
   }
   \caption{Entscheidungsbaum für die Flexionsklassenzugehörigkeit}
@@ -543,7 +543,7 @@ Zusammengefasst lässt sich aus Abbildung~\ref{fig:substklassentsch} als Faustre
     Genitiv Singular \textit{-en}: schwach
   \ex\label{ex:wuppdich2} Maskulinum\slash Neutrum
   \begin{xlist}
-    \ex\label{ex:wuppdich2a} Genitiv Singular \textit{-es}, Nominativ Plural \textit{\~-e}/\textit{-e}/\textit{\~-er}: stark
+    \ex\label{ex:wuppdich2a} Genitiv Singular \textit{-es}, Nominativ Plural \textit{\char`~e}/\textit{-e}/\textit{\char`~er}: stark
     \ex\label{ex:wuppdich2b} Genitiv Singular \textit{-es}, Nominativ Plural \textit{-en}: gemischt
   \end{xlist}
 \end{exe}
@@ -606,7 +606,7 @@ Der Vergleich dieser Tabelle mit Tabelle~\ref{tab:tradflexsubst} zeigt Einheitli
       \textbf{Klasse} && Mask schwach && \multicolumn{3}{l}{Mask\slash Neut stark} && Mask\slash Neut gem. && \multicolumn{2}{l}{Fem} && \textit{s}-Flexion \\
       \textbf{Nummer} && S1 && S2a & S2b & S2c && S3 && S4a & S4b && S5 \\
       \midrule
-      \textbf{Markierung} && \textbf{-en} && \textbf{\~-e} & \textbf{-e} & \textbf{\~-er} && \textbf{-en} && \textbf{-en} & \textbf{\~-e} && \textbf{-s} \\
+      \textbf{Markierung} && \textbf{-en} && \textbf{\char`~e} & \textbf{-e} & \textbf{\char`~er} && \textbf{-en} && \textbf{-en} & \textbf{\char`~e} && \textbf{-s} \\
       \textbf{Beispiel} && Mensch-en && Stühl-e & Gurt-e & Häus-er && Staat-en && Frau-en & Säu-e && Auto-s \\
       \lspbottomrule
     \end{tabular}
@@ -616,7 +616,7 @@ Der Vergleich dieser Tabelle mit Tabelle~\ref{tab:tradflexsubst} zeigt Einheitli
 \end{table}
 
 Es handelt sich in allen Fällen um Bildungen mittels Affixen.
-Die prototypische (und häufigste) Pluralbildung ist bei den Maskulina und Neutra die auf \textit{\~-e} (seltener ohne Umlaut \textit{-e}) und bei den Feminina die auf \textit{-en}.
+Die prototypische (und häufigste) Pluralbildung ist bei den Maskulina und Neutra die auf \textit{\char`~e} (seltener ohne Umlaut \textit{-e}) und bei den Feminina die auf \textit{-en}.
 
 Einige weitere scheinbare Untertypen der Pluralbildung ergeben sich, wenn Pluralbildungen wie in Tabelle~\ref{tab:schwaimplural} hinzugezogen werden.
 Diese Fälle sind bisher (vor allem in Tabelle~\ref{tab:tradflexsubst}) noch nicht erwähnt worden.
@@ -643,7 +643,7 @@ Die schwachen Substantive sollen wieder zunächst ignoriert werden.
 \index{Schwa!Tilgung!Substantiv}
 Diese vermeintlichen Ausnahmen oder Unterklassen sind nicht zufällig verteilt und können nach einer einfachen Regel vorhergesagt werden.
 Das Plural-Affix ist bei \textit{Löwe}, \textit{Ende} und \textit{Nudel} jeweils nicht \textit{-en}, sondern \textit{-n}.
-Bei \textit{Mütter} tritt zwar der Umlaut ein, aber die Endung \textit{\~-e} wird nicht suffigiert.
+Bei \textit{Mütter} tritt zwar der Umlaut ein, aber die Endung \textit{\char`~e} wird nicht suffigiert.
 Hinzu kommen noch Wörter wie \textit{Läufer}, die in den Tabellen nicht vorkommen, die gar kein Pluralkennzeichen zu haben scheinen.
 Man kann in diesen Fällen davon ausgehen, dass das Schwa des Suffixes (also \textit{-e} mit oder ohne Umlaut bzw.\ \textit{-en}) jeweils aus phonotaktischen Gründen ausfällt, nämlich um Doppelungen von Schwa zu vermeiden.
 Die Formen mit direkter Abfolge von zwei Schwas \textit{\Ast Löwe-en} und \textit{\Ast Ende-en} sind im Deutschen phonotaktisch sogar vollständig ausgeschlossen.
@@ -862,7 +862,7 @@ Wenn man sich nun abschließend fragt, was von dem eher traditionellen Klassensy
 
 \begin{enumerate}\Lf
   \item die sogenannten schwachen Substantive eine Sonderklasse bilden,
-  \item\label{it:pluralklass} alle anderen Substantivklassen lediglich nach ihrer Pluralbildung unterschieden werden, wobei \textit{\~-e} (oder \textit{-e}) prototypisch für die Maskulina und Neutra ist und \textit{-en} prototypisch für die Feminina ist,\index{Numerus}
+  \item\label{it:pluralklass} alle anderen Substantivklassen lediglich nach ihrer Pluralbildung unterschieden werden, wobei \textit{\char`~e} (oder \textit{-e}) prototypisch für die Maskulina und Neutra ist und \textit{-en} prototypisch für die Feminina ist,\index{Numerus}
   \item\label{it:kaskeineklass} Kasus keine Subklassen definiert, weil er völlig regelhaft (teilweise abhängig vom Genus) gebildet wird.\index{Genus}
 \end{enumerate}
 
@@ -879,7 +879,7 @@ Die Benennung ist also ausgesprochen irreführend.}
   \Treek[3]{4}{
     && \K{Substantive}\B{dll}\B{d}\\
     \K{\textit{en}"=Maskulina}\Below{(besonderes Muster)} && \K{allgemeines Muster, subklassifiziert}\Below{nur nach Pluralbildung}\Bbel{dl}\Bbel{d}\Bbel{dr}\Bbel{drr} \\
-    & \K{\textit{\~-er}}\Below{(nur M/N)} & \K{\textit{\~-e}\slash\textit{-e}}\Below{(M/N-Prototyp)} & \K{\textit{-en}}\Below{(F-Prototyp)} & \K{\textit{-s}} \\
+    & \K{\textit{\char`~er}}\Below{(nur M/N)} & \K{\textit{\char`~e}\slash\textit{-e}}\Below{(M/N-Prototyp)} & \K{\textit{-en}}\Below{(F-Prototyp)} & \K{\textit{-s}} \\
   }
   \caption{Reduzierte Klassifikation der Substantive}
   \label{fig:neuenklassen}
