@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  18 JAN 2016 19:52
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  19 JAN 2016 14:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2658,13 +2658,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `LinLibertine_R_B.otf' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-[29]
-Overfull \hbox (2.5379pt too wide) in paragraph at lines 575--582
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Grundkonsens existierenden Grammatiken, 
-so dass eine eigene Empirie hier nicht
- []
-
-[30] [31] [32] [33] [34]) [35
+[29] [30] [31] [32] [33] [34]) [35
 
 ]
 \openout2 = `chapters/grundbegriffe.aux'.
@@ -2945,12 +2939,6 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 111--112
  []
 
 [102]
-Overfull \hbox (1.53773pt too wide) in paragraph at lines 136--149
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 entsprechende Strukturbedingung wäre, da
-ss Obstruenten stimmhaften sein müs-
- []
-
-
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 156--157
 [][][][][][]
  []
@@ -2986,12 +2974,6 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 413--414
  []
 
 [110]
-Overfull \hbox (37.46191pt too wide) in paragraph at lines 431--433
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Abschnitt []2.2.3[]). Die Wörter in ([]1
-6[]) sind Phantasiewörter in Pseudo-Standardorthographie
- []
-
-
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 451--452
 [][][][][][]
  []
@@ -3013,106 +2995,106 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 562--563
  []
 
 <xymatrix 3x3 308> <xymatrix 7x4 694> [115] [116] [117] [118]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 713--714
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 714--715
 [][][][][][]
  []
 
 [119] [120] [121]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 863--864
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 864--865
 [][][][][][]
  []
 
 [122]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 872--873
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 873--874
 [][][][][][]
  []
 
 <xymatrix 5x5 566>
-Overfull \hbox (2.01036pt too wide) in paragraph at lines 969--975
+Overfull \hbox (2.01036pt too wide) in paragraph at lines 970--976
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Was die Sonorität aus phonetisch-artik
 ulatorischer (oder perzeptorischer) Sicht
  []
 
 [123] [124] <xymatrix 4x9 810> [125]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1042--1043
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1043--1044
 [][][][][][]
  []
 
 [126] <xymatrix 5x9 1151> [127] <xymatrix 4x8 867> [128] [129]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1181--1182
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1182--1183
 [][][][][][]
  []
 
 [130]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1196--1197
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1197--1198
 [][][][][][]
  []
 
 [131]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1237--1238
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1238--1239
 [][][][][][]
  []
 
 [132]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1249--1250
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1250--1251
 [][][][][][]
  []
 
 [133]
-Overfull \hbox (11.78598pt too wide) in paragraph at lines 1292--1295
+Overfull \hbox (11.78598pt too wide) in paragraph at lines 1293--1296
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Die inkorrekten Silbifizierungen in ([
 ]39[]) enthalten keine Silben, die in sich schlecht
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1298--1299
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1299--1300
 [][][][][][]
  []
 
 
-Overfull \hbox (0.96379pt too wide) in paragraph at lines 1300--1302
+Overfull \hbox (0.96379pt too wide) in paragraph at lines 1301--1303
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 weitgehend richtig silbifizieren und die
  möglichen Silbentypen kompakt beschrei-
  []
 
 
-Overfull \hbox (1.74762pt too wide) in paragraph at lines 1300--1302
+Overfull \hbox (1.74762pt too wide) in paragraph at lines 1301--1303
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ben. Wenn doch Zweifelsfälle entstehen, 
 helfen vollständigere Grammatiken oder
  []
 
 [134]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1345--1346
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1346--1347
 [][][][][][]
  []
 
 [135] [136]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1412--1413
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1413--1414
 [][][][][][]
  []
 
 [137]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1420--1421
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1421--1422
 [][][][][][]
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1446--1447
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1447--1448
 [][][][][][]
  []
 
 [138] [139]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1527--1528
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1528--1529
 [][][][][][]
  []
 
 [140]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1549--1550
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1550--1551
 [][][][][][]
  []
 
 [141]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1564--1565
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1565--1566
 [][][][][][]
  []
 
@@ -3297,57 +3279,57 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 168--169
  []
 
 [185]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 176--177
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 177--178
 [][][][][][]
  []
 
 [186] [187] [188]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 302--303
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 301--302
 [][][][][][]
  []
 
 [189]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 379--380
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 378--379
 [][][][][][]
  []
 
 [190]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 405--406
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 404--405
 [][][][][][]
  []
 
 [191]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 445--446
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 444--445
 [][][][][][]
  []
 
-[192] [193] <xymatrix 4x4 534> <xymatrix 4x4 534> [194]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 543--544
+[192] <xymatrix 4x4 534> <xymatrix 4x4 534> [193] [194]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 542--543
 [][][][][][]
  []
 
 [195]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 562--563
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 561--562
 [][][][][][]
  []
 
 [196]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 604--605
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 603--604
 [][][][][][]
  []
 
-[197]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 614--615
+
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 613--614
 [][][][][][]
  []
 
-[198]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 640--641
+[197] [198]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 639--640
 [][][][][][]
  []
 
 [199] [200]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 733--734
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 732--733
 [][][][][][]
  []
 
@@ -3411,13 +3393,13 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 365--366
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [222] [223]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 533--534
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 531--532
 [][][][][][]
  []
 
 [224] [225] [226] [227] [228]
 LaTeX Font Info:    Font shape `EU1/DejaVuSansMono.ttf(0)/m/n' will be
-(Font)              scaled to size 7.09305pt on input line 742.
+(Font)              scaled to size 7.09305pt on input line 740.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `DejaVuSansMono.ttf' (encoding: EU1).
 (microtype)             For optimal results, create family-specific settings.
@@ -4701,7 +4683,7 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 Here is how much of TeX's memory you used:
  49393 strings out of 494865
  863667 string characters out of 6167200
- 1410037 words of memory out of 5000000
+ 1410038 words of memory out of 5000000
  51777 multiletter control sequences out of 15000+600000
  20243 words of font info for 151 fonts, out of 8000000 for 9000
  440 hyphenation exceptions out of 8191

@@ -180,9 +180,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.4}Phone und Phoneme}{141}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 4}{145}{Item.535}
+\contentsline {section}{Zusammenfassung von Kapitel 4}{145}{Item.536}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 4}{146}{Item.545}
+\contentsline {section}{Übungen zu Kapitel 4}{146}{Item.546}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Weiterführende Literatur zu II}{147}{Exer.4.7}
 \defcounter {refsection}{0}\relax 
@@ -232,7 +232,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Zusammenfassung von Kapitel 5}{178}{figure.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 5}{179}{Item.689}
+\contentsline {section}{Übungen zu Kapitel 5}{179}{Item.690}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}Morphologie}{181}{chapter.6}
 \defcounter {refsection}{0}\relax 
@@ -252,19 +252,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.2.2}Strukturformat}{193}{subsection.6.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Flexion und Wortbildung}{195}{section.6.3}
+\contentsline {section}{\numberline {6.3}Flexion und Wortbildung}{194}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.1}Statische Merkmale}{195}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.1}Statische Merkmale}{194}{subsection.6.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.2}Wortbildung und Flexion}{196}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.2}Wortbildung und Flexion}{195}{subsection.6.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.3.3}Lexikonregeln}{199}{subsection.6.3.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.4}Morpheme und Allomorphe}{200}{section.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 6}{206}{Item.830}
+\contentsline {section}{Zusammenfassung von Kapitel 6}{206}{Item.831}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 6}{207}{Item.840}
+\contentsline {section}{Übungen zu Kapitel 6}{207}{Item.841}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {7}Wortbildung}{209}{chapter.7}
 \defcounter {refsection}{0}\relax 
@@ -302,9 +302,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.3.4}Mehrfachsuffigierung}{227}{subsection.7.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 7}{230}{Item.949}
+\contentsline {section}{Zusammenfassung von Kapitel 7}{230}{Item.950}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 7}{231}{Item.959}
+\contentsline {section}{Übungen zu Kapitel 7}{231}{Item.960}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {8}Nominalflexion}{233}{chapter.8}
 \defcounter {refsection}{0}\relax 
@@ -360,9 +360,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {8.4.3.2}Form der Komparationsstufen}{273}{subsubsection.8.4.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 8}{276}{Item.1217}
+\contentsline {section}{Zusammenfassung von Kapitel 8}{276}{Item.1218}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 8}{277}{Item.1227}
+\contentsline {section}{Übungen zu Kapitel 8}{277}{Item.1228}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {9}Verbalflexion}{279}{chapter.9}
 \defcounter {refsection}{0}\relax 
@@ -422,7 +422,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Zusammenfassung von Kapitel 9}{313}{figure.9.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 9}{314}{Item.1366}
+\contentsline {section}{Übungen zu Kapitel 9}{314}{Item.1367}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Weiterführende Literatur zu III}{316}{Exer.9.6}
 \defcounter {refsection}{0}\relax 
@@ -460,7 +460,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Zusammenfassung von Kapitel 10}{346}{dgsatz.10.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 10}{347}{Item.1476}
+\contentsline {section}{Übungen zu Kapitel 10}{347}{Item.1477}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {11}Phrasen}{349}{chapter.11}
 \defcounter {refsection}{0}\relax 
@@ -500,7 +500,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Zusammenfassung von Kapitel 11}{382}{figure.11.41}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 11}{383}{Item.1639}
+\contentsline {section}{Übungen zu Kapitel 11}{383}{Item.1640}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {12}Sätze}{385}{chapter.12}
 \defcounter {refsection}{0}\relax 
@@ -548,9 +548,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {12.4.3}Adverbialsätze}{414}{subsection.12.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 12}{417}{Item.1823}
+\contentsline {section}{Zusammenfassung von Kapitel 12}{417}{Item.1824}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 12}{418}{Item.1833}
+\contentsline {section}{Übungen zu Kapitel 12}{418}{Item.1834}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {13}Relationen und Prädikate}{421}{chapter.13}
 \defcounter {refsection}{0}\relax 
@@ -604,11 +604,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {13.10}Bindung}{463}{section.13.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 13}{467}{Item.2145}
+\contentsline {section}{Zusammenfassung von Kapitel 13}{467}{Item.2146}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 13}{469}{Item.2160}
+\contentsline {section}{Übungen zu Kapitel 13}{469}{Item.2161}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Weiterführende Literatur zu IV}{472}{Item.2223}
+\contentsline {chapter}{Weiterführende Literatur zu IV}{472}{Item.2224}
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{\numberline {V}Sprache und Schrift}{475}{part.5}
 \defcounter {refsection}{0}\relax 
@@ -642,9 +642,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {14.4}Ausblick auf den Nicht-Kernwortschatz}{500}{section.14.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 14}{503}{Item.2243}
+\contentsline {section}{Zusammenfassung von Kapitel 14}{503}{Item.2244}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 14}{504}{Item.2253}
+\contentsline {section}{Übungen zu Kapitel 14}{504}{Item.2254}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {15}Morphologische und syntaktische Schreibprinzipien}{507}{chapter.15}
 \defcounter {refsection}{0}\relax 
@@ -668,9 +668,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {15.2.3}Nebensätze und Verwandtes}{523}{subsection.15.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 15}{526}{Item.2337}
+\contentsline {section}{Zusammenfassung von Kapitel 15}{526}{Item.2338}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 15}{527}{Item.2348}
+\contentsline {section}{Übungen zu Kapitel 15}{527}{Item.2349}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Weiterführende Literatur zu V}{528}{Exer.15.3}
 \defcounter {refsection}{0}\relax 
