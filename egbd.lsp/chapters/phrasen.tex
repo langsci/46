@@ -15,7 +15,7 @@ Der Baum baut sich über dem Kopf gerade nach oben auf, zu ihm dependente Konsti
 Insgesamt kann so in der praktischen Analyse immer mit einem linear aufgeschriebenen Satz begonnen werden, über dem dann der Baum konstruiert wird.
 In Abschnitt~\ref{sec:syntaxana} wird zum Schluss dieses Kapitels noch eine kleine Anleitung gegeben, wie Analysen von Konstituentenstrukturen in diesem Sinn systematisch konstruiert werden können.
 
-\begin{figure}[h!]
+\begin{figure}
   \centering
   \Tree[1.5]{
     \K{PP}\B{dd}\B{drr} &&&& \\
@@ -43,7 +43,7 @@ Das erste Schema beschreibt Strukturen mit Konjunktionen wie \textit{und} oder \
 \index{Konjunktion}
 
 \Phrasenschema{Koordination}{\label{str:koor}
-  \begin{tabular}[h!]{c|c|c|c|}
+  \begin{tabular}{c|c|c|c|}
     \cline{2-4}
     $\alpha$ = & $\alpha$ & ( Konj ) & $\alpha$ \\
     \cline{2-4}
@@ -71,7 +71,7 @@ Die koordinierten Teilstrukturen werden an dieser Stelle dabei jeweils nicht wei
   \end{xlist}
 \end{exe}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     & \K{\textbf{N}}\B{dl}\B{d}\B{dr} & \\
@@ -82,7 +82,7 @@ Die koordinierten Teilstrukturen werden an dieser Stelle dabei jeweils nicht wei
   \label{fig:koorsubst}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&& \K{S}\B{dll}\B{d}\B{drr} \\
@@ -93,7 +93,7 @@ Die koordinierten Teilstrukturen werden an dieser Stelle dabei jeweils nicht wei
   \label{fig:koorsatz}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     & \K{\textbf{P}}\B{dl}\B{d}\B{dr} \\
@@ -135,7 +135,7 @@ In unserer Auffassung ist der Attributsbegriff also ein struktureller und kein f
 
 \Phrasenschema{Nominalphrase (NP)}{\label{str:ngr}
     NP = \\
-    \begin{tabular}[h!]{|c|c|c|c|c|}
+    \begin{tabular}{|c|c|c|c|c|}
       \cline{1-5}
       ( Art\ \slash\ NP[\textsc{Kas}:\textit{gen}] ) & ( AP )* & \textbf{N} & ( innere Rechtsattribute )* & ( RS )* \\
       \cline{1-5}
@@ -176,7 +176,7 @@ Im Bereich der inneren Rechtsattribute und der Relativsätze gibt es auch viele 
   \end{xlist}
 \end{exe}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     \K{NP}\B{d} \\
@@ -187,7 +187,7 @@ Im Bereich der inneren Rechtsattribute und der Relativsätze gibt es auch viele 
   \label{fig:pronngr1}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     \K{NP}\B{d}\B{drr} \\
@@ -203,7 +203,7 @@ Offensichtlich ist allein die Existenz dieser minimalen Struktur Grund genug, an
 In den folgenden Unterabschnitten werden die einzelnen Attribute und die Artikel diskutiert.
 Die Relativsätze werden später in Abschnitt~\ref{sec:relativsaetze} besprochen.
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     \K{NP}\B{d} & \\
@@ -229,7 +229,7 @@ Da wir PP-Strukturen noch nicht analysiert haben (s.\ Abschnitt~\ref{sec:prpgr})
   \end{xlist}
 \end{exe}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree[0.5]{
     \K{NP}\B{d}\B{drr} & \\
@@ -240,7 +240,7 @@ Da wir PP-Strukturen noch nicht analysiert haben (s.\ Abschnitt~\ref{sec:prpgr})
   \label{fig:ngrmitprpgr}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     \K{NP}\B{d}\B{drr} & \\
@@ -268,7 +268,7 @@ Neben der PP mit \textit{von} können aber viele andere Arten von PPs (und auch 
   \end{xlist}
 \end{exe}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     \K{NP}\B{d}\B{drr}\B{drrrr} \\
@@ -357,7 +357,7 @@ Ausführliches zur Artikelposition folgt in Abschnitt~\ref{sec:adjektiveundartik
   \end{xlist}
 \end{exe}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&& \K{NP}\B{dll}\B{d}\B{drr}\B{drrrr} \\
@@ -477,7 +477,7 @@ Beide sind völlig unabhängig voneinander.
   \end{xlist}
 \end{exe}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&& \K{NP}\B{dll}\B{d}\B{drr} \\
@@ -488,7 +488,7 @@ Beide sind völlig unabhängig voneinander.
   \label{fig:grp0718a}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&&&& \K{NP}\B{dllll}\B{dll}\B{d} \\
@@ -504,7 +504,7 @@ Man könnte alternativ auch versuchen, das Vorhandensein mehrerer APs in der NP 
 Diese Struktur ist in Abbildung~\ref{fig:ngradjkonj} gegeben, wo informell die fehlende Konjunktion mit einem Komma angezeigt wird.
 Das Adjektiv \textit{ehemalig} wurde bewusst gegen \textit{nett} ausgetauscht.
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&&&&&&& \K{NP}\B{dllll}\B{dd} \\
@@ -541,7 +541,7 @@ Schließlich können optional noch Artikelwörter oder NPs im Genitiv ganz links
   \end{xlist}
 \end{exe}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&&& \K{NP}\B{dllll}\B{dll}\B{d}\B{drr}\B{drrrr} \\
@@ -558,7 +558,7 @@ Dank der Weglassbarkeit aller Teile der Phrase zwischen Artikel und Substantiv w
   \ex{\label{ex:artsubst} Man hat [einige Zahnbürsten] im Hotel gefunden.}
 \end{exe}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     && \K{NP}\B{dll}\B{d} \\
@@ -615,7 +615,7 @@ Die Beispiele machen diese Verhältnisse deutlich, zunächst folgt aber das Phra
 
 \Phrasenschema{Adjektivphrase (AP)}{\label{str:agr}
 
-    \begin{tabular}[h!]{c|c|c|c|}
+    \begin{tabular}{c|c|c|c|}
       \cline{2-4}
       AP = & ( NP / PP / AdvP )* & ( Intensivierungs-Ptkl ) & \textbf{A} \\
       \cline{2-4}
@@ -670,7 +670,7 @@ Ein Analyse findet sich in Abbildung~\ref{fig:adgrnormalana}.
   \end{xlist}
 \end{exe}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&&&& \K{AP}\B{dll}\B{dllll}\B{d} \\
@@ -683,7 +683,7 @@ Ein Analyse findet sich in Abbildung~\ref{fig:adgrnormalana}.
 
 Eine maximale Beispielanalyse, die einen Modifikator (\textit{seit gestern}), eine Ergänzung (die PP \textit{auf ihre Tochter}) und einen Intensivierer (\textit{sehr}) zeigt, ist in Abbildung~\ref{fig:adjgrziemlichvoll} dargestellt.
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&&&&&& \K{AP}\B{dllllll}\B{dllll}\B{dll}\B{d} \\
@@ -703,7 +703,7 @@ Eine maximale Beispielanalyse, die einen Modifikator (\textit{seit gestern}), ei
 \index{Präpositionalphrase}
 
 \Phrasenschema{Präpositionalphrase (PP)}{\label{str:prpgr}
-  \begin{tabular}[h!]{c|c|c|c|}
+  \begin{tabular}{c|c|c|c|}
     \cline{2-4} 
     PP = & ( NP / PP / AP / AdvP / Ptkl ) & \textbf{P} & NP \\
     \cline{2-4} 
@@ -724,7 +724,7 @@ Einen Modifikator in Form eines Adjektivs (\textit{weit}) zeigt (\ref{ex:prpgrin
   \end{xlist}
 \end{exe}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&& \K{PP}\B{dll}\B{d}\B{drr} \\
@@ -739,7 +739,7 @@ Einen Modifikator in Form eines Adjektivs (\textit{weit}) zeigt (\ref{ex:prpgrin
   \ex{\label{ex:prpgrintensiv} Seit den London Masters spielt Carter [weit unter [seinem Niveau]].}
 \end{exe}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     & \K{PP}\B{dl}\B{d}\B{drr} \\
@@ -759,7 +759,7 @@ Ein Beispiel ist (\ref{ex:postpos}), wobei bei \textit{wegen} sowohl eine präpo
   \ex{\label{ex:postpos} [[Der Sprechstunde] wegen] habe ich mein Training verpasst.}
 \end{exe}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&& \K{PP}\B{dll}\B{d} \\
@@ -780,7 +780,7 @@ Einen Problemfall stellen die flektierbaren Präpositionen wie \textit{zur}, \te
 Die einfachste Möglichkeit wäre, sie nicht als eine, sondern zwei Wortformen zu analysieren.
 Das sähe dann aus wie in Abbildung~\ref{fig:flektprpreanalyse}.
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     \K{PP}\B{dd}\B{drr} \\
@@ -798,7 +798,7 @@ Außerdem werden in dieser die \textsc{Genus}- und \textsc{Numerus}-Werte der NP
 Eine solche Analyse wird in \ref{fig:flektprpalswortform} gezeigt.
 Wir entscheiden uns hier für diese Variante.
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     \K{PP}\B{dd}\B{dr} \\
@@ -817,14 +817,14 @@ Wir entscheiden uns hier für diese Variante.
 \index{Adverbphrase}
 
 \Phrasenschema{Adverbphrase (AdvP)}{\label{str:advgr}
-  \begin{tabular}[h!]{c|c|c|}
+  \begin{tabular}{c|c|c|}
     \cline{2-3}
     AdvP = & ( NP / PP / AdvP / Ptkl ) & \textbf{Adv} \\
     \cline{2-3} 
   \end{tabular}
 }
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&& \K{AdvP}\B{dll}\B{d} \\
@@ -854,7 +854,7 @@ Auch bei ihnen sind Maßangaben und andere Modifikatoren möglich, wie in (\ref{
 \index{Komplementiererphrase}
 
 \Phrasenschema{Komplementiererphrase (KP)}{\label{str:subjgr}
-  \begin{tabular}[h!]{c|c|c|}
+  \begin{tabular}{c|c|c|}
     \cline{2-3}
     KP = & \textbf{K} & VP \\
     \cline{2-3} 
@@ -873,7 +873,7 @@ Jeder Komplementierer K verlangt immer eine VP (s.\ Abschnitt~\ref{sec:vgr}), wa
   \end{xlist}
 \end{exe}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     \K{KP}\B{d}\B{drr} \\
@@ -919,7 +919,7 @@ Zahlreiche Beispiele folgen nach den Phrasenschemata.
 \index{Verbphrase}
 
 \Phrasenschema{Verbphrase (VP)}{\label{str:vgr}
-  \begin{tabular}[h!]{c|c|c|}
+  \begin{tabular}{c|c|c|}
     \cline{2-3}
     VP = & ( NP / PP / AdvP / Ptkl )* & \textbf{V} \\
     \cline{2-3}
@@ -929,7 +929,7 @@ Zahlreiche Beispiele folgen nach den Phrasenschemata.
 \index{Verbalkomplex}
 
 \Phrasenschema{Verbalkomplex (V)}{\label{str:vk}
-  \begin{tabular}[h!]{c|c|c|}
+  \begin{tabular}{c|c|c|}
     \cline{2-3}
     V = & ( V ) & \textbf{V} \\
     \cline{2-3}
@@ -967,7 +967,7 @@ Wenn wir fürs Erste auch den Verbalkomplex nicht genauer betrachten, sondern nu
 \end{xlist} 
 \end{exe}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&& \K{VP}\B{dll}\B{d} \\
@@ -978,7 +978,7 @@ Wenn wir fürs Erste auch den Verbalkomplex nicht genauer betrachten, sondern nu
   \label{fig:vgreinstellig}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&&&& \K{VP}\B{dllll}\B{dll}\B{d} \\
@@ -989,7 +989,7 @@ Wenn wir fürs Erste auch den Verbalkomplex nicht genauer betrachten, sondern nu
   \label{fig:vgrzweistellig}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&&&&&& \K{VP}\B{dllllll}\B{dllll}\B{dll}\B{d} \\
@@ -1000,7 +1000,7 @@ Wenn wir fürs Erste auch den Verbalkomplex nicht genauer betrachten, sondern nu
   \label{fig:vgrdreistellig}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}
   \resizebox{\textwidth}{!}{
     \Tree[0.1]{
       &&&&&&&&&&&&& \K{VP}\B{ddllllllllllll}\B{ddllllllllll}\B{ddllllllll}\B{ddllllll}\B{ddllll}\B{ddll}\B{dd} \\
@@ -1059,7 +1059,7 @@ Da man zwei oder mehr Verben im Verbalkomplex kombinieren kann, ist das Schema f
 In den Abbildungen~\ref{fig:vkomplex0}--\ref{fig:vkomplex3} folgen nun also die Analysen der Verbalkomplexe aus (\ref{ex:auxinf}) mit einer zusätzlichen Numerierung, die im Folgenden sofort erklärt wird.
 Außerdem werden die Rektionspfeile gesetzt, um die Verhältnisse zu verdeutlichen.
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     \K{\textbf{V}}\B{d} \\
@@ -1069,7 +1069,7 @@ Außerdem werden die Rektionspfeile gesetzt, um die Verhältnisse zu verdeutlich
   \label{fig:vkomplex0}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&& \K{\textbf{V}}\B{dll}\B{d} \\
@@ -1081,7 +1081,7 @@ Außerdem werden die Rektionspfeile gesetzt, um die Verhältnisse zu verdeutlich
   \label{fig:vkomplex1}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&& \K{\textbf{V}}\B{dll}\B{d} \\
@@ -1093,7 +1093,7 @@ Außerdem werden die Rektionspfeile gesetzt, um die Verhältnisse zu verdeutlich
   \label{fig:vkomplex2}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&&&& \K{\textbf{V}}\B{dll}\B{dd} \\
@@ -1140,7 +1140,7 @@ Dass dann in (\ref{ex:auxinfc}) bzw.\ Abbildung~\ref{fig:vkomplex3} \textit{kauf
   \end{xlist}
 \end{exe}
 
-\begin{figure}[h]
+\begin{figure}
   \centering
   \Tree{
     &&&&&&&&& \K{VP}\B{ddddllllllll}\B{ddddllllll}\B{dd} \\
@@ -1200,7 +1200,7 @@ Der Ablauf einer solchen Analyse wird jetzt anhand der KP in (\ref{ex:phrasen237
 
 Zunächst muss gemäß Punkt~\ref{it:sya01} aus Satz~\ref{satz:syntaxana} für jedes Wort die Wortklasse bestimmt werden, s.\ Abbildung~\ref{fig:sya01}.
 
-\begin{figure}[h!]
+\begin{figure}
 %  \resizebox{\textwidth}{!}{
     \Tree[1.25]{
       \K{K}\B{d} & \K{N}\B{d} & \K{Art}\B{d} & \K{A}\B{d} & \K{N}\B{d} & \K{Adv}\B{d} & \K{V}\B{d} & \K{V}\B{d} \\
@@ -1219,7 +1219,7 @@ Gemäß Strukturschema \ref{str:agr} kann vor einem Adjektiv in einer AP dabei n
 Da vor dem Adjektiv ein Artikel steht, können wir sicher sein, dass die AP hier nur aus dem Adjektiv besteht.
 Eine ähnliche Schlussfolgerung kann für das Adverb \textit{gerne} getroffen werden, und wir erhalten Abbildung~\ref{fig:sya02}.
 
-\begin{figure}[h!]
+\begin{figure}
 %  \resizebox{\textwidth}{!}{
     \Tree[1.25]{
       & \K{NP}\B{d} && \K{AP}\B{d} && \K{AdvP}\B{d} \\
@@ -1242,7 +1242,7 @@ Man erhält also im nächsten Schritt Abbildung~\ref{fig:sya03}.%
 \footnote{Einige Symbole, \zB Art, werden hier aus rein grafischen Gründen angehoben.
 Die Struktur des Baumes verändert sich dadurch nicht.}
 
-\begin{figure}[h!]
+\begin{figure}
 %  \resizebox{\textwidth}{!}{
     \Tree[1.25]{
       &&&& \K{NP}\B{dll}\B{dl}\B{dd} \\
@@ -1258,7 +1258,7 @@ Die Struktur des Baumes verändert sich dadurch nicht.}
 Bei der Suche nach valenzgebundenen Phrasen und ihren Köpfen gemäß Punkt \ref{it:sya03} aus Satz~\ref{satz:syntaxana} fällt als nächstes auf, dass mit \textit{trinken möchte} eine Folge aus einem infiniten Vollverb im ersten Status und einem finiten Modalverb vorliegt.
 Da sonst keine ersten Status im Satz vorkommen, saturiert \textit{trinken} offensichtlich die Valenzanforderung des Modalverbs, und der Verbalkomplex aus beiden kann gebildet werden, vgl.\ Abbildung~\ref{fig:sya04}.
 
-\begin{figure}[h!]
+\begin{figure}
 %  \resizebox{\textwidth}{!}{
     \Tree[1.25]{
       &&&& \K{NP}\B{dll}\B{dl}\B{dd} \\
@@ -1275,7 +1275,7 @@ Da \textit{trinken} ein transitives Verb ist und damit eine NP im Nominativ und 
 Solche NPs liegen in Form von \textit{Frida} (Nominativ) und \textit{den leckeren Wein} (Akkusativ) vor.
 Wir können daher sicher die VP in Abbildung~\ref{fig:sya05} annehmen.
 
-\begin{figure}[h!]
+\begin{figure}
 %  \resizebox{\textwidth}{!}{
     \Tree[1.25]{
       &&&&&&& \K{VP}\B{dllllll}\B{dlll}\B{dd} \\
@@ -1296,7 +1296,7 @@ Der Baum in Abbildung~\ref{fig:sya06} ist fertig.
 Dass er fertig ist, erkennt man daran, dass es einen einzigen Wurzelknoten gibt, nämlich den KP-Knoten, und dass alle anderen Knoten genau einen Mutterknoten haben.
 Für jeden Knoten gibt es außerdem ein Strukturschema, das ihn beschreibt.
 
-\begin{figure}[h!]
+\begin{figure}
  % \resizebox{\textwidth}{!}{
     \Tree[1.25]{
       \K{KP}\B{dddd}\B{drrrrrrr} \\

@@ -394,36 +394,45 @@
 \indexentry {Numerus|hyperpage}{255}
 \indexentry {Genus|hyperpage}{255}
 \indexentry {Artikelwort|hyperpage}{257}
-\indexentry {Artikel!Unterschied zum Pronomen|hyperpage}{257}
-\indexentry {Pronomen!Unterschied zum Artikel|hyperpage}{257}
-\indexentry {Artikelfunktion|hyperpage}{258}
-\indexentry {Pronominalfunktion|hyperpage}{258}
+\indexentry {Artikelwort|hyperpage}{258}
+\indexentry {Artikel!Unterschied zum Pronomen|hyperpage}{258}
+\indexentry {Pronomen!Unterschied zum Artikel|hyperpage}{258}
+\indexentry {Artikelfunktion|hyperpage}{259}
+\indexentry {Pronominalfunktion|hyperpage}{259}
 \indexentry {Pronomen!possessiv|hyperpage}{259}
 \indexentry {Kongruenz!Possessor--|hyperpage}{259}
 \indexentry {Pronomen!Flexionsklassen|hyperpage}{259}
 \indexentry {Artikel!Flexionsklassen|hyperpage}{259}
+\indexentry {Pronomen!flektierend|hyperpage}{259}
+\indexentry {Pronomen!nicht-flektierend|hyperpage}{259}
+\indexentry {Pronomen!Personal--|hyperpage}{261}
 \indexentry {Pronomen!Flexion|hyperpage}{262}
 \indexentry {Artikel!definit!Flexion|hyperpage}{263}
-\indexentry {Artikel!indefinit!Flexion|hyperpage}{265}
-\indexentry {Artikel!possessiv!Flexion|hyperpage}{265}
+\indexentry {Artikel!indefinit!Flexion|hyperpage}{266}
+\indexentry {Artikel!possessiv!Flexion|hyperpage}{266}
 \indexentry {Kongruenz!Genus--|hyperpage}{266}
 \indexentry {Kongruenz!Numerus--|hyperpage}{266}
 \indexentry {Adjektiv!attributiv|hyperpage}{266}
-\indexentry {Adjektiv!Kurzform|hyperpage}{266}
-\indexentry {Adjektiv!prädikativ|hyperpage}{266}
+\indexentry {Adjektiv!Kurzform|hyperpage}{267}
+\indexentry {Adjektiv!prädikativ|hyperpage}{267}
+\indexentry {Kopula|hyperpage}{267}
 \indexentry {Adjektiv!adverbial|hyperpage}{267}
 \indexentry {Adjektiv!Valenz|hyperpage}{268}
 \indexentry {Valenz!Adjektiv|hyperpage}{268}
 \indexentry {Stärke!Adjektiv|hyperpage}{268}
 \indexentry {Adjektiv!Flexion|hyperpage}{270}
-\indexentry {Monoflexion|hyperpage}{270}
+\indexentry {Monoflexion|hyperpage}{271}
 \indexentry {Adjektiv!adjektival|hyperpage}{271}
-\indexentry {Adjektiv!Flexion|hyperpage}{271}
-\indexentry {Adjektiv!Komparation!Funktion|hyperpage}{272}
+\indexentry {Adjektiv!Flexion|hyperpage}{272}
+\indexentry {Adjektiv!Komparation!Funktion|hyperpage}{273}
+\indexentry {Elativ|hyperpage}{274}
 \indexentry {Adjektiv!Komparation!Flexion|hyperpage}{274}
-\indexentry {Wortbildung!Komparation als --|hyperpage}{274}
-\indexentry {Eisenberg, Peter|hyperpage}{274}
-\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{274}
+\indexentry {Positiv|hyperpage}{274}
+\indexentry {Komparativ|hyperpage}{274}
+\indexentry {Superlativ|hyperpage}{274}
+\indexentry {Wortbildung!Komparation als --|hyperpage}{275}
+\indexentry {Eisenberg, Peter|hyperpage}{275}
+\indexentry {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort@\emph {{G}rundriss der deutschen {G}rammatik: {D}as {W}ort}|hyperpage}{275}
 \indexentry {Vergleichselement|hyperpage}{275}
 \indexentry {Numerus!Verb|hyperpage}{279}
 \indexentry {Person!Verb|hyperpage}{279}
@@ -631,11 +640,11 @@
 \indexentry {Verbphrase|hyperpage}{369}
 \indexentry {Verbalkomplex|hyperpage}{369}
 \indexentry {Valenz!Verb|hyperpage}{370}
-\indexentry {Scrambling|hyperpage}{371}
+\indexentry {Scrambling|hyperpage}{372}
 \indexentry {Tempus!analytisch|hyperpage}{372}
 \indexentry {Status|hyperpage}{372}
-\indexentry {Hilfsverb|hyperpage}{373}
-\indexentry {Modalverb|hyperpage}{373}
+\indexentry {Hilfsverb|hyperpage}{374}
+\indexentry {Modalverb|hyperpage}{374}
 \indexentry {Baumdiagramm|hyperpage}{375}
 \indexentry {Satz|hyperpage}{383}
 \indexentry {Matrixsatz|hyperpage}{384}
@@ -668,10 +677,10 @@
 \indexentry {Verb-Zweit-Satz|hyperpage}{396}
 \indexentry {Bewegung|hyperpage}{396}
 \indexentry {Spur|hyperpage}{396}
-\indexentry {Verb-Erst-Satz|hyperpage}{399}
-\indexentry {Fragesatz!Entscheidungs--|hyperpage}{399}
+\indexentry {Verb-Erst-Satz|hyperpage}{400}
+\indexentry {Fragesatz!Entscheidungs--|hyperpage}{400}
 \indexentry {Imperativ!Satz|hyperpage}{400}
-\indexentry {Verb!Partikel--|hyperpage}{400}
+\indexentry {Verb!Partikel--|hyperpage}{401}
 \indexentry {Verbalkomplex|hyperpage}{401}
 \indexentry {Kopula|hyperpage}{401}
 \indexentry {Kopulasatz|hyperpage}{401}
@@ -680,12 +689,12 @@
 \indexentry {Relativphrase|hyperpage}{404}
 \indexentry {Relativsatz!Einleitung|hyperpage}{404}
 \indexentry {Genitiv!pränominal|hyperpage}{406}
-\indexentry {Relativadverb|hyperpage}{407}
+\indexentry {Relativadverb|hyperpage}{406}
 \indexentry {Relativsatz!frei|hyperpage}{407}
 \indexentry {Nachfeld|hyperpage}{409}
-\indexentry {Komplementsatz|hyperpage}{409}
-\indexentry {Subjektsatz|hyperpage}{409}
-\indexentry {Objektsatz|hyperpage}{409}
+\indexentry {Komplementsatz|hyperpage}{410}
+\indexentry {Subjektsatz|hyperpage}{410}
+\indexentry {Objektsatz|hyperpage}{410}
 \indexentry {Mittelfeld|hyperpage}{411}
 \indexentry {Korrelat|hyperpage}{411}
 \indexentry {Nebensatz|hyperpage}{411}
@@ -793,15 +802,15 @@
 \indexentry {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz@\emph {{G}rundriss der deutschen {G}rammatik: {D}er {S}atz}|hyperpage}{452}
 \indexentry {Fabricius-Hansen, Cathrine|hyperpage}{452}
 \indexentry {{D}uden 04. {D}ie {G}rammatik@\emph {{D}uden 04. {D}ie {G}rammatik}|hyperpage}{452}
-\indexentry {Müller, Stefan|hyperpage}{453}
-\indexentry {{H}ead-{D}riven {P}hrase {S}turcture {G}rammar: {E}ine {E}inführung@\emph {{H}ead-{D}riven {P}hrase {S}turcture {G}rammar: {E}ine {E}inführung}|hyperpage}{453}
 \indexentry {Kohärenz|hyperpage}{454}
+\indexentry {Müller, Stefan|hyperpage}{454}
+\indexentry {{H}ead-{D}riven {P}hrase {S}turcture {G}rammar: {E}ine {E}inführung@\emph {{H}ead-{D}riven {P}hrase {S}turcture {G}rammar: {E}ine {E}inführung}|hyperpage}{454}
 \indexentry {Status|hyperpage}{455}
 \indexentry {Modalverb|hyperpage}{455}
 \indexentry {Kongruenz!Subjekt--Verb--|hyperpage}{455}
 \indexentry {Kohärenz|hyperpage}{455}
-\indexentry {Rolle|hyperpage}{455}
-\indexentry {Subjekt|hyperpage}{455}
+\indexentry {Rolle|hyperpage}{456}
+\indexentry {Subjekt|hyperpage}{456}
 \indexentry {Subjekt|hyperpage}{456}
 \indexentry {Modalverb|hyperpage}{456}
 \indexentry {Halbmodalverb|hyperpage}{457}
