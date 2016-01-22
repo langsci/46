@@ -570,14 +570,17 @@ Kern und Endrand bilden den \textit{Reim}.
   \label{fig:silbenstruktur}
 \end{figure}
 
-\begin{figure}
-  \centering
-  \Tree[1.5]{
+\newcommand{\ThePhonStr}{  \Tree[1.5]{
   & && \K{Silbe}\B{dll}\B{d} \\
   & \K{Anfangsrand}\B{ddl}\B{ddr} && \K{Reim}\B{d}\B{drr} \\
   &&& \K{Kern}\B{d} && \K{Endrand}\B{dl}\B{dr} \\
   \K{\textipa{[f]}} && \K{\textipa{[K]}} & \K{\textipa{[E]}} & \K{\textipa{[m]}} && \K{\textipa{[t]}} \\
   }
+}
+
+\begin{figure}
+  \centering
+  \ThePhonStr
   \caption{Beispiel für Silbenstruktur}
   \label{fig:phonstr}
 \end{figure}
@@ -1612,7 +1615,7 @@ Es zeigt sich also, dass die noch gebräuchliche Rede von Phonemen und Allophone
 
 \Zusammenfassung
 
-\begin{enumerate}
+\begin{enumerate}\Lf
   \item Die Phonologie beschäftigt sich mit den phonetischen Unterschieden, die eine systematische grammatische Funktion haben.
   \item Nicht jedes Segment (=~jeder Laut) kommt in den gleichen Umgebungen vor, und man kann Segmente danach einteilen, ob sie in vollständig identischen, teilweise identischen oder gänzlich verschiedenen Umgebungen vorkommen.
   \item Solche Verteilungen kann man auch für Merkmale (statt ganzer Segmente) ermitteln, \zB kommen stimmhafte Obstruenten im Deutschen nicht im Silbenauslaut vor.
