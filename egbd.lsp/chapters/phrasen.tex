@@ -2,14 +2,13 @@
 
 \label{sec:phrasen}
 
-\section{Einleitung}
-
 \index{Phrasenschema}
 \index{Baumdiagramm}
 
 Dieses Kapitel ist sehr einfach aufgebaut.
 Es wird für die wichtigen Phrasentypen des Deutschen der jeweilige Aufbau besprochen und das allgemeine Phrasenschema explizit gegeben.
-Die Bäume werden dabei prinzipiell so angefertigt, dass die Wortklassen der Wörter als erste Analyseebene eingefügt werden, dann nach den vorhandenen Phrasenschemata eine Phrasenanalyse von unten nach oben aufgebaut wird.
+Die Bäume werden dabei prinzipiell so angefertigt, dass die Wortklassen der Wörter als erste Analyseebene eingefügt werden.
+Dann wird nach den vorhandenen Phrasenschemata eine Phrasenanalyse von unten nach oben aufgebaut.
 Die Wortklassen und alle Merkmale eines Wortes bestimmen sein syntaktisches Verhalten, und daher ist das Herausfinden der Wortklasse aller Wörter eines Satzes Grundvoraussetzung für seine Analyse.
 Der Baum baut sich über dem Kopf gerade nach oben auf, zu ihm dependente Konstituenten werden seitlich hinzugefügt.
 Insgesamt kann so in der praktischen Analyse immer mit einem linear aufgeschriebenen Satz begonnen werden, über dem dann der Baum konstruiert wird.
@@ -32,6 +31,20 @@ Mit diesen Dreiecken kann man die Strukturen abkürzen, die zum gegenwärtigen Z
 Abbildung~\ref{fig:treeabbr} zeigt ein Beispiel, bei dem eine PP einmal vollständig analysiert wurde.
 Außerdem wird dieselbe Struktur in einer abgekürzten Form dargestellt, bei der die interne Struktur der NP nicht weiter analysiert wird.
 Das Dreieck zeigt an, dass die NP zwar eine Struktur hat, diese aber hier nicht dargestellt wird.
+In der Klammerschreibweise entsprechen die Dreiecke einfach weggelassenen Klammern, und gerade hier ist das strategische Weglassen von Klammern oft essentiell, um die Übersichtlichkeit zu gewährleisten.
+Zum Beispiel kann man mit (\ref{ex:phr1623783}) gut illustrieren, dass \textit{wahrscheinlich dem Arzt heimlich das Bild schnell verkauft} im Ganzen eine Konstituente ist, und dass innerhalb dieser Konstituente \textit{dem Arzt} und \textit{das Bild} Konstituenten aus je zwei Wörtern sind.
+Da \textit{wahrscheinlich}, \textit{heimlich}, \textit{schnell} und \textit{verkauft} Konstituenten aus je einem Wort sind, kann die Klammerung entfallen.
+Mit einer Näherungsweise vollständigen Klammerung ergäbe sich die recht unübersichtliche Darstellung in (\ref{ex:phr1623784a}), mit beschrifteten Klammern die nahezu unbrauchbare in (\ref{ex:phr1623784b}).
+
+\begin{exe}
+  \ex{\label{ex:phr1623783} Ischariot hat [wahrscheinlich [dem Arzt] heimlich [das Bild] schnell verkauft].}
+  \ex\label{ex:phr1623784}
+  \begin{xlist}
+    \ex{\label{ex:phr1623784a} [[Ischariot] [hat] [[wahrscheinlich] [[dem] [Arzt]] [heimlich] [[das] [Bild]] [schnell] [verkauft]]].}
+    \ex{\label{ex:phr1623784b} [\Sub{S} [\Sub{NP} Ischariot] [\Sub{V} hat] [\Sub{VP} [\Sub{Adv} wahrscheinlich] [\Sub{NP} [\Sub{Art} dem] [\Sub{Subst} Arzt]] [\Sub{A} heimlich] [\Sub{NP} [\Sub{Art} das] [\Sub{Subst} Bild]] [\Sub{A} schnell] [\Sub{V} verkauft]]].}
+  \end{xlist}
+\end{exe}
+
 
 \section{Koordination}
 
@@ -45,22 +58,20 @@ Das erste Schema beschreibt Strukturen mit Konjunktionen wie \textit{und} oder \
 \Phrasenschema{Koordination}{\label{str:koor}
   \begin{tabular}{c|c|c|c|}
     \cline{2-4}
-    $\alpha$ = & $\alpha$ & ( Konj ) & $\alpha$ \\
+    $\kappa$ = & $\kappa$ & ( Konj ) & $\kappa$ \\
     \cline{2-4}
   \end{tabular}
 }
 
-Der Koordinationstest (Abschnitt~\ref{sec:koordinationstest}) beruht auf der hier angenommenen Flexibilität und Allgemeingültigkeit dieses Schemas.
-Zwei Wortformen oder zwei Phrasen können jederzeit mit einer Konjunktion verbunden werden, wenn beide zu derselben Klasse gehören, \zB N und N oder AP und AP.
-Genau dieses ist hier mit der Variable $\alpha$ kodiert, die für eine Konstituente einer beliebigen Klasse steht, also stellvertretend für N, NP, A usw.
-Das Schema erlaubt die Verbindung von irgendeiner syntaktischen Einheit vom Typ $\alpha$ mit einer anderen Einheit derselben Klasse $\alpha$, wobei wieder eine Einheit der Klasse $\alpha$ herauskommt.
-Wie in einer mathematischen Formel zeigt die Variable $\alpha$ also an, dass statt ihrer irgendetwas, aber immer das Gleiche eingesetzt werden muss.
-Es folgen gleich Beispiele für Anwendungen dieses Schemas.
-
+Der Koordinationstest (Abschnitt~\ref{sec:konstituententestsimeinzelnen}) beruht auf der hier angenommenen Flexibilität dieses Schemas.
+Zwei Wortformen oder zwei Phrasen können jederzeit mit einer Konjunktion verbunden werden, vorausgesetzt, dass beide zu derselben Klasse gehören (N und N oder AP und AP usw.).
+$\kappa$ steht hier stellvertretend für N, NP, A usw.
+Das Schema erlaubt die Verbindung von irgendeiner syntaktischen Einheit vom Typ $\kappa$ mit einer anderen Einheit derselben Klasse $\kappa$, wobei wieder eine Einheit der Klasse $\kappa$ herauskommt.
+Wie in einer mathematischen Formel zeigt die Variable $\kappa$ also an, dass statt ihrer irgendetwas, aber immer das Gleiche eingesetzt werden muss.
 Es werden außerdem für die Konjunktion keine konkreten Wortformen wie \textit{und} explizit im Schema genannt, sondern das Wortklassensymbol Konj, so dass irgendeine Konjunktion eingesetzt werden kann.
 Das Schema erlaubt damit die Analyse der Koordinationen in (\ref{ex:grp2357}) wie in den Abbildungen~\ref{fig:koorsubst}--\ref{fig:koorpraep}
 Die koordinierten Teilstrukturen werden an dieser Stelle dabei jeweils nicht weiter analysiert und mit einem Dreieck abgekürzt.%
-\footnote{Das Symbol S für \textit{Satz} wird im Kapitel~\ref{sec:saetze} genauer eingeführt.}
+\footnote{Das Symbol S für \textit{Satz} wird in Kapitel~\ref{sec:saetze} genauer eingeführt.}
 
 \begin{exe}
   \ex\label{ex:grp2357}
@@ -104,8 +115,10 @@ Die koordinierten Teilstrukturen werden an dieser Stelle dabei jeweils nicht wei
   \label{fig:koorpraep}
 \end{figure}
 
-Die Optionalität der Konj (im Schema eingeklammert) trägt Fällen wie in (\ref{ex:grp1935}) Rechnung, in denen die Konjunktion weggelassen werden kann.
-Hierfür gelten aber normalerweise zusätzliche Bedingungen, wie zum Beispiel, dass die letzte Koordination in einer längeren Kette auf jeden Fall mit einer Konjunktion verbunden werden muss (zu den Kommaschreibungen in solchen Konstruktionen auch Abschnitt~\ref{sec:koordinschreib}).
+Die Optionalität der Konjunktion (im Schema eingeklammert) trägt Fällen wie in (\ref{ex:grp1935}) Rechnung, in denen die Konjunktion weggelassen werden kann.
+Hierfür gelten aber normalerweise zusätzliche Bedingungen, wie zum Beispiel, dass die letzte Koordination in einer längeren Kette auf jeden Fall mit einer Konjunktion verbunden werden muss.
+Diese Bedingungen können aus Platzgründen und wegen der eingeschränkten Ausdrucksfähigkeit der Phrasenschemata hier nicht detailliert formuliert werden.
+Zu den Kommaschreibungen in solchen Konstruktionen s.\ aber auch Abschnitt~\ref{sec:koordinschreib}.
 
 \begin{exe}
   \ex{\label{ex:grp1935} Ich sehe [[Wörter, Sätze] und Texte].}
@@ -117,18 +130,18 @@ Hierfür gelten aber normalerweise zusätzliche Bedingungen, wie zum Beispiel, d
 
 \subsection{Allgemeine Darstellung der NP}
 
-Das Phrasenschema für die NP, wie es jetzt hier vorgestellt wird, unterscheidet sich deutlich von den bisher definierten provisorischen NPs, weil es der Versuch ist, alle möglichen NPs in einem Schema zu beschreiben.
+Das Phrasenschema für die NP, wie es jetzt hier vorgestellt wird, unterscheidet sich deutlich von den bisher definierten provisorischen NPs (vor allem Definition~\ref{def:vollstaendigesnominal} auf S.~\pageref{def:vollstaendigesnominal} und Abbildung~\ref{fig:strschembsp} auf S.~\pageref{fig:strschembsp}), weil es der Versuch ist, alle möglichen NPs in einem Schema zu beschreiben.
 Die NP hat eine potentiell große Komplexität, und daher wird hier mit dem Begriff \textit{innere Rechtsattribute} ein Sammelbegriff eingeführt, der im Folgenden dann aufgelöst und im Einzelnen erläutert wird.
-Zunächst folgt die Definition des Attributbegriffs in Definition~\ref{def:attribut}.
+Zunächst folgt die Definition des \textit{Attributs} in Definition~\ref{def:attribut}.
 
 \Definition{Attribut}{
 \label{def:attribut}
-Attribute sind alle Teilkonstituenten der Nominalphrase außer dem Artikelwort und dem nominalen Kopf.
+Attribute sind alle unmittelbaren Konstituenten der Nominalphrase außer dem Artikelwort und dem nominalen Kopf.
 \index{Attribut}
 }
 
-Die Relativsätze (und Adjektive) zählen also auch zu den Attributen, und als innere Rechtsattribute bezeichnen wir deshalb besonders die Attribute, die rechts vom nominalen Kopf aber links von der Relativsatzposition stehen.
-Einige der inneren Rechtsattribute sind Ergänzungen, was im weiteren Verlauf diskutiert wird.
+Die Relativsätze (und Adjektive) zählen also auch zu den Attributen, und als \textit{innere Rechtsattribute} bezeichnen wir besonders die Attribute, die rechts vom nominalen Kopf aber links von Relativsätzen stehen.
+Einige der inneren Rechtsattribute sind als Ergänzungen aufzufassen, was im weiteren Verlauf diskutiert wird.
 In unserer Auffassung ist der Attributsbegriff also ein struktureller und kein funktionaler, und Attribute in der NP können sowohl (regierte) Ergänzungen sein als auch nicht. 
 
 \index{Nominalphrase}
@@ -142,7 +155,8 @@ In unserer Auffassung ist der Attributsbegriff also ein struktureller und kein f
     \end{tabular}
   }
 
-Ausformuliert kann man das Schema folgendermaßen lesen:
+Die NP ist in ihrer Komplexität dem vollständigen Satz durchaus ebenbürtig.
+Die folgende Ausformulierung des Schemas in Worten kann daher bei der Verdeutlichung eine erhebliche Hilfe sein.
 Eine NP besteht aus:
 
 \index{Artikel!Position}
@@ -151,11 +165,11 @@ Eine NP besteht aus:
 \index{Genitiv!pränominal}
 
 \begin{enumerate}\Lf
-  \item einem Nomen als Kopf,
-  \item keinem, einem oder mehreren rechts stehenden inneren Attributen (Ergänzungen oder Angaben),
-  \item keiner, einer oder mehreren links stehenden APs (vgl.\ Abschnitt~\ref{sec:agr}),
-  \item keinem, einem oder mehreren rechts von den rechten Attributen stehenden Relativsätzen (RS, vgl.\ Abschnitt~\ref{sec:relativsaetze}),
-  \item einem optionalen links (von allen Adjektiven) stehenden Artikel bzw.\ einer NP (dem sogenannten pränominalen Genitiv) an dieser Position.
+  \item einem \textit{Nomen} (Substantiv oder Pronomen) als Kopf,
+  \item keinem, einem oder mehreren rechts stehenden \textit{inneren Attributen} (Ergänzungen oder Angaben von heterogener Form, vgl.\ Abschnitt~\ref{sec:innererechtsattribute}),
+  \item keiner, einer oder mehreren links stehenden \textit{Adjektivphrasen} (AP, vgl.\ Abschnitt~\ref{sec:agr}),
+  \item keinem, einem oder mehreren rechts von den rechten Attributen stehenden \textit{Relativsätzen} (RS, vgl.\ Abschnitt~\ref{sec:relativsaetze}),
+  \item einem optionalen links (von allen Adjektiven) stehenden \textit{Artikelwort} oder einer \textit{Nominalphrase im Genitiv} (dem sogenannten \textit{pränominalen Genitiv}).
 \end{enumerate}
 
 \index{Nomen!vs.\ Substantiv}
@@ -163,10 +177,11 @@ Eine NP besteht aus:
 Zunächst ist noch die Frage offen, warum überhaupt das Symbol N für den Kopf solcher Phrasen steht, und nicht Subst.
 Immerhin wurde in Kapitel~\ref{sec:wortklassen} besonders betont, dass Substantive und Nomina nicht dasselbe sind.
 Die Klassifikation der Nomina als Überklasse aus Kapitel~\ref{sec:wortklassen} (Wortartenfilter \ref{wfilt:verbennomina}, S.~\pageref{wfilt:verbennomina}) zahlt sich hier aus.
-Denn nicht nur das Kategoriensystem und die Flexion der Nomina ist einheitlich bzw.\ ähnlich, sondern auch ihr syntaktisches Verhalten als Kopf einer NP.
-Insbesondere sind die Pronomina neben den Substantiven typische Köpfe von Nominalphrasen.
-Wenn ein Pronomen der NP-Kopf ist, können die Linkspositionen (also Art und AP) nicht besetzt werden.
-Im Bereich der inneren Rechtsattribute und der Relativsätze gibt es auch viele Einschränkungen, wenn ein Pronomen der Kopf ist, aber wir belassen es bei dieser Feststellung und geben die Abbildungen~\ref{fig:pronngr1} und \ref{fig:pronngr2} als Analysen der NP aus (\ref{ex:pronngr}).
+Einerseits sind das Kategoriensystem und die Flexion der verschiedenen Nomina einheitlich bzw.\ ähnlich.
+Andererseits fungieren sie als Kopf von Phrasen, die sich im weiteren Strukturaufbau gleich verhalten -- und daher auch gleich bezeichnet werden sollten.
+Insbesondere sind die Pronomina genauso wie die Substantive typische Köpfe von Nominalphrasen.
+Als wichtiger Unterschied gilt, dass bei Pronomina als NP-Kopf sämtliche Positionen links vom Kopf (also Artikelwörter und APs) nicht besetzt werden können.
+Im Bereich der inneren Rechtsattribute und der Relativsätze gibt es auch Einschränkungen, wenn ein Pronomen der Kopf ist, aber wir belassen es bei dieser Feststellung und geben die Abbildungen~\ref{fig:pronngr1} und \ref{fig:pronngr2} als Analysen der NP aus (\ref{ex:pronngr}).
 
 \begin{exe}
   \ex\label{ex:pronngr}
@@ -198,8 +213,10 @@ Im Bereich der inneren Rechtsattribute und der Relativsätze gibt es auch viele 
   \label{fig:pronngr2}
 \end{figure}
 
-Die einfachste Struktur einer NP mit einem substantivischen Kopf ist in Abbildung~\ref{fig:ngreinf} gezeigt, und sie ähnelt Abbildung~\ref{fig:pronngr1}.
-Offensichtlich ist allein die Existenz dieser minimalen Struktur Grund genug, anzunehmen, dass hier N der Kopf ist.
+Die einfachste Struktur einer NP mit einem substantivischen Kopf wird in Abbildung~\ref{fig:ngreinf} gezeigt, und sie ähnelt Abbildung~\ref{fig:pronngr1}.
+Wenn dies aber die minimale Struktur einer substantivhaltigen NP ist, ist unsere Annahme, dass das Substantiv der Kopf ist, sehr naheliegend.%
+\footnote{Wie bereits auf S.~\pageref{abs:kopfnichtweglassbar} argumentiert wurde, sind Elemente einer Phrase, die niemals weggelassen werden können, sehr gute Kandidaten für den Kopf-Status.
+Wenn es nur ein solches Element gibt, ist es in der hier vertretenen Art der Grammatikschreibung nahezu zwangsläufig als Kopf aufzufassen.}
 In den folgenden Unterabschnitten werden die einzelnen Attribute und die Artikel diskutiert.
 Die Relativsätze werden später in Abschnitt~\ref{sec:relativsaetze} besprochen.
 
@@ -216,10 +233,12 @@ Die Relativsätze werden später in Abschnitt~\ref{sec:relativsaetze} besprochen
 
 \subsection{Innere Rechtsattribute}
 
+\label{sec:innererechtsattribute}
+
 Die inneren Rechtsattribute treten in vielen verschiedenen Formen auf.
-Der wohl einfachste Fall ist der, bei dem eine PP (mit einer relativ beliebigen Präposition) oder eine andere NP im Genitiv rechts direkt an den Kopf angehängt wird.
+Der wohl einfachste Fall ist der, bei dem eine PP oder eine andere NP im Genitiv rechts direkt an den Kopf angehängt wird.
 Die Sätze in (\ref{ex:grp9146}) werden in den Abbildungen~\ref{fig:ngrmitprpgr} und \ref{fig:ngrmitngr} analysiert.
-Da wir PP-Strukturen noch nicht analysiert haben (s.\ Abschnitt~\ref{sec:prpgr}), wird die PP wieder mit einem Dreieck abgekürzt.
+Da wir PP-Strukturen noch nicht beschrieben haben (s.\ Abschnitt~\ref{sec:prpgr}), wird die PP mit einem Dreieck abgekürzt.
 
 \begin{exe}
   \ex\label{ex:grp9146}
@@ -255,7 +274,6 @@ Da wir PP-Strukturen noch nicht analysiert haben (s.\ Abschnitt~\ref{sec:prpgr})
 
 Die dem Kopf nachgestellte Genitiv-NP und die \textit{von}-PP konkurrieren in einer gewissen Weise, weil sie funktional ähnlich sind.
 Dies sieht man deutlich in (\ref{ex:grp9146}), wo beide eine Besitzrelation zwischen den Zahnbürsten und dem König kodieren.
-
 Neben der PP mit \textit{von} können aber viele andere Arten von PPs (und auch mehrere) eingesetzt werden, die nicht wie die \textit{von}-PP dem Genitiv funktional ähnlich sind, vgl.\ (\ref{ex:grp2497}).
 
 \begin{exe}
@@ -280,7 +298,7 @@ Neben der PP mit \textit{von} können aber viele andere Arten von PPs (und auch 
 \end{figure}
 
 In den Sätzen in (\ref{ex:grp2497}) besteht definitiv keine Valenz- oder Rektionsanforderung seitens des N-Kopfes.
-Diese PPs können mit beliebigen Substantiven kombiniert werden, solange bestimmte semantische Beschränkungen eingehalten werden, auf die hier nicht eingegangen werden muss.
+Diese PPs können mit beliebigen Substantiven kombiniert werden, solange PP und Substantiv semantisch kompatibel sind.
 
 \subsection{Rektion und Valenz in der NP}
 
@@ -292,7 +310,7 @@ Diese PPs können mit beliebigen Substantiven kombiniert werden, solange bestimm
 Es gibt einige Konstruktionen, in denen Valenz und Rektion von nominalen Köpfen angenommen werden muss.
 Einerseits gibt es den Fall, dass Ergänzungen von Verben bei Nominalisierungen als Ergänzung des Substantivs wieder auftauchen.
 Dies ist in den Sätzen (b) in (\ref{ex:grp1590}) und (\ref{ex:grp1592}) der Fall.
-Die fraglichen Konstituenten sind alles innere Rechtsattribute.
+Die fraglichen Konstituenten sind sämtlich innere Rechtsattribute.
 
 \begin{exe}
   \ex\label{ex:grp1590}
@@ -311,7 +329,7 @@ In (\ref{ex:grp1590b}) wird die Valenz des Verbs \textit{glauben} zu seiner Subs
 Die Rektionsanforderung, dass die PP die Präposition \textit{an} enthalten muss, wird ebenfalls vom Verb zur Substantivierung mitgenommen.
 Ähnlich verhält es sich mit dem \textit{dass}-Satz (einem Komplementsatz, vgl.\ Abschnitt~\ref{sec:komplementsaetze}), der sowohl von dem Verb \textit{vermuten} als auch der Substantivierung \textit{Vermutung} regiert wird.
 Was hier eindeutig für ein Valenz\slash Rektions-Phänomen spricht, ist, dass diese Attribute nicht mit beliebigen Substantiven kombinierbar sind.
-An den nicht akzeptablen NPs (\ref{ex:grp1479}) ist dies deutlich zu sehen.
+An den nicht akzeptablen NPs in (\ref{ex:grp1479}) ist dies deutlich zu sehen.
 Die Substantive in der PP wurden hier ausgetauscht, um zu zeigen, dass nicht etwa die Bedeutung das Problem ist.
 
 \begin{exe}
@@ -328,12 +346,12 @@ Die Substantive in der PP wurden hier ausgetauscht, um zu zeigen, dass nicht etw
 \index{Objektsgenitiv}
 \index{Akkusativ}
 
-Bei Substantivierung transitiver Verben (solche, die einen Nominativ und einen Akkusativ regieren) wird der Akkusativ beim Verb regelhaft in einen Genitiv beim Substantiv umgesetzt, vgl.\ (\ref{ex:grp8970}).
+Bei der Substantivierung transitiver Verben (solche, die einen Nominativ und einen Akkusativ regieren) wird der Akkusativ beim Verb regelhaft in einen Genitiv beim Substantiv umgesetzt, vgl.\ (\ref{ex:grp8970}).
 Der Genitiv tritt hier als inneres Rechtsattribut auf, als sogenannter postnominaler Genitiv.
 Alternativ ist auch wie in (\ref{ex:grp8970c}) die \textit{von}-PP möglich (ggf.\ umgangssprachlich).
-Die Genitive, die auf diese Weise auf Akkusative bezogen sind, nennt man Objektsgenitive.
-Wir nennen hier den Objektsgenitiv und die entsprechende \textit{von}-PP zusammen Objektsattribute.
-Der Nominativ des Verbs kann dabei als PP mit \textit{durch} beim Substantiv realisiert werden, ähnlich wie bei einem verbalen Passiv.
+Die Genitive, die auf diese Weise auf Akkusative bezogen sind, nennt man \textit{Objektsgenitive}.
+Wir nennen hier den Objektsgenitiv und die ähnliche \textit{von}-PP zusammen \textit{Objektsattribute}.
+Der Nominativ des Verbs kann dabei als PP mit \textit{durch} beim Substantiv realisiert werden, ähnlich wie bei einem verbalen Passiv (s.\ Abschnitt~\ref{sec:passiv}).
 
 \begin{exe}
   \ex\label{ex:grp8970}
@@ -370,7 +388,7 @@ Ausführliches zur Artikelposition folgt in Abschnitt~\ref{sec:adjektiveundartik
 
 Der Nominativ von intransitiven Verben kann ebenfalls als Genitiv (pränominal oder postnominal) bei einer Nominalisierung des Verbs auftauchen, vgl.\ (\ref{ex:grp8234}).
 In ihrer Verwendung eingeschränkt, aber möglich ist auch hier die \textit{von}-PP (\ref{ex:grp8234bb}).
-Man nennt diesen Genitiv den Subjektsgenitiv, zusammen mit der entsprechenden \textit{von}-PP sprechen wir vom Subjektsattribut.
+Man nennt diesen Genitiv den \textit{Subjektsgenitiv}, zusammen mit der entsprechenden \textit{von}-PP sprechen wir vom \textit{Subjektsattribut}.
 
 \begin{exe}
   \ex\label{ex:grp8234}
@@ -384,7 +402,7 @@ Man nennt diesen Genitiv den Subjektsgenitiv, zusammen mit der entsprechenden \t
 
 Die eventuellen Probleme mit Beispiel (\ref{ex:grp8234c}), die durch das Fragezeichen angedeutet werden, rühren daher, dass der pränominale Genitiv in Artikelposition nur noch eingeschränkt verwendet wird.
 Uneingeschränkt verwendbar ist er nur noch mit \textit{s}-Genitiven von Eigennamen.
-Auch (\ref{ex:grp8234bb}) wird von manchen Sprechern als sehr ungewöhnlich eingestuft.
+Auch (\ref{ex:grp8234bb}) wird von manchen Sprechern als ungewöhnlich eingestuft.
 
 Wenn bei der Nominalisierung eines transitiven Verbs ein Genitiv oder eine \textit{von}-PP realisiert wird, die den Akkusativ des Verbs vertritt, ohne dass der Nominativ des Verbs in der NP repräsentiert wird, entspricht die gesamte NP eher einem Passiv, da beim Passiv der Nominativ des Aktivs ebenfalls nicht realisiert wird (vgl.\ zum Passiv Abschnitt~\ref{sec:passiv}).
 In (\ref{ex:grp8090}) wird dies durch einen Passivsatz und eine entsprechende NP illustriert.
@@ -462,11 +480,11 @@ Tabelle~\ref{tab:verbnomenvalenz} fasst die typischen Korrespondenzen zusammen, 
 
 Eine AP links vom Kopf ist niemals eine Ergänzung und niemals regiert.%
 \footnote{Hier werden nur APs gezeigt, die aus einem einfachen A ohne weitere Konstituenten bestehen, da die Struktur der AP erst in Abschnitt~\ref{sec:agr} erklärt wird.
-Das Abkürzungsdreieck muss trotzdem verwendet werden, da wir die einzelnen Adjektive ja nicht als Wörter in die größere Phrase einbinden, sondern als vollständige Phrase.
+Das Abkürzungsdreieck muss trotzdem stehen, da wir die einzelnen Adjektive nicht als Wörter in die größere Phrase einbinden, sondern als vollständige Phrase.
 Würden wir statt des Dreiecks hier eine einfache Linie nehmen, käme das der Behauptung gleich, die Adjektive seien schon im Lexikon AP.
-Das kann man so machen, aber für die praktische grammatische Analyse ist es nach der hier vertretenen Auffassung besser, zwischen Wortart im Lexikon und Phrase im grammatischen Aufbau auf diese Weise zu trennen.}
+Das kann man durchaus so modellieren, aber für die praktische grammatische Analyse ist es nach der hier vertretenen Auffassung besser, zwischen Wortart im Lexikon und Phrase im grammatischen Aufbau auf diese Weise zu trennen.}
 Dies kann man leicht daran erkennen, dass beliebig viele von ihnen vorkommen können, vgl. (\ref{ex:grp0718}) und die Analysen dazu in den Abbildungen~\ref{fig:grp0718a} und \ref{fig:grp0718b}.
-In den Beispielen sieht man auch, dass das Vorhandensein der PP\slash NP rechts keinen Einfluss auf die Anwesenheit der AP hat oder umgekehrt.
+In den Beispielen sieht man auch, dass das Vorhandensein der PP oder NP rechts keinen Einfluss auf die Anwesenheit der AP hat oder umgekehrt.
 Beide sind völlig unabhängig voneinander.
 
 \begin{exe}
@@ -527,7 +545,7 @@ Wie in (\ref{ex:intextadj}) gezeigt wird, ist dies abhängig von der Wahl der Ad
   \end{xlist}
 \end{exe}
 
-In Fällen, wo eine Konjunktion einsetzbar ist, steht orthographisch meistens ein Komma, sonst keines.
+In Fällen, wo eine Konjunktion einsetzbar ist, steht prototypischerweise ein Komma.
 Wir nehmen nur in Fällen, wo eine Konjunktion einsetzbar ist, eine Koordinationsstruktur wie in Abbildung~\ref{fig:ngradjkonj} an.
 In allen anderen Fällen kommt nur die Struktur in Abbildung~\ref{fig:grp0718b} als Analyse in Frage.
 
@@ -552,7 +570,7 @@ Schließlich können optional noch Artikelwörter oder NPs im Genitiv ganz links
   \label{fig:grp7000}
 \end{figure}
 
-Dank der Weglassbarkeit aller Teile der Phrase zwischen Artikel und Substantiv wird natürlich aber auch eine viel einfachere Struktur vom Phrasenschema beschrieben, wie (\ref{ex:artsubst}) zeigt.
+Dank der Weglassbarkeit aller Teile der Phrase zwischen Artikel und Substantiv werden aber auch viel einfachere Strukturen vom Phrasenschema beschrieben, \zB (\ref{ex:artsubst}).
 
 \begin{exe}
   \ex{\label{ex:artsubst} Man hat [einige Zahnbürsten] im Hotel gefunden.}
@@ -572,7 +590,7 @@ Dank der Weglassbarkeit aller Teile der Phrase zwischen Artikel und Substantiv w
 \index{Stoffsubstantiv}
 \index{Artikel!NP ohne}
 
-Der Artikel kann bei Stoffsubstantiven (Substantiven, die nicht-zählbare Substanzen bezeichnen) im Singular (\ref{ex:grp0018a}) und bei Indefinita im Plural (\ref{ex:grp0018b}) unterbleiben.
+Der Artikel kann bei sogenannten \textit{Stoffsubstantiven} (Substantiven, die nicht-zählbare Substanzen bezeichnen) im Singular (\ref{ex:grp0018a}) und bei Indefinita im Plural (\ref{ex:grp0018b}) unterbleiben.
 Dem Artikel \textit{ein} im Singular entspricht im Plural also die Artikellosigkeit, wenn nicht auf Pronomina wie \textit{einige} ausgewichen wird (\ref{ex:grp0018c}).
 
 \begin{exe}
@@ -584,8 +602,8 @@ Dem Artikel \textit{ein} im Singular entspricht im Plural also die Artikellosigk
   \end{xlist}
 \end{exe}
 
-Der pränominale Genitiv (s.\ schon Abschnitt~\ref{sec:rektioninderngr}) kann nicht gleichzeitig mit dem Artikelwort vorkommen.
-Daher können wir plausiblerweise annehmen, dass sie dieselbe nicht wiederholbare Position in der Struktur einnehmen.
+Ein pränominaler Genitiv (s.\ schon Abschnitt~\ref{sec:rektioninderngr}) und ein Artikelwort können nicht gleichzeitig vorkommen.
+Daher ist die Annahme plausibel, dass sie dieselbe nicht wiederholbare Position in der Struktur einnehmen.
 Genau deswegen besetzen Art und NP[\textsc{Kas}:\textit{gen}] im Phrasenschema dasselbe Feld.
 
 \begin{exe}
