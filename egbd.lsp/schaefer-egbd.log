@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  23 JAN 2016 22:09
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  24 JAN 2016 23:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3635,74 +3635,66 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 642--643
 [][][][][][]
  []
 
-<xymatrix 4x3 337> [355] <xymatrix 6x3 481> <xymatrix 8x3 658>
+<xymatrix 6x3 481> [355] <xymatrix 4x3 337> <xymatrix 8x3 658>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 729--730
 [][][][][][]
  []
 
 [356] <xymatrix 7x3 486> <xymatrix 5x3 453> <xymatrix 4x3 325> [357] <xymatrix
 3x4 518> [358] <xymatrix 2x4 374>
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 843--844
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 841--842
 [][][][][][]
  []
 
-[359] <xymatrix 4x3 328>
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 880--881
+<xymatrix 4x3 328> [359]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 878--879
 [][][][][][]
  []
 
-[360] <xymatrix 4x3 321> [361]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 945--946
-[][][][][][]
- []
-
-
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 955--956
+<xymatrix 4x3 321> [360] [361]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 946--947
 [][][][][][]
  []
 
 
-LaTeX Warning: Reference `sec:valenzundkoepfe' on page 362 undefined on input l
-ine 963.
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 956--957
+[][][][][][]
+ []
 
 [362] <xymatrix 5x3 329> <xymatrix 7x3 482> <xymatrix 9x3 635> <xymatrix 15x4
 1098> [363]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1054--1055
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1057--1058
 [][][][][][]
  []
 
-
-LaTeX Warning: Reference `sec:vollverbenundhilfsverben' on page 364 undefined o
-n input line 1063.
-
 [364] <xymatrix 1x2 90> <xymatrix 4x3 403> <xymatrix 4x3 403> <xymatrix 7x4
 708> [365] [366] <xymatrix 11x7 1210> [367]
-Underfull \hbox (badness 1286) in paragraph at lines 1213--1213
+Underfull \hbox (badness 1286) in paragraph at lines 1207--1207
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Bei der Analyse von Konstituentenstruk
 turen sind folgende Schritte
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1213--1214
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1207--1208
 [][][][][][]
  []
 
 [368] <xymatrix 8x2 706> [369] <xymatrix 8x3 928> <xymatrix 8x4 1118> [370]
 <xymatrix 8x4 1244> <xymatrix 8x5 1446> [371] <xymatrix 8x6 1620> [372]
 [373]
-Underfull \hbox (badness 1708) in paragraph at lines 1366--1366
+Underfull \hbox (badness 1708) in paragraph at lines 1352--1352
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: NON09/OKT.1
 0157, A00/SEP.61566, A00/OKT.71958, A00/
  []
 
 
-Underfull \hbox (badness 3579) in paragraph at lines 1379--1379
+Underfull \hbox (badness 3579) in paragraph at lines 1365--1365
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: WPD/SSS.001
 47, BRZ07/OKT.07777, NON09/AUG.06672,
  []
 
 
-Underfull \hbox (badness 3460) in paragraph at lines 1398--1398
+Underfull \hbox (badness 3460) in paragraph at lines 1384--1384
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: A00/JAN.051
 23, A09/AUG.03243, A99/DEZ.84493, A09/
  []
@@ -3730,32 +3722,32 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 54--55
  []
 
 [378] [379] <xymatrix 15x4 1098> [380] <xymatrix 11x4 1039> [381]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 203--204
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 201--202
 [][][][][][]
  []
 
 [382] [383] [384]
 
 LaTeX Warning: Reference `sec:nebenfelder' on page 385 undefined on input line 
-359.
+357.
 
 [385] [386]
 
 LaTeX Warning: Reference `sec:vorfeldtest' on page 387 undefined on input line 
-473.
+471.
 
 [387]
 
-LaTeX Warning: Reference `sec:nachfeld' on page 388 undefined on input line 587
+LaTeX Warning: Reference `sec:nachfeld' on page 388 undefined on input line 585
 .
 
 [388] [389] <xymatrix 12x6 1097> <xymatrix 11x5 1225> [390]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 664--665
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 662--663
 [][][][][][]
  []
 
 [391] <xymatrix 12x5 1138> <xymatrix 11x5 1225>
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 731--732
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 729--730
 [][][][][][]
  []
 
@@ -3763,15 +3755,15 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 731--732
 9x6 966> [396]
 
 LaTeX Warning: Reference `sec:freierelativsaetze' on page 397 undefined on inpu
-t line 883.
+t line 881.
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 913--914
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 911--912
 [][][][][][]
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 926--927
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 924--925
 [][][][][][]
  []
 
@@ -3788,10 +3780,10 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              Note also, that KOMA-Script will remove the definition
 (scrbook)              of `\sc' anytime until release of about version 3.20.
 (scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1018.
+(scrbook)              by `\@nomath \sc ' on input line 1016.
 
 
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1018.
+LaTeX Font Warning: Command \sc invalid in math mode on input line 1016.
 
 
 Class scrbook Warning: Usage of deprecated font command `\sc'!
@@ -3805,10 +3797,10 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              Note also, that KOMA-Script will remove the definition
 (scrbook)              of `\sc' anytime until release of about version 3.20.
 (scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1018.
+(scrbook)              by `\@nomath \sc ' on input line 1016.
 
 
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1018.
+LaTeX Font Warning: Command \sc invalid in math mode on input line 1016.
 
 1358> <xymatrix 12x5
 
@@ -3823,10 +3815,10 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              Note also, that KOMA-Script will remove the definition
 (scrbook)              of `\sc' anytime until release of about version 3.20.
 (scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1062.
+(scrbook)              by `\@nomath \sc ' on input line 1060.
 
 
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1062.
+LaTeX Font Warning: Command \sc invalid in math mode on input line 1060.
 
 
 Class scrbook Warning: Usage of deprecated font command `\sc'!
@@ -3840,34 +3832,34 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              Note also, that KOMA-Script will remove the definition
 (scrbook)              of `\sc' anytime until release of about version 3.20.
 (scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1062.
+(scrbook)              by `\@nomath \sc ' on input line 1060.
 
 
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1062.
+LaTeX Font Warning: Command \sc invalid in math mode on input line 1060.
 
 1363> [400] [401]
 
 LaTeX Warning: Reference `sec:valenzundkoepfe' on page 402 undefined on input l
-ine 1135.
+ine 1133.
 
 [402]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1146--1147
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1144--1145
 [][][][][][]
  []
 
 [403] [404]
-Underfull \hbox (badness 10000) in paragraph at lines 1294--1294
+Underfull \hbox (badness 10000) in paragraph at lines 1292--1292
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Ein Adverbialsatz ist ein mit Kompleme
 ntierer eingeleiteter VL-
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1294--1295
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1292--1293
 [][][][][][]
  []
 
 [405]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1330--1331
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1328--1329
 [][][][][][]
  []
 
@@ -4428,10 +4420,10 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49384 strings out of 494865
- 863315 string characters out of 6167200
- 1407161 words of memory out of 5000000
- 51768 multiletter control sequences out of 15000+600000
+ 49385 strings out of 494865
+ 863314 string characters out of 6167200
+ 1407259 words of memory out of 5000000
+ 51769 multiletter control sequences out of 15000+600000
  20235 words of font info for 150 fonts, out of 8000000 for 9000
  441 hyphenation exceptions out of 8191
  65i,18n,104p,10460b,2294s stack positions out of 5000i,500n,10000p,200000b,80000s
