@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  24 JAN 2016 23:53
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  25 JAN 2016 20:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1962,31 +1962,31 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 ) (./chapters/andereschrift.aux) (./chapters/loesungen.aux))
 \openout1 = `schaefer-egbd.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 51.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 51.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 52.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 52.
 
 (/opt/local/share/texmf-texlive/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -2030,68 +2030,68 @@ ABD: EveryShipout initializing macros
 .................................................
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 51.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 51.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 51.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 51.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 51.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 51.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 51.
-LaTeX Font Info:    Redeclaring math accent \check on input line 51.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 51.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 51.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 51.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 51.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 51.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 52.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 52.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 52.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 52.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 52.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 52.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 52.
+LaTeX Font Info:    Redeclaring math accent \check on input line 52.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 52.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 52.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 52.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 52.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 51.
+(Font)              `operators' in the math version `normal' on input line 52.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/LinLibertine_R_B.otf(0)/m/n on inpu
-t line 51.
+t line 52.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 51.
+(Font)              `operators' in the math version `bold' on input line 52.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/LinLibertine_R_B.otf(0)/m/n on inp
-ut line 51.
+ut line 52.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  EU1/LinLibertine_R_B.otf(0)/m/n --> EU1/LinLibertine_R_
-B.otf(0)/m/n on input line 51.
+B.otf(0)/m/n on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> EU1/LinLibertine_R_B.otf(0)/m/it on in
-put line 51.
+put line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> EU1/LinLibertine_R_B.otf(0)/bx/n on in
-put line 51.
+put line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> EU1/Arimo_B.ttf(0)/m/n on input line 5
-1.
+2.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> EU1/DejaVuSansMono.ttf(0)/m/n on input
- line 51.
+ line 52.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  EU1/LinLibertine_R_B.otf(0)/m/n --> EU1/LinLibertine_R_
-B.otf(0)/bx/n on input line 51.
+B.otf(0)/bx/n on input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> EU1/LinLibertine_R_B.otf(0)/bx/it on 
-input line 51.
+input line 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> EU1/Arimo_B.ttf(0)/bx/n on input line
- 51.
+ 52.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> EU1/DejaVuSansMono.ttf(0)/bx/n on inpu
-t line 51.
-LaTeX Info: Redefining \microtypecontext on input line 51.
+t line 52.
+LaTeX Info: Redefining \microtypecontext on input line 52.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -2115,40 +2115,40 @@ Package biblatex Warning: Data encoding is 'utf8'.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'schaefer-egbd.bbl' found.
 (./schaefer-egbd.bbl)
-Package biblatex Info: Reference section=0 on input line 51.
-Package biblatex Info: Reference segment=0 on input line 51.
+Package biblatex Info: Reference section=0 on input line 52.
+Package biblatex Info: Reference segment=0 on input line 52.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \idxtitle@default=\toks62
 \tf@default=\write7
 \openout7 = `schaefer-egbd.idx'.
 
-Package index Info: Writing index file schaefer-egbd.idx on input line 51.
+Package index Info: Writing index file schaefer-egbd.idx on input line 52.
 \idxtitle@lan=\toks63
 \tf@lan=\write8
 \openout8 = `schaefer-egbd.ldx'.
 
-Package index Info: Writing index file schaefer-egbd.ldx on input line 51.
+Package index Info: Writing index file schaefer-egbd.ldx on input line 52.
 \idxtitle@sbj=\toks64
 \tf@sbj=\write9
 \openout9 = `schaefer-egbd.sdx'.
 
-Package index Info: Writing index file schaefer-egbd.sdx on input line 51.
+Package index Info: Writing index file schaefer-egbd.sdx on input line 52.
 \openout7 = `schaefer-egbd.adx'.
 
-Package index Info: Writing index file schaefer-egbd.adx on input line 51.
+Package index Info: Writing index file schaefer-egbd.adx on input line 52.
 \idxtitle@wrd=\toks65
 \tf@wrd=\write10
 \openout10 = `schaefer-egbd.wdx'.
 
-Package index Info: Writing index file schaefer-egbd.wdx on input line 51.
+Package index Info: Writing index file schaefer-egbd.wdx on input line 52.
 \idxtitle@rwrd=\toks66
 \tf@rwrd=\write11
 \openout11 = `schaefer-egbd.rdx'.
 
-Package index Info: Writing index file schaefer-egbd.rdx on input line 51.
+Package index Info: Writing index file schaefer-egbd.rdx on input line 52.
 \AtBeginShipoutBox=\box104
-Package hyperref Info: Link coloring OFF on input line 51.
+Package hyperref Info: Link coloring OFF on input line 52.
 
 (/opt/local/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -2158,15 +2158,15 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count460
 )
-LaTeX Info: Redefining \ref on input line 51.
-LaTeX Info: Redefining \pageref on input line 51.
-LaTeX Info: Redefining \nameref on input line 51.
+LaTeX Info: Redefining \ref on input line 52.
+LaTeX Info: Redefining \pageref on input line 52.
+LaTeX Info: Redefining \nameref on input line 52.
 
 (./schaefer-egbd.out) (./schaefer-egbd.out)
 \@outlinefile=\write12
 \openout12 = `schaefer-egbd.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 51.
+LaTeX Font Info:    Try loading font information for U+msa on input line 52.
 
 (/opt/local/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -2174,7 +2174,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/opt/local/share/texmf-texlive/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 51.
+LaTeX Font Info:    Try loading font information for U+msb on input line 52.
 
 (/opt/local/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -2186,9 +2186,9 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-Package xypdf Info: Line width: 0.43799pt on input line 51.
+Package xypdf Info: Line width: 0.43799pt on input line 52.
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 8.93295pt on input line 53.
+(Font)              scaled to size 8.93295pt on input line 54.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `Arimo_B.ttf' (encoding: EU1).
 (microtype)             For optimal results, create family-specific settings.
@@ -2294,9 +2294,9 @@ guage=DFLT;mapping=tex-text;"
 . 
 .................................................
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 10.47263pt on input line 53.
+(Font)              scaled to size 10.47263pt on input line 54.
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 49.7331pt on input line 53.
+(Font)              scaled to size 49.7331pt on input line 54.
 .................................................
 . fontspec info: "set-scale"
 . 
@@ -2308,9 +2308,9 @@ LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(1)/m/n' will be
 . Arimo_B.ttf scale = 0.9564119235264212.
 .................................................
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 23.91014pt on input line 53.
+(Font)              scaled to size 23.91014pt on input line 54.
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 13.86853pt on input line 53.
+(Font)              scaled to size 13.86853pt on input line 54.
 File: ./LSP/lsp-logos/langsci_logo_nocolor.pdf Graphic file (type QTm)
 
 <use  "./LSP/lsp-logos/langsci_logo_nocolor.pdf" >
@@ -2334,7 +2334,7 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 . Arimo_B.ttf scale = 0.9564119235264212.
 .................................................
 
-Overfull \hbox (43.77582pt too wide) in paragraph at lines 53--53
+Overfull \hbox (43.77582pt too wide) in paragraph at lines 54--54
 [][][][][][][] 
  []
 
@@ -2342,49 +2342,49 @@ Overfull \hbox (43.77582pt too wide) in paragraph at lines 53--53
 File: ./LSP/lsp-logos/langsci_spinelogo_nocolor.pdf Graphic file (type QTm)
  <use  "./LSP/lsp-logos/langsci_spinelogo_nocolor.pdf" >
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 14.68433pt on input line 53.
-LaTeX Font Info:    Calculating math sizes for size <18> on input line 53.
+(Font)              scaled to size 14.68433pt on input line 54.
+LaTeX Font Info:    Calculating math sizes for size <18> on input line 54.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <18> not available
-(Font)              size <17.28> substituted on input line 53.
+(Font)              size <17.28> substituted on input line 54.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <12.59995> not available
-(Font)              size <12> substituted on input line 53.
+(Font)              size <12> substituted on input line 54.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <18> not available
-(Font)              size <17.28> substituted on input line 53.
+(Font)              size <17.28> substituted on input line 54.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <12.59995> not available
-(Font)              size <12> substituted on input line 53.
+(Font)              size <12> substituted on input line 54.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <18> not available
-(Font)              size <17.28> substituted on input line 53.
+(Font)              size <17.28> substituted on input line 54.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <12.59995> not available
-(Font)              size <12> substituted on input line 53.
+(Font)              size <12> substituted on input line 54.
 
-LaTeX Font Info:    Calculating math sizes for size <16> on input line 53.
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 54.
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16> not available
-(Font)              size <17.28> substituted on input line 53.
+(Font)              size <17.28> substituted on input line 54.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 53.
+(Font)              size <17.28> substituted on input line 54.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 53.
+(Font)              size <17.28> substituted on input line 54.
 
 [-1]
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 8.15796pt on input line 53.
+(Font)              scaled to size 8.15796pt on input line 54.
  (./LSP/lsp-seriesinfo/tbls-info.tex
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/m/n' will be
 (Font)              scaled to size 9.78955pt on input line 2.
@@ -2417,14 +2417,14 @@ File: ./LSP/lsp-logos/langsci_logo_nocolor.pdf Graphic file (type QTm)
 ]
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 53.
+(hyperref)                setting the option has no effect on input line 54.
 
 File: ./LSP/lsp-logos/FULogo_sw_CMYK.pdf Graphic file (type QTm)
 <use  "./LSP/lsp-logos/FULogo_sw_CMYK.pdf" > [2]
 LaTeX Font Info:    Font shape `EU1/LinLibertine_R_B.otf(0)/m/sl' in size <10.9
 5> not available
 (Font)              Font shape `EU1/LinLibertine_R_B.otf(0)/m/it' tried instead
- on input line 53.
+ on input line 54.
  [3] (./schaefer-egbd.toc
 [4
 
@@ -2840,7 +2840,7 @@ schiedene Artikulationen (= Ob-
 [93] [94
 
 ])
-Overfull \hbox (3.97873pt too wide) in paragraph at lines 1047--69
+Overfull \hbox (3.97873pt too wide) in paragraph at lines 1047--70
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 diese Behauptung mit Bezug auf das Konze
 pt der Typenhäufigkeit (Abschnitt []1.1.5[]). 
  []
@@ -3663,38 +3663,38 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 956--957
 
 [362] <xymatrix 5x3 329> <xymatrix 7x3 482> <xymatrix 9x3 635> <xymatrix 15x4
 1098> [363]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1057--1058
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1060--1061
 [][][][][][]
  []
 
 [364] <xymatrix 1x2 90> <xymatrix 4x3 403> <xymatrix 4x3 403> <xymatrix 7x4
 708> [365] [366] <xymatrix 11x7 1210> [367]
-Underfull \hbox (badness 1286) in paragraph at lines 1207--1207
+Underfull \hbox (badness 1286) in paragraph at lines 1210--1210
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Bei der Analyse von Konstituentenstruk
 turen sind folgende Schritte
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1207--1208
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1210--1211
 [][][][][][]
  []
 
 [368] <xymatrix 8x2 706> [369] <xymatrix 8x3 928> <xymatrix 8x4 1118> [370]
 <xymatrix 8x4 1244> <xymatrix 8x5 1446> [371] <xymatrix 8x6 1620> [372]
 [373]
-Underfull \hbox (badness 1708) in paragraph at lines 1352--1352
+Underfull \hbox (badness 1708) in paragraph at lines 1355--1355
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: NON09/OKT.1
 0157, A00/SEP.61566, A00/OKT.71958, A00/
  []
 
 
-Underfull \hbox (badness 3579) in paragraph at lines 1365--1365
+Underfull \hbox (badness 3579) in paragraph at lines 1368--1368
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: WPD/SSS.001
 47, BRZ07/OKT.07777, NON09/AUG.06672,
  []
 
 
-Underfull \hbox (badness 3460) in paragraph at lines 1384--1384
+Underfull \hbox (badness 3460) in paragraph at lines 1387--1387
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: A00/JAN.051
 23, A09/AUG.03243, A99/DEZ.84493, A09/
  []
@@ -3712,62 +3712,38 @@ Underfull \hbox (badness 3460) in paragraph at lines 1384--1384
 ]
 Kapitel 12.
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 28--29
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 27--28
 [][][][][][]
  []
 
 [377]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 54--55
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 52--53
 [][][][][][]
  []
 
 [378] [379] <xymatrix 15x4 1098> [380] <xymatrix 11x4 1039> [381]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 201--202
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 203--204
 [][][][][][]
  []
 
-[382] [383] [384]
-
-LaTeX Warning: Reference `sec:nebenfelder' on page 385 undefined on input line 
-357.
-
-[385] [386]
-
-LaTeX Warning: Reference `sec:vorfeldtest' on page 387 undefined on input line 
-471.
-
-[387]
-
-LaTeX Warning: Reference `sec:nachfeld' on page 388 undefined on input line 585
-.
-
-[388] [389] <xymatrix 12x6 1097> <xymatrix 11x5 1225> [390]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 662--663
+[382] [383] [384] [385] [386] [387] [388] <xymatrix 12x6 1097> <xymatrix 11x5
+1225> [389] [390]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 638--639
 [][][][][][]
  []
 
-[391] <xymatrix 12x5 1138> <xymatrix 11x5 1225>
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 729--730
+<xymatrix 12x5 1138> [391] <xymatrix 11x5 1225>
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 701--702
 [][][][][][]
  []
 
-[392] <xymatrix 10x5 1080> [393] [394] <xymatrix 11x5 1221> [395] <xymatrix
-9x6 966> [396]
-
-LaTeX Warning: Reference `sec:freierelativsaetze' on page 397 undefined on inpu
-t line 881.
-
-
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 911--912
+[392] <xymatrix 10x5 1080> [393] <xymatrix 11x5 1221> [394] <xymatrix 9x6 966>
+[395] [396]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 882--883
 [][][][][][]
  []
 
-
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 924--925
-[][][][][][]
- []
-
-[397] <xymatrix 13x6 1489> [398] [399] <xymatrix 12x5
+<xymatrix 13x6 1489> [397] [398] <xymatrix 12x5
 
 Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              You should note, that in 1994 font command `\sc' has
@@ -3780,10 +3756,10 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              Note also, that KOMA-Script will remove the definition
 (scrbook)              of `\sc' anytime until release of about version 3.20.
 (scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1016.
+(scrbook)              by `\@nomath \sc ' on input line 968.
 
 
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1016.
+LaTeX Font Warning: Command \sc invalid in math mode on input line 968.
 
 
 Class scrbook Warning: Usage of deprecated font command `\sc'!
@@ -3797,28 +3773,10 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              Note also, that KOMA-Script will remove the definition
 (scrbook)              of `\sc' anytime until release of about version 3.20.
 (scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1016.
+(scrbook)              by `\@nomath \sc ' on input line 968.
 
 
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1016.
-
-1358> <xymatrix 12x5
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1060.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1060.
+LaTeX Font Warning: Command \sc invalid in math mode on input line 968.
 
 
 Class scrbook Warning: Usage of deprecated font command `\sc'!
@@ -3832,50 +3790,80 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              Note also, that KOMA-Script will remove the definition
 (scrbook)              of `\sc' anytime until release of about version 3.20.
 (scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1060.
+(scrbook)              by `\@nomath \sc ' on input line 968.
 
 
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1060.
+LaTeX Font Warning: Command \sc invalid in math mode on input line 968.
 
-1363> [400] [401]
+1410> [399] <xymatrix 12x5
 
-LaTeX Warning: Reference `sec:valenzundkoepfe' on page 402 undefined on input l
-ine 1133.
+Class scrbook Warning: Usage of deprecated font command `\sc'!
+(scrbook)              You should note, that in 1994 font command `\sc' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\sc' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
+(scrbook)              by `\@nomath \sc ' on input line 1012.
 
-[402]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1144--1145
+
+LaTeX Font Warning: Command \sc invalid in math mode on input line 1012.
+
+
+Class scrbook Warning: Usage of deprecated font command `\sc'!
+(scrbook)              You should note, that in 1994 font command `\sc' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\sc' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
+(scrbook)              by `\@nomath \sc ' on input line 1012.
+
+
+LaTeX Font Warning: Command \sc invalid in math mode on input line 1012.
+
+1363> [400]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1091--1092
 [][][][][][]
  []
 
-[403] [404]
-Underfull \hbox (badness 10000) in paragraph at lines 1292--1292
+[401] [402] [403]
+Underfull \hbox (badness 10000) in paragraph at lines 1240--1240
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Ein Adverbialsatz ist ein mit Kompleme
 ntierer eingeleiteter VL-
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1292--1293
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1240--1241
 [][][][][][]
  []
 
-[405]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1328--1329
+[404]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1276--1277
 [][][][][][]
  []
 
-[406] [407] [408
+[405] [406] [407
 
-] [409]) [410]
+] [408]) [409]
 \openout2 = `chapters/relationen.aux'.
 
- (./chapters/relationen.tex
-Kapitel 13.
-[411
+ (./chapters/relationen.tex [410
 
 
 
 
 ]
+Kapitel 13.
+[411]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 44--45
 [][][][][][]
  []
@@ -4368,19 +4356,19 @@ Overfull \vbox (4.9668pt too high) detected at line 1673
 
 
 ]
-Underfull \hbox (badness 2409) in paragraph at lines 100--100
+Underfull \hbox (badness 2409) in paragraph at lines 101--101
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Fabricius-Hansen, Cathrine. 2000. Di
 e Geheimnisse der deutschen würde-
  []
 
 [564] [565]
-Underfull \hbox (badness 1303) in paragraph at lines 100--100
+Underfull \hbox (badness 1303) in paragraph at lines 101--101
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Leirbukt, Oddleif. 2013. \EU1/LinLib
 ertine_R_B.otf(0)/m/it/10.95 Untersuchungen zum bekommen-Passiv im heutigen
  []
 
 [566]
-Underfull \hbox (badness 1466) in paragraph at lines 100--100
+Underfull \hbox (badness 1466) in paragraph at lines 101--101
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Nübling, Damaris & Renata Szczepania
 k. 2009. Religion+s+freiheit, Stabili-
  []
@@ -4391,8 +4379,8 @@ k. 2009. Religion+s+freiheit, Stabili-
 
 ] [572]
 [573] [574] [575] [576] [577] [578] [579])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
  (./schaefer-egbd.aux
 (./chapters/einleitung.aux) (./chapters/grammatik.aux)
 (./chapters/grundbegriffe.aux) (./chapters/phonetik.aux)
@@ -4402,8 +4390,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
 (./chapters/konstituentenstruktur.aux) (./chapters/phrasen.aux)
 (./chapters/saetze.aux) (./chapters/relationen.aux) (./chapters/phonschrift.aux
 ) (./chapters/andereschrift.aux) (./chapters/loesungen.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 111.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 111.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 112.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 112.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -4420,12 +4408,12 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49385 strings out of 494865
- 863314 string characters out of 6167200
- 1407259 words of memory out of 5000000
- 51769 multiletter control sequences out of 15000+600000
+ 49382 strings out of 494865
+ 863270 string characters out of 6167200
+ 1407286 words of memory out of 5000000
+ 51765 multiletter control sequences out of 15000+600000
  20235 words of font info for 150 fonts, out of 8000000 for 9000
- 441 hyphenation exceptions out of 8191
+ 442 hyphenation exceptions out of 8191
  65i,18n,104p,10460b,2294s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on schaefer-egbd.pdf (595 pages).

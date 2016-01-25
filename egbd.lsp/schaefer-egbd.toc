@@ -444,7 +444,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {12}Sätze}{377}{chapter.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.1}Überblick}{377}{section.12.1}
+\contentsline {section}{\numberline {12.1}Hauptsatz und Matrixsatz}{377}{section.12.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {12.2}Satzgliedstellung und Feldermodell}{378}{section.12.2}
 \defcounter {refsection}{0}\relax 
@@ -452,7 +452,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {12.2.2}Das Feldermodell}{381}{subsection.12.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.2.3}LSK-Test und Nebensätze}{387}{subsection.12.2.3}
+\contentsline {subsection}{\numberline {12.2.3}LSK-Test und Nebensätze}{386}{subsection.12.2.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {12.3}Schemata für Sätze}{389}{section.12.3}
 \defcounter {refsection}{0}\relax 
@@ -462,19 +462,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {12.3.3}Syntax der Partikelverben}{394}{subsection.12.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.3.4}Kopulasätze}{395}{subsection.12.3.4}
+\contentsline {subsection}{\numberline {12.3.4}Kopulasätze}{394}{subsection.12.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.4}Nebensätze}{396}{section.12.4}
+\contentsline {section}{\numberline {12.4}Nebensätze}{395}{section.12.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.4.1}Relativsätze}{397}{subsection.12.4.1}
+\contentsline {subsection}{\numberline {12.4.1}Relativsätze}{396}{subsection.12.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.4.2}Komplementsätze}{403}{subsection.12.4.2}
+\contentsline {subsection}{\numberline {12.4.2}Komplementsätze}{401}{subsection.12.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.4.3}Adverbialsätze}{405}{subsection.12.4.3}
+\contentsline {subsection}{\numberline {12.4.3}Adverbialsätze}{404}{subsection.12.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 12}{406}{Item.1847}
+\contentsline {section}{Zusammenfassung von Kapitel 12}{405}{Item.1844}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 12}{408}{Item.1857}
+\contentsline {section}{Übungen zu Kapitel 12}{407}{Item.1854}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {13}Relationen und Prädikate}{411}{chapter.13}
 \defcounter {refsection}{0}\relax 
@@ -526,11 +526,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {13.9}Bindung}{452}{section.13.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 13}{454}{Item.2169}
+\contentsline {section}{Zusammenfassung von Kapitel 13}{454}{Item.2166}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 13}{456}{Item.2184}
+\contentsline {section}{Übungen zu Kapitel 13}{456}{Item.2181}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Weiterführende Literatur zu IV}{458}{Item.2247}
+\contentsline {chapter}{Weiterführende Literatur zu IV}{458}{Item.2244}
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{\numberline {V}Sprache und Schrift}{461}{part.5}
 \defcounter {refsection}{0}\relax 
@@ -564,9 +564,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {14.4}Ausblick auf den Nicht-Kernwortschatz}{484}{section.14.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 14}{486}{Item.2267}
+\contentsline {section}{Zusammenfassung von Kapitel 14}{486}{Item.2264}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 14}{487}{Item.2277}
+\contentsline {section}{Übungen zu Kapitel 14}{487}{Item.2274}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {15}Morphologische und syntaktische Schreibprinzipien}{489}{chapter.15}
 \defcounter {refsection}{0}\relax 
@@ -590,9 +590,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {15.2.3}Nebensätze und Verwandtes}{504}{subsection.15.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 15}{506}{Item.2361}
+\contentsline {section}{Zusammenfassung von Kapitel 15}{506}{Item.2358}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 15}{507}{Item.2372}
+\contentsline {section}{Übungen zu Kapitel 15}{507}{Item.2369}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Weiterführende Literatur zu V}{508}{Exer.15.3}
 \defcounter {refsection}{0}\relax 
