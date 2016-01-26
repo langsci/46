@@ -294,7 +294,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.1.1}Numerus}{232}{subsection.8.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.2}Kasus und Kasushierarchie}{234}{subsection.8.1.2}
+\contentsline {subsection}{\numberline {8.1.2}Kasus}{234}{subsection.8.1.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.1.3}Person}{238}{subsection.8.1.3}
 \defcounter {refsection}{0}\relax 
@@ -306,11 +306,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.2.1}Traditionelle Flexionsklassen}{243}{subsection.8.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.2}Plural}{245}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.2}Numerusflexion}{245}{subsection.8.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.3}Kasus}{247}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.3}Kasusflexion}{247}{subsection.8.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.4}Die sogenannten schwachen Substantive}{250}{subsection.8.2.4}
+\contentsline {subsection}{\numberline {8.2.4}Schwache Substantive}{250}{subsection.8.2.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.2.5}Revidiertes Klassensystem}{251}{subsection.8.2.5}
 \defcounter {refsection}{0}\relax 
@@ -320,13 +320,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.3.2}Übersicht über die Flexionsmuster}{256}{subsection.8.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.3}Flexion der Pronomina und definiten Artikel}{259}{subsection.8.3.3}
+\contentsline {subsection}{\numberline {8.3.3}Pronomina und definite Artikel}{259}{subsection.8.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.4}Flexion der indefiniten Artikel und Possessivartikel}{262}{subsection.8.3.4}
+\contentsline {subsection}{\numberline {8.3.4}Indefinite Artikel und Possessivartikel}{262}{subsection.8.3.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {8.4}Adjektive}{262}{section.8.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.4.1}Klassifikation und Verwendung}{262}{subsection.8.4.1}
+\contentsline {subsection}{\numberline {8.4.1}Klassifikation}{262}{subsection.8.4.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.4.2}Flexion}{264}{subsection.8.4.2}
 \defcounter {refsection}{0}\relax 
@@ -456,7 +456,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {12.3}Schemata für Sätze}{389}{section.12.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.3.1}Konstituentenstruktur und V2-Sätze}{389}{subsection.12.3.1}
+\contentsline {subsection}{\numberline {12.3.1}Verb-Zweit-Sätze}{389}{subsection.12.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {12.3.2}Verb-Erst-Sätze}{393}{subsection.12.3.2}
 \defcounter {refsection}{0}\relax 
@@ -498,11 +498,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {13.3.3}Arten von \textit {es} im Nominativ}{424}{subsection.13.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.4}Passiv}{427}{section.13.4}
+\contentsline {section}{\numberline {13.4}Passiv}{428}{section.13.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.4.1}\textit {werden}-Passiv und Verbklassen}{427}{subsection.13.4.1}
+\contentsline {subsection}{\numberline {13.4.1}\textit {werden}-Passiv und Verbklassen}{428}{subsection.13.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.4.2}\textit {bekommen}-Passiv}{431}{subsection.13.4.2}
+\contentsline {subsection}{\numberline {13.4.2}\textit {bekommen}-Passiv}{430}{subsection.13.4.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {13.5}Objekte, Ergänzungen und Angaben}{433}{section.13.5}
 \defcounter {refsection}{0}\relax 
@@ -518,13 +518,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {13.7.1}Ersatzinfinitiv und Oberfeldumstellung}{442}{subsection.13.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.2}Kohärenz}{444}{subsection.13.7.2}
+\contentsline {subsection}{\numberline {13.7.2}Kohärenz}{443}{subsection.13.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.3}Modalverben und Halbmodalverben}{447}{subsection.13.7.3}
+\contentsline {subsection}{\numberline {13.7.3}Modalverben und Halbmodalverben}{446}{subsection.13.7.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {13.8}Infinitivkontrolle}{449}{section.13.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.9}Bindung}{452}{section.13.9}
+\contentsline {section}{\numberline {13.9}Bindung}{451}{section.13.9}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Zusammenfassung von Kapitel 13}{454}{Item.2166}
 \defcounter {refsection}{0}\relax 
@@ -598,8 +598,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Lösungen zu den Übungen}{510}{section*.56}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{563}{section*.135}
+\contentsline {chapter}{Bibliographie}{563}{section*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{563}{chapter*.136}
+\contentsline {chapter}{\nonumberline Literatur}{563}{chapter*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{570}{section*.137}
+\contentsline {chapter}{Index}{570}{section*.8}
