@@ -332,7 +332,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.4.3}Komparation}{269}{subsection.8.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 8}{272}{Item.1246}
+\contentsline {section}{Zusammenfassung von Kapitel 8}{271}{Item.1246}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Übungen zu Kapitel 8}{273}{Item.1256}
 \defcounter {refsection}{0}\relax 

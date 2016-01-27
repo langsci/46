@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  27 JAN 2016 02:02
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  27 JAN 2016 12:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2978,12 +2978,6 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 1248--1249
  []
 
 [131]
-Overfull \hbox (20.31612pt too wide) in paragraph at lines 1291--1294
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 schlecht sind. Das wäre der Fall, wenn m
-an zum Beispiel versuchen wollte, *[kɔmpl.ɛt]
- []
-
-
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1297--1298
 [][][][][][]
  []
@@ -3431,7 +3425,7 @@ der eigentlichen adjektivalen (schwa-
  []
 
 [267] <xymatrix 3x3 334> [268] [269] [270] [271] [272]
-Underfull \hbox (badness 2126) in paragraph at lines 1689--1689
+Underfull \hbox (badness 2126) in paragraph at lines 1705--1705
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Die Beispiele sind dem DeReKo (W-Öffentl
 ich/W) entnommen. Siglen: A10/JAN.00664,
  []
@@ -4391,7 +4385,7 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 Here is how much of TeX's memory you used:
  49369 strings out of 494865
  862769 string characters out of 6167200
- 1406248 words of memory out of 5000000
+ 1406249 words of memory out of 5000000
  51755 multiletter control sequences out of 15000+600000
  20227 words of font info for 149 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
