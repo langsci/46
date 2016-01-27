@@ -382,13 +382,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {10.1}Struktur in der Syntax}{315}{section.10.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.2}Syntaktische Strukturen und Grammatikalität}{317}{section.10.2}
+\contentsline {section}{\numberline {10.2}Syntaktische Struktur}{317}{section.10.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {10.3}Konstituenten}{322}{section.10.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {10.3.1}Konstituententests}{323}{subsection.10.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.3.2}Satzglieder und andere Konstituenten}{327}{subsection.10.3.2}
+\contentsline {subsection}{\numberline {10.3.2}Konstituenten und Satzglieder}{327}{subsection.10.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {10.3.3}Strukturelle Ambiguität}{330}{subsection.10.3.3}
 \defcounter {refsection}{0}\relax 
@@ -518,13 +518,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {13.7.1}Ersatzinfinitiv und Oberfeldumstellung}{442}{subsection.13.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.2}Kohärenz}{443}{subsection.13.7.2}
+\contentsline {subsection}{\numberline {13.7.2}Kohärenz}{444}{subsection.13.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.3}Modalverben und Halbmodalverben}{446}{subsection.13.7.3}
+\contentsline {subsection}{\numberline {13.7.3}Modalverben und Halbmodalverben}{447}{subsection.13.7.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {13.8}Infinitivkontrolle}{449}{section.13.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.9}Bindung}{451}{section.13.9}
+\contentsline {section}{\numberline {13.9}Bindung}{452}{section.13.9}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Zusammenfassung von Kapitel 13}{454}{Item.2166}
 \defcounter {refsection}{0}\relax 
@@ -544,9 +544,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {14.2}Buchstaben und phonologische Segmente}{469}{section.14.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.2.1}Schreibung von konsonantischen Segmenten}{469}{subsection.14.2.1}
+\contentsline {subsection}{\numberline {14.2.1}Konsonantenschreibungen}{469}{subsection.14.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.2.2}Schreibung von vokalischen Segmenten}{472}{subsection.14.2.2}
+\contentsline {subsection}{\numberline {14.2.2}Vokalschreibungen}{472}{subsection.14.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {14.3}Silben und Wörter}{474}{section.14.3}
 \defcounter {refsection}{0}\relax 
@@ -598,8 +598,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Lösungen zu den Übungen}{510}{section*.56}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{563}{section*.6}
+\contentsline {chapter}{Bibliographie}{563}{section*.135}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{563}{chapter*.7}
+\contentsline {chapter}{\nonumberline Literatur}{563}{chapter*.136}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{570}{section*.8}
+\contentsline {chapter}{Index}{570}{section*.137}
