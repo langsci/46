@@ -160,444 +160,444 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.8}Einsilbler und Zweisilbler}{129}{subsection.4.2.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.9}Maximale Anfangsränder}{132}{subsection.4.2.9}
+\contentsline {subsection}{\numberline {4.2.9}Maximale Anfangsränder}{134}{subsection.4.2.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Wortakzent}{133}{section.4.3}
+\contentsline {section}{\numberline {4.3}Wortakzent}{135}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.1}Prosodie}{133}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.1}Prosodie}{135}{subsection.4.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.2}Wortakzent im Deutschen}{135}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.2}Wortakzent im Deutschen}{137}{subsection.4.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.3}Prosodische Wörter}{137}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.3}Prosodische Wörter}{142}{subsection.4.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Phone und Phoneme}{139}{section.4.4}
+\contentsline {section}{\numberline {4.4}Phone und Phoneme}{143}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 4}{142}{Item.536}
+\contentsline {section}{Zusammenfassung von Kapitel 4}{146}{Item.536}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 4}{143}{Item.546}
+\contentsline {section}{Übungen zu Kapitel 4}{148}{Item.546}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Weiterführende Literatur zu II}{144}{Exer.4.7}
+\contentsline {chapter}{Weiterführende Literatur zu II}{149}{Exer.4.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{\numberline {III}Wort und Wortform}{147}{part.3}
+\contentsline {part}{\numberline {III}Wort und Wortform}{153}{part.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Wortklassen}{149}{chapter.5}
+\contentsline {chapter}{\numberline {5}Wortklassen}{155}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Wörter}{149}{section.5.1}
+\contentsline {section}{\numberline {5.1}Wörter}{155}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.1}Definitionsprobleme}{149}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.1}Definitionsprobleme}{155}{subsection.5.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.2}Wörter und Wortformen}{153}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.2}Wörter und Wortformen}{159}{subsection.5.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Klassifikationsmethoden}{155}{section.5.2}
+\contentsline {section}{\numberline {5.2}Klassifikationsmethoden}{161}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.1}Semantische Klassifikation}{155}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.1}Semantische Klassifikation}{161}{subsection.5.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.2}Paradigmatische Klassifikation}{156}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.2}Paradigmatische Klassifikation}{162}{subsection.5.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.3}Syntagmatische Klassifikation}{159}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.3}Syntagmatische Klassifikation}{165}{subsection.5.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Wortklassen des Deutschen}{161}{section.5.3}
+\contentsline {section}{\numberline {5.3}Wortklassen des Deutschen}{167}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.1}Filtermethode}{161}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.1}Filtermethode}{167}{subsection.5.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.2}Flektierbare Wörter}{162}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.2}Flektierbare Wörter}{168}{subsection.5.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.3}Verben und Nomina}{163}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.3}Verben und Nomina}{169}{subsection.5.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.4}Substantive}{164}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.4}Substantive}{170}{subsection.5.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.5}Adjektive}{165}{subsection.5.3.5}
+\contentsline {subsection}{\numberline {5.3.5}Adjektive}{171}{subsection.5.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.6}Präpositionen}{166}{subsection.5.3.6}
+\contentsline {subsection}{\numberline {5.3.6}Präpositionen}{172}{subsection.5.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.7}Komplementierer}{167}{subsection.5.3.7}
+\contentsline {subsection}{\numberline {5.3.7}Komplementierer}{173}{subsection.5.3.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.8}Adverben und Partikeln}{168}{subsection.5.3.8}
+\contentsline {subsection}{\numberline {5.3.8}Adverben und Partikeln}{174}{subsection.5.3.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.9}Kopulapartikeln}{170}{subsection.5.3.9}
+\contentsline {subsection}{\numberline {5.3.9}Kopulapartikeln}{176}{subsection.5.3.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.10}Satzäquivalente}{170}{subsection.5.3.10}
+\contentsline {subsection}{\numberline {5.3.10}Satzäquivalente}{176}{subsection.5.3.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.11}Konjunktionen}{171}{subsection.5.3.11}
+\contentsline {subsection}{\numberline {5.3.11}Konjunktionen}{177}{subsection.5.3.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.12}Gesamtübersicht}{172}{subsection.5.3.12}
+\contentsline {subsection}{\numberline {5.3.12}Gesamtübersicht}{178}{subsection.5.3.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 5}{172}{figure.5.1}
+\contentsline {section}{Zusammenfassung von Kapitel 5}{178}{figure.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 5}{175}{Item.690}
+\contentsline {section}{Übungen zu Kapitel 5}{181}{Item.690}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Morphologie}{177}{chapter.6}
+\contentsline {chapter}{\numberline {6}Morphologie}{183}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Formen und ihre Struktur}{177}{section.6.1}
+\contentsline {section}{\numberline {6.1}Formen und ihre Struktur}{183}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.1}Form und Funktion}{177}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.1}Form und Funktion}{183}{subsection.6.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.2}Morphe}{181}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.2}Morphe}{187}{subsection.6.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.3}Wörter, Wortformen und Stämme}{183}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.3}Wörter, Wortformen und Stämme}{189}{subsection.6.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.4}Umlaut und Ablaut}{185}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.4}Umlaut und Ablaut}{191}{subsection.6.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Morphologische Strukturen}{188}{section.6.2}
+\contentsline {section}{\numberline {6.2}Morphologische Strukturen}{194}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.1}Lineare Beschreibung}{188}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.1}Lineare Beschreibung}{194}{subsection.6.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.2}Strukturformat}{189}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.2}Strukturformat}{195}{subsection.6.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Flexion und Wortbildung}{190}{section.6.3}
+\contentsline {section}{\numberline {6.3}Flexion und Wortbildung}{196}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.1}Statische Merkmale}{190}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.1}Statische Merkmale}{196}{subsection.6.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.2}Wortbildung und Flexion}{191}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.2}Wortbildung und Flexion}{197}{subsection.6.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.3}Lexikonregeln}{195}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.3}Lexikonregeln}{201}{subsection.6.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}Morpheme und Allomorphe}{196}{section.6.4}
+\contentsline {section}{\numberline {6.4}Morpheme und Allomorphe}{202}{section.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 6}{201}{Item.831}
+\contentsline {section}{Zusammenfassung von Kapitel 6}{207}{Item.831}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 6}{203}{Item.841}
+\contentsline {section}{Übungen zu Kapitel 6}{209}{Item.841}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Wortbildung}{205}{chapter.7}
+\contentsline {chapter}{\numberline {7}Wortbildung}{211}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Komposition}{205}{section.7.1}
+\contentsline {section}{\numberline {7.1}Komposition}{211}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1.1}Definition und Überblick}{205}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.1}Definition und Überblick}{211}{subsection.7.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1.2}Kompositionstypen}{208}{subsection.7.1.2}
+\contentsline {subsection}{\numberline {7.1.2}Kompositionstypen}{214}{subsection.7.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1.3}Rekursion}{210}{subsection.7.1.3}
+\contentsline {subsection}{\numberline {7.1.3}Rekursion}{216}{subsection.7.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1.4}Kompositionsfugen}{213}{subsection.7.1.4}
+\contentsline {subsection}{\numberline {7.1.4}Kompositionsfugen}{219}{subsection.7.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Konversion}{215}{section.7.2}
+\contentsline {section}{\numberline {7.2}Konversion}{221}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.1}Definition und Überblick}{215}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.1}Definition und Überblick}{221}{subsection.7.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.2}Konversion im Deutschen}{217}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.2}Konversion im Deutschen}{223}{subsection.7.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}Derivation}{219}{section.7.3}
+\contentsline {section}{\numberline {7.3}Derivation}{225}{section.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.1}Definition und Überblick}{219}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.1}Definition und Überblick}{225}{subsection.7.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.2}Derivation ohne Wortklassenwechsel}{221}{subsection.7.3.2}
+\contentsline {subsection}{\numberline {7.3.2}Derivation ohne Wortklassenwechsel}{227}{subsection.7.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.3}Derivation mit Wortklassenwechsel}{224}{subsection.7.3.3}
+\contentsline {subsection}{\numberline {7.3.3}Derivation mit Wortklassenwechsel}{230}{subsection.7.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 7}{226}{Item.980}
+\contentsline {section}{Zusammenfassung von Kapitel 7}{232}{Item.980}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 7}{228}{Item.990}
+\contentsline {section}{Übungen zu Kapitel 7}{234}{Item.990}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Nominalflexion}{231}{chapter.8}
+\contentsline {chapter}{\numberline {8}Nominalflexion}{237}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}Kategorien}{232}{section.8.1}
+\contentsline {section}{\numberline {8.1}Kategorien}{238}{section.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.1}Numerus}{232}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.1}Numerus}{238}{subsection.8.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.2}Kasus}{234}{subsection.8.1.2}
+\contentsline {subsection}{\numberline {8.1.2}Kasus}{240}{subsection.8.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.3}Person}{238}{subsection.8.1.3}
+\contentsline {subsection}{\numberline {8.1.3}Person}{244}{subsection.8.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.4}Genus}{241}{subsection.8.1.4}
+\contentsline {subsection}{\numberline {8.1.4}Genus}{247}{subsection.8.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.5}Zusammenfassung}{242}{subsection.8.1.5}
+\contentsline {subsection}{\numberline {8.1.5}Zusammenfassung}{248}{subsection.8.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.2}Substantive}{242}{section.8.2}
+\contentsline {section}{\numberline {8.2}Substantive}{248}{section.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.1}Traditionelle Flexionsklassen}{243}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.1}Traditionelle Flexionsklassen}{249}{subsection.8.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.2}Numerusflexion}{245}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.2}Numerusflexion}{251}{subsection.8.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.3}Kasusflexion}{247}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.3}Kasusflexion}{253}{subsection.8.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.4}Schwache Substantive}{250}{subsection.8.2.4}
+\contentsline {subsection}{\numberline {8.2.4}Schwache Substantive}{256}{subsection.8.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.5}Revidiertes Klassensystem}{251}{subsection.8.2.5}
+\contentsline {subsection}{\numberline {8.2.5}Revidiertes Klassensystem}{257}{subsection.8.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.3}Artikel und Pronomina}{253}{section.8.3}
+\contentsline {section}{\numberline {8.3}Artikel und Pronomina}{259}{section.8.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.1}Gemeinsamkeiten und Unterschiede}{253}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.1}Gemeinsamkeiten und Unterschiede}{259}{subsection.8.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.2}Übersicht über die Flexionsmuster}{256}{subsection.8.3.2}
+\contentsline {subsection}{\numberline {8.3.2}Übersicht über die Flexionsmuster}{262}{subsection.8.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.3}Pronomina und definite Artikel}{259}{subsection.8.3.3}
+\contentsline {subsection}{\numberline {8.3.3}Pronomina und definite Artikel}{265}{subsection.8.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.4}Indefinite Artikel und Possessivartikel}{262}{subsection.8.3.4}
+\contentsline {subsection}{\numberline {8.3.4}Indefinite Artikel und Possessivartikel}{268}{subsection.8.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.4}Adjektive}{262}{section.8.4}
+\contentsline {section}{\numberline {8.4}Adjektive}{268}{section.8.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.4.1}Klassifikation}{262}{subsection.8.4.1}
+\contentsline {subsection}{\numberline {8.4.1}Klassifikation}{268}{subsection.8.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.4.2}Flexion}{264}{subsection.8.4.2}
+\contentsline {subsection}{\numberline {8.4.2}Flexion}{270}{subsection.8.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.4.3}Komparation}{269}{subsection.8.4.3}
+\contentsline {subsection}{\numberline {8.4.3}Komparation}{275}{subsection.8.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 8}{271}{Item.1246}
+\contentsline {section}{Zusammenfassung von Kapitel 8}{277}{Item.1246}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 8}{273}{Item.1256}
+\contentsline {section}{Übungen zu Kapitel 8}{279}{Item.1256}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}Verbalflexion}{275}{chapter.9}
+\contentsline {chapter}{\numberline {9}Verbalflexion}{281}{chapter.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.1}Kategorien}{275}{section.9.1}
+\contentsline {section}{\numberline {9.1}Kategorien}{281}{section.9.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.1}Person und Numerus}{275}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.1}Person und Numerus}{281}{subsection.9.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.2}Tempus}{276}{subsection.9.1.2}
+\contentsline {subsection}{\numberline {9.1.2}Tempus}{282}{subsection.9.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.3}Tempusformen}{281}{subsection.9.1.3}
+\contentsline {subsection}{\numberline {9.1.3}Tempusformen}{287}{subsection.9.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.4}Modus}{283}{subsection.9.1.4}
+\contentsline {subsection}{\numberline {9.1.4}Modus}{289}{subsection.9.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.5}Finitheit und Infinitheit}{286}{subsection.9.1.5}
+\contentsline {subsection}{\numberline {9.1.5}Finitheit und Infinitheit}{292}{subsection.9.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.6}Genus verbi}{288}{subsection.9.1.6}
+\contentsline {subsection}{\numberline {9.1.6}Genus verbi}{294}{subsection.9.1.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.7}Zusammenfassung}{288}{subsection.9.1.7}
+\contentsline {subsection}{\numberline {9.1.7}Zusammenfassung}{294}{subsection.9.1.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.2}Flexion}{289}{section.9.2}
+\contentsline {section}{\numberline {9.2}Flexion}{295}{section.9.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.1}Unterklassen}{289}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.1}Unterklassen}{295}{subsection.9.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.2}Tempus, Numerus und Person}{293}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.2}Tempus, Numerus und Person}{299}{subsection.9.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.3}Konjunktivflexion}{295}{subsection.9.2.3}
+\contentsline {subsection}{\numberline {9.2.3}Konjunktivflexion}{301}{subsection.9.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.4}Zusammenfassung}{297}{subsection.9.2.4}
+\contentsline {subsection}{\numberline {9.2.4}Zusammenfassung}{303}{subsection.9.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.5}Infinite Formen}{299}{subsection.9.2.5}
+\contentsline {subsection}{\numberline {9.2.5}Infinite Formen}{305}{subsection.9.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.6}Formen des Imperativs}{300}{subsection.9.2.6}
+\contentsline {subsection}{\numberline {9.2.6}Formen des Imperativs}{306}{subsection.9.2.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.7}Kleine Verbklassen}{302}{subsection.9.2.7}
+\contentsline {subsection}{\numberline {9.2.7}Kleine Verbklassen}{308}{subsection.9.2.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 9}{306}{table.9.20}
+\contentsline {section}{Zusammenfassung von Kapitel 9}{312}{table.9.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 9}{307}{Item.1395}
+\contentsline {section}{Übungen zu Kapitel 9}{313}{Item.1395}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Weiterführende Literatur zu III}{309}{Exer.9.6}
+\contentsline {chapter}{Weiterführende Literatur zu III}{315}{Exer.9.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{\numberline {IV}Satz und Satzglied}{313}{part.4}
+\contentsline {part}{\numberline {IV}Satz und Satzglied}{319}{part.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {10}Konstituentenstruktur}{315}{chapter.10}
+\contentsline {chapter}{\numberline {10}Konstituentenstruktur}{321}{chapter.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.1}Struktur in der Syntax}{315}{section.10.1}
+\contentsline {section}{\numberline {10.1}Struktur in der Syntax}{321}{section.10.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.2}Syntaktische Struktur}{317}{section.10.2}
+\contentsline {section}{\numberline {10.2}Syntaktische Struktur}{323}{section.10.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.3}Konstituenten}{322}{section.10.3}
+\contentsline {section}{\numberline {10.3}Konstituenten}{328}{section.10.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.3.1}Konstituententests}{323}{subsection.10.3.1}
+\contentsline {subsection}{\numberline {10.3.1}Konstituententests}{329}{subsection.10.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.3.2}Konstituenten und Satzglieder}{327}{subsection.10.3.2}
+\contentsline {subsection}{\numberline {10.3.2}Konstituenten und Satzglieder}{333}{subsection.10.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.3.3}Strukturelle Ambiguität}{330}{subsection.10.3.3}
+\contentsline {subsection}{\numberline {10.3.3}Strukturelle Ambiguität}{336}{subsection.10.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.4}Topologie und Konstituentenstruktur}{331}{section.10.4}
+\contentsline {section}{\numberline {10.4}Topologie und Konstituentenstruktur}{337}{section.10.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.4.1}Terminologie für Baumdiagramme}{331}{subsection.10.4.1}
+\contentsline {subsection}{\numberline {10.4.1}Terminologie für Baumdiagramme}{337}{subsection.10.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.4.2}Topologische Struktur}{332}{subsection.10.4.2}
+\contentsline {subsection}{\numberline {10.4.2}Topologische Struktur}{338}{subsection.10.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.4.3}Phrasen, Köpfe und Merkmale}{333}{subsection.10.4.3}
+\contentsline {subsection}{\numberline {10.4.3}Phrasen, Köpfe und Merkmale}{339}{subsection.10.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 10}{337}{dgsatz.10.1}
+\contentsline {section}{Zusammenfassung von Kapitel 10}{343}{dgsatz.10.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 10}{339}{Item.1498}
+\contentsline {section}{Übungen zu Kapitel 10}{345}{Item.1498}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {11}Phrasen}{341}{chapter.11}
+\contentsline {chapter}{\numberline {11}Phrasen}{347}{chapter.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.1}Koordination}{342}{section.11.1}
+\contentsline {section}{\numberline {11.1}Koordination}{348}{section.11.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.2}Nominalphrase (NP)}{344}{section.11.2}
+\contentsline {section}{\numberline {11.2}Nominalphrase (NP)}{350}{section.11.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.2.1}Die Struktur der NP}{344}{subsection.11.2.1}
+\contentsline {subsection}{\numberline {11.2.1}Die Struktur der NP}{350}{subsection.11.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.2.2}Innere Rechtsattribute}{346}{subsection.11.2.2}
+\contentsline {subsection}{\numberline {11.2.2}Innere Rechtsattribute}{352}{subsection.11.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.2.3}Rektion und Valenz in der NP}{348}{subsection.11.2.3}
+\contentsline {subsection}{\numberline {11.2.3}Rektion und Valenz in der NP}{354}{subsection.11.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.2.4}Adjektivphrasen und Artikelwörter}{351}{subsection.11.2.4}
+\contentsline {subsection}{\numberline {11.2.4}Adjektivphrasen und Artikelwörter}{357}{subsection.11.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.3}Adjektivphrase (AP)}{354}{section.11.3}
+\contentsline {section}{\numberline {11.3}Adjektivphrase (AP)}{360}{section.11.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.4}Präpositionalphrase (PP)}{357}{section.11.4}
+\contentsline {section}{\numberline {11.4}Präpositionalphrase (PP)}{363}{section.11.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.4.1}Normale PP}{357}{subsection.11.4.1}
+\contentsline {subsection}{\numberline {11.4.1}Normale PP}{363}{subsection.11.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.4.2}PP mit flektierbaren Präpositionen}{358}{subsection.11.4.2}
+\contentsline {subsection}{\numberline {11.4.2}PP mit flektierbaren Präpositionen}{364}{subsection.11.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.5}Adverbphrase (AdvP)}{359}{section.11.5}
+\contentsline {section}{\numberline {11.5}Adverbphrase (AdvP)}{365}{section.11.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.6}Komplementiererphrase (KP)}{360}{section.11.6}
+\contentsline {section}{\numberline {11.6}Komplementiererphrase (KP)}{366}{section.11.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.7}Verbphrase (VP) und Verbalkomplex}{361}{section.11.7}
+\contentsline {section}{\numberline {11.7}Verbphrase (VP) und Verbalkomplex}{367}{section.11.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.7.1}Verbphrase}{362}{subsection.11.7.1}
+\contentsline {subsection}{\numberline {11.7.1}Verbphrase}{368}{subsection.11.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.7.2}Verbalkomplex}{365}{subsection.11.7.2}
+\contentsline {subsection}{\numberline {11.7.2}Verbalkomplex}{371}{subsection.11.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.8}Konstruktion von Konstituentenanalysen}{368}{section.11.8}
+\contentsline {section}{\numberline {11.8}Konstruktion von Konstituentenanalysen}{374}{section.11.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 11}{372}{figure.11.40}
+\contentsline {section}{Zusammenfassung von Kapitel 11}{378}{figure.11.40}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 11}{374}{Item.1663}
+\contentsline {section}{Übungen zu Kapitel 11}{380}{Item.1663}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {12}Sätze}{377}{chapter.12}
+\contentsline {chapter}{\numberline {12}Sätze}{383}{chapter.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.1}Hauptsatz und Matrixsatz}{377}{section.12.1}
+\contentsline {section}{\numberline {12.1}Hauptsatz und Matrixsatz}{383}{section.12.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.2}Satzgliedstellung und Feldermodell}{378}{section.12.2}
+\contentsline {section}{\numberline {12.2}Satzgliedstellung und Feldermodell}{384}{section.12.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.2.1}Satzgliedstellung in unabhängigen Sätzen}{378}{subsection.12.2.1}
+\contentsline {subsection}{\numberline {12.2.1}Satzgliedstellung in unabhängigen Sätzen}{384}{subsection.12.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.2.2}Das Feldermodell}{381}{subsection.12.2.2}
+\contentsline {subsection}{\numberline {12.2.2}Das Feldermodell}{387}{subsection.12.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.2.3}LSK-Test und Nebensätze}{386}{subsection.12.2.3}
+\contentsline {subsection}{\numberline {12.2.3}LSK-Test und Nebensätze}{392}{subsection.12.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.3}Schemata für Sätze}{389}{section.12.3}
+\contentsline {section}{\numberline {12.3}Schemata für Sätze}{395}{section.12.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.3.1}Verb-Zweit-Sätze}{389}{subsection.12.3.1}
+\contentsline {subsection}{\numberline {12.3.1}Verb-Zweit-Sätze}{395}{subsection.12.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.3.2}Verb-Erst-Sätze}{393}{subsection.12.3.2}
+\contentsline {subsection}{\numberline {12.3.2}Verb-Erst-Sätze}{399}{subsection.12.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.3.3}Syntax der Partikelverben}{394}{subsection.12.3.3}
+\contentsline {subsection}{\numberline {12.3.3}Syntax der Partikelverben}{400}{subsection.12.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.3.4}Kopulasätze}{394}{subsection.12.3.4}
+\contentsline {subsection}{\numberline {12.3.4}Kopulasätze}{400}{subsection.12.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.4}Nebensätze}{395}{section.12.4}
+\contentsline {section}{\numberline {12.4}Nebensätze}{401}{section.12.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.4.1}Relativsätze}{396}{subsection.12.4.1}
+\contentsline {subsection}{\numberline {12.4.1}Relativsätze}{402}{subsection.12.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.4.2}Komplementsätze}{401}{subsection.12.4.2}
+\contentsline {subsection}{\numberline {12.4.2}Komplementsätze}{407}{subsection.12.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.4.3}Adverbialsätze}{404}{subsection.12.4.3}
+\contentsline {subsection}{\numberline {12.4.3}Adverbialsätze}{410}{subsection.12.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 12}{405}{Item.1844}
+\contentsline {section}{Zusammenfassung von Kapitel 12}{411}{Item.1844}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 12}{407}{Item.1854}
+\contentsline {section}{Übungen zu Kapitel 12}{413}{Item.1854}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {13}Relationen und Prädikate}{411}{chapter.13}
+\contentsline {chapter}{\numberline {13}Relationen und Prädikate}{417}{chapter.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.1}Semantische Rollen}{412}{section.13.1}
+\contentsline {section}{\numberline {13.1}Semantische Rollen}{418}{section.13.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.1}Allgemeine Einführung}{412}{subsection.13.1.1}
+\contentsline {subsection}{\numberline {13.1.1}Allgemeine Einführung}{418}{subsection.13.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.2}Semantische Rollen und Valenz}{415}{subsection.13.1.2}
+\contentsline {subsection}{\numberline {13.1.2}Semantische Rollen und Valenz}{421}{subsection.13.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.2}Prädikate und prädikative Konstituenten}{416}{section.13.2}
+\contentsline {section}{\numberline {13.2}Prädikate und prädikative Konstituenten}{422}{section.13.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.2.1}Das Prädikat}{416}{subsection.13.2.1}
+\contentsline {subsection}{\numberline {13.2.1}Das Prädikat}{422}{subsection.13.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.2.2}Prädikative}{418}{subsection.13.2.2}
+\contentsline {subsection}{\numberline {13.2.2}Prädikative}{424}{subsection.13.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.3}Subjekte}{420}{section.13.3}
+\contentsline {section}{\numberline {13.3}Subjekte}{426}{section.13.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.1}Subjekte als Nominativ-Ergänzungen}{420}{subsection.13.3.1}
+\contentsline {subsection}{\numberline {13.3.1}Subjekte als Nominativ-Ergänzungen}{426}{subsection.13.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.2}Prädikative Nominative}{423}{subsection.13.3.2}
+\contentsline {subsection}{\numberline {13.3.2}Prädikative Nominative}{429}{subsection.13.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.3}Arten von \textit {es} im Nominativ}{424}{subsection.13.3.3}
+\contentsline {subsection}{\numberline {13.3.3}Arten von \textit {es} im Nominativ}{430}{subsection.13.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.4}Passiv}{428}{section.13.4}
+\contentsline {section}{\numberline {13.4}Passiv}{434}{section.13.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.4.1}\textit {werden}-Passiv und Verbklassen}{428}{subsection.13.4.1}
+\contentsline {subsection}{\numberline {13.4.1}\textit {werden}-Passiv und Verbklassen}{434}{subsection.13.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.4.2}\textit {bekommen}-Passiv}{430}{subsection.13.4.2}
+\contentsline {subsection}{\numberline {13.4.2}\textit {bekommen}-Passiv}{436}{subsection.13.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.5}Objekte, Ergänzungen und Angaben}{433}{section.13.5}
+\contentsline {section}{\numberline {13.5}Objekte, Ergänzungen und Angaben}{439}{section.13.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.5.1}Akkusative und direkte Objekte}{433}{subsection.13.5.1}
+\contentsline {subsection}{\numberline {13.5.1}Akkusative und direkte Objekte}{439}{subsection.13.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.5.2}Dative und indirekte Objekte}{434}{subsection.13.5.2}
+\contentsline {subsection}{\numberline {13.5.2}Dative und indirekte Objekte}{440}{subsection.13.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.5.3}PP-Ergänzungen und PP-Angaben}{436}{subsection.13.5.3}
+\contentsline {subsection}{\numberline {13.5.3}PP-Ergänzungen und PP-Angaben}{442}{subsection.13.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.6}Analytische Tempora}{438}{section.13.6}
+\contentsline {section}{\numberline {13.6}Analytische Tempora}{444}{section.13.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.7}Modalverben und Halbmodalverben}{442}{section.13.7}
+\contentsline {section}{\numberline {13.7}Modalverben und Halbmodalverben}{448}{section.13.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.1}Ersatzinfinitiv und Oberfeldumstellung}{442}{subsection.13.7.1}
+\contentsline {subsection}{\numberline {13.7.1}Ersatzinfinitiv und Oberfeldumstellung}{448}{subsection.13.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.2}Kohärenz}{444}{subsection.13.7.2}
+\contentsline {subsection}{\numberline {13.7.2}Kohärenz}{450}{subsection.13.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.3}Modalverben und Halbmodalverben}{447}{subsection.13.7.3}
+\contentsline {subsection}{\numberline {13.7.3}Modalverben und Halbmodalverben}{453}{subsection.13.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.8}Infinitivkontrolle}{449}{section.13.8}
+\contentsline {section}{\numberline {13.8}Infinitivkontrolle}{455}{section.13.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.9}Bindung}{452}{section.13.9}
+\contentsline {section}{\numberline {13.9}Bindung}{458}{section.13.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 13}{454}{Item.2166}
+\contentsline {section}{Zusammenfassung von Kapitel 13}{460}{Item.2166}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 13}{456}{Item.2181}
+\contentsline {section}{Übungen zu Kapitel 13}{462}{Item.2181}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Weiterführende Literatur zu IV}{458}{Item.2244}
+\contentsline {chapter}{Weiterführende Literatur zu IV}{464}{Item.2244}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{\numberline {V}Sprache und Schrift}{461}{part.5}
+\contentsline {part}{\numberline {V}Sprache und Schrift}{467}{part.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {14}Phonologische Schreibprinzipien}{463}{chapter.14}
+\contentsline {chapter}{\numberline {14}Phonologische Schreibprinzipien}{469}{chapter.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.1}Status der Graphematik}{463}{section.14.1}
+\contentsline {section}{\numberline {14.1}Status der Graphematik}{469}{section.14.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.1.1}Graphematik als Teil der Grammatik}{463}{subsection.14.1.1}
+\contentsline {subsection}{\numberline {14.1.1}Graphematik als Teil der Grammatik}{469}{subsection.14.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.1.2}Ziele und Vorgehen in diesem Buch}{469}{subsection.14.1.2}
+\contentsline {subsection}{\numberline {14.1.2}Ziele und Vorgehen in diesem Buch}{475}{subsection.14.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.2}Buchstaben und phonologische Segmente}{470}{section.14.2}
+\contentsline {section}{\numberline {14.2}Buchstaben und phonologische Segmente}{476}{section.14.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.2.1}Konsonantenschreibungen}{470}{subsection.14.2.1}
+\contentsline {subsection}{\numberline {14.2.1}Konsonantenschreibungen}{476}{subsection.14.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.2.2}Vokalschreibungen}{473}{subsection.14.2.2}
+\contentsline {subsection}{\numberline {14.2.2}Vokalschreibungen}{479}{subsection.14.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.3}Silben und Wörter}{474}{section.14.3}
+\contentsline {section}{\numberline {14.3}Silben und Wörter}{480}{section.14.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.3.1}Dehnungs- und Schärfungsschreibungen}{475}{subsection.14.3.1}
+\contentsline {subsection}{\numberline {14.3.1}Dehnungs- und Schärfungsschreibungen}{481}{subsection.14.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.3.2}Silbengelenke}{478}{subsection.14.3.2}
+\contentsline {subsection}{\numberline {14.3.2}Silbengelenke}{483}{subsection.14.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.3.3}Eszett an der Silbengrenze}{480}{subsection.14.3.3}
+\contentsline {subsection}{\numberline {14.3.3}Eszett an der Silbengrenze}{484}{subsection.14.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {14.3.4}\textit {h} zwischen Vokalen}{483}{subsection.14.3.4}
+\contentsline {subsection}{\numberline {14.3.4}\textit {h} zwischen Vokalen}{487}{subsection.14.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.4}Betonung und Hervorhebung}{484}{section.14.4}
+\contentsline {section}{\numberline {14.4}Betonung und Hervorhebung}{488}{section.14.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {14.5}Ausblick auf den Nicht-Kernwortschatz}{485}{section.14.5}
+\contentsline {section}{\numberline {14.5}Ausblick auf den Nicht-Kernwortschatz}{489}{section.14.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 14}{487}{Item.2264}
+\contentsline {section}{Zusammenfassung von Kapitel 14}{491}{Item.2264}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 14}{489}{Item.2274}
+\contentsline {section}{Übungen zu Kapitel 14}{493}{Item.2274}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {15}Morphologische und syntaktische Schreibprinzipien}{491}{chapter.15}
+\contentsline {chapter}{\numberline {15}Morphologische und syntaktische Schreibprinzipien}{495}{chapter.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.1}Wortbezogene Schreibungen}{491}{section.15.1}
+\contentsline {section}{\numberline {15.1}Wortbezogene Schreibungen}{495}{section.15.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.1.1}Spatien}{491}{subsection.15.1.1}
+\contentsline {subsection}{\numberline {15.1.1}Spatien}{495}{subsection.15.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.1.2}Wortklassen}{493}{subsection.15.1.2}
+\contentsline {subsection}{\numberline {15.1.2}Wortklassen}{497}{subsection.15.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.1.3}Wortbildung}{496}{subsection.15.1.3}
+\contentsline {subsection}{\numberline {15.1.3}Wortbildung}{500}{subsection.15.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.1.4}Abkürzungen und Auslassungen}{498}{subsection.15.1.4}
+\contentsline {subsection}{\numberline {15.1.4}Abkürzungen und Auslassungen}{502}{subsection.15.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.1.5}Konstantschreibungen}{501}{subsection.15.1.5}
+\contentsline {subsection}{\numberline {15.1.5}Konstantschreibungen}{505}{subsection.15.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.2}Schreibung von Phrasen und Sätzen}{503}{section.15.2}
+\contentsline {section}{\numberline {15.2}Schreibung von Phrasen und Sätzen}{507}{section.15.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.2.1}Phrasen}{503}{subsection.15.2.1}
+\contentsline {subsection}{\numberline {15.2.1}Phrasen}{507}{subsection.15.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.2.2}Unabhängige Sätze}{504}{subsection.15.2.2}
+\contentsline {subsection}{\numberline {15.2.2}Unabhängige Sätze}{508}{subsection.15.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.2.3}Nebensätze und Verwandtes}{506}{subsection.15.2.3}
+\contentsline {subsection}{\numberline {15.2.3}Nebensätze und Verwandtes}{510}{subsection.15.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 15}{508}{Item.2358}
+\contentsline {section}{Zusammenfassung von Kapitel 15}{512}{Item.2358}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 15}{509}{Item.2369}
+\contentsline {section}{Übungen zu Kapitel 15}{513}{Item.2369}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Weiterführende Literatur zu V}{510}{Exer.15.3}
+\contentsline {chapter}{Weiterführende Literatur zu V}{514}{Exer.15.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Lösungen zu den Übungen}{512}{section*.56}
+\contentsline {chapter}{Lösungen zu den Übungen}{516}{section*.56}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{565}{section*.135}
+\contentsline {chapter}{Bibliographie}{569}{section*.135}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{565}{chapter*.136}
+\contentsline {chapter}{\nonumberline Literatur}{569}{chapter*.136}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{572}{section*.137}
+\contentsline {chapter}{Index}{576}{section*.137}
