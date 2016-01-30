@@ -170,9 +170,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.3.3}Prosodische Wörter}{142}{subsection.4.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Phone und Phoneme}{143}{section.4.4}
+\contentsline {section}{\numberline {4.4}Phone und Phoneme}{144}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 4}{146}{Item.536}
+\contentsline {section}{Zusammenfassung von Kapitel 4}{147}{Item.536}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Übungen zu Kapitel 4}{148}{Item.546}
 \defcounter {refsection}{0}\relax 

@@ -544,13 +544,15 @@ Für unsere Zwecke ist der sich ergebende theoretische Unterschied vernachlässi
 Für die drei sich ergebenden Konstituenten der Silbe gibt es verschiedene Bezeichnungen, von denen hier \textit{Anfangsrand}, \textit{Kern} und \textit{Endrand} verwendet werden.
 Aus Gründen, die erst in Abschnitt~\ref{sec:einsilblerzweisilbler} diskutiert werden, hat es sich als nützlich erwiesen, Kern und Endrand zu einer eigenen Konstituente, dem \textit{Reim} zusammenzufassen.
 Neben Definition~\ref{def:kern} wird eine Baumdarstellung der allgemeinen Silbenstruktur in Abbildung~\ref{fig:silbenstruktur} und ein Beispiel (\textit{fremd}) in Abbildung~\ref{fig:phonstr} gegeben.
+In Abbildung~\ref{fig:silbenstruktur} werden C und V als Abkürzungen für \textit{Konsonant} und \textit{Vokal} verwendet und im Anfangs- und Endrand je zwei Konsonantenpositionen angenommen.
+In Abschnitt~\ref{sec:systematikderraender} wird argumentiert, dass dies tatsächlich die maximale Komplexität der Ränder ist.
 
 \Definition{Silbenstruktur}{
 \label{def:kern}
 \label{def:anfangsrand}
 \label{def:endrand}
 Der \textit{Silbenkern} (der \textit{Nukleus}) wird immer durch einen Vokal oder Diphthong gebildet.
-Die Konsonanten vor dem Kern bilden den \textit{Anfangsrand} (den \textit{Onset}), die nach dem Kern den \textit{Endrand} (die \textit{Coda}).
+Vor und nach dem Kern können Konsonanten stehen, die den \textit{Anfangsrand} (den \textit{Onset}) bzw.\ den \textit{Endrand} (die \textit{Coda}) bilden.
 Es gibt Silben mit leeren Anfangs- und\slash oder Endrändern, aber keine Silben mit leerem Kern.
 Kern und Endrand bilden den \textit{Reim}.
 \index{Silbe!Kern}
@@ -561,20 +563,21 @@ Kern und Endrand bilden den \textit{Reim}.
 
 \begin{figure}
   \centering
-  \Tree[2]{
-    & \K{Silbe}\B{dl}\B{d} \\
-    \K{Anfangsrand} & \K{Reim}\B{d}\B{dr} \\
-    & \K{Kern} & \K{Endrand}\\
+  \Tree{
+	 & & \K{Silbe}\B{ddll}\B{d} & & \\
+	 & & \K{Reim}\B{d}\B{drr} & & \\
+	\K{Anfangsrand}\B{d}\B{dr} & & \K{Kern}\B{d} & & \K{Endrand}\B{dl}\B{d} \\
+	\K{C} & \K{C} & \K{V} & \K{C} & \K{C} \\
   }
   \caption{Allgemeines Schema für die Silbenstruktur}
   \label{fig:silbenstruktur}
 \end{figure}
 
 \newcommand{\ThePhonStr}{  \Tree[1.5]{
-  & && \K{Silbe}\B{dll}\B{d} \\
-  & \K{Anfangsrand}\B{ddl}\B{ddr} && \K{Reim}\B{d}\B{drr} \\
-  &&& \K{Kern}\B{d} && \K{Endrand}\B{dl}\B{dr} \\
-  \K{\textipa{[f]}} && \K{\textipa{[K]}} & \K{\textipa{[E]}} & \K{\textipa{[m]}} && \K{\textipa{[t]}} \\
+  && \K{Silbe}\B{ddll}\B{d} \\
+  && \K{Reim}\B{d}\B{drr} \\
+  \K{Anfangsrand}\B{d}\B{dr} && \K{Kern}\B{d} && \K{Endrand}\B{dl}\B{d} \\
+  \K{\textipa{f}} & \K{\textipa{K}} & \K{\textipa{E}} & \K{\textipa{m}} & \K{\textipa{t}} \\
   }
 }
 
@@ -844,52 +847,6 @@ Auch hier behandeln wir also /\textipa{K}/ und /l/ wieder als eine Klasse (Liqui
   \label{fig:sonoritaetshierarchie}
 \end{figure}
 
-Innerhalb der Silbe gibt es das universelle Bildungsprinzip der \textit{Sonoritätskontur}, welches regelt, dass die Sonorität zum Vokal hin ansteigt und dann wieder abfällt (Abbildung~\ref{fig:sonhier}).
-Dies gilt natürlich nur, wenn die Silbe mindestens ein weiteres Segment außer dem Vokal enthält.
-Eine Silbe, die nur aus einem Plosiv und einem Vokal besteht, zeigt einen Sonoritätsanstieg, aber keinen Sonoritätsabfall.
-Bei einer Silbe, die nur aus einem Vokal und einem Plosiv besteht, ist es umgekehrt.
-Es gibt also Silben, die nur einen Ausschnitt aus der Sonoritätskontur realisieren (nur Anstieg oder nur Abfall), aber einen Sonoritätsabfall gefolgt von einem Anstieg gibt es innerhalb einzelner Silben im Normalfall nicht.
-Definition~\ref{def:sonoritaet} fasst zusammen.
-
-\Definition{Sonoritätskontur}{\label{def:sonoritaet}
-Segmente können auf einer Sonoritätsskala eingeordnet werden.
-Alle zulässigen Silbenstrukturen repräsentieren maximal einen Anstieg der Sonorität zur Mitte der Silbe und einen Abfall der Sonorität zum Ende der Silbe.
-Es gibt innerhalb einer Silbe keinen Sonoritätsanstieg nach einem Sonoritätsabfall.
-\index{Sonorität}
-}
-
-In Tabelle~\ref{tab:silbenbau} werden zur Illustration einige deutsche Wörter in das Schema eingeordnet.
-Das ideale Bild der Sonoritätskontur wird dabei weitgehend bestätigt.
-Die einzige Ausnahme ist das Auftreten von \textit{s}-ähnlichen Segmenten am äußersten Silbenrand jenseits von Plosiven (\textit{sprüh}, \textit{Raps}).
-Da Frikative eine höhere Sonorität haben als Frikative, steigt in diesen Fällen die Sonorität zum Rand hin wieder an.
-Daher und aus weiteren Gründen, die in Abschnitt~\ref{sec:systematikderraender} und Abschnitt~\ref{sec:einsilblerzweisilbler} erläutert werden, wird dafür plädiert, diese Segmente als \textit{extrasilbisch} (außerhalb der normalen Silbenstruktur stehend) zu analysieren (Definition~\ref{def:extrasilbisch}).
-
-\Definition{Extrasilbizität}{\label{def:extrasilbisch}
-Die Silbenstruktur kann durch vor dem Anfangsrand oder nach dem Endrand stehende \textit{extrasilbische} Segmente ergänzt werden, die nicht der Sonoritätskontur unterliegen.}
-
-In Wörtern wie \textit{trittst} setzt sich das Problem sogar noch weiter fort, weil nach dem Anstieg ein weiterer Abfall folgt.
-Mit dem angehängten Pronomen \textit{es} ergeben sich sogar Formen wie \textit{trittsts} (orthographisch evtl.\ auch \textit{trittst's}).
-Um diese Phänomene geht es in Abschnitt~\ref{sec:systematikderraender} nochmals.
-Es ergibt sich eine erweiterte Silbenstruktur in Abbildung~\ref{fig:silbenstrukturextra}, in der die Sonoritätskontur nur für die Silbe, nicht aber für die erweiterte Silbe gilt.
-Da das extrasilbische Material eine Silbe benötigt, um überhaupt auftreten zu können, ist es legitim, eine erweiterte Silbe anzunehmen, die die eigentliche Silbe und das extrasilbische Material zusammenfasst.
-
-\begin{figure}
-  \centering
-  \Tree[3]{
-    && \K{erweiterte Silbe}\B{dd}\B{ddll}\B{ddrr} \\ 
-	\\
-    \K{extrasilbisches}\Below{Material}& & \K{Silbe}\B{dl}\B{d} && \K{extrasilbisches}\Below{Material} \\
-    &\K{Anfangsrand} & \K{Reim}\B{d}\B{dr} \\
-    && \K{Kern} & \K{Endrand}\\
-  }
-  \caption{Schema für die Silbenstruktur mit extrasilbischen Segmenten}
-  \label{fig:silbenstrukturextra}
-\end{figure}
-
-Außerdem kann die Sonorität auch gleich bleiben, so dass sich \textit{Plateaus} aus zwei Plosiven (\textit{Abt}), zwei Frikativen (\textit{Reichs}) usw.\ bilden.
-Abbildung~\ref{fig:sonhiers} zeigt ein modifiziertes Sonoritätsschema, das extrasilbische \textit{s}-Segmente und Plateaus berücksichtigt.
-In Abschnitt~\ref{sec:systematikderraender} werden Plateaus allerdings eliminiert, indem Plateaus bildendes Material als extrasilbisch aufgefasst wird.
-
 \begin{figure}
   \centering
   \begin{tabular}{ccccccccccc}
@@ -910,6 +867,20 @@ In Abschnitt~\ref{sec:systematikderraender} werden Plateaus allerdings eliminier
   \caption{Sonorität für die Segmentklassen in der schematischen Silbe}
   \label{fig:sonhier}
 \end{figure}
+
+Innerhalb der Silbe gibt es das universelle Bildungsprinzip der \textit{Sonoritätskontur}, welches regelt, dass die Sonorität zum Vokal hin ansteigt und dann wieder abfällt, wie in Abbildung~\ref{fig:sonhier} schematisch dargestellt.
+Dies gilt natürlich nur, wenn die Silbe mindestens ein weiteres Segment außer dem Vokal enthält.
+Eine Silbe, die nur aus einem Plosiv und einem Vokal besteht, zeigt einen Sonoritätsanstieg, aber keinen Sonoritätsabfall.
+Bei einer Silbe, die nur aus einem Vokal und einem Plosiv besteht, ist es umgekehrt.
+Es gibt also Silben, die nur einen Ausschnitt aus der Sonoritätskontur realisieren (nur Anstieg oder nur Abfall), aber einen Sonoritätsabfall gefolgt von einem Anstieg gibt es innerhalb einzelner Silben im Normalfall nicht.
+Definition~\ref{def:sonoritaet} fasst zusammen.
+
+\Definition{Sonoritätskontur}{\label{def:sonoritaet}
+Segmente können auf einer Sonoritätsskala eingeordnet werden.
+Alle zulässigen Silbenstrukturen repräsentieren maximal einen Anstieg der Sonorität zur Mitte der Silbe und einen Abfall der Sonorität zum Ende der Silbe.
+Es gibt innerhalb einer Silbe keinen Sonoritätsanstieg nach einem Sonoritätsabfall.
+\index{Sonorität}
+}
 
 \begin{table}
   \centering
@@ -939,36 +910,56 @@ In Abschnitt~\ref{sec:systematikderraender} werden Plateaus allerdings eliminier
   \label{tab:silbenbau}
 \end{table}
 
+In Tabelle~\ref{tab:silbenbau} werden zur Illustration einige deutsche Wörter in das Schema eingeordnet.
+Das ideale Bild der Sonoritätskontur wird dabei weitgehend bestätigt.
+Die einzige Ausnahme ist das Auftreten von von /\textipa{S}/ vor Plosiven im Anfangsrand (\textit{sprüh}) und /s/ nach Plosiven im Endrand (\textit{Raps}).
+Da Frikative eine höhere Sonorität haben als Plosive, steigt in diesen Fällen die Sonorität zum Rand hin wieder an.
+In Wörtern wie \textit{trittst} setzt sich das Problem sogar noch weiter fort, weil nach dem Anstieg ein weiterer Abfall folgt.
+In \textit{Herbsts} liegt nach dem /b/ sogar eine Kontur aus Anstieg, Abstieg und erneutem Anstieg vor, s.\ Abbildung~\ref{fig:sonhierherbsts}.
+
 \begin{figure}
   \centering
-  \begin{tabular}{ccccccccccccccc}
-    V &&&&&& \rnode{xV}{V} &&&& \\
-    A &&&&& \rnode{xL1}{L} && \rnode{xL2}{L} &&&& \\
-    N &&&& \rnode{xN1}{N} &&&& \rnode{xN2}{N} &&& \\
-    F &\rnode{xS1}{(F)} && \rnode{xF1}{F} &&&&&& \rnode{xF2}{F} & \rnode{xF3}{F} && \rnode{xS2}{(F)} \\
-    P &&\rnode{xP1}{P} &&&&&&&&& \rnode{xP2}{P} & \\
+  \begin{tabular}{cccccccc}
+    V & & \rnode{herbsts02}{\textipa{E}} & & & & & \\
+    L & & & \rnode{herbsts03}{\textipa{K}} & & & & \\
+    N & & & & & & & \\
+    F & \rnode{herbsts01}{\textipa{h}} & & & & \rnode{herbsts05}{\textipa{s}} & & \rnode{herbsts07}{\textipa{s}} \\
+    P & & & & \rnode{herbsts04}{\textipa{b}} & & \rnode{herbsts06}{\textipa{t}} & \\
   \end{tabular}
-  \ncline[nodesep=3pt]{->}{xS1}{xP1}
-  \ncline[nodesep=3pt]{->}{xP1}{xF1}
-  \ncline[nodesep=3pt]{->}{xF1}{xN1}
-  \ncline[nodesep=3pt]{->}{xN1}{xL1}
-  \ncline[nodesep=3pt]{->}{xL1}{xV}
-  \ncline[nodesep=3pt]{->}{xV}{xL2}
-  \ncline[nodesep=3pt]{->}{xL2}{xN2}
-  \ncline[nodesep=3pt]{->}{xN2}{xF2}
-  \ncline[nodesep=3pt]{->}{xF2}{xF3}
-  \ncline[nodesep=3pt]{->}{xF3}{xP2}
-  \ncline[nodesep=3pt]{->}{xP2}{xS2}
-  \caption{Sonoritätsverlauf mit Rand-Frikativen und Plateau}
-  \label{fig:sonhiers}
+  \ncline[nodesep=3pt]{->}{herbsts01}{herbsts02}
+  \ncline[nodesep=3pt]{->}{herbsts02}{herbsts03}
+  \ncline[nodesep=3pt]{->}{herbsts03}{herbsts04}
+  \ncline[nodesep=3pt]{->}{herbsts04}{herbsts05}
+  \ncline[nodesep=3pt]{->}{herbsts05}{herbsts06}
+  \ncline[nodesep=3pt]{->}{herbsts06}{herbsts07}
+  \caption{Sonorität am Beispiel von \textit{Herbsts}}
+  \label{fig:sonhierherbsts}
 \end{figure}
 
-Was die Sonorität aus phonetisch-artikulatorischer (oder perzeptorischer) Sicht genau ist, ist eine schwierige Frage.
-Stimmhaftigkeit ist ein wichtiger Faktor für eine hohe Sonorität.
-Darüber hinaus kann als Faustregel gelten, dass, je enger die durch die Artikulatoren hergestellte Annäherung ist, die Sonorität umso geringer ist.
-Dies entspricht dem artikulatorischen Schema des Öffnens und Schließens des Vokaltrakts (Abschnitt~\ref{sec:silben}).
-Die Überlegungen zur Sonorität schließen mit der Sonoritätsanalyse eines der komplexesten Einsilblers des Deutschen (\textit{strolchst}) in Abbildung~\ref{fig:sonhiersstrolchst}.
-Im nächsten Abschnitt geht es darum, diese Komplexität zu systematisieren und womöglich zu reduzieren.
+Weil solche Sequenzen nicht der Sonoritätsbedingung entsprechen (sowie aus unabhängigen anderen Gründen, die in Abschnitt~\ref{sec:systematikderraender} und Abschnitt~\ref{sec:einsilblerzweisilbler} erläutert werden), betrachten wir die betroffenen Segmente als \textit{extrasilbisch} (außerhalb der normalen Silbenstruktur stehend), vgl.\ Definition~\ref{def:extrasilbisch}.
+
+\Definition{Extrasilbizität}{\label{def:extrasilbisch}
+Die Silbenstruktur kann durch vor dem Anfangsrand oder nach dem Endrand stehende \textit{extrasilbische} Segmente ergänzt werden, die nicht den Bedingungen der Sonoritätskontur unterliegen.}
+
+Es ergibt sich eine erweiterte Silbenstruktur in Abbildung~\ref{fig:silbenstrukturextra}, in der die Sonoritätskontur nur für die Silbe, nicht aber für die mit gestrichelten Linien den Rändern angelehnten extrasilbischen Obstruenten gilt.
+Im Vorgriff auf Abschnitt~\ref{sec:systematikderraender} nehmen wir an, dass maximal zwei Konsonanten (C) im Anfangs- und Endrand stehen können, und dass vor dem Anfangsrand ein extrasilbisches Segment (X) und nach dem Endrand maximal drei extrasilbische Segmente stehen können.
+Da die Konsonanten in den Rändern teilweise bestimmen, welche extrasilbischen Obstruenten vorkommen können, ist die Anlehnung an die Ränder eine plausible Darstellung.
+
+\begin{figure}
+  \centering
+  \Tree{
+	 & & & \K{Silbe}\B{ddll}\B{d} & & & \\
+	 & & & \K{Reim}\B{d}\B{drr} & & & \\
+	 & \K{Anfangsrand}\Bdash{dl}\B{d}\B{dr} & & \K{Kern}\B{d} & & \K{Endrand}\B{dl}\B{d}\Bdash{dr}\Bdash{drr}\Bdash{drrr} & \\
+	\K{X} & \K{C} & \K{C} & \K{V} & \K{C} & \K{C} & \K{X} & \K{X} & \K{X} \\
+  }
+  \caption{Schema für die Silbenstruktur mit extrasilbischen Segmenten}
+  \label{fig:silbenstrukturextra}
+\end{figure}
+
+Außerdem kann die Sonorität auch gleich bleiben, so dass sich \textit{Plateaus} aus zwei Plosiven (\textit{Abt}), zwei Frikativen (\textit{Reichs}) usw.\ bilden.
+Abbildung~\ref{fig:sonhiersstrolchst} zeigt die Kontur des Wortes \textit{strolchst} mit extrasilbischem /\textipa{S}/ vor dem Anfangsrand und einem Frikativ-Plateau im Endrand.
+In Abschnitt~\ref{sec:systematikderraender} werden Plateaus allerdings eliminiert, indem Plateaus bildendes Material auch als extrasilbisch aufgefasst wird.
 
 \begin{figure}
   \centering
@@ -988,18 +979,47 @@ Im nächsten Abschnitt geht es darum, diese Komplexität zu systematisieren und 
   \ncline[nodesep=3pt]{->}{F31}{P21}
   \caption{Sonorität am Beispiel von \textit{strolchst}}
   \label{fig:sonhiersstrolchst}
-\end{figure}
+\end{figure}
+
+%\begin{figure}
+%  \centering
+%  \begin{tabular}{ccccccccccccccc}
+%    V &&&&&& \rnode{xV}{V} &&&& \\
+%    A &&&&& \rnode{xL1}{L} && \rnode{xL2}{L} &&&& \\
+%    N &&&& \rnode{xN1}{N} &&&& \rnode{xN2}{N} &&& \\
+%    F &\rnode{xS1}{(F)} && \rnode{xF1}{F} &&&&&& \rnode{xF2}{F} & \rnode{xF3}{F} && \rnode{xS2}{(F)} \\
+%    P &&\rnode{xP1}{P} &&&&&&&&& \rnode{xP2}{P} & \\
+%  \end{tabular}
+%  \ncline[nodesep=3pt]{->}{xS1}{xP1}
+%  \ncline[nodesep=3pt]{->}{xP1}{xF1}
+%  \ncline[nodesep=3pt]{->}{xF1}{xN1}
+%  \ncline[nodesep=3pt]{->}{xN1}{xL1}
+%  \ncline[nodesep=3pt]{->}{xL1}{xV}
+%  \ncline[nodesep=3pt]{->}{xV}{xL2}
+%  \ncline[nodesep=3pt]{->}{xL2}{xN2}
+%  \ncline[nodesep=3pt]{->}{xN2}{xF2}
+%  \ncline[nodesep=3pt]{->}{xF2}{xF3}
+%  \ncline[nodesep=3pt]{->}{xF3}{xP2}
+%  \ncline[nodesep=3pt]{->}{xP2}{xS2}
+%  \caption{Sonoritätsverlauf mit Rand-Frikativen und Plateau}
+%  \label{fig:sonhiers}
+%\end{figure}
+
+Was die Sonorität aus phonetisch-artikulatorischer (oder perzeptorischer) Sicht genau ist, ist eine schwierige Frage.
+Stimmhaftigkeit ist ein wichtiger Faktor für eine hohe Sonorität.
+Darüber hinaus kann als Faustregel gelten, dass, je enger die durch die Artikulatoren hergestellte Annäherung ist, die Sonorität umso geringer ist.
+Dies entspricht dem artikulatorischen Schema des Öffnens und Schließens des Vokaltrakts (Abschnitt~\ref{sec:silben}).
 
 \subsection{Die Systematik der Ränder}
 
 \label{sec:systematikderraender}
 
 In diesem Abschnitt werden der Anfangsrand und der Endrand im Einsilbler für den Kernwortschatz mit dem Wissen um die Sonoritätshierarchie abschließend beschrieben.
-Die hauptsächliche Vereinfachung und Systematisierung des Anfangsrandes wird dadurch erreicht, dass \textipa{[S]} in Anfangsrändern mit scheinbar zwei oder drei Segmenten eliminiert wird.
+Die Systematisierung des Anfangsrandes wird dadurch erreicht, dass /\textipa{S}/ in Anfangsrändern mit scheinbar zwei oder drei Segmenten eliminiert wird.
 In Abschnitt~\ref{sec:sonoritaet} wurde festgestellt, dass /\textipa{S}/ vor Plosiven (\textit{Sprung}, \textit{Stuhl}) die Sonoritätshierarchie verletzt.
 Vor Frikativen (\textit{Schwung}) entsteht ein Sonoritätsplateau.
 Lediglich in mehrsegmentalen Anfangsrändern mit einem Nasal oder Liquid an zweiter Stelle (\textit{Schmal}, \textit{Schrank}, \textit{Schlund}) verhält sich /\textipa{S}/ theoretisch konform zur Sonoritätshierarchie.
-Gleichzeitig sind die einzigen Anfangsränder mit drei Segmenten solche, bei denen das erste Segment /\textipa{S}/ ist.
+Zudem sind die einzigen Anfangsränder mit drei Segmenten solche, bei denen das erste Segment /\textipa{S}/ ist.
 Das Segment /\textipa{S}/ verhält sich im Silbenbau offensichtlich besonders, und es wurde mit Definition~\ref{def:extrasilbisch} aus der eigentlichen Silbe in einen erweiterten Bereich verschoben, in dem die Sonoritätskontur nicht eingehalten werden muss.
 Es ist \textit{extrasilbisch}.
 
@@ -1027,7 +1047,7 @@ Es ist \textit{extrasilbisch}.
 Die maximale Komplexität des Anfangsrands besteht also in zwei Segmenten:
 Der Anfangsrand ist maximal \textit{duplex}.
 Scheinbare Fälle von drei Segmenten im Anfangsrand (/\textipa{SpK}/, /\textipa{StK}/ und evtl.\ /\textipa{Spl}/) im Anfangsrand bestehen aus zwei Segmenten mit extrasilbischem /\textipa{S}/.
-Wenn man /\textipa{S}/ diesen Sonderstatus zuweist, dampft die Beschreibung des simplexen Anfangsrands auf Abbildung~\ref{fig:anfangsrandsimplex} und die des duplexen Anfangsrands auf Abbildung~\ref{fig:anfangsrandduplex} ein.
+Wenn man /\textipa{S}/ diesen Sonderstatus zuweist, dampft die Beschreibung der Besetzungsmöglichkeiten des simplexen Anfangsrands auf Abbildung~\ref{fig:anfangsrandsimplex} und die des duplexen Anfangsrands auf Abbildung~\ref{fig:anfangsrandduplex} ein.
 Die Abbildungen sind von rechts nach links zu lesen.
 Man beginnt mit dem Vokal im Kern, und die nach links weisenden Kanten zeigen Besetzungsmöglichkeiten für das erste Segment im Anfangsrand links vom Vokal usw.
 Es wird sofort deutlich, dass die Kombinationsmöglichkeiten sehr stark auf die Verbindung von Plosiv oder labiodentalem Frikative (/f/ und /v/) mit Liquiden eingeschränkt sind.
@@ -1063,7 +1083,7 @@ Es ergibt sich Abbildung~\ref{fig:endranduplex}, die den duplexen Endrand ohne e
 \begin{figure}
   \Tree[3]{
   \K{\textbf{Kern}} && \K{\textbf{Endrand}}\Below{\textbf{erste Pos.}} & \K{\textbf{Endrand}}\Below{\textbf{zweite Pos.}} \\
-               &&             & \K{k (g)} \\
+               &&             & \K{k g} \\
                && \K{n}\Rxx{3.7}{5}{r}_{\text{Frikativ}}\Rxx{3.7}{5}{ur}^{\text{Plosiv}} & \K{\textipa{f S}} \\
                & \K{}\Rxxxx{5}{1.75}{3.7}{1.2}{r} & \K{m}\R{r}^{\text{Plosiv}}\R{dr}_{\text{Frikativ}} & \K{p} \\
   \K{Vokal~~~}\R{uurr}^{\text{Nasal}}\R{ddrr}_{\text{Liquid}} &&& \K{\textipa{S}} \\
@@ -1075,7 +1095,7 @@ Es ergibt sich Abbildung~\ref{fig:endranduplex}, die den duplexen Endrand ohne e
   \label{fig:endranduplex}
 \end{figure}
 
-Das Diagramm in Abbildung~\ref{fig:endranduplex} beschreibt nicht alle Endränder, die rein oberflächlich-deskriptiv gesehen duplex sind.
+Das Diagramm in Abbildung~\ref{fig:endranduplex} beschreibt nicht alle Endränder, die rein oberflächlich gesehen duplex sind.
 Zunächst müssen Wörter wie in (\ref{ex:phol7528}) anders erklärt werden, wenn Abbildung~\ref{fig:endranduplex} allgemein gelten soll.
 
 \begin{exe}
@@ -1126,20 +1146,21 @@ Die sich ergebenden Formen zeigt (\ref{ex:phol08000090035}).
 Bei den Endrändern mit Nasal als erstes Segment sind vor allem zwei Merkwürdigkeiten in Abbildung~\ref{fig:endranduplex} zu begründen.
 Einerseits fehlt /\textipa{N}/ vollständig, andererseits werden Sequenzen /ng/ beschrieben, obwohl /g/ als stimmhafter Obstruent im Endrand eigentlich gar nicht vorkommen sollte.%
 \footnote{Zur Verdeutlichung, warum /ng/ gemäß Abbildung~\ref{fig:endranduplex} vorkommen kann:
-Folgt man dem Pfad Vokal $\rightarrow$ Nasal $\rightarrow$ /n/ $\rightarrow$ Plosiv, dann findet man oben rechts ein /g/.
-Warum es eingeklammert ist, wird im weiteren Verlauf erklärt.}
+Folgt man dem Pfad Vokal $\rightarrow$ Nasal $\rightarrow$ /n/ $\rightarrow$ Plosiv, dann findet man oben rechts ein /g/.}
 Mögliche zweisegmentale Endränder mit \textipa{[N]} an der phonetischen Oberfläche findet man in Wörtern wie \textit{hängt}, \textit{krank} und \textit{längs}.
 Es fällt zunächst auf, dass zwar /t/ mit allen Nasalen kombiniert werden kann (\textit{klemmt}, \textit{rennt}, \textit{hängt}), /p/ aber nur mit /m/ (\textit{Lump}) und /k/ nur mit \textipa{[N]} (\textit{krank}).
+
 Es liegt der Verdacht nahe, dass hier eigentlich nur homorgane (am selben Ort artikulierte) Sequenzen aus Nasal und Plosiv vorkommen können.
-/t/ nach /m/ und \textipa{[N]} kann dann als extrasilbisch analysiert werden.
-Wenn einfaches \textipa{[N]} wie in \textit{Gang} dann zusätzlich als zugrundeliegende Kombination /ng/ analysiert wird, wobei das /n/ zu \textipa{[N]} assimiliert wird und das /g/ getilgt wird, wird die Verteilung der Endränder gemäß Abbildung~\ref{fig:endranduplex} klar.
+Ein /t/ nach /m/ und \textipa{[N]} wie in \textit{klemmt} oder \textit{hängt} kann dann als extrasilbisch analysiert werden.
+Wenn einfaches \textipa{[N]} wie in \textit{Gang} dann zusätzlich als zugrundeliegende Kombination /ng/ analysiert wird, wird die Verteilung der Endränder gemäß Abbildung~\ref{fig:endranduplex} klar.
 Phonologisch und aus Sicht der Silbifizierung haben wir es in /gang/ mit einem duplexen Endrand zu tun, phonetisch mit einem simplexen.
 Daher ist /g/ in Abbildung~\ref{fig:endranduplex} eingeklammert.
 Die Analyse von \textipa{[N]} als /ng/ eliminiert \textipa{[N]} als zugrundeliegendes Segment, weswegen es hier auch konsequent in [~] statt in /~/ geschrieben wurde.
-Für diese Reduktion des Systems wird in Abschnitt~\ref{sec:einsilblerzweisilbler} weiter argumentiert.
-Es fällt aber auf, dass häufig -- wenn auch nicht immer -- extrasilbisches Material (konkret /t/, /s/ oder /st/) zu sogenannten \textit{Flexionsendungen} gehört, also nicht zum sogenannten \textit{Wortstamm} (vgl.\ Abschnitt~\ref{sec:stamm}).
+Für diese Reduktion des Systems wird in Abschnitt~\ref{sec:einsilblerzweisilbler} weiter argumentiert, da /ng/ sich auch in anderer Hinsicht wie zwei Segmente verhält.
+
+Es fällt außerdem auf, dass häufig -- wenn auch nicht immer -- extrasilbisches Material (konkret /t/, /s/ oder /st/) zu sogenannten \textit{Flexionsendungen} gehört, also nicht zum sogenannten \textit{Wortstamm} (vgl.\ Abschnitt~\ref{sec:stamm}).
 Mit der Grenze zwischen echtem Endrand und extrasilbischem Material fällt also oft auch die Grenze zwischen Stamm und Flexionsendung zusammen, \zB \textit{lebst} \textipa{[le:b+st]}, \textit{glaubt} \textipa{[gl\t{aO}p+t]} oder \textit{Stifts} \textipa{[StIft+s]}.
-Die Beziehung zugrundeliegender Formen und ihrer phonetischen Realisierungen in einigen kritischen Formen illustriert schließlich (\ref{ex:phol0800009004}).
+Die Beziehung zugrundeliegender Formen und ihrer phonetischen Realisierungen in einigen kritischen Formen illustriert (\ref{ex:phol0800009004}).
 
 \begin{exe}
   \ex \label{ex:phol0800009004}
@@ -1158,7 +1179,7 @@ Auch hier werden /s/ und /t/ womöglich als extrasilbisch gewertet.
 In (\ref{ex:phol0800009005}) finden sich einige Beispiele.
 Vor der weiteren Vertiefung der strukturellen Zusammenhänge in Abschnitt~\ref{sec:einsilblerzweisilbler} halten wir fest, dass die Besetzungspräferenzen (Satz~\ref{satz:endrandbesetzung}) im Endrand nahezu spiegelbildlich dieselben wie Anfangsrand sind.%
 \footnote{Als echte Auslassung im Interesse einer eleganteren Darstellung wurde in Abbildung~\ref{fig:endranduplex} die Besetzung des Endrands mit /\textipa{Kl}/ wie in \textit{Kerl} nicht dargestellt.
-Diese ist im Anfangsrand nicht möglich.}
+Diese ist im Anfangsrand weder in dieser Reihenfolge noch spiegelbildlich.}
 
 \begin{exe}
   \ex \label{ex:phol0800009005}
@@ -1173,8 +1194,8 @@ Diese ist im Anfangsrand nicht möglich.}
 \Satz{Endrand}{\label{satz:endrandbesetzung}
 Der Endrand ist maximal duplex.
 Die präferierte Besetzung des duplexen Endrands ist die aus einem inneren Liquid und einem äußeren Obstruent.
-Sekundär wird mit einem Nasal und einem homorganen Plosiv besetzt. 
-Extrasilbisch treten die alveolaren Obstruenten /\textipa{s}/ und /t/ hinter den Endrand.}
+Bereits weniger präferiert wird er mit einem Nasal und einem homorganen Plosiv besetzt. 
+Extrasilbisch treten die alveolaren Obstruenten /s/ und /t/ hinter den Endrand.}
 
 \subsection{Einsilbler und Zweisilbler}
 
@@ -1182,7 +1203,7 @@ Extrasilbisch treten die alveolaren Obstruenten /\textipa{s}/ und /t/ hinter den
 
 \index{Silbe!Silbifizierung}
 
-Nach den Silben ist die nächstgrößere Einheit der phonologischen Strukturbildung das phonologische Wort.
+Nach den Silben ist die nächstgrößere Einheit der phonologischen Strukturbildung das \textit{phonologische Wort}.
 Der Grund, warum man eine solche Einheit annehmen möchte, ist, dass es phonologische Regularitäten gibt, die sich nicht nur mit Bezug auf Segmente und einzelne Silben beschreiben lassen.%
 \footnote{Es müsste eigentlich der \textit{Fuß} als nächstgrößere Einheit nach der Silbe definiert werden.
 Wir gehen nur in Abschnitt~\ref{sec:wortakzentimdeutschen} kurz auf den Fuß ein und wählen daher hier eine vereinfachte Darstellung.}
@@ -1228,12 +1249,11 @@ Silben mit gefülltem Endrand sind geschlossene Silben, Silben mit leerem Endran
 }
 
 Was ist also festzustellen?
-Einsilbler mit ungespanntem (kurzen) Vokal müssen geschlossen sein, s.\ (\ref{ex:phol0815b}) und (\ref{ex:phol0815d}).
-Wenn der Vokal gespannt (lang) ist, kann die Silbe offen sein wie in (\ref{ex:phol0815a}), muss es aber nicht, vgl.\ (\ref{ex:phol0815c}).
-Wenn der Endrand des Einsilblers duplex ist wie in (\ref{ex:phol0815e}), sind gespannte (lange) Vokale ebenfalls nicht möglich, s.\ (\ref{ex:phol0815f}).
-Die Bedingung, dass Silben mit ungespanntem (kurzen) Vokal einen gefüllten Endrand haben müssen, gilt im Zweisilbler nicht, wie (\ref{ex:phol0815h}) zeigt.
-Ansonsten gilt aber trotzdem, dass Silben nicht einen gespannten (langen) Vokal im Kern enthalten und gleichzeitig einen komplex besetzten Endrand haben können, s.\ (\ref{ex:phol0815k}) verglichen mit (\ref{ex:phol0815j}).%
-\footnote{Das gespannte \textipa{[i]} in *\textipa{[v\t{i5}k.t@]} muss für diesen Zweck zweimorig gezählt werden.}
+Einsilbler mit ungespanntem kurzen Vokal müssen geschlossen sein, vgl.\ \textit{Schiff} und das unmögliche Wort *\textipa{[knI]}.
+Wenn der Vokal gespannt und lang ist, kann die Silbe offen sein wie in \textit{Knie}, muss sie aber nicht, vgl.\ \textit{schief}.
+Wenn der Endrand des Einsilblers duplex ist wie in \textit{wink}, sind gespannte lange Vokale ebenfalls nicht möglich, wie das unmögliche Wort *\textipa{[vi:Nk]} zeigt.
+Die Bedingung, dass Silben mit ungespanntem kurzen Vokal einen gefüllten Endrand haben müssen, gilt im Zweisilbler nicht, wie \textit{Mi.tte} demonstriert.
+Ansonsten gilt aber trotzdem, dass Silben nicht einen gespannten langen Vokal im Kern und gleichzeitig einen komplex besetzten Endrand haben können, s.\ *\textipa{[v\t{i5}k.t@]} verglichen mit \textit{wirkte}.
 Diese Verhältnisse lassen sich mit Bezug auf eine Längeneinheit für Silben recht gut beschreiben, die \textit{More} (Definition~\ref{def:more}).
 
 \Definition{More}{\label{def:more}
@@ -1242,7 +1262,7 @@ Kurze Vokale im Kern und Konsonanten im Endrand zählen als eine More.
 Lange Vokale und Diphthonge zählen als zwei Moren.
 Extrasilbische Segmente tragen nicht zur Morenzahl bei.}
 
-Die More zählt nur die Segmente im Reim, der dadurch als Analyseeinheit zusätzlich motiviert wird.
+Eine Morenlänge haben nur die Segmente im Reim, der dadurch als Analyseeinheit zusätzlich motiviert wird.
 In der Tat ist der Anfangsrand nicht an den in (\ref{ex:phol0815}) illustrierten Verhältnissen beteiligt, was man daran sieht, dass Einsilbler wie *\textipa{[knI]} genauso ungrammatisch sind wie *\textipa{[kI]}.
 Mehr Segmente in den Anfangsrand zu nehmen, rettet also die entsprechenden Einsilbler nicht.
 
@@ -1259,14 +1279,14 @@ Segmente, die Strukturpositionen in zwei aneinander angrenzenden Silben besetzen
 \index{Ambisyllabizität}
 }
 
-Eventuelle phonetische Evidenz für diese Analyse kann hier aus Platzgründen nicht besprochen werden, aber der systematische Beschreibungsvorteil einer Analyse mit Silbengelenk lässt sich trotzdem demonstrieren.
+Eventuelle phonetische Evidenz für diese Analyse kann hier aus Platzgründen nicht besprochen werden, aber der systematische Beschreibungsvorteil einer Analyse mit Silbengelenk lässt sich gut demonstrieren.
 Oben haben wir festgestellt, dass kurze offene Silben nicht als Einsilbler vorkommen können.
 Wörter wie \textipa{[mI.t@]} existieren, aber der Einsilbler \textipa{[mI]} ist ausgeschlossen.
 Dank der Annahme von Silbengelenken müssen nun nicht mehr für Einsilbler und Mehrsilbler unterschiedliche Silbentypen angesetzt werden.
 In Fällen wie \textipa{[mIt@]} steht das \textipa{[t]} sowohl im Anfangsrand der zweiten Silbe und im Endrand der ersten Silbe.
 Es gibt dafür keine einheitliche Notation, wir schreiben \textipa{[mI\Sub{t}.t@]}.
 Abbildung~\ref{fig:silbgel001} zeigt die Analyse mit Silbengelenk.
-Es kann nicht überbetont werden, dass am Silbengelenk phonetisch nicht zwei Konsonanten vorliegen (also eben nicht *\textipa{[mIt.t@]}, wie die überzogene Aussprache der Klatschmethode eventuell suggeriert, s.\ Abschnitt~\ref{sec:silben}), sondern ein einziger Konsonant, der in zwei Positionen einer Struktur steht.%
+Es kann nicht überbetont werden, dass am Silbengelenk phonetisch nicht zwei Konsonanten vorliegen (also eben nicht *\textipa{[mIt.t@]}, wie die überzogene Aussprache der Klatschmethode eventuell suggeriert, s.\ Abschnitt~\ref{sec:silben}), sondern \textit{ein einziger} Konsonant, der in zwei Positionen einer Struktur steht.%
 \footnote{Aus diesem Grund lehnen manche Phonologen die Theorie des Silbengelenks ab.
 Zu dieser Kritik gehört auch der Einwand, dass es kein phonetisches Korrelat des Silbengelenks gibt, zumindest keins auf das man sich bisher einigen konnte.}
 
@@ -1284,11 +1304,36 @@ Zu dieser Kritik gehört auch der Einwand, dass es kein phonetisches Korrelat de
 \end{figure}
 
 In Satz~\ref{satz:silbenlaengemitgelenk} können damit weitreichende Generalisierungen über Längen von deutschen Silben formuliert werden.
-Für Einsilbler ergibt sich dank Satz~\ref{satz:silbenlaengemitgelenk} eine minimale Zweimorigkeit direkt aus der minimalen Zweimorigkeit der Silben.
+Tabelle~\ref{tab:morentypen} fasst die zweimorigen und dreimorigen Silbentypen zusammen.
+Dort steht V für kurze Vokale, \=V für lange Vokale und Diphthonge und C für einen Konsonanten.
+Die Tabelle kann folgendermaßen gelesen werden:
+Einmorig sind nur offene Schwa-Silben.
+Zweimorig sind offene Silben mit langem Vokal und Silben mit kurzem Vokal und simplexem Endrand.
+Dreimorig sind Silben mit langem Vokal und simplexem Endrand sowie Silben mit kurzem Vokal und duplexem Endrand.
 
 \Satz{Silbenlänge mit Silbengelenk}{\label{satz:silbenlaengemitgelenk}
-Unter der Annahme des Silbengelenks sind alle Silben (außer unbetonbaren Silben, also Schwa-Silben) entweder zweimorig (langer Vokal in offenen Silben oder kurzer Vokal mit simplexem Endrand) oder dreimorig (langer Vokal mit simplexem Endrand oder kurzer Vokal mit duplexem Endrand).
-In scheinbar kurzen offenen Erstsilben von Mehrsilblern wird Zweimorigkeit dadurch hergestellt, dass der Konsonant im Anfangsrand der Folgesilbe durch seinen Status als Silbengelenk zum Silbengewicht der Erstsilbe gerechnet wird.}
+Unter der Annahme des Silbengelenks sind alle betonbaren Silben (also nicht Schwa-Silben) entweder zweimorig oder dreimorig.
+Kurze offene Silben gibt es damit nicht (außer Schwa-Silben).
+In scheinbar kurzen offenen Erstsilben von Mehrsilblern wird Zweimorigkeit dadurch hergestellt, dass der Konsonant im Anfangsrand der Folgesilbe durch seinen Status als Silbengelenk zum Silbengewicht der Erstsilbe zählt.}
+
+\begin{table}
+	\centering
+	\begin{tabular}{lccc}
+		\lsptoprule
+		 & \textbf{Kern} & \multicolumn{2}{c}{\textbf{Endrand}} \\
+		\midrule
+		\textbf{einmorig} & \textipa{@} & & \\
+		\midrule
+		\multirow{2}{*}{\textbf{zweimorig}} & \=V &  &  \\
+		& V & C & \\
+		\midrule
+		\multirow{2}{*}{\textbf{dreimorig}} & \=V & C & \\
+		& V & C & C \\
+		\lspbottomrule
+	\end{tabular}
+	\caption{Mögliche Silbentypen nach Silbengewicht}	
+	\label{tab:morentypen}
+\end{table}
 
 Diese Generalisierung stützt das radikal reduktionistische Vorgehen bei der Beschreibung des Endrands in Abschnitt~\ref{sec:systematikderraender} erheblich.
 Zunächst wäre die Entscheidung zu motivieren, /ng/ statt */\textipa{N}/ anzunehmen.
@@ -1482,9 +1527,9 @@ Mit dem Betonungstest aus Abschnitt~\ref{sec:prosodie} kann für beliebig lange 
 \begin{exe}
   \ex\label{ex:fokuskomp}
   \begin{xlist}
-    \ex{Sie hat das \Akz AUTODACH (und nichts anderes) gewaschen.}
-    \ex{Sie hat am \Akz LANGSTRECKEN\Nakz LAUF (und nichts anderem) teilgenommen.}
-    \ex{Sie hat sich an dem \Akz BUS\Nakz HALTE\Nakz STELLEN\Nakz UNTERSTAND (und nichts anderem) verletzt.}
+    \ex{Sie hat das \Akz AUTODACH gewaschen.}
+    \ex{Sie hat am \Akz LANGSTRECKEN\Nakz LAUF teilgenommen.}
+    \ex{Sie hat sich an dem \Akz BUS\Nakz HALTE\Nakz STELLEN\Nakz UNTERSTAND verletzt.}
   \end{xlist}
 \end{exe}
 
@@ -1561,21 +1606,29 @@ Das zweisilbige Wort des deutschen Kernwortschatzes ist \textit{trochäisch}.
 
 Für Wörter, die aus einer unbetonten und einer betonten Silbe bestehen wie \textit{wa\Akz rum} oder \textit{wie\Akz so} kann man einen jambischen Fuß annehmen.
 Wie bereits angedeutet wären solche Wörter dann nicht direkt im Kernwortschatz verortet.
-Eine andere Lösung erlaubt \textit{defekte Füße}.
-Bei \textit{wa\Akz rum} würde es sich demnach um eine Folge von zwei defekten Füßen oder um einen defekten Trochäus \textit{\Akz rum} mit einer vorausgehenden \textit{extrametrischen} Silbe handeln.
-Die extrametrische Silbe ist eine Silbe außerhalb eines Fußes, also im Grunde das Äquivalent zu einem extrasilbischen Segment auf der nächsthöheren Ebene. 
+Die generellere Lösung erlaubt einerseits \textit{defekte Füße} als auch \textit{extrametrische Silben}, s.\ Definition~\ref{def:defektefuesseextrametrischesilben}.
+
+\Definition{Defekte Füße und extrametrische Silben}{\label{def:defektefuesseextrametrischesilben}
+Defekte Füße sind Füße, denen mindestens eine unbetonte Silbe fehlt.
+Die betonte Silbe kann nicht fehlen.
+Extrametrische Silben sind unbetonte Silben, die zu keinem Fuß gehören.}
+
+Die extrametrische Silbe ist im Grunde das Äquivalent zu einem extrasilbischen Segment auf der nächsthöheren Ebene. 
+Bei \textit{wa\Akz rum} würde es sich demnach um eine Folge von einem defekten Trochäus \textit{\Akz rum} mit einer vorausgehenden extrametrischen Silbe handeln.
 In Wörtern wie \textit{be\Akz sorg}, \textit{ver\Akz brauch} oder \textit{Ver\Akz ein} liegt diese Analyse besonders nahe, weil hier der Stamm (\textit{log}, \textit{brauch} und \textit{ein}) einem nicht betonbaren Präfix folgt und \idR Formen dieser Wörter existieren, in denen der Stamm mit weiteren rechts stehenden Elementen einen Trochäus bildet, \zB \textit{be\Akz sorge}, \textit{ver\Akz brauchen} und \textit{Ver\Akz eine}.
 Je nachdem, wie weit man diese Analyse treiben möchte, können auf ihrer Basis im Kernwortschatz Jamben und Anapäste ganz eliminiert werden.
+
 Eine Analyse von \textit{verbrauchen} mit extrametrischer Silbe ist in Abbildung~\ref{fig:verbrauchen} dargestellt.
-\textit{Anfangsrand} wird mit A, \textit{Endrand} mit E, \textit{Kern} mit K und \textit{Reim} mir R abgekürzt.
+Wie bei den extrasilbischen Segmenten werden extrametrische Silben im Diagramm mit einer gestrichelten Kante an einen Fuß angelehnt.
+Der Übersichtlichkeit halber wird \textit{Anfangsrand} mit A, \textit{Endrand} mit E, \textit{Kern} mit K und \textit{Reim} mit R abgekürzt.
 Weiterhin steht PhW für \textit{phonologisches Wort}, F für \textit{Fuß} und S für \textit{Silbe}.
 Das F-Symbol wird direkt über der Silbe aufgebaut, die im Fuß den Akzent trägt.
 
 \begin{figure}
 	\centering
 	\Tree{
-	\K{} & \K{} & \K{} & \K{} & \K{PhW}\B{d}\B{ddlll} & \K{} & \K{} & \K{} \\ 
-	\K{} & \K{} & \K{} & \K{} & \K{F}\B{d}\B{drr} & \K{} & \K{} & \K{} \\ 
+	\K{} & \K{} & \K{} & \K{} & \K{PhW}\B{d} & \K{} & \K{} & \K{} \\ 
+	\K{} & \K{} & \K{} & \K{} & \K{F}\Bdash{dlll}\B{d}\B{drr} & \K{} & \K{} & \K{} \\ 
 	\K{} & \K{S}\B{d}\B{ddl} & \K{} & \K{} & \K{S}\B{d}\B{ddll} & \K{} & \K{S}\B{d}\B{ddl} & \K{} \\ 
 	\K{} & \K{R}\B{d} & \K{} & \K{} & \K{R}\B{d} & \K{} & \K{R}\B{d}\B{dr} & \K{} \\ 
 	\K{A}\B{d} & \K{K}\B{d} & \K{A}\B{d}\B{dr} & \K{} & \K{K}\B{d} & \K{A}\B{d} & \K{K}\B{d} & \K{E}\B{d} \\ 
@@ -1595,13 +1648,13 @@ Ein gewisser Vorteil der Beschreibungsökonomie ergibt sich auf jeden Fall durch
 
 \Satz{Einfügung des Glottalverschlusses}{\label{satz:glottalverschluss}
 Der Fuß und alle größeren phonologischen Einheiten beginnen mit einem Konsonanten.
-Statt eines zugrundeliegenden Konsonanten kann der Glottalverschluss eingesetzt werden.}
+Wenn kein zugrundeliegender Konsonant vorliegt, muss der Glottalverschluss eingesetzt werden.}
 
 \subsection{Prosodische Wörter}
 
 \label{sec:prosodischewoerter}
 
-Abschließend soll noch anhand eines Phänomens darauf hingewiesen werden, warum es naheliegend ist, zwischen \textit{phonologischem Wort} und \textit{prosodischem Wort} unterschieden wird.
+Abschließend diskutieren wir ein Phänomen, dass es nahelegt, eine weitere phonologische Einheit anzunehmen und zwischen dem \textit{phonologischen Wort} und dem \textit{prosodischen Wort} zu unterscheiden.
 Zur Illustration dienen die Beispiele in (\ref{ex:phol8945}), in denen der Hauptakzent und die Silbengrenzen notiert wurden.
 
 \begin{exe}
@@ -1635,26 +1688,27 @@ Das prosodische Wort ist die aus phonologischen Wörtern bestehende Einheit, inn
 \index{Wort!prosodisch}
 }
 
-Es gibt natürlich viele Fälle, in denen das phonologische Wort gleich dem prosodischen Wort ist, aber gerade bei Komposita (und \zB Fügungen aus Verbpartikel und Verb) muss man davon ausgehen, dass das phonologische Wort kleiner ist als das prosodische.
-Wir schließen mit einer maximalen Analyse des recht langen Wortes \textit{Rattenfängerinnenverein} in Abbildung~\ref{fig:rattenfaengerinnenverein}.
+Es gibt viele Fälle, in denen das phonologische Wort gleich dem prosodischen Wort ist, aber gerade bei Komposita (und \zB Fügungen aus Verbpartikel und Verb) muss man davon ausgehen, dass das phonologische Wort kleiner ist als das prosodische.
+Wir schließen mit einer maximalen Analyse des recht langen Wortes \textit{Rettungsverein} in Abbildung~\ref{fig:rettungsverein}.
 Für alle Ebenen dieser Analyse wurde unabhängig argumentiert, und es handelt sich bei ihnen nicht um theoretische Konstrukte um der Konstrukte willen.
 Im Gegenteil, denn verglichen mit aktuellen Analysen in der theoretischen Phonologie handelt es sich um eine Vereinfachung.
 
+
 \begin{figure}
  \centering
- \resizebox{\textwidth}{!}{
- \Treek[-1]{1.5}{
- \K{} & \K{PrW}\B{d}\B{drrrrrr}\B{drrrrrrrrrrrrrrrrrrr} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} \\ 
- \K{} & \K{PhW}\B{d} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{PhW}\B{d}\B{drrrrr} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{PhW}\B{ddll}\B{d} & \K{} \\ 
- \K{} & \K{F}\B{d}\B{drrr} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{F}\B{d}\B{drrr} & \K{} & \K{} & \K{} & \K{} & \K{F}\B{d}\B{drrr} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{} & \K{F}\B{d} & \K{} \\ 
- \K{} & \K{S}\B{ddl}\B{d} & \K{} & \K{} & \K{S}\B{ddl}\B{d} & \K{} & \K{} & \K{S}\B{ddl}\B{d} & \K{} & \K{} & \K{S}\B{ddl}\B{d} & \K{} & \K{S}\B{ddl}\B{d} & \K{} & \K{} & \K{S}\B{ddl}\B{d} & \K{} & \K{} & \K{S}\B{ddl}\B{d} & \K{} & \K{S}\B{ddl}\B{d} & \K{} \\ 
- \K{} & \K{R}\B{d}\B{dr} & \K{} & \K{} & \K{R}\B{d}\B{dr} & \K{} & \K{} & \K{R}\B{d}\B{dr} & \K{} & \K{} & \K{R}\B{d} & \K{} & \K{R}\B{d}\B{dr} & \K{} & \K{} & \K{R}\B{d}\B{dr} & \K{} & \K{} & \K{R}\B{d} & \K{} & \K{R}\B{d}\B{dr} & \K{} \\
- \K{A}\B{d} & \K{K}\B{d} & \K{E}\B{dr} & \K{A}\B{d} & \K{K}\B{d} & \K{E}\B{d} & \K{A}\B{d} & \K{K}\B{d} & \K{E}\B{dr} & \K{A}\B{d} & \K{K}\B{d} & \K{A}\B{d} & \K{K}\B{d} & \K{E}\B{dr} & \K{A}\B{d} & \K{K}\B{d} & \K{E}\B{d} & \K{A}\B{d} & \K{K}\B{d} & \K{A}\B{d} & \K{K}\B{d} & \K{E}\B{d} \\
- \K{\textipa{K}} & \K{\textipa{a}} & \K{\textipa{}} & \K{\textipa{t}} & \K{\textipa{@}} & \K{\textipa{n}} & \K{\textipa{f}} & \K{\textipa{E}} & \K{\textipa{}} & \K{\textipa{N}} & \K{\textipa{@}} & \K{\textipa{K}} & \K{\textipa{I}} & \K{\textipa{}} & \K{\textipa{n}} & \K{\textipa{@}} & \K{\textipa{n}} & \K{\textipa{f}} & \K{\textipa{5}} & \K{\textipa{P}} & \K{\textipa{\t{ae}}} & \K{\textipa{n}} \\
+% \resizebox{\textwidth}{!}{
+ \Tree{
+   & \K{PrW}\B{d}\B{drrrrrrrrr} & & & & & & & & & & \\
+   & \K{PhW}\B{d} & & & & & & & & & \K{PhW}\B{d} & \\
+   & \K{F}\B{d}\B{drrr} & & & & & & & & & \K{F}\Bdash{dll}\B{d} & \\
+   & \K{S}\B{ddl}\B{d} & & & \K{S}\B{ddl}\B{d} & & & & \K{S}\B{ddl}\B{d} & & \K{S}\B{ddl}\B{d} & \\
+   & \K{R}\B{d}\B{dr} & & & \K{R}\B{d}\B{dr} & & & & \K{R}\B{d} & & \K{R}\B{d}\B{dr} & \\
+  \K{A}\B{d} & \K{K}\B{d} & \K{E}\B{dr} & \K{A}\B{d} & \K{K}\B{d} & \K{E}\B{d}\Bdash{dr} & & \K{A}\B{d} & \K{K}\B{d} & \K{A}\B{d} & \K{K}\B{d} & \K{E}\B{d} \\
+  \K{\textipa{K}} & \K{\textipa{E}} & & \K{\textipa{t}} & \K{\textipa{U}} & \K{\textipa{N}} & \K{\textipa{s}} & \K{\textipa{f}} & \K{\textipa{5}} & \K{\textipa{P}} & \K{\textipa{\t{aE}}} & \K{\textipa{n}} \\
  }
- }
- \label{fig:rattenfaengerinnenverein}
- \caption{Phonologische Analyse des Wortes \textit{Rattenfängerinnenverein}}
+% }
+ \label{fig:rettungsverein}
+ \caption{Phonologische Analyse des Wortes \textit{Rettungsverein}}
 \end{figure}
 
 
@@ -1662,7 +1716,7 @@ Im Gegenteil, denn verglichen mit aktuellen Analysen in der theoretischen Phonol
 
 \label{sec:phonephoneme}
 
-In diesem optionalen Abschnitt soll kurz auf einige oft benutzte phonologische Begriffe -- vor allem auf den des Phonems -- eingegangen werden.
+In diesem optionalen Abschnitt soll kurz auf einige oft benutzte phonologische Begriffe -- vor allem auf den des \textit{Phonems} -- eingegangen werden.
 Phonembasierte Argumentationen sind typisch für diverse Varianten des sogenannten \textit{Strukturalismus}, einer vor allem in der ersten Hälfte des zwanzigsten Jahrhunderts populären Richtung in der linguistischen Theoriebildung.
 Dabei soll gezeigt werden, warum eine einfache Phonemtheorie bestimmte Probleme mit sich bringt, zumal wenn sie ohne phonologische Merkmale formuliert wird.
 

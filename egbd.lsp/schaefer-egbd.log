@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  30 JAN 2016 01:50
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  30 JAN 2016 22:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2927,137 +2927,159 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 530--531
  []
 
 [112]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 562--563
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 564--565
 [][][][][][]
  []
 
-<xymatrix 3x3 308> <xymatrix 7x4 694> [113] [114] [115] [116]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 711--712
+<xymatrix 5x4 690> <xymatrix 5x4 674> [113] [114] [115] [116]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 714--715
 [][][][][][]
  []
 
 [117] [118] [119]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 861--862
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 885--886
 [][][][][][]
  []
 
-[120]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 870--871
+[120] [121]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 944--945
 [][][][][][]
  []
 
-<xymatrix 5x5 566> [121]
-Overfull \hbox (2.01036pt too wide) in paragraph at lines 968--974
+
+Overfull \hbox (1.07513pt too wide) in paragraph at lines 946--949
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 dern angelehnten extrasilbischen Obstrue
+nten gilt. Im Vorgriff auf Abschnitt []4.2.7[]
+ []
+
+<xymatrix 9x4 978> [122]
+Overfull \hbox (2.01036pt too wide) in paragraph at lines 1010--1014
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Was die Sonorität aus phonetisch-artik
 ulatorischer (oder perzeptorischer) Sicht
  []
 
-[122] <xymatrix 4x9 810> [123]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1041--1042
+[123] <xymatrix 4x9 810> [124]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1060--1061
 [][][][][][]
  []
 
-[124] <xymatrix 5x9 1151> [125] <xymatrix 4x8 867> [126] [127]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1180--1181
+<xymatrix 5x9 1151> [125] <xymatrix 4x8 867> [126] [127] [128]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1200--1201
 [][][][][][]
  []
 
-[128]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1197--1198
+
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1217--1218
 [][][][][][]
  []
 
 [129]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1231--1232
-[][][][][][]
- []
-
-
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1246--1247
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1251--1252
 [][][][][][]
  []
 
 [130]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1263--1264
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1265--1266
+[][][][][][]
+ []
+
+
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1282--1283
 [][][][][][]
  []
 
 [131] <xymatrix 5x5 1014>
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1294--1295
+Overfull \hbox (4.19223pt too wide) in paragraph at lines 1308--1315
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 deutschen Silben formuliert werden. Tabe
+lle []4.5[] fasst die zweimorigen und dreimo-
+ []
+
+
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1319--1320
 [][][][][][]
  []
 
-[132]
-Underfull \hbox (badness 1325) in paragraph at lines 1322--1322
+[132] [133]
+Underfull \hbox (badness 1325) in paragraph at lines 1366--1366
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Zu bei manchen Sprechern stimmhaften \EU
 1/LinLibertine_R_B.otf(1)/m/it/9 s\EU1/LinLibertine_R_B.otf(1)/m/n/9 -Silbengel
 enken wie in \EU1/LinLibertine_R_B.otf(1)/m/it/9 quasseln \EU1/LinLibertine_R_B
 .otf(1)/m/n/9 folgt in Ab-
  []
 
-[133]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1354--1355
+[134]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1398--1399
 [][][][][][]
  []
 
-[134]
-Overfull \hbox (0.96379pt too wide) in paragraph at lines 1356--1358
+
+Overfull \hbox (0.96379pt too wide) in paragraph at lines 1400--1402
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 weitgehend richtig silbifizieren und die
  möglichen Silbentypen kompakt beschrei-
  []
 
 
-Overfull \hbox (1.74762pt too wide) in paragraph at lines 1356--1358
+Overfull \hbox (1.74762pt too wide) in paragraph at lines 1400--1402
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ben. Wenn doch Zweifelsfälle entstehen, 
 helfen vollständigere Grammatiken oder
  []
 
 [135]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1403--1404
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1447--1448
 [][][][][][]
  []
 
-[136]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1469--1470
-[][][][][][]
- []
-
-[137]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1481--1482
+[136] [137]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1513--1514
 [][][][][][]
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1505--1506
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1525--1526
 [][][][][][]
  []
 
-[138] [139]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1539--1540
+[138]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1549--1550
 [][][][][][]
  []
 
-[140] <xymatrix 8x6 2010> [141]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1601--1602
+[139]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1583--1584
 [][][][][][]
  []
 
-[142]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1639--1640
+[140]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1616--1617
 [][][][][][]
  []
 
-<xymatrix 22x7 6258> [143]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1681--1682
+<xymatrix 8x6 2006>
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1653--1654
 [][][][][][]
  []
 
-
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1696--1697
+[141] [142]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1691--1692
 [][][][][][]
  []
 
-[144] [145] [146] [147] [148
+[143] <xymatrix 12x7 2640>
+Overfull \hbox (4.34055pt too wide) in paragraph at lines 1710--1713
+ [][] 
+ []
+
+
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1734--1735
+[][][][][][]
+ []
+
+[144]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1749--1750
+[][][][][][]
+ []
+
+[145] [146] [147] [148
 
 ] [149] [150
 
@@ -3538,7 +3560,7 @@ Underfull \hbox (badness 3942) in paragraph at lines 1338--1338
 
 (./chapters/konstituentenstruktur.tex
 Kapitel 10.
-<xymatrix 7x4 694> [321
+<xymatrix 5x4 674> [321
 
 
 
@@ -4357,10 +4379,10 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49433 strings out of 494865
- 863086 string characters out of 6167200
- 1506848 words of memory out of 5000000
- 51819 multiletter control sequences out of 15000+600000
+ 49371 strings out of 494865
+ 862748 string characters out of 6167200
+ 1406638 words of memory out of 5000000
+ 51757 multiletter control sequences out of 15000+600000
  20227 words of font info for 149 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
  65i,18n,104p,10460b,2294s stack positions out of 5000i,500n,10000p,200000b,80000s
