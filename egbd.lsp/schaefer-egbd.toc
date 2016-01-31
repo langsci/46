@@ -72,9 +72,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.3}Zunge, Mundraum und Nase}{72}{subsection.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Artikulationsart}{74}{section.3.3}
+\contentsline {section}{\numberline {3.3}Artikulationsart}{73}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Passiver und aktiver Artikulator}{74}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.1}Passiver und aktiver Artikulator}{73}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.2}Stimmhaftigkeit}{75}{subsection.3.3.2}
 \defcounter {refsection}{0}\relax 
@@ -84,7 +84,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.5}Nasale}{78}{subsection.3.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.6}Vokale}{79}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.6}Vokale}{78}{subsection.3.3.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.7}Oberklassen für Artikulationsarten}{80}{subsection.3.3.7}
 \defcounter {refsection}{0}\relax 
@@ -94,31 +94,31 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.2}Laryngale}{83}{subsection.3.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.3}Uvulare}{84}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.3}Uvulare}{83}{subsection.3.4.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.4}Velare}{84}{subsection.3.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.5}Palatale}{85}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.5}Palatale}{84}{subsection.3.4.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.6}Palatoalveolare und Alveolare}{85}{subsection.3.4.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.7}Labiodentale und Bilabiale}{86}{subsection.3.4.7}
+\contentsline {subsection}{\numberline {3.4.7}Labiodentale und Bilabiale}{85}{subsection.3.4.7}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.8}Affrikaten und Artikulationsorte}{86}{subsection.3.4.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.9}Vokale und Diphthonge}{86}{subsection.3.4.9}
+\contentsline {subsection}{\numberline {3.4.9}Vokale und Diphthonge}{87}{subsection.3.4.9}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.5}Phonetische Merkmale}{89}{section.3.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.6}Besonderheiten der Transkription}{90}{section.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.1}Auslautverhärtung}{91}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.1}Auslautverhärtung}{90}{subsection.3.6.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.6.2}Silbische Nasale und Approximanten}{91}{subsection.3.6.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.6.3}Orthographisches \textit {n}}{92}{subsection.3.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6.4}Orthographisches \textit {s}}{93}{subsection.3.6.4}
+\contentsline {subsection}{\numberline {3.6.4}Orthographisches \textit {s}}{92}{subsection.3.6.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.6.5}Orthographisches \textit {r}}{93}{subsection.3.6.5}
 \defcounter {refsection}{0}\relax 
@@ -596,8 +596,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Lösungen zu den Übungen}{520}{section*.56}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{573}{section*.135}
+\contentsline {chapter}{Bibliographie}{573}{section*.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{573}{chapter*.136}
+\contentsline {chapter}{\nonumberline Literatur}{573}{chapter*.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{580}{section*.137}
+\contentsline {chapter}{Index}{580}{section*.5}
