@@ -56,7 +56,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Phonetik}{65}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Phonetik und andere Disziplinen}{65}{section.3.1}
+\contentsline {section}{\numberline {3.1}Grundlagen der Phonetik}{65}{section.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1.1}Das akustische Medium}{65}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
@@ -408,7 +408,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {11.1}Koordination}{352}{section.11.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.2}Nominalphrase (NP)}{354}{section.11.2}
+\contentsline {section}{\numberline {11.2}Nominalphrase}{354}{section.11.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {11.2.1}Die Struktur der NP}{354}{subsection.11.2.1}
 \defcounter {refsection}{0}\relax 
@@ -418,19 +418,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {11.2.4}Adjektivphrasen und Artikelwörter}{361}{subsection.11.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.3}Adjektivphrase (AP)}{364}{section.11.3}
+\contentsline {section}{\numberline {11.3}Adjektivphrase}{364}{section.11.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.4}Präpositionalphrase (PP)}{367}{section.11.4}
+\contentsline {section}{\numberline {11.4}Präpositionalphrase}{367}{section.11.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {11.4.1}Normale PP}{367}{subsection.11.4.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {11.4.2}PP mit flektierbaren Präpositionen}{368}{subsection.11.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.5}Adverbphrase (AdvP)}{369}{section.11.5}
+\contentsline {section}{\numberline {11.5}Adverbphrase}{369}{section.11.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.6}Komplementiererphrase (KP)}{370}{section.11.6}
+\contentsline {section}{\numberline {11.6}Komplementiererphrase}{370}{section.11.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.7}Verbphrase (VP) und Verbalkomplex}{371}{section.11.7}
+\contentsline {section}{\numberline {11.7}Verbphrase und Verbalkomplex}{371}{section.11.7}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {11.7.1}Verbphrase}{372}{subsection.11.7.1}
 \defcounter {refsection}{0}\relax 
@@ -564,38 +564,38 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Übungen zu Kapitel 14}{495}{Item.2265}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {15}Morphologische und syntaktische Schreibprinzipien}{499}{chapter.15}
+\contentsline {chapter}{\numberline {15}Morpho-syntaktische Schreibprinzipien}{497}{chapter.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.1}Wortbezogene Schreibungen}{499}{section.15.1}
+\contentsline {section}{\numberline {15.1}Wortbezogene Schreibungen}{497}{section.15.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.1.1}Spatien}{499}{subsection.15.1.1}
+\contentsline {subsection}{\numberline {15.1.1}Spatien}{497}{subsection.15.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.1.2}Wortklassen}{501}{subsection.15.1.2}
+\contentsline {subsection}{\numberline {15.1.2}Wortklassen}{499}{subsection.15.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.1.3}Wortbildung}{504}{subsection.15.1.3}
+\contentsline {subsection}{\numberline {15.1.3}Wortbildung}{502}{subsection.15.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.1.4}Abkürzungen und Auslassungen}{506}{subsection.15.1.4}
+\contentsline {subsection}{\numberline {15.1.4}Abkürzungen und Auslassungen}{504}{subsection.15.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.1.5}Konstantschreibungen}{509}{subsection.15.1.5}
+\contentsline {subsection}{\numberline {15.1.5}Konstantschreibungen}{507}{subsection.15.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.2}Schreibung von Phrasen und Sätzen}{511}{section.15.2}
+\contentsline {section}{\numberline {15.2}Schreibung von Phrasen und Sätzen}{509}{section.15.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.2.1}Phrasen}{511}{subsection.15.2.1}
+\contentsline {subsection}{\numberline {15.2.1}Phrasen}{509}{subsection.15.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.2.2}Unabhängige Sätze}{512}{subsection.15.2.2}
+\contentsline {subsection}{\numberline {15.2.2}Unabhängige Sätze}{510}{subsection.15.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.2.3}Nebensätze und Verwandtes}{514}{subsection.15.2.3}
+\contentsline {subsection}{\numberline {15.2.3}Nebensätze und Verwandtes}{512}{subsection.15.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 15}{516}{Item.2349}
+\contentsline {section}{Zusammenfassung von Kapitel 15}{514}{Item.2349}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 15}{517}{Item.2360}
+\contentsline {section}{Übungen zu Kapitel 15}{515}{Item.2360}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Weiterführende Literatur zu V}{518}{Exer.15.3}
+\contentsline {chapter}{Weiterführende Literatur zu V}{516}{Exer.15.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Lösungen zu den Übungen}{520}{section*.56}
+\contentsline {chapter}{Lösungen zu den Übungen}{518}{section*.56}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{573}{section*.3}
+\contentsline {chapter}{Bibliographie}{571}{section*.135}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{573}{chapter*.4}
+\contentsline {chapter}{\nonumberline Literatur}{571}{chapter*.136}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{580}{section*.5}
+\contentsline {chapter}{Index}{578}{section*.137}
