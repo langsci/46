@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  31 JAN 2016 22:30
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  1 FEB 2016 12:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2551,64 +2551,61 @@ tex-text;mapping=tex-text;+liga;+pnum;+lnum;+smcp;"
 LaTeX Warning: Reference `sec:akustischemedium' on page 475 undefined on input 
 line 50.
 
-[475] [476] [477] [478] [479] [480] [481] [482]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 276--277
+[475] [476] [477] [478] [479]
+Overfull \hbox (6.23442pt too wide) in paragraph at lines 239--253
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 passungen zugrundeliegender Formen wie d
+ie Auslautverhärtung (Abschnitt []4.1.3[]),
+ []
+
+[480] [481] [482]
+
+LaTeX Warning: Reference `sec:silbengelenk' on page 483 undefined on input line
+ 271.
+
+
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 279--280
 [][][][][][]
  []
 
 [483] [484]
-Overfull \hbox (3.1529pt too wide) in paragraph at lines 346--352
+Overfull \hbox (3.1529pt too wide) in paragraph at lines 348--355
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 von Vokalen. In Abschnitt []4.1.4[] wurd
 e festgestellt, dass zugrundeliegend das Merk-
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 357--358
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 360--361
 [][][][][][]
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 363--364
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 366--367
 [][][][][][]
  []
 
 [485]
-Overfull \vbox (4.9668pt too high) detected at line 408
+Overfull \vbox (4.9668pt too high) detected at line 411
  []
 
 
-Overfull \vbox (4.9668pt too high) detected at line 408
+Overfull \vbox (4.9668pt too high) detected at line 411
  []
 
-[486]
-Overfull \hbox (0.95102pt too wide) in paragraph at lines 443--446
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 eine phonologisch-graphematische Lösung 
-angeboten. Tabelle []14.5[] fasst zunächst
- []
-
-
-Overfull \vbox (4.9668pt too high) detected at line 457
- []
-
-
-Overfull \vbox (4.9668pt too high) detected at line 469
- []
-
-[487]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 501--502
-[][][][][][]
- []
-
-[488] <xymatrix 5x5
+[486] <xymatrix 5x5
 
 Package xypdf Warning: The produced DVI file is NOT PORTABLE. Convert it with
 dvipdfm(x) to the PDF format but do not expect the DVI file itself to be
 displayed correctly.
 
-1024> <xymatrix 7x5 1178> <xymatrix 7x5 1178> [489] [490] [491] [492] [493]
-[494] [495] [496] [497
+1024> <xymatrix 7x5 1178> <xymatrix 7x5 1178> [487] [488] [489] [490] [491]
+[492]
 
-]) [498] [573
+LaTeX Warning: Reference `sec:silbengelenk' on page 493 undefined on input line
+ 690.
+
+[493] [494] [495
+
+]) [496] [573
 
 
 
@@ -2667,12 +2664,12 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48826 strings out of 494865
- 854422 string characters out of 6167200
- 1346440 words of memory out of 5000000
- 51260 multiletter control sequences out of 15000+600000
+ 48825 strings out of 494865
+ 854390 string characters out of 6167200
+ 1347137 words of memory out of 5000000
+ 51259 multiletter control sequences out of 15000+600000
  19746 words of font info for 140 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
  65i,15n,104p,10460b,2300s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on schaefer-egbd.pdf (72 pages).
+Output written on schaefer-egbd.pdf (70 pages).
