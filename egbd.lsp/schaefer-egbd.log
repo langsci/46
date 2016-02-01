@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  1 FEB 2016 19:39
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_7) (preloaded format=xelatex 2015.11.9)  2 FEB 2016 00:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4118,11 +4118,6 @@ ie Auslautverhärtung (Abschnitt []4.1.3[]),
  []
 
 [480] [481] [482]
-
-LaTeX Warning: Reference `sec:silbengelenk' on page 483 undefined on input line
- 271.
-
-
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 279--280
 [][][][][][]
  []
@@ -4134,73 +4129,74 @@ e festgestellt, dass zugrundeliegend das Merk-
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 360--361
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 361--362
 [][][][][][]
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 366--367
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 367--368
 [][][][][][]
  []
 
 [485]
-Overfull \vbox (4.9668pt too high) detected at line 411
+Overfull \vbox (4.9668pt too high) detected at line 417
  []
 
 
-Overfull \vbox (4.9668pt too high) detected at line 411
+Overfull \vbox (4.9668pt too high) detected at line 417
  []
 
-[486] [487] <xymatrix 5x5 1024> <xymatrix 7x5 1178> <xymatrix 7x5 1178>
-[488] [489] [490] [491] [492]
+[486] [487]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 461--462
+[][][][][][]
+ []
 
-LaTeX Warning: Reference `sec:silbengelenk' on page 493 undefined on input line
- 692.
+[488] <xymatrix 5x5 1020> <xymatrix 6x5 1154> <xymatrix 6x5 1168> [489]
+[490] [491] [492] [493] [494] [495] [496] [497
 
-[493] [494] [495
-
-]) [496]
+]) [498]
 \openout2 = `chapters/andereschrift.aux'.
 
- (./chapters/andereschrift.tex
+
+(./chapters/andereschrift.tex
 Kapitel 15.
 
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 19--20
 [][][][][][]
  []
 
-[497
+[499
 
 
 
 
-] [498]
+] [500]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 89--90
 [][][][][][]
  []
 
-[499] [500] [501]
+[501] [502] [503]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 242--243
 [][][][][][]
  []
 
-[502]
+[504]
 
-LaTeX Warning: Reference `sec:prosphonwort' on page 503 undefined on input line
+LaTeX Warning: Reference `sec:prosphonwort' on page 505 undefined on input line
  244.
 
-[503] [504]
+[505] [506]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 294--295
 [][][][][][]
  []
 
 
-LaTeX Warning: Reference `sec:silbnasal' on page 505 undefined on input line 32
+LaTeX Warning: Reference `sec:silbnasal' on page 507 undefined on input line 32
 0.
 
-[505] [506]
+[507] [508]
 
-LaTeX Warning: Reference `sec:silbengelenk' on page 507 undefined on input line
+LaTeX Warning: Reference `sec:silbengelenk' on page 509 undefined on input line
  382.
 
 
@@ -4208,42 +4204,42 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 391--392
 [][][][][][]
  []
 
-[507]
+[509]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 403--404
 [][][][][][]
  []
 
-[508] [509]
+[510] [511]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 464--465
 [][][][][][]
  []
 
-[510] [511]
+[512] [513]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 552--553
 [][][][][][]
  []
 
 
-LaTeX Warning: Reference `sec:sprachsystem' on page 512 undefined on input line
+LaTeX Warning: Reference `sec:sprachsystem' on page 514 undefined on input line
  554.
 
-[512] [513] [514] [515
+[514] [515] [516] [517
 
-] [516]) [517
+] [518]) [519
 
 
 ]
 \openout2 = `chapters/loesungen.aux'.
 
- (./chapters/loesungen.tex [518
+ (./chapters/loesungen.tex [520
 
 
 
 
-] [519]
-[520] [521
+] [521]
+[522] [523
 
-] [522] [523] [524] [525] [526
+] [524] [525] [526] [527] [528
 
 ]
 Underfull \hbox (badness 2277) in paragraph at lines 389--393
@@ -4251,56 +4247,56 @@ Underfull \hbox (badness 2277) in paragraph at lines 389--393
 n/10.95 kann als Antwort auf eine Ja/Nein-Frage verwendet werden:
  []
 
-[527] [528] [529]
+[529] [530] [531]
 
-LaTeX Warning: Reference `sec:nomina' on page 530 undefined on input line 490.
+LaTeX Warning: Reference `sec:nomina' on page 532 undefined on input line 490.
 
 
-LaTeX Warning: Reference `sec:funktionale' on page 530 undefined on input line 
+LaTeX Warning: Reference `sec:funktionale' on page 532 undefined on input line 
 496.
 
-[530
+[532
 
-] [531] [532
+] [533] [534
 
-] [533] [534]
+] [535] [536]
 
-LaTeX Warning: Reference `sec:nomina' on page 535 undefined on input line 628.
+LaTeX Warning: Reference `sec:nomina' on page 537 undefined on input line 628.
 
-[535
+[537
 
-] [536] [537] [538
+] [538] [539] [540
 
 ]
 
-LaTeX Warning: Reference `sec:praedikate' on page 539 undefined on input line 7
+LaTeX Warning: Reference `sec:praedikate' on page 541 undefined on input line 7
 70.
 
-[539] [540] [541] [542] [543
+[541] [542] [543] [544] [545
 
-] [544] [545] [546] <xymatrix 5x3 453> <xymatrix
-4x3 321> <xymatrix 4x3 337> <xymatrix 7x3 474> <xymatrix 4x3 321> [547
+] [546] [547] [548] <xymatrix 5x3 453> <xymatrix
+4x3 321> <xymatrix 4x3 337> <xymatrix 7x3 474> <xymatrix 4x3 321> [549
 
 ]
 <xymatrix 4x3 325> <xymatrix 7x3 474> <xymatrix 5x3 453> <xymatrix 2x3 304>
-<xymatrix 7x3 474> [548] <xymatrix 2x3 304> <xymatrix 10x4 885> <xymatrix 10x4
+<xymatrix 7x3 474> [550] <xymatrix 2x3 304> <xymatrix 10x4 885> <xymatrix 10x4
 873>
 Underfull \hbox (badness 10000) in paragraph at lines 1132--1133
 
  []
 
-[549] <xymatrix 8x4 729> <xymatrix 12x4 1026> <xymatrix 6x4 552> [550]
-<xymatrix 10x4 873> <xymatrix 3x5 628> <xymatrix 3x5 628> [551] <xymatrix 3x5
-628> <xymatrix 3x5 628> [552] [553
+[551] <xymatrix 8x4 729> <xymatrix 12x4 1026> <xymatrix 6x4 552> [552]
+<xymatrix 10x4 873> <xymatrix 3x5 628> <xymatrix 3x5 628> [553] <xymatrix 3x5
+628> <xymatrix 3x5 628> [554] [555
 
-] [554] [555] <xymatrix 12x5 1038> [556]
-<xymatrix 10x5 1046> <xymatrix 12x5 1038> <xymatrix 5x4 487> [557] <xymatrix
+] [556] [557] <xymatrix 12x5 1038> [558]
+<xymatrix 10x5 1046> <xymatrix 12x5 1038> <xymatrix 5x4 487> [559] <xymatrix
 14x5 1211> <xymatrix 12x5 1049>
 Underfull \hbox (badness 10000) in paragraph at lines 1422--1431
 
  []
 
-[558] <xymatrix 8x5 623>
+[560] <xymatrix 8x5 623>
 Underfull \hbox (badness 10000) in paragraph at lines 1445--1446
 
  []
@@ -4310,10 +4306,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1451--1460
 
  []
 
-<xymatrix 10x5 1004> [559] <xymatrix 9x5 869> <xymatrix 11x5 1231> [560]
-<xymatrix 6x4 617> [561] [562
+<xymatrix 10x5 1004> [561] <xymatrix 9x5 869> <xymatrix 11x5 1231> [562]
+<xymatrix 6x4 617> [563] [564
 
-] [563] [564]
+] [565] [566]
 Overfull \vbox (0.31305pt too high) detected at line 1656
  []
 
@@ -4329,11 +4325,11 @@ Overfull \vbox (0.31305pt too high) detected at line 1669
 Overfull \vbox (4.9668pt too high) detected at line 1673
  []
 
-[565
+[567
 
-] [566] [567] [568
+] [568] [569] [570
 
-] [569]) [570] [571
+] [571]) [572] [573
 
 
 
@@ -4346,24 +4342,24 @@ Underfull \hbox (badness 2409) in paragraph at lines 101--101
 e Geheimnisse der deutschen würde-
  []
 
-[572] [573]
+[574] [575]
 Underfull \hbox (badness 1303) in paragraph at lines 101--101
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Leirbukt, Oddleif. 2013. \EU1/LinLib
 ertine_R_B.otf(0)/m/it/10.95 Untersuchungen zum bekommen-Passiv im heutigen
  []
 
-[574]
+[576]
 Underfull \hbox (badness 1466) in paragraph at lines 101--101
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Nübling, Damaris & Renata Szczepania
 k. 2009. Religion+s+freiheit, Stabili-
  []
 
-[575] [576] [577] (./indices.tex) (./schaefer-egbd.and [578
+[577] [578] [579] (./indices.tex) (./schaefer-egbd.and [580
 
-] [579
+] [581
 
-] [580]
-[581] [582] [583] [584] [585] [586] [587])
+] [582]
+[583] [584] [585] [586] [587] [588] [589])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
  (./schaefer-egbd.aux
@@ -4393,12 +4389,12 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49373 strings out of 494865
- 862740 string characters out of 6167200
- 1406293 words of memory out of 5000000
- 51757 multiletter control sequences out of 15000+600000
+ 49377 strings out of 494865
+ 862811 string characters out of 6167200
+ 1406453 words of memory out of 5000000
+ 51761 multiletter control sequences out of 15000+600000
  20227 words of font info for 149 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
  65i,18n,104p,10460b,2294s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on schaefer-egbd.pdf (603 pages).
+Output written on schaefer-egbd.pdf (605 pages).
