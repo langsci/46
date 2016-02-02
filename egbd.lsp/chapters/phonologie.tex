@@ -40,6 +40,7 @@ Die Beispiele in (\ref{ex:phol6438})--(\ref{ex:phol6440}) illustrieren drei Type
 Sie kommen beide am Anfang und am Ende von Silben vor.
 Hingegen haben \textipa{[h]} und \textipa{[N]} eine vollständig unterschiedliche  Verteilung, wie (\ref{ex:phol6439}) zeigt.
 Am Anfang einer Silbe kommt nur \textipa{[h]} vor, am Ende einer Silbe kommt nur \textipa{[N]} vor.
+
 Schließlich demonstriert (\ref{ex:phol6440}), dass \textipa{[s]} und \textipa{[z]} eine teilweise übereinstimmende Verteilung haben.
 Am Anfang der ersten Silbe eines Wortes kommt nur \textipa{[z]} vor wie in (\ref{ex:phol6440a}), am Ende der letzten Silbe eines Wortes kommt nur \textipa{[s]} vor wie in (\ref{ex:phol6440b}), und am Anfang einer Silbe in der Wortmitte kommen beide vor, \textipa{[z]} aber nur nach langem Vokal oder Diphthong wie in (\ref{ex:phol6440c}).
 
@@ -164,6 +165,12 @@ Es gibt also aus systematischen Gründen keine Minimalpaare.
 \textit{Asche} \textipa{[PaS@]} und \textit{Tasche} \textipa{[taS@]} sind zwei verschiedene Wörter und im Prinzip ein Minimalpaar.
 Weil die Anwesenheit des Glottalverschlusses aber vollständig vorhersagbar ist und er in den Umgebungen, in denen er auftritt, nicht weggelassen werden kann, ist, *\textipa{[aS@]} unmöglich.
 Genau deswegen bilden *\textipa{[aS@]} und \textipa{[PaS@]} auch kein Minimalpaar.
+
+Ein andere Art der Reduktion wird später für auslautendes \textipa{[N]} vorgenommen.
+Einerseits ist \textipa{[N]} die Vertretung für \textipa{[n]} vor velaren Plosiven wie in \textit{Bänke} \textipa{[bENk@]}.
+In diesen Fällen liegt es nah, davon auszugehen, dass sich der Nasal an den Plosiv in seinem Artikulationsort anpasst.
+Andererseits tritt das Segment auch einzeln am Silbenende auf, wie in \textit{Gang} \textipa{[gaN]}.
+Man kann \textipa{[N]} auch in diesen Fällen phonologisch auf eine Folge von \textipa{[n]} und \textipa{[g]} zurückführen (s.\ Abschnitt~\ref{sec:systematikderraender}).
 
 Die Phonologie stellt also eine Abstraktion gegenüber der Phonetik dar.
 Die Phonetik eines Wortes beschreibt nur, wie es tatsächlich ausgesprochen wird, und jedes einzelne Wort einer Sprache kann ohne Betrachtung der anderen Wörter vollständig phonetisch beschrieben werden.
@@ -886,7 +893,6 @@ Auch hier behandeln wir also /\textipa{K}/ und /l/ wieder als eine Klasse (Liqui
 Innerhalb der Silbe gibt es das universelle Bildungsprinzip der \textit{Sonoritätskontur}, welches regelt, dass die Sonorität zum Vokal hin ansteigt und dann wieder abfällt, wie in Abbildung~\ref{fig:sonhier} schematisch dargestellt.
 Dies gilt natürlich nur, wenn die Silbe mindestens ein weiteres Segment außer dem Vokal enthält.
 Eine Silbe, die nur aus einem Plosiv und einem Vokal besteht, zeigt einen Sonoritätsanstieg, aber keinen Sonoritätsabfall.
-Bei einer Silbe, die nur aus einem Vokal und einem Plosiv besteht, ist es umgekehrt.
 Es gibt also Silben, die nur einen Ausschnitt aus der Sonoritätskontur realisieren (nur Anstieg oder nur Abfall), aber einen Sonoritätsabfall gefolgt von einem Anstieg gibt es innerhalb einzelner Silben im Normalfall nicht.
 Definition~\ref{def:sonoritaet} fasst zusammen.
 
@@ -1025,14 +1031,14 @@ Es ist \textit{extrasilbisch}.
   \centering
   \Tree[3]{
      \K{\small\textbf{extrasilbisch}} & \K{\small\textbf{Anfangsrand}} && \K{\small\textbf{Kern}} \\
-     \K{\textipa{S}}\R[--]{r} & \K{p t}\R{ddddrr}^{\text{Plosiv}}              &&           \\
-     & \K{b d k g}\Rxx{6}{9.75}{r}                &&           \\
+     \K{\textipa{S}}\R[--]{r} & \K{p, t}\R{ddddrr}^{\text{Plosiv}}              &&           \\
+     & \K{b, d, k, g}\Rxx{7.5}{9.75}{r}                &&           \\
      \K{\textipa{S}}\R[--]{r} & \K{v}\R{ddrr}_{\text{Frikativ}}             &&           \\
-     & \K{\textipa{f S h z J}}\Rxxx{6}{9}{7.6}{ur}           &&           \\
+     & \K{f, \textipa{S}, h, z, \textipa{J}}\Rxxx{8.5}{9}{7.6}{ur}           &&           \\
      &          && \K{~~~Vokal} \\
-     \K{\textipa{S}}\R[--]{r} & \K{m n}\R{urr}_{\text{Nasal}}  &&           \\
+     \K{\textipa{S}}\R[--]{r} & \K{~~m, n}\Rxx{6}{3.7}{urr}_{\text{Nasal}}  &&           \\
      &                                         &&           \\
-     \K{\textipa{S}}\R[--]{r} & \K{l \textipa{K}}\R{uuurr}_{\text{Liquid}}         &&           \\
+     \K{\textipa{S}}\R[--]{r} & \K{l, \textipa{K}}\R{uuurr}_{\text{Liquid}}         &&           \\
   }
   \caption{Struktur des simplexen Anfangsrands}
   \label{fig:anfangsrandsimplex}
@@ -1042,13 +1048,21 @@ Die maximale Komplexität des Anfangsrands besteht also in zwei Segmenten:
 Der Anfangsrand ist maximal \textit{duplex}.
 Scheinbare Fälle von drei Segmenten im Anfangsrand (/\textipa{SpK}/, /\textipa{StK}/ und evtl.\ /\textipa{Spl}/) im Anfangsrand bestehen aus zwei Segmenten mit extrasilbischem /\textipa{S}/.
 Wenn man /\textipa{S}/ diesen Sonderstatus zuweist, dampft die Beschreibung der Besetzungsmöglichkeiten des simplexen Anfangsrands auf Abbildung~\ref{fig:anfangsrandsimplex} und die des duplexen Anfangsrands auf Abbildung~\ref{fig:anfangsrandduplex} ein.
-Die Abbildungen sind von rechts nach links zu lesen.
-Man beginnt mit dem Vokal im Kern, und die nach links weisenden Kanten zeigen Besetzungsmöglichkeiten für das erste Segment im Anfangsrand links vom Vokal usw.
-Es wird sofort deutlich, dass die Kombinationsmöglichkeiten sehr stark auf die Verbindung von Plosiv oder labiodentalem Frikative (/f/ und /v/) mit Liquiden eingeschränkt sind.
+Die Abbildungen sind von rechts nach links zu lesen, und sie bilden die \textit{Besetzungsmöglichkeiten} des Anfangsrands ab.
+Für jede mögliche Besetzung des Anfangsrands gibt es genau einen Weg durch die Äste des Diagramms.
+Man beginnt mit dem Vokal im Kern.
+Die von dort nach links weisenden Äste zeigen Besetzungsmöglichkeiten für das erste Segment im Anfangsrand links vom Vokal.
+Von diesen weisen ggf.\ weitere Äste nach links, die die Möglichkeiten für weiter links stehende Segmente anzeigen, und zwar abhängig von dem bereits eingeschlagenen Weg.
+Die in Gruppen angeordneten, mit Komma getrennten Segmente stellen jeweils verschiedene Möglichkeiten dar.
+In Abbildung~\ref{fig:anfangsrandsimplex} kann man vor dem Vokal zum Beispiel einen Plosiv einsetzen (oberer Ast).
+Es kommen \textipa{[p]} oder \textipa{[t]} in Frage (obere Verästelung des obersten Asts), vor dem noch ein \textipa{[S]} stehen kann.
+Vor \textipa{[b]}, \textipa{[d]}, \textipa{[k]} und \textipa{[g]} (untere Verästelung des oberen Asts) kann allerdings kein \textipa{[S]} stehen.
+
+Es wird sofort deutlich, dass die Kombinationsmöglichkeiten sehr stark auf die Verbindung von Plosiv oder labio-dentalem Frikativ (/f/ und /v/) mit folgendem Liquid eingeschränkt sind.
 Zwischen den beiden Liquiden an zweiter Stelle ist der einzige Unterschied, dass /\textipa{pK}/ und /\textipa{vK}/ möglich sind, /\textipa{pl}/ und /\textipa{vl}/ aber nicht.
 
 \Satz{Anfangsrand}{Der Anfangsrand ist maximal duplex.
-Die präferierte Besetzung des duplexen Anfangsrands ist die aus einem inneren Liquid und einem äußeren Obstruent.
+Die präferierte Besetzung des duplexen Anfangsrands ist die aus einem inneren Liquid und einem äußeren Obstruenten.
 Extrasilbisch tritt ggf.\ /\textipa{S}/ vor den Anfangsrand.}
 
 \begin{figure}
@@ -1056,12 +1070,12 @@ Extrasilbisch tritt ggf.\ /\textipa{S}/ vor den Anfangsrand.}
   \Tree[3]{
      \K{\small\textbf{extrasilbisch}} & \K{\small\textbf{Anfangsrand}}\Below{\small\textbf{erste Pos.}} & \K{\small\textbf{Anfangsrand}}\Below{\small\textbf{zweite Pos.}} && \K{\small\textbf{Kern}} \\
      & \K{k}\R{r}^{\text{Plosiv}} & \K{v}\R{dddrr}^{\text{Frikativ}} &&  \\
-     & \K{k g}\R{r}^{\text{Plosiv}} & \K{n}\R{ddrr}_{\text{Nasal}} &&  \\
-     \K{\textipa{S}}\R[--]{r} & \K{p t}\R{dr}^{\text{Plosiv}} &&&  \\
-     & \K{b d k g}\Rxxx{6}{10.25}{8.25}{ur} & \K{\textipa{K}}\Rxxx{3.7}{3}{-2.25}{ddr} && \K{~~~Vokal} \\
-     & \K{f v}\R{ur}_{\text{Frikativ}} &&&  \\
+     & \K{k, g}\Rxx{5}{3.7}{r}^{\text{Plosiv}} & \K{n}\R{ddrr}_{\text{Nasal}} &&  \\
+     \K{\textipa{S}}\R[--]{r} & \K{p, t}\R{dr}^{\text{Plosiv}} &&&  \\
+     & \K{b, d, k, g}\Rxxx{7}{10.25}{8.25}{ur} & \K{\textipa{K}}\Rxxx{3.7}{3}{-2.25}{ddr} && \K{~~~Vokal} \\
+     & \K{f, v}\R{ur}_{\text{Frikativ}} &&&  \\
      \K{\textipa{S}}\R[--]{r} & \K{p}\R{dr}^{\text{Plosiv}} &&&  \\
-     & \K{b k g}\Rxxx{6}{10.25}{8.25}{ur} & \K{l}\R{uuurr}_{\text{Liquid}} &&  \\
+     & \K{b, k, g}\Rxxx{7}{10.25}{8.25}{ur} & \K{l}\R{uuurr}_{\text{Liquid}} &&  \\
      & \K{f}\R{ur}_{\text{Frikativ}} &&&  \\
   }
   \caption{Struktur des duplexen Anfangsrands}
@@ -1077,13 +1091,13 @@ Es ergibt sich Abbildung~\ref{fig:endranduplex}, die den duplexen Endrand ohne e
 \begin{figure}
   \Tree[3]{
   \K{\textbf{Kern}} && \K{\textbf{Endrand}}\Below{\textbf{erste Pos.}} & \K{\textbf{Endrand}}\Below{\textbf{zweite Pos.}} \\
-               &&             & \K{k g} \\
-               && \K{n}\Rxx{3.7}{5}{r}_{\text{Frikativ}}\Rxx{3.7}{5}{ur}^{\text{Plosiv}} & \K{\textipa{f S}} \\
+               &&             & \K{k (g)} \\
+               && \K{n}\Rxx{3.7}{5}{r}_{\text{Frikativ}}\Rxx{3.7}{5}{ur}^{\text{Plosiv}} & \K{f, \textipa{S}} \\
                & \K{}\Rxxxx{5}{1.75}{3.7}{1.2}{r} & \K{m}\R{r}^{\text{Plosiv}}\R{dr}_{\text{Frikativ}} & \K{p} \\
   \K{Vokal~~~}\R{uurr}^{\text{Nasal}}\R{ddrr}_{\text{Liquid}} &&& \K{\textipa{S}} \\
-               &&             & \K{p k} \\
-               && \K{\textipa{K l}}\Rxx{3.7}{5.5}{r}^{\text{~~~~~~~Frikativ}}\Rxx{3.7}{4.5}{ur}^{\text{Plosiv}}\R{dr}_{\text{Nasal}} & \K{\textipa{f S \c{c}}} \\
-               &&             & \K{m n} \\
+               &&             & \K{p, k} \\
+               && \K{\textipa{K}, l}\Rxx{3.7}{5.5}{r}^{\text{~~~~~~~Frikativ}}\Rxx{3.7}{4.5}{ur}^{\text{Plosiv}}\R{dr}_{\text{Nasal}} & \K{f, \textipa{S}, \textipa{\c{c}}} \\
+               &&             & \K{m, n} \\
   }
   \caption{Struktur des duplexen Endrands}
   \label{fig:endranduplex}
@@ -1108,7 +1122,7 @@ In Fällen wie \textit{trittst} muss nun /t/ außerdem ohnehin extrasilbisch sei
 Zudem sind sowohl /t/ als auch /s/ alveolare Obstruenten, und bilden damit eine (wenn auch kleine) Klasse.
 Wir nehmen daher an, dass Segmente aus genau diese Klasse der alveolaren Obstruenten extrasilbisch an den Endrand treten können -- und zwar eben auch in (\ref{ex:phol7528b}).
 Das /s/ in (\ref{ex:phol7528d}) kann ebenfalls extrasilbisch interpretiert werden, so dass wie im Anfangsrand keine Frikativ-Plateaus angenommen werden müssen.
-Wie noch demonstriert werden wird, eliminieren wie durch die Annahme von extrasilbischem /t/ und /s/ Endränder mit mehr als zwei Segmenten vollständig aus dem System.
+Wie noch demonstriert werden wird, eliminieren wir durch die Annahme von extrasilbischem /t/ und /s/ Endränder mit mehr als zwei Segmenten vollständig aus dem System.
 Das System wird so simpel, wie es in Abbildung~\ref{fig:endranduplex} aussieht.
 Die Beziehung von zugrundeliegender Form und phonetischer Oberfläche wird in (\ref{ex:phol0800009003}) gezeigt, wo extrasilbische Segmente mit + abgetrennt wurden.
 
@@ -1178,7 +1192,7 @@ Diese ist im Anfangsrand weder in dieser Reihenfolge noch spiegelbildlich.}
 \begin{exe}
   \ex \label{ex:phol0800009005}
   \begin{xlist}
-  	\ex{\label{ex:phol0800009005a} /\textipa{kOKb}/ $\Rightarrow$ \textipa{[k\t{O@}b]} (\textit{Korb})}
+  	\ex{\label{ex:phol0800009005a} /\textipa{kOKb}/ $\Rightarrow$ \textipa{[k\t{O@}p]} (\textit{Korb})}
   	\ex{\label{ex:phol0800009005b} /\textipa{vIKbst}/ $\Rightarrow$ \textipa{[v\t{I@}b+st]} (\textit{wirbst})}
   	\ex{\label{ex:phol0800009005c} /\textipa{fUK\c{c}t}/ $\Rightarrow$ \textipa{[f\t{U@}\c{c}+t]} (\textit{Furcht})}
   	\ex{\label{ex:phol0800009005d} /\textipa{f\u{E}lSst}/ $\Rightarrow$ \textipa{[fElS+st]} (\textit{fälschst})}
@@ -1187,7 +1201,7 @@ Diese ist im Anfangsrand weder in dieser Reihenfolge noch spiegelbildlich.}
 
 \Satz{Endrand}{\label{satz:endrandbesetzung}
 Der Endrand ist maximal duplex.
-Die präferierte Besetzung des duplexen Endrands ist die aus einem inneren Liquid und einem äußeren Obstruent.
+Die präferierte Besetzung des duplexen Endrands ist die aus einem inneren Liquid und einem äußeren Obstruenten.
 Bereits weniger präferiert wird er mit einem Nasal und einem homorganen Plosiv besetzt. 
 Extrasilbisch treten die alveolaren Obstruenten /s/ und /t/ hinter den Endrand.}
 
@@ -1224,7 +1238,7 @@ Eine solche Regularität wird in (\ref{ex:phol0815}) illustriert und im Rest die
   	\ex{\label{ex:phol0815f} *\textipa{[vi:Nk]}}
   	\ex{\label{ex:phol0815g} Mie.te \textipa{[mi:.t@]}}
   	\ex{\label{ex:phol0815h} Mi.tte \textipa{[mI.t@]}}
-  	\ex{\label{ex:phol0815i} liebte \textipa{[li:b.t@]}}
+  	\ex{\label{ex:phol0815i} liebte \textipa{[li:p.t@]}}
   	\ex{\label{ex:phol0815j} wirkte \textipa{[v\t{I@}k.t@]}}
   	\ex{\label{ex:phol0815k} *\textipa{[v\t{i5}k.t@]}}
   \end{xlist}
@@ -1298,7 +1312,7 @@ Oben haben wir festgestellt, dass einmorige Silben nicht als Einsilbler vorkomme
 Wörter wie \textipa{[mI.t@]} existieren, aber der Einsilbler \textipa{[mI]} ist ausgeschlossen.
 Dank der Annahme von Silbengelenken müssen nun nicht mehr für Einsilbler und Mehrsilbler unterschiedliche Silbentypen angesetzt werden.
 In Fällen wie \textit{Mitte} steht das \textipa{[t]} sowohl im Anfangsrand der zweiten Silbe und im Endrand der ersten Silbe.
-Es gibt dafür keine einheitliche Notation, wir schreiben \textipa{[mI\Sub{t}.t@]}.
+Für das Silbengelenk schreiben wir den betreffenden Konsonanten mit Punkt darunter, \zB \textipa{[mI\Sgel{t}@]}.
 Abbildung~\ref{fig:silbgel001} zeigt die Analyse des Wortes \textit{Mitte} mit Silbengelenk.
 Es kann nicht überbetont werden, dass am Silbengelenk phonetisch nicht zwei Konsonanten vorliegen (also eben nicht *\textipa{[mIt.t@]}, wie die überzogene Aussprache der Klatschmethode eventuell suggeriert, s.\ Abschnitt~\ref{sec:silben}), sondern \textit{ein einziger} Konsonant, der in zwei Positionen einer Struktur steht.
 
@@ -1381,7 +1395,7 @@ In (\ref{ex:phol200469}) sind Beispiele für korrekte und inkorrekte Silbifizier
 \begin{exe}
   \ex \label{ex:phol200469}
   \begin{xlist}
-    \ex{\label{ex:phol200469a} \textit{freches} \textipa{[fKE.\c{c}@s]}, *\textipa{[fKE\c{c}.@s]}}
+    \ex{\label{ex:phol200469a} \textit{freches} \textipa{[fKE\Sgel{\c{c}}@s]}, *\textipa{[fKE\c{c}.@s]}}
     \ex{\label{ex:phol200469b} \textit{komplett} \textipa{[kOm.plEt]}, *\textipa{[kOmp.lEt]}}
     \ex{\label{ex:phol200469c} \textit{Betreff} \textipa{[b@.tKEf]}, *\textipa{[b@t.KEf]}}
   \end{xlist}
