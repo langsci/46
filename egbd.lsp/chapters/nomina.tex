@@ -246,7 +246,7 @@ Unter den Kasus doch eine gewisse Hierarchie bezüglich der semantischen Motivat
 Allerdings gibt es keine einfache Eins-zu-Eins-Abbildung.%
 \footnote{Einen vertieften Eindruck davon liefert Abschnitt~\ref{sec:semantischerollen}.}
 \index{Dativ!Funktion u.\ Bedeutung}
-Eine semantische Funktion haben \zB bestimmte Dative, die oft als \textit{freie Dative} (also nicht regierte Dative bzw.\ Dativ-Angaben) bezeichnet werden.%
+Eine semantische Funktion haben \zB bestimmte Dative, die oft als \textit{freie Dative} (also evtl.\ nicht regierte Dative bzw.\ Dativ-Angaben) bezeichnet werden.%
 \footnote{Zur Frage der freien Dative s.\ Abschnitt~\ref{sec:dativobjekte}.}
 
 \begin{exe}
@@ -284,28 +284,43 @@ Im Grunde passt der Genitiv also gar nicht richtig ins System der typischerweise
   \ex{\label{ex:flex6565}Wir gedenken des Sieges gegen Turbine Potsdam.}
 \end{exe}
 
+\begin{figure}
+  \centering
+  \begin{tabular}{cp{0mm}c}
+    \rnode{KasHierStr}{strukturell} && \textbf{Nominativ} \\
+     && \textbf{Akkusativ} \\
+     && \textbf{Dativ} \\
+    \rnode{KasHierObl}{oblik} && \textbf{Genitiv} \\
+  \end{tabular}
+  \ncline[nodesep=3pt]{->}{KasHierObl}{KasHierStr}
+  \caption{Kasushierarchie}
+  \label{fig:kashier}
+\end{figure}
+
 \index{Kasus!strukturell}
 \index{Kasus!oblik}
-
-Auf Basis dieser Überlegungen kommt man zu einer Hierarchie der Kasus bezüglich ihrer \textit{Strukturalität}.
+Auf Basis dieser Überlegungen kommt man zu einer Hierarchie der Kasus bezüglich ihrer \textit{Strukturalität} bzw.\ \textit{Oblikheit}.
 Je prototypischer verbgebunden ein Kasus ist und je weniger semantisch oder funktional spezifisch er ist, desto weiter oben steht er in der Hierarchie bzw.\ desto \textit{struktureller} ist er.
 Das Gegenteil von strukturell nennen wir \textit{oblik}.
-Die Hierarchie ist in Tabelle~\ref{tab:kashier} zusammengefasst.
-Die Darstellung der Kasus erfolgt hier immer in der Reihenfolge der Oblikheitshierarchie und nie in der schulgrammatischen Abfolge (Nominativ, Genitiv, Dativ, Akkusativ).
+Die Hierarchie wird in Abbildung~\ref{fig:kashier} dargestellt, Tabelle~\ref{tab:eigenschaftenderkasus} fasst wichtige Eigenschaften der Kasus zusammen.
+In Tabelle~\ref{tab:eigenschaftenderkasus} ist mit \textit{eigene Semantik} gemeint, ob die Kasus, wenn sie von Verben abhängen, trotzdem eine eigene Semantik haben.%
+\footnote{Neben den Beispielen weiter oben ist hierzu auch Abschnitt~\ref{sec:objekte} relevant.}
+Die Auflistung der Kasus erfolgt in diesem Buch immer in der Reihenfolge der Oblikheitshierarchie und nie in der schulgrammatischen Abfolge (Nominativ, Genitiv, Dativ, Akkusativ).
 Bei der Darstellung der Pronomina und Adjektive wird sich diese Abfolge auch als sehr nützlich erweisen, weil dann die meisten synkretistischen Formen untereinanderstehen.
 
 \begin{table}
-  \centering
-  \begin{tabular}{ccccccc}
-   \lsptoprule
-   \multicolumn{1}{l}{\textbf{strukturell}} & \multicolumn{5}{c}{$\longrightarrow$} & \multicolumn{1}{r}{\textbf{oblik}} \\
-   \multicolumn{3}{l}{(prototypisch verbregiert)} & \multicolumn{4}{r}{(stärker semantisch motiviert)} \\
-   \midrule
-   Nom & $>$ & Akk & $>$ & Dat & $>$ & Gen \\
-   \lspbottomrule
+  \begin{tabular}{lp{0.1cm}llll}
+    \lsptoprule
+     \textbf{Eigenschaft} && \textbf{Nominativ} & \textbf{Akkusativ} & \textbf{Dativ} & \textbf{Genitiv} \\
+    \hline
+    verbregiert && fast immer & oft & oft & selten \\
+    eigene Semantik && nein & fast nie & manchmal & manchmal \\
+    attributiv && nein & nein & nein & ja \\
+    präpositionsregiert && nie & oft & oft & oft \\
+    \lspbottomrule
   \end{tabular}
-  \caption{Kasushierarchie (Oblikheit)}
-  \label{tab:kashier}
+  \caption{Eigenschaften der Kasus}
+  \label{tab:eigenschaftenderkasus}
 \end{table}
 
 Das Merkmal \textsc{Kasus} kommt also exklusiv bei Nomina vor und ist nur bei den obliken Kasus und auch dort nur mit starken Einschränkungen semantisch motiviert.
