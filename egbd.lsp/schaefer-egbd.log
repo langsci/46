@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_8) (preloaded format=xelatex 2015.11.9)  3 FEB 2016 23:47
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_8) (preloaded format=xelatex 2015.11.9)  4 FEB 2016 11:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3089,31 +3089,31 @@ Overfull \hbox (4.34055pt too wide) in paragraph at lines 1724--1727
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1748--1749
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1749--1750
 [][][][][][]
  []
 
 [147]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1763--1764
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1765--1766
 [][][][][][]
  []
 
-[148] [149] [150] [151
+[148] [149] [150
 
-] [152] [153] [154
-
-
-]) [155] [156
+] [151] [152]) [153
 
 
+] [154
 
-] [157] [158]
+
+
+] [155] [156]
 \openout2 = `chapters/wortklassen.aux'.
 
 
 (./chapters/wortklassen.tex
 Kapitel 5.
-[159
+[157
 
 
 
@@ -3122,7 +3122,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 49--50
 [][][][][][]
  []
 
-[160]
+[158]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 82--83
 [][][][][][]
  []
@@ -3137,17 +3137,17 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 94--95
 [][][][][][]
  []
 
-[161] [162]
+[159] [160]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 166--167
 [][][][][][]
  []
 
-[163]
+[161]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 181--182
 [][][][][][]
  []
 
-[164] [165] [166] [167]
+[162] [163] [164] [165]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 329--330
 [][][][][][]
  []
@@ -3157,22 +3157,22 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 336--337
 [][][][][][]
  []
 
-[168] [169]
+[166] [167]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 423--424
 [][][][][][]
  []
 
-[170] [171]
+[168] [169]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 462--463
 [][][][][][]
  []
 
-[172] <xymatrix 5x3 288>
+[170] <xymatrix 5x3 288>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 498--499
 [][][][][][]
  []
 
-[173]
+[171]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 527--528
 [][][][][][]
  []
@@ -3182,7 +3182,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 529--530
 [][][][][][]
  []
 
-[174] <xymatrix 5x3 288>
+[172] <xymatrix 5x3 288>
 Overfull \hbox (6.47774pt too wide) in paragraph at lines 541--541
  [][] 
  []
@@ -3192,12 +3192,12 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 541--542
 [][][][][][]
  []
 
-[175] <xymatrix 5x3 288>
+[173] <xymatrix 5x3 288>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 590--591
 [][][][][][]
  []
 
-[176] <xymatrix 5x3 288>
+[174] <xymatrix 5x3 288>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 614--615
 [][][][][][]
  []
@@ -3215,7 +3215,7 @@ Libertine_R_B.otf(0)/m/n/10.95 ein \EU1/LinLibertine_R_B.otf(0)/m/sc/10.95 Temp
 us\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 -Merkmal
  []
 
-[177] <xymatrix 5x3 288>
+[175] <xymatrix 5x3 288>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 652--653
 [][][][][][]
  []
@@ -3225,12 +3225,12 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 674--675
 [][][][][][]
  []
 
-[178] <xymatrix 5x3 288>
+[176] <xymatrix 5x3 288>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 694--695
 [][][][][][]
  []
 
-[179] <xymatrix 5x3 288>
+[177] <xymatrix 5x3 288>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 730--731
 [][][][][][]
  []
@@ -3240,75 +3240,75 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 741--742
 [][][][][][]
  []
 
-[180] <xymatrix 5x3 288>
+[178] <xymatrix 5x3 288>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 766--767
 [][][][][][]
  []
 
-[181] <xymatrix 14x13 2672>
+[179] <xymatrix 14x13 2672>
 Overfull \hbox (3.43352pt too wide) in paragraph at lines 809--810
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 klassifizieren, z.B. Präpositionen als W
 örter, die immer eine nominale Grup-
  []
 
-[182] [183] [184] [185
+[180] [181] [182] [183
 
-]) [186]
+]) [184]
 \openout2 = `chapters/morphologie.aux'.
 
  (./chapters/morphologie.tex
 Kapitel 6.
-[187
+[185
 
 
 
 
-] [188] [189]
+] [186] [187]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 145--146
 [][][][][][]
  []
 
-[190]
+[188]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 168--169
 [][][][][][]
  []
 
-[191]
+[189]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 177--178
 [][][][][][]
  []
 
-[192] [193] [194]
+[190] [191] [192]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 301--302
 [][][][][][]
  []
 
-[195]
+[193]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 378--379
 [][][][][][]
  []
 
-[196]
+[194]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 404--405
 [][][][][][]
  []
 
-[197]
+[195]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 444--445
 [][][][][][]
  []
 
-[198] <xymatrix 4x4 534> <xymatrix 4x4 534> [199] [200]
+[196] <xymatrix 4x4 534> <xymatrix 4x4 534> [197] [198]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 542--543
 [][][][][][]
  []
 
-[201]
+[199]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 561--562
 [][][][][][]
  []
 
-[202]
+[200]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 603--604
 [][][][][][]
  []
@@ -3318,19 +3318,19 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 613--614
 [][][][][][]
  []
 
-[203] [204]
+[201] [202]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 639--640
 [][][][][][]
  []
 
-[205] [206]
+[203] [204]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 732--733
 [][][][][][]
  []
 
-[207] [208] <xymatrix 7x3 890> [209] [210] [211] [212] [213
+[205] [206] <xymatrix 7x3 890> [207] [208] [209] [210] [211
 
-]) [214]
+]) [212]
 \openout2 = `chapters/wortbildung.aux'.
 
 
@@ -3341,7 +3341,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 24--25
 [][][][][][]
  []
 
-[215
+[213
 
 
 
@@ -3356,7 +3356,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 57--58
 [][][][][][]
  []
 
-[216]
+[214]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 74--75
 [][][][][][]
  []
@@ -3368,40 +3368,40 @@ Overfull \hbox (0.83057pt too wide) in paragraph at lines 76--79
 ibertine_R_B.otf(0)/m/it/10.95 Rot.barsch
  []
 
-[217] [218] [219]
+[215] [216] [217]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 196--197
 [][][][][][]
  []
 
-[220] <xymatrix 4x4 534> <xymatrix 4x4 530> [221]
+[218] <xymatrix 4x4 534> <xymatrix 4x4 530> [219]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 275--276
 [][][][][][]
  []
 
-[222] [223] <xymatrix 4x4 534> [224]
+[220] [221] <xymatrix 4x4 534> [222]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 378--379
 [][][][][][]
  []
 
-[225] [226] [227] <xymatrix 1x3 160> <xymatrix 4x6 822> [228] [229]
+[223] [224] [225] <xymatrix 1x3 160> <xymatrix 4x6 822> [226] [227]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 549--550
 [][][][][][]
  []
 
-[230] [231] [232] [233] [234] [235]
+[228] [229] [230] [231] [232] [233]
 LaTeX Font Info:    Font shape `EU1/DejaVuSansMono.ttf(0)/m/n' will be
 (Font)              scaled to size 7.09305pt on input line 793.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `DejaVuSansMono.ttf' (encoding: EU1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [236] [237] [238
+ [234] [235] [236
 
-]) [239]
+]) [237]
 \openout2 = `chapters/nomina.aux'.
 
 
-(./chapters/nomina.tex [240
+(./chapters/nomina.tex [238
 
 
 
@@ -3413,28 +3413,28 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 30--31
 [][][][][][]
  []
 
-[241] [242] [243] [244] [245] [246] [247] [248]
+[239] [240] [241] [242] [243] [244] [245] [246]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 360--361
 [][][][][][]
  []
 
-[249]
+[247]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 388--389
 [][][][][][]
  []
 
-[250] [251] [252] <xymatrix 10x3 1064> [253] <xymatrix 5x4 580> [254] [255]
-[256]
+[248] [249] [250] <xymatrix 10x3 1064> [251] <xymatrix 5x4 580> [252] [253]
+[254]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 676--677
 [][][][][][]
  []
 
-[257]
+[255]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 734--735
 [][][][][][]
  []
 
-[258] [259] [260]
+[256] [257] [258]
 Overfull \hbox (0.566pt too wide) in paragraph at lines 816--817
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Afghane, Alemanne, Bulgare, Chilene, D
 äne, Finne, Franzose, Grieche, Hes-
@@ -3446,12 +3446,12 @@ Overfull \hbox (2.84909pt too wide) in paragraph at lines 816--817
 omade, Pole, Rumäne, Schwede, Tsche-
  []
 
-[261] [262] <xymatrix 5x3 516> [263]
+[259] [260] <xymatrix 5x3 516> [261]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 936--937
 [][][][][][]
  []
 
-[264]
+[262]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 989--990
 [][][][][][]
  []
@@ -3461,12 +3461,12 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 995--996
 [][][][][][]
  []
 
-[265] <xymatrix 5x3 288>
+[263] <xymatrix 5x3 288>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 997--998
 [][][][][][]
  []
 
-[266] [267]
+[264] [265]
 Underfull \hbox (badness 1681) in paragraph at lines 1090--1090
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Reine Pronomina sind Pronomina, für di
 e ein gleichlautender
@@ -3477,7 +3477,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 1090--1091
 [][][][][][]
  []
 
-[268] <xymatrix 5x4 524> [269] [270] [271] [272] [273] [274] [275] [276]
+[266] <xymatrix 5x4 524> [267] [268] [269] [270] [271] [272] [273] [274]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1454--1455
 [][][][][][]
  []
@@ -3493,35 +3493,35 @@ Overfull \hbox (3.39735pt too wide) in paragraph at lines 1484--1486
 der eigentlichen adjektivalen (schwa-
  []
 
-[277] [278] <xymatrix 3x3 334> [279] [280] [281] [282] [283]
+[275] [276] <xymatrix 3x3 334> [277] [278] [279] [280] [281]
 Underfull \hbox (badness 2126) in paragraph at lines 1720--1720
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Die Beispiele sind dem DeReKo (W-Öffentl
 ich/W) entnommen. Siglen: A10/JAN.00664,
  []
 
-[284
+[282
 
-]) [285]
+]) [283]
 \openout2 = `chapters/verben.aux'.
 
- (./chapters/verben.tex [286
+ (./chapters/verben.tex [284
 
 
 
 
 ]
 Kapitel 9.
-[287] [288]
+[285] [286]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 108--109
 [][][][][][]
  []
 
-[289] [290] [291] [292]
+[287] [288] [289] [290]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 278--279
 [][][][][][]
  []
 
-[293] [294] [295] [296]
+[291] [292] [293] [294]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 428--429
 [][][][][][]
  []
@@ -3531,14 +3531,14 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 434--435
 [][][][][][]
  []
 
-[297] [298] [299] [300] [301] [302]
+[295] [296] [297] [298] [299] [300]
 Overfull \hbox (5.55771pt too wide) in paragraph at lines 642--651
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Merkmale zusammenfasst. Einige Verben fa
 llen dabei in mehrere Klassen (z.B. \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 sei
 n
  []
 
-[303]
+[301]
 Overfull \hbox (4.76709pt too wide) in paragraph at lines 697--703
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 stufe in der zweiten und dritten Person 
 Singular Präsens Indikativ (\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 breche\EU1/
@@ -3551,65 +3551,65 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 713--714
 [][][][][][]
  []
 
-[304] [305] [306] [307] [308] [309] [310]
+[302] [303] [304] [305] [306] [307] [308]
 Overfull \hbox (1.2229pt too wide) in paragraph at lines 1046--1049
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Der Infinitiv ist durch \EU1/LinLibert
 ine_R_B.otf(0)/m/it/10.95 -en \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 am Präsens
 stamm gekennzeichnet, das Partizip durch
  []
 
-[311] [312] [313] [314] [315] [316] [317] [318]
+[309] [310] [311] [312] [313] [314] [315] [316]
 Underfull \hbox (badness 3942) in paragraph at lines 1338--1338
 \EU1/LinLibertine_R_B.otf(1)/m/n/9 JUL.00395, RHZ09/MAR.15300, BVZ09/MAI.01348,
  RHZ09/JUN.22699, BRZ09/MAR.11529,
  []
 
-[319
+[317
 
-] [320] [321] [322
-
-
-] [323]) [324] [325
+] [318] [319] [320
 
 
+] [321]) [322] [323
 
-] [326]
+
+
+] [324]
 \openout2 = `chapters/konstituentenstruktur.aux'.
 
 
 (./chapters/konstituentenstruktur.tex
 Kapitel 10.
-<xymatrix 5x4 674> [327
+<xymatrix 5x4 674> [325
 
 
 
-] <xymatrix 5x5 760> <xymatrix 9x3 619> [328]
+] <xymatrix 5x5 760> <xymatrix 9x3 619> [326]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 86--87
 [][][][][][]
  []
 
-[329] <xymatrix 7x2 522> [330] <xymatrix 7x2 522>
+[327] <xymatrix 7x2 522> [328] <xymatrix 7x2 522>
 Underfull \hbox (badness 2269) in paragraph at lines 149--149
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Archiv W-TAGGED öffentlich am 11.01.2011
 . Das Archiv enthält zu diesem Zeitpunkt
  []
 
-[331] [332] <xymatrix 3x2 234> <xymatrix 7x3 474> [333] [334]
+[329] [330] <xymatrix 3x2 234> <xymatrix 7x3 474> [331] [332]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 278--279
 [][][][][][]
  []
 
-[335]
+[333]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 373--374
 [][][][][][]
  []
 
-[336] [337]
+[334] [335]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 426--427
 [][][][][][]
  []
 
-[338] [339] <xymatrix 5x2 312> <xymatrix 5x3 390> [340]
+[336] [337] <xymatrix 5x2 312> <xymatrix 5x3 390> [338]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 547--548
 [][][][][][]
  []
@@ -3619,28 +3619,28 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 559--560
 [][][][][][]
  []
 
-[341]
+[339]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 600--601
 [][][][][][]
  []
 
-[342] <xymatrix 3x2 168> <xymatrix 4x3 382> <xymatrix 3x2 168> <xymatrix 7x3
-532> [343] [344] <xymatrix 4x3 592> [345]
+[340] <xymatrix 3x2 168> <xymatrix 4x3 382> <xymatrix 3x2 168> <xymatrix 7x3
+532> [341] [342] <xymatrix 4x3 592> [343]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 775--776
 [][][][][][]
  []
 
-[346]
+[344]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 789--790
 [][][][][][]
  []
 
-[347] <xymatrix 3x2 208> [348]
+[345] <xymatrix 3x2 208> [346]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 853--854
 [][][][][][]
  []
 
-[349] [350]
+[347] [348]
 Underfull \hbox (badness 6876) in paragraph at lines 886--886
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: A09/DEZ.023
 19, BRZ09/SEP.15424, HMP08/FEB.00096,
@@ -3658,14 +3658,14 @@ Underfull \hbox (badness 4713) in paragraph at lines 903--903
 679, K97/MAI.35888, K97/MAI.35888,
  []
 
-[351
+[349
 
-]) [352]
+]) [350]
 \openout2 = `chapters/phrasen.aux'.
 
  (./chapters/phrasen.tex
 Kapitel 11.
-<xymatrix 7x4 859> [353
+<xymatrix 7x4 859> [351
 
 
 
@@ -3675,12 +3675,12 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 64--65
 [][][][][][]
  []
 
-[354] <xymatrix 3x3 448> <xymatrix 7x3 478> <xymatrix 3x3 444> [355]
+[352] <xymatrix 3x3 448> <xymatrix 7x3 478> <xymatrix 3x3 444> [353]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 141--142
 [][][][][][]
  []
 
-[356]
+[354]
 Overfull \hbox (10.13095pt too wide) in paragraph at lines 156--156
  [][] 
  []
@@ -3690,31 +3690,31 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 156--157
 [][][][][][]
  []
 
-[357] <xymatrix 1x3 160> <xymatrix 4x3 309> <xymatrix 2x3 172> [358] <xymatrix
-4x3 313> <xymatrix 4x3 313> [359] <xymatrix 6x3 454> [360] <xymatrix 9x3 643>
-[361] [362] [363] <xymatrix 7x3 474> <xymatrix 6x3 478> <xymatrix 9x4 732>
-[364] <xymatrix 10x3 787> <xymatrix 3x3 316> [365] [366]
+[355] <xymatrix 1x3 160> <xymatrix 4x3 309> <xymatrix 2x3 172> [356] <xymatrix
+4x3 313> <xymatrix 4x3 313> [357] <xymatrix 6x3 454> [358] <xymatrix 9x3 643>
+[359] [360] [361] <xymatrix 7x3 474> <xymatrix 6x3 478> <xymatrix 9x4 732>
+[362] <xymatrix 10x3 787> <xymatrix 3x3 316> [363] [364]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 642--643
 [][][][][][]
  []
 
-<xymatrix 6x3 481> [367] <xymatrix 4x3 337> <xymatrix 8x3 658>
+<xymatrix 6x3 481> [365] <xymatrix 4x3 337> <xymatrix 8x3 658>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 729--730
 [][][][][][]
  []
 
-[368] <xymatrix 7x3 486> <xymatrix 5x3 453> <xymatrix 4x3 325> [369] <xymatrix
-3x4 518> [370] <xymatrix 2x4 374>
+[366] <xymatrix 7x3 486> <xymatrix 5x3 453> <xymatrix 4x3 325> [367] <xymatrix
+3x4 518> [368] <xymatrix 2x4 374>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 841--842
 [][][][][][]
  []
 
-<xymatrix 4x3 328> [371]
+<xymatrix 4x3 328> [369]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 878--879
 [][][][][][]
  []
 
-<xymatrix 4x3 321> [372] [373]
+<xymatrix 4x3 321> [370] [371]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 946--947
 [][][][][][]
  []
@@ -3724,14 +3724,14 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 956--957
 [][][][][][]
  []
 
-[374] <xymatrix 5x3 329> <xymatrix 7x3 482> <xymatrix 9x3 635> <xymatrix 15x4
-1098> [375]
+[372] <xymatrix 5x3 329> <xymatrix 7x3 482> <xymatrix 9x3 635> <xymatrix 15x4
+1098> [373]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1060--1061
 [][][][][][]
  []
 
-[376] <xymatrix 1x2 90> <xymatrix 4x3 403> <xymatrix 4x3 403> <xymatrix 7x4
-708> [377] [378] <xymatrix 11x7 1210> [379]
+[374] <xymatrix 1x2 90> <xymatrix 4x3 403> <xymatrix 4x3 403> <xymatrix 7x4
+708> [375] [376] <xymatrix 11x7 1210> [377]
 Underfull \hbox (badness 1286) in paragraph at lines 1210--1210
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Bei der Analyse von Konstituentenstruk
 turen sind folgende Schritte
@@ -3742,9 +3742,9 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 1210--1211
 [][][][][][]
  []
 
-[380] <xymatrix 8x2 706> [381] <xymatrix 8x3 928> <xymatrix 8x4 1118> [382]
-<xymatrix 8x4 1244> <xymatrix 8x5 1446> [383] <xymatrix 8x6 1620> [384]
-[385]
+[378] <xymatrix 8x2 706> [379] <xymatrix 8x3 928> <xymatrix 8x4 1118> [380]
+<xymatrix 8x4 1244> <xymatrix 8x5 1446> [381] <xymatrix 8x6 1620> [382]
+[383]
 Underfull \hbox (badness 1708) in paragraph at lines 1355--1355
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: NON09/OKT.1
 0157, A00/SEP.61566, A00/OKT.71958, A00/
@@ -3762,12 +3762,12 @@ Underfull \hbox (badness 3460) in paragraph at lines 1387--1387
 23, A09/AUG.03243, A99/DEZ.84493, A09/
  []
 
-[386
+[384
 
-]) [387]
+]) [385]
 \openout2 = `chapters/saetze.aux'.
 
- (./chapters/saetze.tex [388
+ (./chapters/saetze.tex [386
 
 
 
@@ -3779,34 +3779,34 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 27--28
 [][][][][][]
  []
 
-[389]
+[387]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 52--53
 [][][][][][]
  []
 
-[390] [391] <xymatrix 15x4 1098> [392] <xymatrix 11x4 1039> [393]
+[388] [389] <xymatrix 15x4 1098> [390] <xymatrix 11x4 1039> [391]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 203--204
 [][][][][][]
  []
 
-[394] [395] [396] [397] [398] [399] [400] <xymatrix 12x6 1097> <xymatrix 11x5
-1225> [401] [402]
+[392] [393] [394] [395] [396] [397] [398] <xymatrix 12x6 1097> <xymatrix 11x5
+1225> [399] [400]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 638--639
 [][][][][][]
  []
 
-<xymatrix 12x5 1138> [403] <xymatrix 11x5 1225>
+<xymatrix 12x5 1138> [401] <xymatrix 11x5 1225>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 701--702
 [][][][][][]
  []
 
-[404] <xymatrix 10x5 1080> [405] <xymatrix 11x5 1221> [406] <xymatrix 9x6 966>
-[407] [408]
+[402] <xymatrix 10x5 1080> [403] <xymatrix 11x5 1221> [404] <xymatrix 9x6 966>
+[405] [406]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 882--883
 [][][][][][]
  []
 
-<xymatrix 13x6 1489> [409] [410] <xymatrix 12x5
+<xymatrix 13x6 1489> [407] [408] <xymatrix 12x5
 
 Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              You should note, that in 1994 font command `\sc' has
@@ -3858,7 +3858,7 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 
 LaTeX Font Warning: Command \sc invalid in math mode on input line 968.
 
-1410> [411] <xymatrix 12x5
+1410> [409] <xymatrix 12x5
 
 Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              You should note, that in 1994 font command `\sc' has
@@ -3893,12 +3893,12 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 
 LaTeX Font Warning: Command \sc invalid in math mode on input line 1012.
 
-1363> [412]
+1363> [410]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1091--1092
 [][][][][][]
  []
 
-[413] [414] [415]
+[411] [412] [413]
 Underfull \hbox (badness 10000) in paragraph at lines 1240--1240
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Ein Adverbialsatz ist ein mit Kompleme
 ntierer eingeleiteter VL-
@@ -3909,34 +3909,34 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 1240--1241
 [][][][][][]
  []
 
-[416]
+[414]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1276--1277
 [][][][][][]
  []
 
-[417] [418] [419
+[415] [416] [417
 
-] [420]) [421]
+] [418]) [419]
 \openout2 = `chapters/relationen.aux'.
 
- (./chapters/relationen.tex [422
+ (./chapters/relationen.tex [420
 
 
 
 
 ]
 Kapitel 13.
-[423]
+[421]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 44--45
 [][][][][][]
  []
 
-[424]
+[422]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 81--82
 [][][][][][]
  []
 
-[425]
+[423]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 87--88
 [][][][][][]
  []
@@ -3947,22 +3947,22 @@ Overfull \hbox (16.84854pt too wide) in paragraph at lines 112--113
 , das sich zum Beispiel in Abschnitt []13.3.3[]
  []
 
-[426]
+[424]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 119--120
 [][][][][][]
  []
 
-[427] [428] [429] [430]
+[425] [426] [427] [428]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 317--318
 [][][][][][]
  []
 
-[431] [432]
+[429] [430]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 400--401
 [][][][][][]
  []
 
-[433] [434] [435] [436] [437] [438] <xymatrix 5x4 546> [439] [440]
+[431] [432] [433] [434] [435] [436] <xymatrix 5x4 546> [437] [438]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 749--750
 [][][][][][]
  []
@@ -3971,12 +3971,12 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 749--750
 Overfull \vbox (1.60664pt too high) has occurred while \output is active []
 
 
-[441] [442]
+[439] [440]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 842--843
 [][][][][][]
  []
 
-[443] [444] [445]
+[441] [442] [443]
 Overfull \hbox (2.4958pt too wide) in paragraph at lines 956--957
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Damit haben wir einige kritische Fälle
  von Akkusativen als Akkusativ-Angaben
@@ -3987,7 +3987,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 963--964
 [][][][][][]
  []
 
-[446] [447]
+[444] [445]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1050--1051
 [][][][][][]
  []
@@ -3997,12 +3997,12 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 1060--1061
 [][][][][][]
  []
 
-[448] [449] [450] [451]
+[446] [447] [448] [449]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1217--1218
 [][][][][][]
  []
 
-[452] <xymatrix 4x6
+[450] <xymatrix 4x6
 
 Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              You should note, that in 1994 font command `\sc' has
@@ -4054,70 +4054,70 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 
 LaTeX Font Warning: Command \sc invalid in math mode on input line 1245.
 
-922> [453] [454] <xymatrix 3x4 554>
+922> [451] [452] <xymatrix 3x4 554>
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1346--1347
 [][][][][][]
  []
 
-[455] <xymatrix 4x4 375> <xymatrix 3x4 371> <xymatrix 6x5 701> <xymatrix 6x5
-713> [456] [457]
+[453] <xymatrix 4x4 375> <xymatrix 3x4 371> <xymatrix 6x5 701> <xymatrix 6x5
+713> [454] [455]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1445--1446
 [][][][][][]
  []
 
-[458] [459] [460] [461]
+[456] [457] [458] [459]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1628--1629
 [][][][][][]
  []
 
-[462] [463] [464]
+[460] [461] [462]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1727--1728
 [][][][][][]
  []
 
-[465]
+[463]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 1777--1778
 [][][][][][]
  []
 
-[466]
+[464]
 Underfull \hbox (badness 1215) in paragraph at lines 1790--1791
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Es gibt zwei Arten von intransitiven V
 erben (bzw. Nominativ-Dativ-
  []
 
-[467]
+[465]
 Underfull \hbox (badness 2080) in paragraph at lines 1797--1798
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Halbmodalverben (\EU1/LinLibertine_R_B
 .otf(0)/m/it/10.95 scheinen\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ) konstruiere
 n obligatorisch kohärent und
  []
 
-[468] [469
+[466] [467
 
-] [470] [471] [472]) [473
-
-
-] [474
+] [468] [469] [470]) [471
 
 
+] [472
 
-] [475] [476]
+
+
+] [473] [474]
 \openout2 = `chapters/phonschrift.aux'.
 
 
 (./chapters/phonschrift.tex
 Kapitel 14.
-[477
+[475
 
 
 
-] [478] [479] [480] [481] [482] [483] [484] [485] [486]
+] [476] [477] [478] [479] [480] [481] [482] [483] [484]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 279--280
 [][][][][][]
  []
 
-[487] [488]
+[485] [486]
 Overfull \hbox (3.1529pt too wide) in paragraph at lines 348--355
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 von Vokalen. In Abschnitt []4.1.4[] wurd
 e festgestellt, dass zugrundeliegend das Merk-
@@ -4132,7 +4132,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 361--362
 Overfull \vbox (1.10057pt too high) has occurred while \output is active []
 
 
-[489]
+[487]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 368--369
 [][][][][][]
  []
@@ -4145,19 +4145,19 @@ Overfull \vbox (4.9668pt too high) detected at line 418
 Overfull \vbox (4.9668pt too high) detected at line 418
  []
 
-[490] [491]
+[488] [489]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 462--463
 [][][][][][]
  []
 
-[492] <xymatrix 5x5 1020> <xymatrix 6x5 1154> <xymatrix 6x5 1168> [493]
-[494] [495] [496] [497] [498] [499] [500] [501] [502
+[490] <xymatrix 5x5 1020> <xymatrix 6x5 1154> <xymatrix 6x5 1168> [491]
+[492] [493] [494] [495] [496] [497] [498] [499] [500
 
-]) [503]
+]) [501]
 \openout2 = `chapters/andereschrift.aux'.
 
 
-(./chapters/andereschrift.tex [504
+(./chapters/andereschrift.tex [502
 
 
 
@@ -4169,53 +4169,53 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 19--20
 [][][][][][]
  []
 
-[505] [506]
+[503] [504]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 92--93
 [][][][][][]
  []
 
-[507] [508] [509] [510] [511]
+[505] [506] [507] [508] [509]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 236--237
 [][][][][][]
  []
 
-[512] [513]
+[510] [511]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 288--289
 [][][][][][]
  []
 
-[514] [515]
+[512] [513]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 385--386
 [][][][][][]
  []
 
-[516] [517]
+[514] [515]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 450--451
 [][][][][][]
  []
 
-[518] [519] [520]
+[516] [517] [518]
 Overfull \hbox (4.05254pt too wide) in paragraph at lines 538--539
 [][][][][][]
  []
 
-[521] [522] [523] [524
+[519] [520] [521] [522
 
-] [525] [526
+] [523] [524
 
 
-]) [527]
+]) [525]
 \openout2 = `chapters/loesungen.aux'.
 
- (./chapters/loesungen.tex [528
+ (./chapters/loesungen.tex [526
 
 
 
 
 ]
-[529] [530] [531
+[527] [528] [529
 
-] [532] [533] [534] [535] [536
+] [530] [531] [532] [533] [534
 
 ]
 Underfull \hbox (badness 2277) in paragraph at lines 389--393
@@ -4223,56 +4223,40 @@ Underfull \hbox (badness 2277) in paragraph at lines 389--393
 n/10.95 kann als Antwort auf eine Ja/Nein-Frage verwendet werden:
  []
 
-[537] [538] [539]
+[535] [536] [537] [538
 
-LaTeX Warning: Reference `sec:nomina' on page 540 undefined on input line 490.
+] [539] [540
 
+] [541] [542] [543
 
-LaTeX Warning: Reference `sec:funktionale' on page 540 undefined on input line 
-496.
-
-[540
-
-] [541] [542
-
-] [543] [544]
-
-LaTeX Warning: Reference `sec:nomina' on page 545 undefined on input line 628.
-
-[545
-
-] [546] [547] [548
+] [544] [545] [546
 
 ]
+[547] [548] [549] [550] [551
 
-LaTeX Warning: Reference `sec:praedikate' on page 549 undefined on input line 7
-70.
-
-[549] [550] [551] [552] [553
-
-] [554] [555] [556] <xymatrix 5x3 453> <xymatrix
-4x3 321> <xymatrix 4x3 337> <xymatrix 7x3 474> <xymatrix 4x3 321> [557
+] [552] [553] [554] <xymatrix 5x3 453> <xymatrix
+4x3 321> <xymatrix 4x3 337> <xymatrix 7x3 474> <xymatrix 4x3 321> [555
 
 ]
 <xymatrix 4x3 325> <xymatrix 7x3 474> <xymatrix 5x3 453> <xymatrix 2x3 304>
-<xymatrix 7x3 474> [558] <xymatrix 2x3 304> <xymatrix 10x4 885> <xymatrix 10x4
+<xymatrix 7x3 474> [556] <xymatrix 2x3 304> <xymatrix 10x4 885> <xymatrix 10x4
 873>
 Underfull \hbox (badness 10000) in paragraph at lines 1132--1133
 
  []
 
-[559] <xymatrix 8x4 729> <xymatrix 12x4 1026> <xymatrix 6x4 552> [560]
-<xymatrix 10x4 873> <xymatrix 3x5 628> <xymatrix 3x5 628> [561] <xymatrix 3x5
-628> <xymatrix 3x5 628> [562] [563
+[557] <xymatrix 8x4 729> <xymatrix 12x4 1026> <xymatrix 6x4 552> [558]
+<xymatrix 10x4 873> <xymatrix 3x5 628> <xymatrix 3x5 628> [559] <xymatrix 3x5
+628> <xymatrix 3x5 628> [560] [561
 
-] [564] [565] <xymatrix 12x5 1038> [566]
-<xymatrix 10x5 1046> <xymatrix 12x5 1038> <xymatrix 5x4 487> [567] <xymatrix
+] [562] [563] <xymatrix 12x5 1038> [564]
+<xymatrix 10x5 1046> <xymatrix 12x5 1038> <xymatrix 5x4 487> [565] <xymatrix
 14x5 1211> <xymatrix 12x5 1049>
 Underfull \hbox (badness 10000) in paragraph at lines 1422--1431
 
  []
 
-[568] <xymatrix 8x5 623>
+[566] <xymatrix 8x5 623>
 Underfull \hbox (badness 10000) in paragraph at lines 1445--1446
 
  []
@@ -4282,10 +4266,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1451--1460
 
  []
 
-<xymatrix 10x5 1004> [569] <xymatrix 9x5 869> <xymatrix 11x5 1231> [570]
-<xymatrix 6x4 617> [571] [572
+<xymatrix 10x5 1004> [567] <xymatrix 9x5 869> <xymatrix 11x5 1231> [568]
+<xymatrix 6x4 617> [569] [570
 
-] [573] [574]
+] [571] [572]
 Overfull \vbox (0.31305pt too high) detected at line 1656
  []
 
@@ -4301,11 +4285,11 @@ Overfull \vbox (0.31305pt too high) detected at line 1669
 Overfull \vbox (4.9668pt too high) detected at line 1673
  []
 
-[575
+[573
 
-] [576] [577] [578
+] [574] [575] [576
 
-] [579]) [580] [581
+] [577]) [578] [579
 
 
 
@@ -4318,24 +4302,24 @@ Underfull \hbox (badness 2409) in paragraph at lines 101--101
 e Geheimnisse der deutschen würde-
  []
 
-[582] [583]
+[580] [581]
 Underfull \hbox (badness 1303) in paragraph at lines 101--101
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Leirbukt, Oddleif. 2013. \EU1/LinLib
 ertine_R_B.otf(0)/m/it/10.95 Untersuchungen zum bekommen-Passiv im heutigen
  []
 
-[584]
+[582]
 Underfull \hbox (badness 1466) in paragraph at lines 101--101
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Nübling, Damaris & Renata Szczepania
 k. 2009. Religion+s+freiheit, Stabili-
  []
 
-[585] [586] [587] (./indices.tex) (./schaefer-egbd.and [588
+[583] [584] [585] (./indices.tex) (./schaefer-egbd.and [586
 
-] [589
+] [587
 
-] [590]
-[591] [592] [593] [594] [595] [596] [597])
+] [588]
+[589] [590] [591] [592] [593] [594] [595])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
  (./schaefer-egbd.aux
@@ -4357,20 +4341,17 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
 Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 \openout1 = `schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49395 strings out of 494865
- 863104 string characters out of 6167200
+ 49392 strings out of 494865
+ 863059 string characters out of 6167200
  1407017 words of memory out of 5000000
- 51779 multiletter control sequences out of 15000+600000
+ 51776 multiletter control sequences out of 15000+600000
  20227 words of font info for 149 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
  65i,18n,104p,10460b,2294s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on schaefer-egbd.pdf (613 pages).
+Output written on schaefer-egbd.pdf (611 pages).
