@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_8) (preloaded format=xelatex 2015.11.9)  4 FEB 2016 11:49
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_8) (preloaded format=xelatex 2015.11.9)  4 FEB 2016 20:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3775,34 +3775,39 @@ Underfull \hbox (badness 3460) in paragraph at lines 1387--1387
 ]
 Kapitel 12.
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 27--28
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 29--30
 [][][][][][]
  []
 
 [387]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 52--53
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 54--55
 [][][][][][]
  []
 
 [388] [389] <xymatrix 15x4 1098> [390] <xymatrix 11x4 1039> [391]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 203--204
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 205--206
 [][][][][][]
  []
 
-[392] [393] [394] [395] [396] [397] [398] <xymatrix 12x6 1097> <xymatrix 11x5
-1225> [399] [400]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 638--639
+[392] [393] [394] [395] [396] [397] [398]
+Overfull \hbox (1.608pt too wide) in paragraph at lines 582--589
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 rechte Satzklammer entspricht dem Verbal
+komplex. Weil der Rest-Verbalkomplex
+ []
+
+<xymatrix 12x6 1097> <xymatrix 11x5 1225> [399] [400]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 640--641
 [][][][][][]
  []
 
 <xymatrix 12x5 1138> [401] <xymatrix 11x5 1225>
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 701--702
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 703--704
 [][][][][][]
  []
 
 [402] <xymatrix 10x5 1080> [403] <xymatrix 11x5 1221> [404] <xymatrix 9x6 966>
 [405] [406]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 882--883
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 884--885
 [][][][][][]
  []
 
@@ -3819,27 +3824,10 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              Note also, that KOMA-Script will remove the definition
 (scrbook)              of `\sc' anytime until release of about version 3.20.
 (scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 968.
+(scrbook)              by `\@nomath \sc ' on input line 970.
 
 
-LaTeX Font Warning: Command \sc invalid in math mode on input line 968.
-
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 968.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 968.
+LaTeX Font Warning: Command \sc invalid in math mode on input line 970.
 
 
 Class scrbook Warning: Usage of deprecated font command `\sc'!
@@ -3853,10 +3841,27 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              Note also, that KOMA-Script will remove the definition
 (scrbook)              of `\sc' anytime until release of about version 3.20.
 (scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 968.
+(scrbook)              by `\@nomath \sc ' on input line 970.
 
 
-LaTeX Font Warning: Command \sc invalid in math mode on input line 968.
+LaTeX Font Warning: Command \sc invalid in math mode on input line 970.
+
+
+Class scrbook Warning: Usage of deprecated font command `\sc'!
+(scrbook)              You should note, that in 1994 font command `\sc' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\sc' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
+(scrbook)              by `\@nomath \sc ' on input line 970.
+
+
+LaTeX Font Warning: Command \sc invalid in math mode on input line 970.
 
 1410> [409] <xymatrix 12x5
 
@@ -3871,10 +3876,10 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              Note also, that KOMA-Script will remove the definition
 (scrbook)              of `\sc' anytime until release of about version 3.20.
 (scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1012.
+(scrbook)              by `\@nomath \sc ' on input line 1014.
 
 
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1012.
+LaTeX Font Warning: Command \sc invalid in math mode on input line 1014.
 
 
 Class scrbook Warning: Usage of deprecated font command `\sc'!
@@ -3888,29 +3893,29 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              Note also, that KOMA-Script will remove the definition
 (scrbook)              of `\sc' anytime until release of about version 3.20.
 (scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1012.
+(scrbook)              by `\@nomath \sc ' on input line 1014.
 
 
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1012.
+LaTeX Font Warning: Command \sc invalid in math mode on input line 1014.
 
 1363> [410]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1091--1092
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1093--1094
 [][][][][][]
  []
 
 [411] [412] [413]
-Underfull \hbox (badness 10000) in paragraph at lines 1240--1240
+Underfull \hbox (badness 10000) in paragraph at lines 1242--1242
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Ein Adverbialsatz ist ein mit Kompleme
 ntierer eingeleiteter VL-
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1240--1241
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1242--1243
 [][][][][][]
  []
 
 [414]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1276--1277
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1278--1279
 [][][][][][]
  []
 
@@ -4190,32 +4195,43 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 385--386
  []
 
 [514] [515]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 450--451
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 451--452
 [][][][][][]
  []
 
 [516] [517] [518]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 538--539
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 553--554
 [][][][][][]
  []
 
-[519] [520] [521] [522
 
-] [523] [524
+Overfull \hbox (7.67838pt too wide) in paragraph at lines 555--559
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 medium markiert durch Satzendezeichen – 
+gelten sie nicht. Man erwartet z.B. nach
+ []
+
+[519] [520]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 624--625
+[][][][][][]
+ []
+
+[521] [522] [523] [524
+
+] [525] [526
 
 
-]) [525]
+]) [527]
 \openout2 = `chapters/loesungen.aux'.
 
- (./chapters/loesungen.tex [526
+ (./chapters/loesungen.tex [528
 
 
 
 
 ]
-[527] [528] [529
+[529] [530] [531
 
-] [530] [531] [532] [533] [534
+] [532] [533] [534] [535] [536
 
 ]
 Underfull \hbox (badness 2277) in paragraph at lines 389--393
@@ -4223,40 +4239,40 @@ Underfull \hbox (badness 2277) in paragraph at lines 389--393
 n/10.95 kann als Antwort auf eine Ja/Nein-Frage verwendet werden:
  []
 
-[535] [536] [537] [538
+[537] [538] [539] [540
 
-] [539] [540
+] [541] [542
 
-] [541] [542] [543
+] [543] [544] [545
 
-] [544] [545] [546
+] [546] [547] [548
 
 ]
-[547] [548] [549] [550] [551
+[549] [550] [551] [552] [553
 
-] [552] [553] [554] <xymatrix 5x3 453> <xymatrix
-4x3 321> <xymatrix 4x3 337> <xymatrix 7x3 474> <xymatrix 4x3 321> [555
+] [554] [555] [556] <xymatrix 5x3 453> <xymatrix
+4x3 321> <xymatrix 4x3 337> <xymatrix 7x3 474> <xymatrix 4x3 321> [557
 
 ]
 <xymatrix 4x3 325> <xymatrix 7x3 474> <xymatrix 5x3 453> <xymatrix 2x3 304>
-<xymatrix 7x3 474> [556] <xymatrix 2x3 304> <xymatrix 10x4 885> <xymatrix 10x4
+<xymatrix 7x3 474> [558] <xymatrix 2x3 304> <xymatrix 10x4 885> <xymatrix 10x4
 873>
 Underfull \hbox (badness 10000) in paragraph at lines 1132--1133
 
  []
 
-[557] <xymatrix 8x4 729> <xymatrix 12x4 1026> <xymatrix 6x4 552> [558]
-<xymatrix 10x4 873> <xymatrix 3x5 628> <xymatrix 3x5 628> [559] <xymatrix 3x5
-628> <xymatrix 3x5 628> [560] [561
+[559] <xymatrix 8x4 729> <xymatrix 12x4 1026> <xymatrix 6x4 552> [560]
+<xymatrix 10x4 873> <xymatrix 3x5 628> <xymatrix 3x5 628> [561] <xymatrix 3x5
+628> <xymatrix 3x5 628> [562] [563
 
-] [562] [563] <xymatrix 12x5 1038> [564]
-<xymatrix 10x5 1046> <xymatrix 12x5 1038> <xymatrix 5x4 487> [565] <xymatrix
+] [564] [565] <xymatrix 12x5 1038> [566]
+<xymatrix 10x5 1046> <xymatrix 12x5 1038> <xymatrix 5x4 487> [567] <xymatrix
 14x5 1211> <xymatrix 12x5 1049>
 Underfull \hbox (badness 10000) in paragraph at lines 1422--1431
 
  []
 
-[566] <xymatrix 8x5 623>
+[568] <xymatrix 8x5 623>
 Underfull \hbox (badness 10000) in paragraph at lines 1445--1446
 
  []
@@ -4266,10 +4282,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1451--1460
 
  []
 
-<xymatrix 10x5 1004> [567] <xymatrix 9x5 869> <xymatrix 11x5 1231> [568]
-<xymatrix 6x4 617> [569] [570
+<xymatrix 10x5 1004> [569] <xymatrix 9x5 869> <xymatrix 11x5 1231> [570]
+<xymatrix 6x4 617> [571] [572
 
-] [571] [572]
+] [573] [574]
 Overfull \vbox (0.31305pt too high) detected at line 1656
  []
 
@@ -4285,11 +4301,11 @@ Overfull \vbox (0.31305pt too high) detected at line 1669
 Overfull \vbox (4.9668pt too high) detected at line 1673
  []
 
-[573
+[575
 
-] [574] [575] [576
+] [576] [577] [578
 
-] [577]) [578] [579
+] [579]) [580] [581
 
 
 
@@ -4302,24 +4318,24 @@ Underfull \hbox (badness 2409) in paragraph at lines 101--101
 e Geheimnisse der deutschen würde-
  []
 
-[580] [581]
+[582] [583]
 Underfull \hbox (badness 1303) in paragraph at lines 101--101
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Leirbukt, Oddleif. 2013. \EU1/LinLib
 ertine_R_B.otf(0)/m/it/10.95 Untersuchungen zum bekommen-Passiv im heutigen
  []
 
-[582]
+[584]
 Underfull \hbox (badness 1466) in paragraph at lines 101--101
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Nübling, Damaris & Renata Szczepania
 k. 2009. Religion+s+freiheit, Stabili-
  []
 
-[583] [584] [585] (./indices.tex) (./schaefer-egbd.and [586
+[585] [586] [587] (./indices.tex) (./schaefer-egbd.and [588
 
-] [587
+] [589
 
-] [588]
-[589] [590] [591] [592] [593] [594] [595])
+] [590]
+[591] [592] [593] [594] [595] [596] [597])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
  (./schaefer-egbd.aux
@@ -4346,12 +4362,12 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49392 strings out of 494865
- 863059 string characters out of 6167200
- 1407017 words of memory out of 5000000
- 51776 multiletter control sequences out of 15000+600000
+ 49415 strings out of 494865
+ 863430 string characters out of 6167200
+ 1408431 words of memory out of 5000000
+ 51799 multiletter control sequences out of 15000+600000
  20227 words of font info for 149 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
- 65i,18n,104p,10460b,2294s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,18n,104p,10460b,2292s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on schaefer-egbd.pdf (611 pages).
+Output written on schaefer-egbd.pdf (613 pages).

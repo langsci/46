@@ -582,20 +582,20 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {15.2.1}Phrasen}{516}{subsection.15.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.2.2}Unabhängige Sätze}{517}{subsection.15.2.2}
+\contentsline {subsection}{\numberline {15.2.2}Unabhängige Sätze}{518}{subsection.15.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.2.3}Nebensätze und Verwandtes}{519}{subsection.15.2.3}
+\contentsline {subsection}{\numberline {15.2.3}Nebensätze und Verwandtes}{521}{subsection.15.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 15}{520}{Item.2362}
+\contentsline {section}{Zusammenfassung von Kapitel 15}{522}{Item.2377}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 15}{522}{Item.2373}
+\contentsline {section}{Übungen zu Kapitel 15}{524}{Item.2388}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Weiterführende Literatur zu V}{523}{Exer.15.3}
+\contentsline {chapter}{Weiterführende Literatur zu V}{525}{Exer.15.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Lösungen zu den Übungen}{526}{section*.56}
+\contentsline {chapter}{Lösungen zu den Übungen}{528}{section*.56}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{579}{section*.135}
+\contentsline {chapter}{Bibliographie}{581}{section*.135}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{579}{chapter*.136}
+\contentsline {chapter}{\nonumberline Literatur}{581}{chapter*.136}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{586}{section*.137}
+\contentsline {chapter}{Index}{588}{section*.137}
