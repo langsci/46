@@ -37,3 +37,5 @@ all:
 view:
 	open $(FILEN).pdf &
 
+edit:
+	mvim -c ':set spell spelllang=de' chapters/*.tex schaefer-egbd.tex

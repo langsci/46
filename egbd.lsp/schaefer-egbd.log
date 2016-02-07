@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_8) (preloaded format=xelatex 2015.11.9)  6 FEB 2016 11:47
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_8) (preloaded format=xelatex 2015.11.9)  7 FEB 2016 17:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2559,56 +2559,56 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 171--172
  []
 
 [16] [17] [18] [19] [20]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 360--361
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 359--360
 [][][][][][]
  []
 
 [21]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 374--375
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 373--374
 [][][][][][]
  []
 
 [22]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 401--402
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 400--401
 [][][][][][]
  []
 
 
-Overfull \hbox (5.10738pt too wide) in paragraph at lines 403--412
+Overfull \hbox (5.10738pt too wide) in paragraph at lines 402--411
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Wichtig ist nun die Abgrenzung zur \EU
 1/LinLibertine_R_B.otf(0)/m/it/10.95 präskriptiven Grammatik\EU1/LinLibertine_R
 _B.otf(0)/m/n/10.95 . Die Duden-Gram-
  []
 
 [23]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 418--419
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 417--418
 [][][][][][]
  []
 
 [24]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 455--456
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 454--455
 [][][][][][]
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 461--462
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 460--461
 [][][][][][]
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 464--465
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 463--464
 [][][][][][]
  []
 
 [25] [26] [27] [28]
 LaTeX Font Info:    Try loading font information for OT1+LinLibertine_R_B.otf(0
-) on input line 547.
-LaTeX Font Info:    No file OT1LinLibertine_R_B.otf(0).fd. on input line 547.
+) on input line 546.
+LaTeX Font Info:    No file OT1LinLibertine_R_B.otf(0).fd. on input line 546.
 
 
 LaTeX Font Warning: Font shape `OT1/LinLibertine_R_B.otf(0)/m/n' undefined
 (Font)              using `OT1/cmr/m/n' instead
-(Font)              for symbol `glqq' on input line 547.
+(Font)              for symbol `glqq' on input line 546.
 
 Package microtype Info: Loading generic settings for font family
 (microtype)             `LinLibertine_R_B.otf' (encoding: OT1).
@@ -2666,47 +2666,47 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 376--377
  []
 
 [44]
-Underfull \hbox (badness 10000) in paragraph at lines 402--404
+Underfull \hbox (badness 10000) in paragraph at lines 401--403
 
  []
 
 [45]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 416--417
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 415--416
 [][][][][][]
  []
 
 <xymatrix 8x3 818> <xymatrix 4x3 320>
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 452--453
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 451--452
 [][][][][][]
  []
 
 [46] [47]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 482--483
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 481--482
 [][][][][][]
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 515--516
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 514--515
 [][][][][][]
  []
 
 [48] [49]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 579--580
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 578--579
 [][][][][][]
  []
 
 [50] [51] [52]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 694--695
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 693--694
 [][][][][][]
  []
 
 [53] [54] [55]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 814--815
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 813--814
 [][][][][][]
  []
 
 [56]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 897--898
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 896--897
 [][][][][][]
  []
 
@@ -2879,147 +2879,148 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 35--36
 [][][][][][]
  []
 
-[100]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 71--72
-[][][][][][]
+
+Overfull \hbox (72.96086pt too wide) in paragraph at lines 63--71
+\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 schen Kontrast\EU1/LinLibertine_R_B.otf
+(0)/m/n/10.95 . [] [][][][][][]
  []
 
-
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 82--83
+[100]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 81--82
 [][][][][][]
  []
 
 [101]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 112--113
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 111--112
 [][][][][][]
  []
 
 [102]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 157--158
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 156--157
 [][][][][][]
  []
 
 [103]
-Overfull \hbox (2.11717pt too wide) in paragraph at lines 159--170
+Overfull \hbox (2.11717pt too wide) in paragraph at lines 158--169
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 deliegende Formen und Strukturbedingunge
 n die Einfügung des Glottalverschlus-
  []
 
 [104]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 214--215
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 213--214
 [][][][][][]
  []
 
 [105] [106] [107]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 342--343
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 341--342
 [][][][][][]
  []
 
 [108]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 349--350
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 348--349
 [][][][][][]
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 353--354
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 352--353
 [][][][][][]
  []
 
 [109]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 397--398
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 396--397
 [][][][][][]
  []
 
 [110]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 436--437
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 435--436
 [][][][][][]
  []
 
 [111]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 474--475
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 473--474
 [][][][][][]
  []
 
 [112] [113] [114]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 555--556
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 554--555
 [][][][][][]
  []
 
 [115]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 589--590
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 588--589
 [][][][][][]
  []
 
 <xymatrix 5x4 690> <xymatrix 5x4 674> [116] [117] [118]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 739--740
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 738--739
 [][][][][][]
  []
 
 [119] [120] [121] [122]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 908--909
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 907--908
 [][][][][][]
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 967--968
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 966--967
 [][][][][][]
  []
 
 [123] [124]
-Overfull \hbox (1.07513pt too wide) in paragraph at lines 969--972
+Overfull \hbox (1.07513pt too wide) in paragraph at lines 968--971
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 dern angelehnten extrasilbischen Obstrue
 nten gilt. Im Vorgriff auf Abschnitt []4.2.7[]
  []
 
 <xymatrix 9x4 978>
-Overfull \hbox (2.01036pt too wide) in paragraph at lines 1010--1014
+Overfull \hbox (2.01036pt too wide) in paragraph at lines 1009--1013
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Was die Sonorität aus phonetisch-artik
 ulatorischer (oder perzeptorischer) Sicht
  []
 
 [125] <xymatrix 4x9 810> [126] [127]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1070--1071
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1069--1070
 [][][][][][]
  []
 
 <xymatrix 5x9 1151> [128] <xymatrix 4x8 867> [129] [130] [131]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1218--1219
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1217--1218
 [][][][][][]
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1235--1236
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1234--1235
 [][][][][][]
  []
 
 [132] [133]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1271--1272
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1270--1271
 [][][][][][]
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1290--1291
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1289--1290
 [][][][][][]
  []
 
 [134]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1307--1308
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1306--1307
 [][][][][][]
  []
 
 <xymatrix 5x5 1014> [135]
-Overfull \hbox (4.19223pt too wide) in paragraph at lines 1331--1339
+Overfull \hbox (4.19223pt too wide) in paragraph at lines 1330--1338
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 deutschen Silben formuliert werden. Tabe
 lle []4.5[] fasst die zweimorigen und dreimo-
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1343--1344
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1342--1343
 [][][][][][]
  []
 
 [136]
-Underfull \hbox (badness 1325) in paragraph at lines 1390--1390
+Underfull \hbox (badness 1325) in paragraph at lines 1389--1389
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Zu bei manchen Sprechern stimmhaften \EU
 1/LinLibertine_R_B.otf(1)/m/it/9 s\EU1/LinLibertine_R_B.otf(1)/m/n/9 -Silbengel
 enken wie in \EU1/LinLibertine_R_B.otf(1)/m/it/9 quasseln \EU1/LinLibertine_R_B
@@ -3027,74 +3028,74 @@ enken wie in \EU1/LinLibertine_R_B.otf(1)/m/it/9 quasseln \EU1/LinLibertine_R_B
  []
 
 [137]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1422--1423
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1421--1422
 [][][][][][]
  []
 
 [138]
-Overfull \hbox (0.96379pt too wide) in paragraph at lines 1424--1426
+Overfull \hbox (0.96379pt too wide) in paragraph at lines 1423--1425
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 weitgehend richtig silbifizieren und die
  möglichen Silbentypen kompakt beschrei-
  []
 
 
-Overfull \hbox (1.74762pt too wide) in paragraph at lines 1424--1426
+Overfull \hbox (1.74762pt too wide) in paragraph at lines 1423--1425
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ben. Wenn doch Zweifelsfälle entstehen, 
 helfen vollständigere Grammatiken oder
  []
 
 [139]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1471--1472
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1470--1471
 [][][][][][]
  []
 
 [140]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1537--1538
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1536--1537
 [][][][][][]
  []
 
 [141]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1549--1550
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1548--1549
 [][][][][][]
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1573--1574
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1572--1573
 [][][][][][]
  []
 
 [142] [143]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1607--1608
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1606--1607
 [][][][][][]
  []
 
 [144]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1640--1641
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1639--1640
 [][][][][][]
  []
 
 <xymatrix 8x6 2006>
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1677--1678
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1676--1677
 [][][][][][]
  []
 
 [145] [146]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1715--1716
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1714--1715
 [][][][][][]
  []
 
 [147] <xymatrix 12x7 2640>
-Overfull \hbox (4.34055pt too wide) in paragraph at lines 1734--1737
+Overfull \hbox (4.34055pt too wide) in paragraph at lines 1733--1736
  [][] 
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1759--1760
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1758--1759
 [][][][][][]
  []
 
 [148]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1775--1776
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1774--1775
 [][][][][][]
  []
 
@@ -3963,12 +3964,12 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 317--318
  []
 
 [431] [432]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 400--401
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 399--400
 [][][][][][]
  []
 
 [433] [434] [435] [436] [437] [438] <xymatrix 5x4 546> [439] [440]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 749--750
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 748--749
 [][][][][][]
  []
 
@@ -3977,33 +3978,33 @@ Overfull \vbox (1.60664pt too high) has occurred while \output is active []
 
 
 [441] [442]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 842--843
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 841--842
 [][][][][][]
  []
 
 [443] [444] [445]
-Overfull \hbox (2.4958pt too wide) in paragraph at lines 956--957
+Overfull \hbox (2.4958pt too wide) in paragraph at lines 955--956
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Damit haben wir einige kritische Fälle
  von Akkusativen als Akkusativ-Angaben
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 963--964
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 962--963
 [][][][][][]
  []
 
 [446] [447]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1050--1051
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1049--1050
 [][][][][][]
  []
 
 
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1060--1061
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1059--1060
 [][][][][][]
  []
 
 [448] [449] [450] [451]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1217--1218
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1216--1217
 [][][][][][]
  []
 
@@ -4020,27 +4021,10 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              Note also, that KOMA-Script will remove the definition
 (scrbook)              of `\sc' anytime until release of about version 3.20.
 (scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1245.
+(scrbook)              by `\@nomath \sc ' on input line 1244.
 
 
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1245.
-
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1245.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1245.
+LaTeX Font Warning: Command \sc invalid in math mode on input line 1244.
 
 
 Class scrbook Warning: Usage of deprecated font command `\sc'!
@@ -4054,45 +4038,62 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              Note also, that KOMA-Script will remove the definition
 (scrbook)              of `\sc' anytime until release of about version 3.20.
 (scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1245.
+(scrbook)              by `\@nomath \sc ' on input line 1244.
 
 
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1245.
+LaTeX Font Warning: Command \sc invalid in math mode on input line 1244.
+
+
+Class scrbook Warning: Usage of deprecated font command `\sc'!
+(scrbook)              You should note, that in 1994 font command `\sc' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\sc' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
+(scrbook)              by `\@nomath \sc ' on input line 1244.
+
+
+LaTeX Font Warning: Command \sc invalid in math mode on input line 1244.
 
 922> [453] [454] <xymatrix 3x4 554>
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1346--1347
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1345--1346
 [][][][][][]
  []
 
 [455] <xymatrix 4x4 375> <xymatrix 3x4 371> <xymatrix 6x5 701> <xymatrix 6x5
 713> [456] [457]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1445--1446
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1444--1445
 [][][][][][]
  []
 
 [458] [459] [460] [461]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1628--1629
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1627--1628
 [][][][][][]
  []
 
 [462] [463] [464]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1727--1728
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1726--1727
 [][][][][][]
  []
 
 [465]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 1777--1778
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 1776--1777
 [][][][][][]
  []
 
 [466]
-Underfull \hbox (badness 1215) in paragraph at lines 1790--1791
+Underfull \hbox (badness 1215) in paragraph at lines 1789--1790
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Es gibt zwei Arten von intransitiven V
 erben (bzw. Nominativ-Dativ-
  []
 
 [467]
-Underfull \hbox (badness 2080) in paragraph at lines 1797--1798
+Underfull \hbox (badness 2080) in paragraph at lines 1796--1797
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Halbmodalverben (\EU1/LinLibertine_R_B
 .otf(0)/m/it/10.95 scheinen\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ) konstruiere
 n obligatorisch kohärent und
@@ -4194,24 +4195,24 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 385--386
 [][][][][][]
  []
 
-[516] [517]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 451--452
+[516] [517] [518]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 454--455
 [][][][][][]
  []
 
-[518] [519] [520]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 553--554
+[519] [520]
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 556--557
 [][][][][][]
  []
 
 
-Overfull \hbox (7.67838pt too wide) in paragraph at lines 555--559
+Overfull \hbox (7.67838pt too wide) in paragraph at lines 558--562
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 medium markiert durch Satzendezeichen – 
 gelten sie nicht. Man erwartet z.B. nach
  []
 
 [521] [522]
-Overfull \hbox (4.05254pt too wide) in paragraph at lines 624--625
+Overfull \hbox (4.05254pt too wide) in paragraph at lines 627--628
 [][][][][][]
  []
 
@@ -4234,7 +4235,7 @@ Overfull \hbox (4.05254pt too wide) in paragraph at lines 624--625
 ] [534] [535] [536] [537] [538
 
 ]
-Underfull \hbox (badness 2277) in paragraph at lines 389--393
+Underfull \hbox (badness 2277) in paragraph at lines 388--392
 []\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Gerne \EU1/LinLibertine_R_B.otf(0)/m/
 n/10.95 kann als Antwort auf eine Ja/Nein-Frage verwendet werden:
  []
@@ -4257,7 +4258,7 @@ n/10.95 kann als Antwort auf eine Ja/Nein-Frage verwendet werden:
 <xymatrix 4x3 325> <xymatrix 7x3 474> <xymatrix 5x3 453> <xymatrix 2x3 304>
 <xymatrix 7x3 474> [560] <xymatrix 2x3 304> <xymatrix 10x4 885> <xymatrix 10x4
 873>
-Underfull \hbox (badness 10000) in paragraph at lines 1132--1133
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1132
 
  []
 
@@ -4268,17 +4269,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 1132--1133
 ] [566] [567] <xymatrix 12x5 1038> [568]
 <xymatrix 10x5 1046> <xymatrix 12x5 1038> <xymatrix 5x4 487> [569] <xymatrix
 14x5 1211> <xymatrix 12x5 1049>
-Underfull \hbox (badness 10000) in paragraph at lines 1422--1431
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1430
 
  []
 
 [570] <xymatrix 8x5 623>
-Underfull \hbox (badness 10000) in paragraph at lines 1445--1446
+Underfull \hbox (badness 10000) in paragraph at lines 1444--1445
 
  []
 
 <xymatrix 13x5 862>
-Underfull \hbox (badness 10000) in paragraph at lines 1451--1460
+Underfull \hbox (badness 10000) in paragraph at lines 1450--1459
 
  []
 
@@ -4286,19 +4287,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 1451--1460
 <xymatrix 6x4 617> [573] [574
 
 ] [575] [576]
-Overfull \vbox (0.31305pt too high) detected at line 1656
+Overfull \vbox (0.31305pt too high) detected at line 1655
  []
 
 
-Overfull \vbox (4.9668pt too high) detected at line 1660
+Overfull \vbox (4.9668pt too high) detected at line 1659
  []
 
 
-Overfull \vbox (0.31305pt too high) detected at line 1669
+Overfull \vbox (0.31305pt too high) detected at line 1668
  []
 
 
-Overfull \vbox (4.9668pt too high) detected at line 1673
+Overfull \vbox (4.9668pt too high) detected at line 1672
  []
 
 [577
@@ -4362,10 +4363,10 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49415 strings out of 494865
- 863430 string characters out of 6167200
- 1408443 words of memory out of 5000000
- 51799 multiletter control sequences out of 15000+600000
+ 49419 strings out of 494865
+ 863484 string characters out of 6167200
+ 1408616 words of memory out of 5000000
+ 51803 multiletter control sequences out of 15000+600000
  20227 words of font info for 149 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
  65i,18n,104p,10460b,2292s stack positions out of 5000i,500n,10000p,200000b,80000s

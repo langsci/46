@@ -564,7 +564,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Übungen zu Kapitel 14}{502}{Item.2275}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {15}Morpho-syntaktische Schreibprinzipien}{505}{chapter.15}
+\contentsline {chapter}{\numberline {15}Morphosyntaktische Schreibprinzipien}{505}{chapter.15}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {15.1}Wortbezogene Schreibungen}{505}{section.15.1}
 \defcounter {refsection}{0}\relax 
