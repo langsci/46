@@ -30,8 +30,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2.4}Empirie}{29}{subsection.1.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 1}{34}{Item.54}
-\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Grundbegriffe der Grammatik}{35}{chapter.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.1}Merkmale und Werte}{35}{section.2.1}
@@ -560,9 +558,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {14.5}Ausblick auf den Nicht-Kernwortschatz}{497}{section.14.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 14}{499}{Item.2262}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 14}{500}{Item.2271}
+\contentsline {section}{Übungen zu Kapitel 14}{500}{Item.2262}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {15}Morphosyntaktische Schreibprinzipien}{503}{chapter.15}
 \defcounter {refsection}{0}\relax 
@@ -586,16 +582,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {15.2.3}Nebensätze und Verwandtes}{521}{subsection.15.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Zusammenfassung von Kapitel 15}{523}{Item.2373}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 15}{524}{Item.2384}
+\contentsline {section}{Übungen zu Kapitel 15}{524}{Item.2373}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Weiterführende Literatur zu V}{525}{Exer.15.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Lösungen zu den Übungen}{528}{section*.56}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{581}{section*.135}
+\contentsline {chapter}{Bibliographie}{581}{section*.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{581}{chapter*.136}
+\contentsline {chapter}{\nonumberline Literatur}{581}{chapter*.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{588}{section*.137}
+\contentsline {chapter}{Index}{588}{section*.3}
