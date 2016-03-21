@@ -87,8 +87,7 @@ Daher wird in diesem Buch die Bedeutung aus der grammatischen Analyse weitgehend
 \footnote{Viele kognitiv ausgerichtete linguistische Theorieansätze gehen aus gutem Grund davon aus, dass das formale System und die Bedeutung nur eingeschränkt die hier angenommene Unabhängigkeit aufweisen.
 Es kann \zB experimentell gezeigt werden, dass die Entscheidung zwischen wohlgeformten und nicht-wohlgeformten Symbolfolgen durch Menschen nicht allein von formalen grammatischen Bedingungen abhängt, sondern auch von der Bedeutung.
 Für viele der in diesem Buch beschriebenen Phänomene kommt man allerdings recht weit, auch ohne Einbeziehung der Bedeutungsseite.
-Außerdem ist es möglich, den Systembegriff auf die Semantik auszuweiten, was allerdings einen erheblichen formalen Aufwand nach sich zieht, der hier fehl am Platze wäre.
-In Abschnitt~\ref{sec:empirie} wird zudem die hier vertretene reduktionistische Position nochmals hinterfragt und pragmatisch gerechtfertigt.}
+Außerdem ist es möglich, den Systembegriff auf die Semantik auszuweiten, was allerdings einen erheblichen formalen Aufwand nach sich zieht, der hier fehl am Platze wäre.}
 Es gibt einen wesentlichen praktischen Vorteil der formalen Herangehensweise:
 Definitionen und Beschreibungen, die sich an der Form orientieren, sind meist viel einfacher nachzuvollziehen und anzuwenden, als solche, die semantische Beurteilungen erfordern.
 Auch wenn die Vermittlungspraxis an Schulen \idR den umgekehrten Weg geht und grammatische Kategorien über Bedeutungen einführt, taugen die formalen Eigenschaften von Sprache oft mehr, wenn systematisch nachvollziehbare Kategorisierungen gewünscht werden.
@@ -272,6 +271,7 @@ Dabei ist zwar oft von Kern und Peripherie wie von zwei streng getrennten Bereic
 Besonders bei (\ref{ex:gr123239}) könnte man nun vermuten, dass sich im Kern eher alte germanische Wörter befinden, in der Peripherie hingegen sogenannte \textit{Fremdwörter}.
 Zunächst einmal ist die korrekte Bezeichnung für Wörter, die aus anderen Sprachen übernommen (\textit{entlehnt}) wurden, \textit{Lehnwort} und nicht \textit{Fremdwort}.
 Vereinfacht gesagt nennt man Wörter, die sich nach unserem Wissen seit vorhistorischer Zeit im Wortschatz befinden, und die nicht erkennbar aus einer anderen Sprache entlehnt wurden, \textit{Erbwörter}.
+Die Gesamtheit der Erbwörter ist der Erbwortschatz.\label{abs:erbwortschatz}
 Vor allem stimmt aber diese einfache Zuordnung von Lehnwort und peripherem Wortschatz in (\ref{ex:gr123239}) nicht, denn \textit{Döner}, \textit{Öl} und \textit{Kutsche} sind allesamt mehr oder weniger rezent aus anderen Sprachen entlehnt worden.
 Das Wort \textit{Bovist} hingegen ist ein Erbwort und trotzdem im System ein recht fremder Einzelgänger.
 Es ist vielmehr so, dass alle Wörter in (\ref{ex:gr123239a}) entweder im Nominativ Singular einsilbig sind, oder aber zweisilbig und dabei auf der ersten Silbe betont.%
@@ -326,30 +326,37 @@ Die Häufigkeit normaler Substantive wie \textit{Tisch} (0,006\%) oder \textit{T
 Die drei häufigsten Verben, die keine Hilfsverben oder Modalverben sind (s.\ Abschnitt~\ref{sec:vunterklass}), sind \textit{geben} (0,21\%), \textit{machen} (0,17\%) und \textit{kommen} (0.16\%).
 
 \begin{table}
-	\begin{tabular}{lrr}
-	  \lsptoprule
-	  \multirow{2}{*}{\textbf{Modalverb}} & \textbf{Anteil an} & \textbf{eine Form pro}\\
-	   & \textbf{allen Wortformen} & \textbf{Textwörter (Mittel)}\\
-	  \midrule
-	  \textit{können} & 0,53\% &   189 \\
-	  \textit{müssen} & 0,21\% &   476 \\
-	  \textit{sollen} & 0,19\% &   526 \\
-	  \textit{wollen} & 0,13\% &   769 \\
-	  \textit{mögen}  & 0,06\% & 1.666\\
-	  \textit{dürfen} & 0,05\% & 2.000\\
-	  \lspbottomrule
-	\end{tabular}
-	\label{tab:modvfreq}
-	\caption{Häufigkeit aller Formen der Modalverben im DECOW14A-Korpus}
+  \begin{tabular}{lrr}
+    \lsptoprule
+    \multirow{2}{*}{\textbf{Modalverb}} & \textbf{Anteil an} & \textbf{eine Form pro}\\
+    & \textbf{allen Wortformen} & \textbf{Textwörter (Mittel)}\\
+    \midrule
+    \textit{können} & 0,53\% &   189 \\
+    \textit{müssen} & 0,21\% &   476 \\
+    \textit{sollen} & 0,19\% &   526 \\
+    \textit{wollen} & 0,13\% &   769 \\
+    \textit{mögen}  & 0,06\% & 1.666\\
+    \textit{dürfen} & 0,05\% & 2.000\\
+    \lspbottomrule
+  \end{tabular}
+  \caption{Häufigkeit aller Formen der Modalverben im DECOW14A-Korpus}
+  \label{tab:modvfreq}
 \end{table}
 
 Wenn man sich die konkreten Vorkommen von Formen der Modalverben ansieht, sind sie also sehr häufig.
-Allerdings gibt es von ihnen nur sechs verschiedene, und von den gewöhnlichen Verben wie in (\ref{ex:gr123240a}) gibt es Tausende.
-Wenn man also einfach nur in Texten alle Vorkommnisse von Formen der Modalverben -- die sogenannten \textit{Tokens} -- zählt, so sind es sehr viele.
-Wenn man nur zählt, wieviele voneinander \textit{verschiedene} solcher Formen -- die sogenannten \textit{Typen} -- es gibt, sind es ziemlich wenige im Vergleich mit den Formen aller anderen Verben.
+Allerdings gibt es nur sechs verschiedene Modalverben, und von den gewöhnlichen Verben wie in (\ref{ex:gr123240a}) gibt es Tausende.
+Wenn man also einfach nur in Texten alle Vorkommnisse von Formen der Modalverben -- die sogenannten \textit{Tokens} -- zählt, dann sind es sehr viele.
+Wenn man nur zählt, wieviele voneinander \textit{verschiedene} Formen von Modalverben -- die sogenannten \textit{Typen} -- es gibt, dann sind es ziemlich wenige.
 Ähnliches gilt für die schwachen Substantive.
-Einige von ihnen kommen sehr häufig vor (wie \textit{Mensch}), aber es gibt insgesamt nur gut fünfhundert verschiedene schwache Substantive in dieser Klasse.
-Die Zahl der anderen Substantive im normalen Sprachgebrauch wie in (\ref{ex:gr123241a}) ist nach oben offen und geht in die Zehntausende.
+Einige von ihnen kommen sehr häufig vor (wie \textit{Mensch}), aber es gibt insgesamt nur gut fünfhundert verschiedene schwache Substantive.
+Die Zahl der anderen Substantive im normalen Sprachgebrauch ist hingegen nach oben offen und geht in die Zehntausende.
+Diese Verhältnisse lassen sich mit den Begriffen der \textit{Token-} und \textit{Typhäufigkeit} gemäß Definition~\ref{def:toktyp} beschreiben.%
+\footnote{Zur weiteren Illustration kann der folgende Satz betrachtet werden:
+\textit{Eine Hose ist eine Hose.}
+In diesem Satz kommen fünf Tokens vor, nämlich (in der gegebenen Reihenfolge und ohne Beachtung der Groß- und Kleinschreibung) \textit{eine}, \textit{Hose}, \textit{ist}, \textit{eine} und \textit{Hose}.
+Diese fünf Tokens entsprechen aber nur drei Typen, nämlich \textit{eine}, \textit{Hose} und \textit{ist}.
+Das erste und das vierte sowie das zweite und fünfte Token sind identisch und zählen daher nur als je ein Typ.
+}
 
 \Definition{Token- und Typhäufigkeit}{
 Die \textit{Tokenhäufigkeit} ist die Anzahl der Wörter (oder Konstruktionen) in Texten, egal ob es dieselben sind oder nicht.
@@ -361,8 +368,8 @@ Die Typhäufigkeit ist theoretisch maximal genauso hoch wie die Tokenhäufigkeit
 Die Typhäufigkeit der Modalverben und der schwachen Substantive ist also gering.
 Das ist unabhängig davon, ob die Wörter eine hohe Tokenhäufigkeit haben.
 Der Kern wird typischerweise durch die Klassen von Wörtern und Konstruktionen besetzt, die eine hohe Typhäufigkeit haben, die also sehr große Klassen darstellen.
-Damit hängt zusammen, dass im Kern meist besonders regelmäßige und einheitliche Bildungen vorherrschen.
-Die Peripherie ist durch kleine Klassen mit niedrigere Typhäufigkeit gekennzeichnet.
+Damit steht in Zusammenhang, dass im Kern meist besonders regelmäßige und einheitliche Bildungen vorherrschen.
+Die Peripherie ist durch kleine Klassen mit niedriger Typhäufigkeit gekennzeichnet.
 Besonders, wenn periphere Klassen eine hohe Tokenhäufigkeit aufweisen (wie die Hilfs- und Modalverben), sind sie anfällig die Konservierung historischer Muster, die im Kern nicht mehr vorkommen (mehr in Abschnitt~\ref{sec:kleineverbklassen}).
 
 \Definition{Kern und Peripherie}{
@@ -380,7 +387,7 @@ Wenn nicht alle Sprecher eine bestimmte Konstruktion als akzeptabel einstufen bz
 Im Fall von solcher Variation in der Akzeptabilität geht es grundsätzlich darum, ob eine Konstruktion überhaupt zu einem grammatischen System gehört.
 Die Unterscheidung nach Kern und Peripherie ist nur relevant für alle Wörter und Konstruktionen, die auf jeden Fall zum System gehören.
 Es geht bei der Frage nach Kern und Peripherie einfach gesagt nur um die Größe von Klassen innerhalb des Systems.%
-\footnote{Es mag sein, dass eine niedrige Typenhäufigkeit gepaart mit einer niedrigen Tokenhäufigkeit dazu führen, dass Wörter oder Konstruktionen über kurz oder lang aus dem System verschwinden.
+\footnote{Es mag sein, dass eine niedrige Typenhäufigkeit gepaart mit einer niedrigen Tokenhäufigkeit dazu führt, dass Wörter oder Konstruktionen über kurz oder lang aus dem System verschwinden.
 Das ist aber eher eine Frage, die explizit historisch ausgerichtete oder kognitive bzw.\ psycholinguistische Theorien beantworten müssen.}
 
 \section{Deskriptive und präskriptive Grammatik}
@@ -389,7 +396,7 @@ Das ist aber eher eine Frage, die explizit historisch ausgerichtete oder kogniti
 
 \subsection{Beschreibung und Vorschrift}
 
-In diesem Abschnitt wird die deskriptive (beschreibende) Grammatik von jeweils anderen Arten der Grammatik abgegrenzt.
+In diesem Abschnitt wird die \textit{deskriptive} (beschreibende) Grammatik von jeweils anderen Arten der Grammatik abgegrenzt.
 Als erstes wird eine Definition der deskriptiven Grammatik als Ausgangsbasis gegeben.
 
 \Definition{Deskriptive Grammatik}{
@@ -462,7 +469,7 @@ Eine grammatische Regel ist die Beschreibung einer Regularität, die in einem no
 \Definition{Generalisierung}{
 \index{Generalisierung}Eine grammatische Generalisierung ist eine durch Beobachtung zustandegekommene Beschreibung einer Regularität.}
 
-Eine Regularität ist also ein Phänomen des Betrachtungsgegenstandes Sprache, das Vorhandensein von Regularitäten in sprachlichen Daten ergibt sich aus dem Systemcharakter von Sprache (Definition~\ref{def:grammatik}).
+Eine Regularität ist also ein Phänomen des Betrachtungsgegenstandes \textit{Sprache}, das Vorhandensein von Regularitäten in sprachlichen Daten ergibt sich aus dem Systemcharakter von Sprache (Definition~\ref{def:grammatik}).
 Gäbe es keine Regularitäten, könnte man zugespitzt nur von einem \textit{Sprachchaos} statt von einem \textit{Sprachsystem} sprechen.
 Dagegen sind Regel und Generalisierung vom Menschen bewusst gemacht und werden im Prinzip auf identische Weise formuliert, vgl.\ die Diskussion zu (\ref{ex:gb002}).
 Während eine Regel dabei Ansprüche an die Eigenschaften einer Sprache stellt, stellt die Generalisierung das Vorhandensein von Eigenschaften nur fest.
@@ -499,7 +506,7 @@ Jetzt geht es erst einmal nur um die deskriptive Einordnung der Phänomene in (\
 
 Beispiel (\ref{ex:gb003a}) zeigt die Konstruktion eines eingebetteten \textit{w}-Fragesatzes mit einem Komplementierer (\textit{dass}), die nicht nur systematisch in vielen südlichen regionalen Varietäten des Deutschen vorkommt, sondern die auch aus grammatiktheoretischen Überlegungen durchaus interessant ist.\index{w-Satz}
 Die Häufung von Fragepronomina ist davon unabhängig, macht den Satz aber umso interessanter.
-Beispiel (\ref{ex:gb003b}) zeigt \textit{fragen} als starkes Verb mit Umlaut in der 2.\ und 3.\ Person Singular Präsens Indikativ.
+Beispiel (\ref{ex:gb003b}) zeigt \textit{fragen} als starkes Verb mit Umlaut in der 3.\ Person Singular Präsens Indikativ.
 Aus deskriptiver Sicht schwankt hier ein Verb im gegenwärtigen Sprachgebrauch zwischen starker und schwacher Flexion (Abschnitt~\ref{sec:vvflex}).
 Weiterhin ist die häufig vorkommende Alternation von \textit{sein} und \textit{haben} bei der Perfektbildung wie in (\ref{ex:gb003c}) ein theoretisch relevantes Phänomen, weil es bei der Beantwortung der Frage hilft, welche grundsätzliche Systematik hinter der Wahl des Hilfsverbs (abhängig vom Vollverb) steckt.
 Beispiel (\ref{ex:gb003d}) illustriert ein syntaktisches Phänomen, nämlich das der \textit{doppelten Vorfeldbesetzung}.\index{Vorfeld}
@@ -523,7 +530,7 @@ Welche dialektalen bzw.\ regionalen Varianten des Deutschen wollen wir mit unser
 Beschreiben wir auch Konstruktionen, die zwar systematisch vorkommen, aber nur in der gesprochenen Sprache?
 Neben der genannten \textit{dialektalen Variation} gibt es mindestens auch noch Variation zwischen sozialen Gruppen (\zB Jugend- oder Kiezsprachen) -- sogenannte \textit{diastratische Variation} -- und \textit{individuelle Variation}.
 Da sich Sprache auch über die Zeit wandelt (\textit{diachrone Variation}), muss außerdem der Zeitraum festgelegt werden, den man beschreiben möchte.
-Weil bei genauem Hinsehen Sprache ein ausuferndes Maß an Variation aufweist, ist das Grundroblem, nämlich die Definition des zu beschreibenden Gegenstandes, nicht systematisch, sondern nur pragmatisch lösbar.
+Weil bei genauem Hinsehen Sprache ein ausuferndes Maß an Variation aufweist, ist das Grundproblem, nämlich die Definition des zu beschreibenden Gegenstandes, nicht systematisch, sondern nur pragmatisch lösbar.
  
 Ganz pragmatisch orientieren wir uns daher bei unserer Beschreibung an einer quasi normierten deutschen Standardsprache, wie sie zum Beispiel in der Duden-Grammatik \citep{Duden8} oder in Peter Eisenbergs \textit{Grundriss der deutschen Grammatik} \citep{Eisenberg1,Eisenberg2} beschrieben wird.
 Nur so ist überhaupt ein systematischer Einstieg in die Sprachbeschreibung möglich.
@@ -580,7 +587,7 @@ Eine solide deskriptive Grammatik kann nur auf empirisch gewonnenen Daten basier
 Es muss also wenigstens kurz diskutiert werden, wie eine deskriptive Grammatik zum gegenwärtigen Stand der Forschung empirisch abgesichert werden kann.
 
 Es haben sich verschiedene Methoden etabliert, um innerhalb der Linguistik empirisch zu arbeiten und Daten zu erheben.
-Die drei wichtigsten sind das Experiment, die Befragung und die Korpusstudie.
+Die drei wichtigsten sind das \textit{Experiment}, die \textit{Befragung} und die \textit{Korpusstudie}.
 Bei einem \textit{Experiment} werden Sprecher unter kontrollierten Bedingungen mit sprachlichen Reizen konfrontiert.
 Das Ziel ist dabei, ihre Reaktion zu messen oder sie zur Sprachproduktion zu animieren, um aus den Reaktionen auf Eigenschaften ihres mental repräsentierten Sprachsystems zu schließen.
 Dabei wissen Probanden normalerweise nicht explizit, welcher Aspekt ihrer Sprache untersucht werden soll.
@@ -606,7 +613,7 @@ In (\ref{ex:gr9821544}) ist die Situation wohl eindeutig.
 
 Dass (\ref{ex:gr9821544a}) für Erstsprecher des Deutschen grammatisch ist, bedarf keiner empirischen Überprüfung.
 Ebenso ist (\ref{ex:gr9821544b}) trivialerweise ungrammatisch.
-Selbst wenn es Sprecher gäbe, die \textit{springte} statt \textit{sprang} verwenden, würde man diese wahrscheinlich besser einer Nicht-Standard-Varietät zuordnen, als das System des Standarddeutschen umzuschreiben.
+Selbst wenn es Sprecher gäbe, die \textit{springte} statt \textit{sprang} verwenden, würde man diese wahrscheinlich besser einer Varietät jenseits des Standards zuordnen, als das System des Standarddeutschen umzuschreiben.
 Das Problem ist der Übergang von trivialen zu weniger trivialen Entscheidungen über Grammatikalität.
 Bereits für Sätze wie (\ref{ex:dg9113}) auf S.\ \pageref{ex:dg9113} ist die Entscheidung erfahrungsgemäß alles andere als trivial.
 Beispiel (\ref{ex:gr9821545}) treibt die Frage noch ein Stück weiter.
