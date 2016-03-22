@@ -234,11 +234,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.2.2}Strukturformat}{195}{subsection.6.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Flexion und Wortbildung}{196}{section.6.3}
+\contentsline {section}{\numberline {6.3}Flexion und Wortbildung}{197}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.1}Statische Merkmale}{196}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.1}Statische Merkmale}{197}{subsection.6.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.2}Wortbildung und Flexion}{197}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.2}Wortbildung und Flexion}{198}{subsection.6.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.3.3}Lexikonregeln}{201}{subsection.6.3.3}
 \defcounter {refsection}{0}\relax 
