@@ -3,8 +3,7 @@
 \label{sec:wortbildung}
 
 Die Wortbildung beschäftigt sich, wie in Abschnitt~\ref{sec:defwb} beschrieben, mit der Bildung neuer Wörter aus existierenden Wörtern.
-Dieses Kapitel ist sehr einfach strukturiert, denn es behandelt die drei wichtigen Arten der Wortbildung einfach der Reihe nach.
-Zuerst wird die \textit{Komposition} besprochen (Abschnitt~\ref{sec:komp}), dann die \textit{Konversion} (Abschnitt~\ref{sec:konv}) und abschließend die \textit{Derivation} (Abschnitt~\ref{sec:deriv}).
+In diesem Kapitel werden die verschiedenen Arten der Wortbildung der Reihe nach besprochen, zuerst die \textit{Komposition} (Abschnitt~\ref{sec:komp}), dann die \textit{Konversion} (Abschnitt~\ref{sec:konv}) und abschließend die \textit{Derivation} (Abschnitt~\ref{sec:deriv}).
  
 \section{Komposition}
 
@@ -19,7 +18,7 @@ Wir markieren die Stelle zwischen den aneinandergefügten Wörtern in Komposita 
 \Definition{Komposition}{
 \label{def:komp}
 Komposition ist ein Wortbildungsmuster, bei dem lexikalische Wörter gebildet werden, deren Stamm aus zwei Stämmen anderer lexikalischer Wörter zusammengesetzt ist, die die \textit{Glieder} des \textit{Kompositums} genannt werden.
-Das Kompositum erhält seine grammatischen und semantischen Merkmale auf produktive oder zumindest transparente Weise von den beiden Gliedern.
+Das Kompositum erhält seine grammatischen und semantischen Merkmale auf produktive oder zumindest meistens transparente Weise von den beiden Gliedern.
 \index{Komposition}
 }
 
@@ -47,7 +46,7 @@ Mit Wörtern wie \textit{Hausmeister}, \textit{Kindergarten} und vielen anderen 
 Diese Wörter sehen aus, als seien sie produktiv nach der Regularität der Komposition gebildet -- und sie waren dies auch sicherlich irgendwann einmal.
 Allerdings ist ihre Bedeutung spezieller, als es die produktive Regularität vermuten lassen würde.
 Die Bedeutung ist nicht \textit{kompositional} (s.\ Abschnitt~\ref{sec:sprachealssymbolsystem}), sie ergibt sich also nicht einfach aus der Bedeutung seiner Bestandteile.
-Da aber die Bestandteile aber einwandfrei identifizierbar sind, würde man von einem \textit{transparent} gebildeten Kompositum gemäß Definition~\ref{def:transparenz} sprechen.
+Da die Bestandteile aber einwandfrei identifizierbar sind, würde man von einem \textit{transparent} gebildeten Kompositum gemäß Definition~\ref{def:transparenz} sprechen.
 
 \Definition{Transparenz}{
 \label{def:transparenz}
@@ -63,7 +62,7 @@ Im Gegensatz zur Analyse und Beschreibung der Bedeutungsmerkmale eines Kompositu
 In \textit{Haus.meister} ist \zB der Verlust sämtlicher grammatischer Merkmale von \textit{Haus} offensichtlich.
 Das erste Glied \textit{Haus} ist \zB ein Neutrum, das zweite Glied \textit{Meister} ist ein Maskulinum.
 Das Kompositum \textit{Haus.meister} ist immer und ohne Ausnahme ein Maskulinum, und vom ursprünglichen Genus des ersten Gliedes ist im Kompositum nichts mehr zu erkennen.
-Das lässt sich auf alle Komposita generalisieren, denn das hintere Glied setzt seine grammatischen Merkmale immer durch, und das zweite verliert die seinen immer.
+Das lässt sich auf alle Komposita generalisieren, denn das hintere Glied setzt seine grammatischen Merkmale immer durch, und das vordere verliert die seinen immer.
 Es werden also auf jeden Fall Werte statischer Merkmale überschrieben bzw.\ Merkmale gelöscht.
 
 \Definition{Kopf (Kompositum)}{
@@ -199,7 +198,7 @@ Das Rektionskompositum ist ebenfalls ein relevantes grammatisches Phänomen, da 
 
 \index{Rekursion}
 
-Definition~\ref{def:komp} war so formuliert, dass jeweils zwei Wörter (bzw. ihre Stämme) zu einem Kompositum zusammengefügt.
+Definition~\ref{def:komp} besagte, dass in einem Kompositum jeweils zwei Wörter (bzw. ihre Stämme) zusammengefügt werden.
 In diesem Zusammenhang muss man sich nun fragen, wie es sich mit Wörtern wie \textit{Lang.strecken.lauf} verhält.
 An diesem Kompositum sind offensichtlich drei Glieder beteiligt, und die Definition scheint diesen Fall zunächst nicht abzudecken.
 Wenn man aber überlegt, ob die Glieder dieses Kompositums in einem jeweils gleichen Verhältnis zueinander stehen, dann erkennt man, dass dies nicht so ist.
@@ -209,7 +208,7 @@ Seltener wird wahrscheinlich der lange Lauf einer Strecke bezeichnet, denn das W
 Trotzdem existieren zweifelsfrei beide Interpretationsmöglichkeiten.
 Sie rühren daher, dass man die Glieder des Kompositums in verschiedene Zweiergruppen zusammenfassen kann und sich die Bedeutung im Sinn der Kompositionalität entsprechend ändert.
 Man kann die unterschiedlichen Strukturen mit Klammern sehr gut verdeutlichen, s.\ (\ref{ex:kompbrack}).
-Alternativ kann das morphologische Strukturformat aus Abschnitt~\ref{sec:morphstrukform} benutzt werden, s.\ Abbildungen~\ref{fig:langstreckenlauf1} und \ref{fig:langstreckenlauf2}.
+Alternativ kann das morphologische Strukturformat aus Abschnitt~\ref{sec:morphstrukform} benutzt werden, s.\ Abbildung~\ref{fig:langstreckenlauf}.
 Zur Verdeutlichung werden hier die Wortklassen im Baum annotiert.
 
 \begin{exe}
@@ -221,26 +220,23 @@ Zur Verdeutlichung werden hier die Wortklassen im Baum annotiert.
 
 \begin{figure}
   \centering
-  \Tree[1.5]{
-    && \K{Subst-Stamm}\B{dl}\B{dr} \\ 
-    & \K{Subst-Stamm}\B{dl}\B{dr} && \K{Subst-Stamm}\B{d} \\
-    \K{Adj-Stamm}\B{d} && \K{Subst-Stamm}\B{d} & \K{\textit{lauf}} \\
-    \K{\textit{Lang}} && \K{\textit{strecken}} \\
+  \resizebox{0.45\textwidth}{!}{
+    \Tree[1.5]{
+      && \K{Subst-Stamm}\B{dl}\B{dr} \\ 
+      & \K{Subst-Stamm}\B{dl}\B{dr} && \K{Subst-Stamm}\B{d} \\
+      \K{Adj-Stamm}\B{d} && \K{Subst-Stamm}\B{d} & \K{\textit{lauf}} \\
+      \K{\textit{Lang}} && \K{\textit{strecken}} \\
+    }
+  }\hspace{0.09\textwidth}\resizebox{0.45\textwidth}{!}{
+     \Tree[1.5]{
+      & \K{Subst-Stamm}\B{dl}\B{dr} \\
+      \K{Adj-Stamm}\B{d} && \K{Subst-Stamm}\B{dl}\B{dr} \\
+      \K{\textit{Lang}} & \K{Subst-Stamm}\B{d} && \K{Subst-Stamm}\B{d} \\
+      & \K{\textit{strecken}} && \K{\textit{lauf}} \\
+    }
   }
-  \caption{Eine Analyse von \textit{Langstreckenlauf}}
-  \label{fig:langstreckenlauf1}
-\end{figure}
-
-\begin{figure}
-  \centering
-  \Tree[1.5]{
-    & \K{Subst-Stamm}\B{dl}\B{dr} \\
-    \K{Adj-Stamm}\B{d} && \K{Subst-Stamm}\B{dl}\B{dr} \\
-    \K{\textit{Lang}} & \K{Subst-Stamm}\B{d} && \K{Subst-Stamm}\B{d} \\
-    & \K{\textit{strecken}} && \K{\textit{lauf}} \\
-  }
-  \caption{Eine alternative Analyse von \textit{Langstreckenlauf}}
-  \label{fig:langstreckenlauf2}
+  \caption{Zwei mögliche Analysen von \textit{Langstreckenlauf}}
+  \label{fig:langstreckenlauf}
 \end{figure}
 
 Je nachdem, welche Reihenfolge von Kompositionsprozessen man annimmt, ergeben sich die verschiedenen Bedeutungen.
@@ -281,7 +277,7 @@ Besonders in den hier in erster Linie betrachteten Komposita aus Substantiv und 
 Betrachtet man Wörter wie (\textit{Lang.strecke-n})\textit{.lauf}, so sieht man, dass nicht einfach die Stämme der beiden Glieder das Komposition bilden.
 Vielmehr wird das Suffix \textit{-n} an das Vorderglied angefügt.
 In diesem Fall ist das so genannte \textit{Fugenelement} \textit{-n} formal identisch mit der Pluralmarkierung des Wortes \textit{Langstrecke}.
-Man könnte nun vermuten, dass \textit{-n} hier tatsächlich als Markierungsfunktion [\textsc{Numerus}: \textit{pl}] hat.
+Man könnte nun vermuten, dass \textit{-n} hier tatsächlich die Markierungsfunktion [\textsc{Numerus}: \textit{pl}] hat.
 Gegen diese Vermutung spricht vor allem ein semantischer Grund.
 Bei einem Langstreckenlauf werden nicht zwangsläufig mehrere Strecken gelaufen, es kann sich nicht um die Pluralmarkierung handeln.
 Das Suffix \textit{-n} ist vielmehr ein bei der Wortbildung an der Fuge auftretendes spezielles Affix ohne semantische oder grammatische Markierungsfunktion.
@@ -364,7 +360,7 @@ Da [\textsc{Klasse}: \textit{\textbf{subst}}] und [\textsc{Klasse}: \textit{\tex
 Es handelt sich also jeweils um die Wortform eines eigenen Wortes (Substantiv bzw.\ Verb).
 Trotzdem ist die Beziehung zwischen diesen beiden Wörtern vollständig vorhersagbar, denn fast jedes Verb in seiner Infinitivform kann auf diese Weise als Substantiv mit [\textsc{Genus}: \textit{\textbf{neut}}] verwendet werden.
 
-Wir führen deshalb mit Definition~\ref{def:konversion} einen neuen Typ von Wortbildungsprozess -- die \textit{Konversion} --, wobei wir das Wort, das dem Prozess unterzogen wird, als \textit{Ausgangswort} bezeichnen und das Ergebnis als \textit{Zielwort}.
+Wir führen deshalb mit Definition~\ref{def:konversion} einen neuen Typ von Wortbildungsprozess -- die \textit{Konversion} -- ein, wobei wir das Wort, das dem Prozess unterzogen wird, als \textit{Ausgangswort} bezeichnen und das Ergebnis als \textit{Zielwort}.
 
 \Definition{Konversion}{
 \label{def:konversion}
@@ -412,10 +408,10 @@ Außerdem unterscheiden sich die beiden Substantive darin, ob sie einen Plural b
 Die beiden Wörter sind also voneinander verschieden, haben unterschiedliche Stämme (\textit{Einkauf} und \textit{Einkaufen}) und eine unterschiedliche Formenbildung.
 Wir gehen hier daher davon aus, dass sie durch unterschiedliche Konversionsprozesse aus dem Verb gebildet wurden.
 Im Fall von \textit{Einkaufen} wurde eine Wortform zugrundegelegt, nämlich der Infinitiv.
-Es handelt sich also um den ersten Fall aus der Definition, nämlich Wortformenkonversion.
+Es handelt sich also um den zweiten Fall aus der Definition, nämlich \textit{Wortformenkonversion}.
 Im Gegensatz dazu ist bei \textit{Einkauf} der Verbalstamm in einen Substantivstamm konvertiert worden.
 Bei diesem Konversionstyp entsteht immer ein maskulines Substantiv.
-Dies entspricht dem zweiten Fall aus der Definition, also der Stammkonversion.
+Dies entspricht dem ersten Fall aus der Definition, also der \textit{Stammkonversion}.
 Die Subklassifikation als Stammkonversion und Wortformenkonversion richtet sich dabei nach dem Ausgangspunkt der Konversion.
 Das Ergebnis der Konversion ist selbstverständlich immer ein Stamm, denn es verhält sich wie ein gewöhnliches Wort der Wortklasse, zu der es gehört.
 Es flektiert also wie jedes andere Verb oder Nomen, oder es ist unveränderlich (falls das Zielwort \zB ein Adverb ist).
@@ -468,14 +464,14 @@ In den Tabellen~\ref{tab:wfkonv} und \ref{tab:stammkonv} finden sich einige Beis
 Die Wortformenkonversion vom Adjektiv \textit{gestrichen-e} zum Substantiv \textit{Gestrichenes} ist eigentlich ein Sonderfall.
 Hier wird eine voll flektierte adjektivische Wortformen als Substantiv verwendet, denn das Zielwort flektiert nicht wie ein Substantiv, sondern wie ein Adjektiv (vgl.\ Kapitel~\ref{sec:nominalflexion}).
 Man könnte sagen, dass es sich um eine Konversion von einer Wortform zu einer Wortform handelt und nicht um eine Konversion von einer Wortform zu einem Stamm.
-Eine andere Lösung wäre es, gar nicht von Konversion auszugehen, sondern von einem Adjektiv, das mit einem nicht ausgedrückten Substantiv oder vor einer leeren Substantiv-Position in der Nominalgruppe auftritt (vgl.\ Abschnitt\ref{sec:ngr}).
+Eine andere Lösung wäre es, gar nicht von Konversion auszugehen, sondern von einem Adjektiv, das mit einem nicht ausgedrückten Substantiv oder vor einer leeren Substantiv-Position in der Nominalphrase auftritt (vgl.\ Abschnitt~\ref{sec:ngr}).
 Welche Beschreibung man auch wählt, ist für unsere Belange nicht sehr zentral.
 
 Zur Notation der Wortanalysen muss noch Folgendes angemerkt werden.
 Ist vom Infinitiv des Verbs die Rede, handelt es sich um eine Wortform aus einem Verbstamm und einem Flexionssuffix, weswegen der Bindestrich zwischen den Bestandteilen Wortstamm und Suffix stehen muss: \textit{kauf-en}.
 Sobald die Wortformenkonversion zum Substantiv erfolgt ist, verhält sich das Resultat morphologisch immer wie ein Substantivstamm, und der Bindestrich muss entfallen: \textit{Kaufen}.
 
-An den Beispielen in Tabelle (\ref{tab:wfkonv}) kann man erkennen, dass auch der Prozess der Konversion prinzipiell (aber gegenüber der Komposition eingeschränkt) rekursiv durchführbar ist, denn vom Partizip \textit{ge-strich-en} (zur Bildung der Form des Partizips s.\ Abschnitt~\ref{sec:infinflex}) kann ein Adjektiv \textit{gestrichen} gebildet werden, und von diesem Adjektiv kann wiederum durch Konversion ein Substantiv (\textit{der\slash die\slash das}) \textit{Gestrichen-e} gebildet werden.
+An den Beispielen in Tabelle \ref{tab:wfkonv} kann man erkennen, dass auch der Prozess der Konversion prinzipiell (aber gegenüber der Komposition eingeschränkt) rekursiv durchführbar ist, denn vom Partizip \textit{ge-strich-en} (zur Bildung der Form des Partizips s.\ Abschnitt~\ref{sec:infinflex}) kann ein Adjektiv \textit{gestrichen} gebildet werden, und von diesem Adjektiv kann wiederum durch Konversion ein Substantiv (\textit{der\slash die\slash das}) \textit{Gestrichen-e} gebildet werden.
 Eine Darstellung in Strukturbäumen findet sich in den Abbildungen~\ref{fig:konv1} und \ref{fig:konv2}.
 
 \begin{figure}
@@ -529,7 +525,7 @@ Die Doppelpunkte markieren die Grenzen zwischen dem Stamm des Ausgangswortes und
 \end{exe}
 
 Man erkennt an diesen Beispielen, dass der Beitrag des Affixes zur Bedeutung des Zielwortes recht eindeutig ist.
-Mit \textit{Läuf:er} bezeichnet man den Ausführenden einer Handlung des Laufens, und man kann alle (oder zumindest eine große Gruppe von) Verbalstämmen durch Suffigierung von \textit{\~:er} zu einem Substantiv derivieren, das den Ausführenden der Handlung bezeichnet.%
+Mit \textit{Läuf:er} bezeichnet man den Ausführenden einer Handlung des Laufens, und man kann sehr viele Verbalstämme durch Suffigierung von \textit{\~:er} zu einem Substantiv derivieren, das den Ausführenden der Handlung bezeichnet.%
 \footnote{Bei genauem Hinsehen ist der Fall von \textit{\~:er} eigentlich komplizierter, wenn man an Bildungen wie (\textit{Früh.blüh})\textit{:er} oder (\textit{Ver:lier})\textit{:er} in Zusammenhang mit der Formulierung \textit{Ausführender der Handlung} denkt.
 Diese Verben beschreiben eigentlich keine Handlungen eines absichtlich handelnden Menschen.}
 Bei \textit{erkenn:bar} wurde ein Verbalstamm \textit{erkenn} durch das Suffix \textit{:bar} zu einem Adjektiv deriviert, das die Eigenschaft ausdrückt, die Rolle des Erkannten bei einem Prozess des Erkennens spielen zu können.
@@ -630,7 +626,7 @@ Diese drei Eigenschaften sind in (\ref{ex:vpart}) und (\ref{ex:vpre}) bebeispiel
 Das könnte ein Hinweis darauf sein, dass die Bildung der Partizipien besser als Wortbildung statt als Flexion beschrieben werden kann.
 In morphologischen Theorien wird nämlich oft angenommen, dass erst nach dem vollständigen Abschluss der Wortbildungsprozesse die Flexionsprozesse stattfinden, so dass Mischungen von Wortbildungsaffixen und Flexionsaffixen nicht auftreten sollten.
 Um es genauer zu machen, müsste hier ein opulenteres Theorieangebot gemacht werden, wofür der Platz fehlt.
-Auf die Möglichkeit, die Bildung von Partizip und Infinitiv als Wortbildung statt als Flexion zu betrachten, gehen wir aber auf S.\ \pageref{abs:infinwortbild} aus unabhängigen Gründen noch einmal ein.
+Auf die Möglichkeit, die Bildung von Partizip und Infinitiv als Wortbildung statt als Flexion zu betrachten, gehen wir aber in Abschnitt~\ref{sec:finit} (S.~\pageref{abs:infinwortbild}) aus unabhängigen Gründen noch einmal ein.
 Die Benennung als Verb\textit{partikeln} deutet jedenfalls darauf hin, dass die Verbindung zum Verb bei ihnen weniger morphologischer (und mehr syntaktischer) Natur ist als bei den Verbpräfixen.
 Immerhin bilden gemäß den Wortklassenfiltern \ref{wfilt:subjunktion} (S.~\pageref{wfilt:subjunktion}) und \ref{wfilt:advpart} (S.~\pageref{wfilt:advpart}) Partikeln normalerweise eine \textit{Wortklasse} (sind also selbständige syntaktische Einheiten), während Affixe lediglich (unselbständige) morphologische Einheiten sind.
 
@@ -650,9 +646,9 @@ Valenzänderungen i.\,w.\,S.\ findet man bei Präfixverben, vgl.\ (\ref{ex:wb983
   \end{xlist}
 \end{exe}
 
-In (\ref{ex:wb983460a}) hat das Ausgangsverb \textit{klagen} einen Valenzrahmen aus einem Nominativ -- hier \textit{Nadezhda} -- und einer Präposition bzw.\ einer \textit{Präpositionalphrase} (vgl.\ die Abschnitte~\ref{sec:prpgr} und \ref{sec:ppergang}) -- hier \textit{über die schlechte Qualität der Hantel}.
+In (\ref{ex:wb983460a}) hat das Ausgangsverb \textit{klagen} einen Valenzrahmen aus einem Nominativ -- hier \textit{Nadezhda} -- und einer Präposition bzw.\ einer \textit{Präpositionalphrase} (vgl.\ die Abschnitte~\ref{sec:prpgr} und \ref{sec:ppergang}) -- hier \textit{über den schlechten Grip der Hantel}.
 Die Präfigierung mit \textit{be:} ändert diesen Valenzrahmen.
-Die Präpositionalphrase von \textit{klagen} taucht als Akkusativ von \textit{beklagen} wieder auf, s. (\ref{ex:wb983460b}).
+Die Präpositionalphrase von \textit{klagen} taucht als Akkusativ von \textit{beklagen} wieder auf, s.\ (\ref{ex:wb983460b}).
 Durch \textit{be:} entsteht hier also ein transitives Verb.
 Ganz ähnlich verhält es sich mit \textit{brechen} und \textit{durchbrechen} in (\ref{ex:wb983461}).
 Der wesentliche Unterschied ist, dass die von \textit{brechen} regierte Präposition formal dem Präfix entspricht.
@@ -759,7 +755,7 @@ Tabelle~\ref{tab:derivaffixex} zeigt parallel dazu Beispielwörter.
 
 Weiter oben (Satz~\ref{satz:reknrek}, S.~\pageref{satz:reknrek}) wurde nun festgestellt, dass Wortbildung im Prinzip rekursiv sei.
 Im Falle der Derivation ist dies prinzipiell auch der Fall, allerdings ist die Kombinierbarkeit der Affixe eingeschränkt.
-Es sind aber nur bestimmte Abfolgen möglich, und die möglichen Reihenfolgen der Suffixe sind ebenfalls vergleichsweise festgelegt.
+Es sind nur bestimmte Abfolgen möglich, und die möglichen Reihenfolgen der Suffixe sind ebenfalls vergleichsweise festgelegt.
 Die Gründe hierfür sind überwiegend semantischer Natur, abgesehen davon, dass natürlich \zB ein einmal zu einem Substantiv abgeleitetes Adjektiv (\textit{Neu:heit}) wie ein substantivisches Ausgangswort fungiert und nicht weiter wie ein Adjektiv abgeleitet werden kann.
 Jeweils eine -- weiterhin nach \citealp{Eisenberg1} -- mögliche und eine nicht mögliche Bildung finden sich beispielhaft in (\ref{ex:adjmultisuff}) bis (\ref{ex:substmultisuff}) für verschiedene Wortklassen von Ausgangswörtern.
 
@@ -791,7 +787,7 @@ Allerdings sind sie als strukturelle Möglichkeit auch nicht ganz ausgeschlossen
 
 Damit sind wir am Ende der Wortbildung angelangt.
 Im nächsten Kapitel geht es um die genauen Flexionsmuster bei den flektierbaren Wörtern.
-Die genaue Diskussion der Flexion ist hier der Wortbildung unter anderem deshalb nachgeordnet, weil es so möglich wird, ggf.\ zu diskutieren, ob bestimmte Bildungen tatsächlich Flexion oder doch eher Wortbildung sind (\zB die Komparation, s.\ Abschnitt~\ref{sec:komparation}).
+Die ausführliche Diskussion der Flexion ist hier der Wortbildung unter anderem deshalb nachgeordnet, weil es so möglich wird, ggf.\ zu diskutieren, ob bestimmte Bildungen tatsächlich Flexion oder doch eher Wortbildung sind (\zB die Komparation, s.\ Abschnitt~\ref{sec:komparation}).
 
 \Uebungen
 

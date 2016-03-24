@@ -264,9 +264,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.2.2}Konversion im Deutschen}{235}{subsection.7.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}Derivation}{238}{section.7.3}
+\contentsline {section}{\numberline {7.3}Derivation}{237}{section.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.1}Definition und Überblick}{238}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.1}Definition und Überblick}{237}{subsection.7.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.3.2}Derivation ohne Wortklassenwechsel}{239}{subsection.7.3.2}
 \defcounter {refsection}{0}\relax 
@@ -314,7 +314,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.4.1}Klassifikation}{282}{subsection.8.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.4.2}Flexion}{283}{subsection.8.4.2}
+\contentsline {subsection}{\numberline {8.4.2}Flexion}{284}{subsection.8.4.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.4.3}Komparation}{288}{subsection.8.4.3}
 \defcounter {refsection}{0}\relax 
@@ -330,7 +330,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.1.3}Tempusformen}{302}{subsection.9.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.4}Modus}{303}{subsection.9.1.4}
+\contentsline {subsection}{\numberline {9.1.4}Modus}{304}{subsection.9.1.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.1.5}Finitheit und Infinitheit}{306}{subsection.9.1.5}
 \defcounter {refsection}{0}\relax 
@@ -338,7 +338,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.1.7}Zusammenfassung}{309}{subsection.9.1.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.2}Flexion}{309}{section.9.2}
+\contentsline {section}{\numberline {9.2}Flexion}{310}{section.9.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.2.1}Unterklassen}{310}{subsection.9.2.1}
 \defcounter {refsection}{0}\relax 
@@ -348,15 +348,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.2.4}Zusammenfassung}{318}{subsection.9.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.5}Infinite Formen}{319}{subsection.9.2.5}
+\contentsline {subsection}{\numberline {9.2.5}Infinite Formen}{320}{subsection.9.2.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.2.6}Formen des Imperativs}{321}{subsection.9.2.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.2.7}Kleine Verbklassen}{323}{subsection.9.2.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 9}{327}{table.9.20}
+\contentsline {section}{Übungen zu Kapitel 9}{328}{table.9.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Weiterführende Literatur zu III}{329}{Exer.9.6}
+\contentsline {chapter}{Weiterführende Literatur zu III}{330}{Exer.9.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{\numberline {IV}Satz und Satzglied}{333}{part.4}
 \defcounter {refsection}{0}\relax 
@@ -450,7 +450,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {12.4.3}Adverbialsätze}{424}{subsection.12.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 12}{427}{Item.1731}
+\contentsline {section}{Übungen zu Kapitel 12}{427}{Item.1732}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {13}Relationen und Prädikate}{431}{chapter.13}
 \defcounter {refsection}{0}\relax 
@@ -502,7 +502,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {13.9}Bindung}{473}{section.13.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 13}{477}{Item.2043}
+\contentsline {section}{Übungen zu Kapitel 13}{477}{Item.2044}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Weiterführende Literatur zu IV}{480}{Exer.13.11}
 \defcounter {refsection}{0}\relax 
@@ -534,7 +534,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {14.5}Ausblick auf den Nicht-Kernwortschatz}{507}{section.14.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 14}{510}{Item.2137}
+\contentsline {section}{Übungen zu Kapitel 14}{510}{Item.2138}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {15}Morphosyntaktische Schreibprinzipien}{513}{chapter.15}
 \defcounter {refsection}{0}\relax 
@@ -558,7 +558,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {15.2.3}Nebensätze und Verwandtes}{532}{subsection.15.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Übungen zu Kapitel 15}{534}{Item.2239}
+\contentsline {section}{Übungen zu Kapitel 15}{534}{Item.2240}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Weiterführende Literatur zu V}{535}{Exer.15.3}
 \defcounter {refsection}{0}\relax 

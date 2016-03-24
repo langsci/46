@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_8) (preloaded format=xelatex 2015.11.9)  24 MAR 2016 01:56
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_8) (preloaded format=xelatex 2015.11.9)  24 MAR 2016 15:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3550,7 +3550,7 @@ als Allomorph des Genitiv-Morphems.
 Kapitel 7.
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 24--25
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 23--24
 [][][][][][]
  []
 
@@ -3562,25 +3562,25 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 24--25
 ]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 44--45
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 43--44
 [][][][][][]
  []
 
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 57--58
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 56--57
 [][][][][][]
  []
 
 [224]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 74--75
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 73--74
 [][][][][][]
  []
 
 [225]
-Overfull \hbox (0.83057pt too wide) in paragraph at lines 76--79
+Overfull \hbox (0.83057pt too wide) in paragraph at lines 75--78
 \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Barsch \EU1/LinLibertine_R_B.otf(0)/m/n
 /10.95 ein maskulines Substantiv. Das Ergebnis der Wortbildung – also \EU1/LinL
 ibertine_R_B.otf(0)/m/it/10.95 Rot.barsch
@@ -3589,36 +3589,36 @@ ibertine_R_B.otf(0)/m/it/10.95 Rot.barsch
 [226] [227]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 192--193
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 191--192
 [][][][][][]
  []
 
-[228] <xymatrix 4x4 534> <xymatrix 4x4 530> [229] [230]
+[228] <xymatrix 4x4 534> <xymatrix 4x4 530> [229]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
 
 <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 271--272
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 267--268
 [][][][][][]
  []
 
-[231] <xymatrix 4x4 534> [232] [233]
+[230] [231] <xymatrix 4x4 534> [232]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 374--375
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 370--371
 [][][][][][]
  []
 
-[234] [235] [236] <xymatrix 1x3 160> <xymatrix 4x6 822> [237] [238]
+[233] [234] [235] <xymatrix 1x3 160> <xymatrix 4x6 822> [236] [237]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 
 <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 545--546
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 541--542
 [][][][][][]
  []
 
-[239] [240] [241] [242] [243]
+[238] [239] [240] [241] [242] [243]
 LaTeX Font Info:    Font shape `EU1/DejaVuSansMono.ttf(0)/m/n' will be
-(Font)              scaled to size 7.09305pt on input line 789.
+(Font)              scaled to size 7.09305pt on input line 785.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `DejaVuSansMono.ttf' (encoding: EU1).
 (microtype)             For optimal results, create family-specific settings.
@@ -3628,8 +3628,8 @@ Package microtype Info: Loading generic settings for font family
 ]) [247]
 \openout2 = `chapters/nomina.aux'.
 
- (./chapters/nomina.tex
-[248
+
+(./chapters/nomina.tex [248
 
 
 
@@ -3646,14 +3646,14 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 30--31
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 
 <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 360--361
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 363--364
 [][][][][][]
  []
 
 [257]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 388--389
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 391--392
 [][][][][][]
  []
 
@@ -3661,25 +3661,25 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 388--389
 [264]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 676--677
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 679--680
 [][][][][][]
  []
 
 [265] [266]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 734--735
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 737--738
 [][][][][][]
  []
 
 [267] [268]
-Overfull \hbox (0.566pt too wide) in paragraph at lines 816--817
+Overfull \hbox (0.566pt too wide) in paragraph at lines 819--820
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Afghane, Alemanne, Bulgare, Chilene, D
 äne, Finne, Franzose, Grieche, Hes-
  []
 
 
-Overfull \hbox (2.84909pt too wide) in paragraph at lines 816--817
+Overfull \hbox (2.84909pt too wide) in paragraph at lines 819--820
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 se, Ire, Jude, Katalane, Kurde, Lette, N
 omade, Pole, Rumäne, Schwede, Tsche-
  []
@@ -3687,40 +3687,40 @@ omade, Pole, Rumäne, Schwede, Tsche-
 [269] [270] <xymatrix 5x3 516> [271]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 936--937
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 939--940
 [][][][][][]
  []
 
 [272]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 989--990
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 992--993
 [][][][][][]
  []
 
 [273]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 995--996
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 998--999
 [][][][][][]
  []
 
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 <use  "langsci/graphics/law.pdf" > <xymatrix 5x3 288>
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 997--998
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1000--1001
 [][][][][][]
  []
 
 [274] [275] [276]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Underfull \hbox (badness 1163) in paragraph at lines 1090--1090
+Underfull \hbox (badness 1163) in paragraph at lines 1093--1093
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Reine Pronomina sind Pronomina, für di
 e ein gleichlautender
  []
 
 
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1090--1091
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1093--1094
 [][][][][][]
  []
 
@@ -3728,25 +3728,25 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 1090--1091
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
 
 <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1454--1455
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1457--1458
 [][][][][][]
  []
 
 [285]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1464--1465
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1467--1468
 [][][][][][]
  []
 
 
-Overfull \hbox (3.39735pt too wide) in paragraph at lines 1484--1486
+Overfull \hbox (3.39735pt too wide) in paragraph at lines 1487--1489
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Kommen wir abschließend zur Bewertung 
 der eigentlichen adjektivalen (schwa-
  []
 
 [286] [287] <xymatrix 3x3 334> [288] [289] [290] [291]
-Underfull \hbox (badness 2126) in paragraph at lines 1705--1705
+Underfull \hbox (badness 2126) in paragraph at lines 1708--1708
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Die Beispiele sind dem DeReKo (W-Öffentl
 ich/W) entnommen. Siglen: A10/JAN.00664,
  []
@@ -3790,14 +3790,20 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 434--435
 [][][][][][]
  []
 
-[305] [306] [307] [308] [309] [310]
+[305] [306] [307] [308]
+Overfull \hbox (0.16264pt too wide) in paragraph at lines 548--549
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Der eine Späher wird mitten unter die 
+(feindlichen) Feinde geschickt. (Ovid,
+ []
+
+[309] [310]
 Overfull \hbox (5.55771pt too wide) in paragraph at lines 642--651
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Merkmale zusammenfasst. Einige Verben fa
 llen dabei in mehrere Klassen (z.B. \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 sei
 n
  []
 
-[311]
+[311] [312]
 Overfull \hbox (4.76709pt too wide) in paragraph at lines 697--703
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 stufe in der zweiten und dritten Person 
 Singular Präsens Indikativ (\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 breche\EU1/
@@ -3811,25 +3817,25 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 713--714
 [][][][][][]
  []
 
-[312] [313] [314] [315] [316] [317] [318] [319]
+[313] [314] [315] [316] [317] [318] [319]
 Overfull \hbox (1.2229pt too wide) in paragraph at lines 1046--1049
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Der Infinitiv ist durch \EU1/LinLibert
 ine_R_B.otf(0)/m/it/10.95 -en \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 am Präsens
 stamm gekennzeichnet, das Partizip durch
  []
 
-[320] [321] [322] [323] [324] [325] [326]
-Underfull \hbox (badness 3942) in paragraph at lines 1323--1323
+[320] [321] [322] [323] [324] [325] [326] [327]
+Underfull \hbox (badness 3942) in paragraph at lines 1324--1324
 \EU1/LinLibertine_R_B.otf(1)/m/n/9 JUL.00395, RHZ09/MAR.15300, BVZ09/MAI.01348,
  RHZ09/JUN.22699, BRZ09/MAR.11529,
  []
 
-[327
+[328
 
-] [328] [329] [330
+] [329] [330] [331
 
 
-] [331]) [332] [333
+]) [332] [333
 
 
 
@@ -4723,11 +4729,11 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49457 strings out of 494865
- 864343 string characters out of 6167200
- 1405069 words of memory out of 5000000
- 51833 multiletter control sequences out of 15000+600000
- 20243 words of font info for 151 fonts, out of 8000000 for 9000
+ 49477 strings out of 494865
+ 864848 string characters out of 6167200
+ 1405059 words of memory out of 5000000
+ 51852 multiletter control sequences out of 15000+600000
+ 21362 words of font info for 157 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
  65i,18n,104p,10460b,2292s stack positions out of 5000i,500n,10000p,200000b,80000s
 
