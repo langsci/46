@@ -32,7 +32,7 @@ all:
 	@echo
 	@echo " === LAST RUN === "
 	@echo
-	-$(LX) $(TEXFLAGS) $(FILEN) | grep 'Warning'
+	-$(LX) $(TEXFLAGS) $(FILEN) 
 
 view:
 	open $(FILEN).pdf &

@@ -1,4 +1,3 @@
-%add all your local new commands to this file
 
 \newenvironment{listLileveli}{\begin{enumerate}}{\end{enumerate}}
 \newenvironment{listLilevelii}{\begin{enumerate}}{\end{enumerate}}
@@ -66,9 +65,11 @@
 \newcommand{\REq}{\ensuremath{=}}
 \newcommand{\Opsional}{★~}
 \newcommand{\Nono}{---}
-
 \newcommand{\Sub}[1]{\ensuremath{_{\text{#1}}}}
 \newcommand{\Up}[1]{\ensuremath{^{\text{#1}}}}
+\newcommand{\TuBegin}{\ding{217}}
+\newcommand{\TuEnd}{}
+\newcommand{\Folgt}{\ding{217}}
 
 % xyling
 \newcommand{\QQw}[1][-]{\POS[]+(-4,-1)-(4,4);\POS[]+(0,-1)+(8,4)**\frm{#1}}
@@ -81,11 +82,6 @@
 \newcommand{\Bbeldash}[2][0]{\POS[]-(0,9)\POS+(0,#1)\ar@{--}[#2]+(0,2)}
 \newcommand{\Bbel}[1]{\Bk{-4}{0}{#1}}
 
-% Für Anfangsrand/Endrand in Phonologie
-%\newcommand{\Rxx}[3]{\POS[]+(#1,-1.2)\ar@{-}[#3]-(#2,1.2)}
-%\newcommand{\Rxxx}[4]{\POS[]+(#1,-1.2)\ar@{-}[#4]-(#2,#3)}
-
-
 % boxes and stuff for definitions, axioms etc.
 \definecolor{textblue}{rgb}{0,0,.5}
 \definecolor{textred}{rgb}{.5,0,0}
@@ -94,35 +90,8 @@
 \definecolor{lightgreen}{rgb}{.9,1,.9}
 \definecolor{lightred}{rgb}{1,.9,.9}
 \definecolor{lightyellow}{rgb}{1,1,.8}
-\definecolor{lightgray}{rgb}{.9,.9,.9}
+\definecolor{lightgray}{rgb}{.88,.88,.88}
 
-
-\setlength{\fboxsep}{0.04\textwidth}
-
-\newcommand{\htb}[4][] % /1:headline/2:color/3:width/4:text/
-{
-	\vspace{0.2cm}
-	\noindent\colorbox{#2}{
-	\begin{minipage}[h]{#3}
-	  \ifthenelse{\equal{#1}{}}{}{\large \textbf{#1}\par\vspace{12pt}}
-		\rmfamily\normalsize #4 \hfill
-	\end{minipage}
-	}
-	\vspace{0.2cm}
-}
-
-
-\newcommand{\htbb}[4][] % /1:headline/2:color/3:width/4:text/
-{
-	\vspace{0.2cm}
-	\noindent\colorbox{#2}{
-	\begin{boxedminipage}[h]{#3}
-		\ifthenelse{\equal{#1}{}}{}{\large \textbf{#1}\par\vspace{12pt}}
-		\rmfamily\normalsize #4 \hfill
-	\end{boxedminipage}
-	}
-	\vspace{0.2cm}
-}
 
 
 % bookkeeping of own environments for definitions etc.
@@ -165,36 +134,77 @@
 % if not using hyperref, redefine this as empty:
 \newcommand{\Phantom}{\phantomsection}
 
-% special reading aids
-\newcommand{\TuBegin}{\ding{217}}
-\newcommand{\TuEnd}{}
-\newcommand{\Folgt}{\ding{217}}
 
-\newcommand{\Definition}[2]{\refstepcounter{dgdef}\vspace{0.2cm}\htb[Definition \thechapter.\arabic{dgdef}\ #1]{lightgray}{\textwidth-2.1\fboxsep}{#2}\vspace{0.2cm}}
+% Basic gray box
+\setlength{\fboxsep}{5mm}
+\newcommand{\htb}[4][] % {headline}{color}{text}{icon}
+{%
+	\vspace{9mm}
+	\noindent\colorbox{#2}{
+	\begin{minipage}[h]{\textwidth-1.15cm}
+	  \begin{flushleft}
+	    \hspace*{0mm}\raisebox{0mm}[0mm][0mm]{%
+	      \color{white}%
+	      \includegraphics[width=10mm]{langsci/graphics/#4}%
+	    }
+	  \end{flushleft}
+	  \sffamily\large \textbf{#1}\\[5mm]
+		\rmfamily\normalsize #3 \hfill
+	\end{minipage}
+	}
+	\vspace{0.5cm}
+}
+
+
+\newcommand{\Definition}[2]{
+  \refstepcounter{dgdef}
+  \htb[\textit{#1}\hfill(Definition \thechapter.\arabic{dgdef})]{lightgray}{#2}{law}
+}
+
+
+\newcommand{\Satz}[2]{
+  \refstepcounter{dgsatz}
+  \htb[\textit{#1}\hfill(Satz \thechapter.\arabic{dgsatz})]{lightgray}{#2}{bulb}
+}
+
 
 \newcommand{\WFiltTree}[6]{
   \refstepcounter{deskgram-wfilt}
-  \vspace{0.2cm}
-  \htb[Wortklassenfilter \arabic{deskgram-wfilt}\ {#1}]{lightgray}{\textwidth-2.1\fboxsep}{
+  \htb[\textit{#1}\hfill(Wortklassenfilter \arabic{deskgram-wfilt})]{lightgray}{
     \label{#2}
-    \centering
+    \vspace{-1cm}
+    \begin{center}
       \Treek[1]{3}{
 	&& \K{#3}\B{d} && \\
 	&& \K{#4}\B{dl}_{\textrm{Ja}}\B{dr}^{\textrm{Nein}} && \\
 	& \K{#5} && \K{#6} & \\
-      }
-  }
-  }
+      }\end{center}
+    \vspace{-5mm}
+  }{law}
+}
 
 
-\newcommand{\Satz}[2]{\refstepcounter{dgsatz}\vspace{0.2cm}\htb[Satz \thechapter.\arabic{dgsatz}\ {#1}]{lightgray}{\textwidth-2.1\fboxsep}{#2}\vspace{0.2cm}}
 
-\newcommand{\PholProz}[2]{\refstepcounter{deskgram-pholproz}\vspace{0.2cm}\htb[Prozess \arabic{deskgram-pholproz}\ {#1}]{lightgray}{\textwidth-2.1\fboxsep}{\vspace{-0.5cm}\begin{center}#2\end{center}\vspace{-0.5cm}}\vspace{0.5cm}}
+\newcommand{\KTest}[2]{
+  \htb[\textit{#1}]{lightgray}{#2}{law}
+}
 
-\newcommand{\KTest}[2]{\vspace{0.2cm}\htb[#1]{lightgray}{\textwidth-2.1\fboxsep}{#2}\vspace{0.2cm}}
 
-\newcommand{\Phrasenschema}[2]{\refstepcounter{deskgram-strsch}\vspace{0.2cm}\htb[Phrasenschema \arabic{deskgram-strsch}\ {#1}]{lightgray}{\textwidth-2.1\fboxsep}{\vspace{-0.4cm}\begin{center}#2\end{center}}\vspace{0.2cm}}
+\newcommand{\Phrasenschema}[2]{
+  \refstepcounter{deskgram-strsch}
+  \htb[\textit{#1}\hfill(Phrasenschema \arabic{deskgram-strsch})]{lightgray}{%
+    \vspace{-0.4cm}%
+    \begin{center}%
+      #2%
+    \end{center}%
+  }{law}%
+}
 
+
+
+
+
+% OLD "further reading"
 \newcommand{\WeitereLiteratur}{
   \Phantom
   \addcontentsline{toc}{chapter}{Weiterführende Literatur zu \thepart}
@@ -202,14 +212,8 @@
   \markboth{Weiterführende Literatur zu \thepart}{Weiterführende Literatur zu \thepart}
 }
 
-\newcommand{\Zusammenfassung}{
-%  \clearpage
-  \Phantom
-  \addcontentsline{toc}{section}{Zusammenfassung von Kapitel \thechapter}
-  \section*{Zusammenfassung von Kapitel \thechapter}
-  \markboth{Zusammenfassung von Kapitel \thechapter}{Zusammenfassung von Kapitel \thechapter}
-}
 
+% Excercises.
 \newcounter{Exer}[chapter]
 
 \newcommand{\Uebung}[1][\twostar]{\par\medskip\refstepcounter{Exer}\noindent\textbf{Übung~\arabic{Exer}}~#1\ }
