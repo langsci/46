@@ -14,7 +14,7 @@ Der Baum baut sich über dem Kopf gerade nach oben auf, zu ihm dependente Konsti
 Insgesamt kann so in der praktischen Analyse immer mit einem linear aufgeschriebenen Satz begonnen werden, über dem dann der Baum konstruiert wird.
 In Abschnitt~\ref{sec:syntaxana} wird zum Schluss dieses Kapitels noch eine kleine Anleitung gegeben, wie Analysen von Konstituentenstrukturen in diesem Sinn systematisch konstruiert werden können.
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree[1.5]{
     \K{PP}\B{dd}\B{drr} &&&& \\
@@ -82,7 +82,7 @@ Die koordinierten Teilstrukturen werden an dieser Stelle dabei jeweils nicht wei
   \end{xlist}
 \end{exe}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     & \K{\textbf{N}}\B{dl}\B{d}\B{dr} & \\
@@ -93,7 +93,7 @@ Die koordinierten Teilstrukturen werden an dieser Stelle dabei jeweils nicht wei
   \label{fig:koorsubst}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&& \K{S}\B{dll}\B{d}\B{drr} \\
@@ -104,7 +104,7 @@ Die koordinierten Teilstrukturen werden an dieser Stelle dabei jeweils nicht wei
   \label{fig:koorsatz}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     & \K{\textbf{P}}\B{dl}\B{d}\B{dr} \\
@@ -191,7 +191,7 @@ Im Bereich der inneren Rechtsattribute und der Relativsätze gibt es auch Einsch
   \end{xlist}
 \end{exe}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     \K{NP}\B{d} \\
@@ -202,7 +202,7 @@ Im Bereich der inneren Rechtsattribute und der Relativsätze gibt es auch Einsch
   \label{fig:pronngr1}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     \K{NP}\B{d}\B{drr} \\
@@ -220,7 +220,7 @@ Wenn es nur ein solches Element gibt, ist es in der hier vertretenen Art der Gra
 In den folgenden Unterabschnitten werden die einzelnen Attribute und die Artikel diskutiert.
 Die Relativsätze werden später in Abschnitt~\ref{sec:relativsaetze} besprochen.
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     \K{NP}\B{d} & \\
@@ -248,18 +248,18 @@ Da wir PP-Strukturen noch nicht beschrieben haben (s.\ Abschnitt~\ref{sec:prpgr}
   \end{xlist}
 \end{exe}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree[0.5]{
     \K{NP}\B{d}\B{drr} & \\
     \K{\textbf{N}}\B{d} && \K{PP}\TRi[-2] \\
-    \K{\textit{Zahnbürsten}} && \K{\textit{von dem König}} & \\
+    \K{\textit{Zahnbürsten}} && \K{\textit{vom König}} & \\
   }
   \caption{NP mit PP}
   \label{fig:ngrmitprpgr}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     \K{NP}\B{d}\B{drr} & \\
@@ -286,7 +286,7 @@ Neben der PP mit \textit{von} können aber viele andere Arten von PPs (und auch 
   \end{xlist}
 \end{exe}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     \K{NP}\B{d}\B{drr}\B{drrrr} \\
@@ -347,7 +347,7 @@ Die Substantive in der PP wurden hier ausgetauscht, um zu zeigen, dass nicht etw
 \index{Akkusativ}
 
 Bei der Substantivierung transitiver Verben (solche, die einen Nominativ und einen Akkusativ regieren) wird der Akkusativ beim Verb regelhaft in einen Genitiv beim Substantiv umgesetzt, vgl.\ (\ref{ex:grp8970}).
-Der Genitiv tritt hier als inneres Rechtsattribut auf, als sogenannter postnominaler Genitiv.
+Der Genitiv tritt hier als inneres Rechtsattribut auf, als sogenannter \textit{postnominaler Genitiv}.
 Alternativ ist auch wie in (\ref{ex:grp8970c}) die \textit{von}-PP möglich (ggf.\ umgangssprachlich).
 Die Genitive, die auf diese Weise auf Akkusative bezogen sind, nennt man \textit{Objektsgenitive}.
 Wir nennen hier den Objektsgenitiv und die ähnliche \textit{von}-PP zusammen \textit{Objektsattribute}.
@@ -375,7 +375,7 @@ Ausführliches zur Artikelposition folgt in Abschnitt~\ref{sec:adjektiveundartik
   \end{xlist}
 \end{exe}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&& \K{NP}\B{dll}\B{d}\B{drr}\B{drrrr} \\
@@ -438,7 +438,7 @@ Tabelle~\ref{tab:verbnomenvalenz} fasst die typischen Korrespondenzen zusammen, 
   \end{xlist}
 \end{exe}
 
-\begin{table}
+\begin{table}[!htbp]
   \resizebox{\textwidth}{!}{
     \begin{tabular}{lll}
       \lsptoprule
@@ -482,7 +482,7 @@ Eine AP links vom Kopf ist niemals eine Ergänzung und niemals regiert.%
 \footnote{Hier werden nur APs gezeigt, die aus einem einfachen A ohne weitere Konstituenten bestehen, da die Struktur der AP erst in Abschnitt~\ref{sec:agr} erklärt wird.
 Das Abkürzungsdreieck muss trotzdem stehen, da wir die einzelnen Adjektive nicht als Wörter in die größere Phrase einbinden, sondern als vollständige Phrase.
 Würden wir statt des Dreiecks hier eine einfache Linie nehmen, käme das der Behauptung gleich, die Adjektive seien schon im Lexikon AP.
-Das kann man durchaus so modellieren, aber für die praktische grammatische Analyse ist es nach der hier vertretenen Auffassung besser, zwischen Wortart im Lexikon und Phrase im grammatischen Aufbau auf diese Weise zu trennen.}
+Das kann man durchaus so modellieren, aber für die praktische grammatische Analyse ist es nach der hier vertretenen Auffassung besser, zwischen Wortart im Lexikon und Phrase im grammatischen Aufbau auf diese Weise zu unterscheiden.}
 Dies kann man leicht daran erkennen, dass beliebig viele von ihnen vorkommen können, vgl. (\ref{ex:grp0718}) und die Analysen dazu in den Abbildungen~\ref{fig:grp0718a} und \ref{fig:grp0718b}.
 In den Beispielen sieht man auch, dass das Vorhandensein der PP oder NP rechts keinen Einfluss auf die Anwesenheit der AP hat oder umgekehrt.
 Beide sind völlig unabhängig voneinander.
@@ -495,7 +495,7 @@ Beide sind völlig unabhängig voneinander.
   \end{xlist}
 \end{exe}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&& \K{NP}\B{dll}\B{d}\B{drr} \\
@@ -506,7 +506,7 @@ Beide sind völlig unabhängig voneinander.
   \label{fig:grp0718a}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&&&& \K{NP}\B{dllll}\B{dll}\B{d} \\
@@ -522,7 +522,7 @@ Man kann alternativ auch versuchen, das Vorhandensein mehrerer APs in der NP als
 Diese Struktur ist in Abbildung~\ref{fig:ngradjkonj} zu sehen, wo informell die fehlende Konjunktion von einem Komma vertreten wird.
 Das Adjektiv \textit{ehemalig} wurde bewusst gegen \textit{nett} ausgetauscht.
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&&&&&&& \K{NP}\B{dllll}\B{dd} \\
@@ -559,7 +559,7 @@ Schließlich können optional noch Artikelwörter oder NPs im Genitiv ganz links
   \end{xlist}
 \end{exe}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&&& \K{NP}\B{dllll}\B{dll}\B{d}\B{drr}\B{drrrr} \\
@@ -576,7 +576,7 @@ Dank der Weglassbarkeit aller Teile der Phrase zwischen Artikel und Substantiv w
   \ex{\label{ex:artsubst} Man hat [einige Zahnbürsten] im Hotel gefunden.}
 \end{exe}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     && \K{NP}\B{dll}\B{d} \\
@@ -645,8 +645,8 @@ Die Intensivierer treten in Form von Partikeln (\zB \textit{sehr}, \textit{voll}
 Die Bezeichnung \textit{Intensivierer} in Schema~\ref{str:agr} ist damit eine Sammelbezeichnung ähnlich wie \textit{innere Rechtsattribute} in Schema~\ref{str:ngr}.
 Typische Angaben, die links von der Intensiviererposition stehen, sind \zB temporale oder lokale wie \textit{seit gestern} in \textit{seit gestern berühmt} oder \textit{in Hessen} wie in \textit{in Hessen beliebt}. 
 Einige APs werden in (\ref{ex:adjgrnormal}) bebeispielt.
-In (\ref{ex:adjgrnormalc}) und (\ref{ex:adjgrnormald}) zeigt sich auch die Nichtvertauschbarkeit der Modifikatoren und Intensivierer.
-Ein Analyse von (\ref{ex:adjgrnormalc}) in Baumform findet sich in Abbildung~\ref{fig:adgrnormalana}.
+In (\ref{ex:adjgrnormalc}) und (\ref{ex:adjgrnormald}) zeigt sich auch die Nichtvertauschbarkeit der Modifizierer und Intensivierer.
+Eine Analyse von (\ref{ex:adjgrnormalc}) in Baumform findet sich in Abbildung~\ref{fig:adgrnormalana}.
 
 \begin{exe}
   \ex\label{ex:adjgrnormal}
@@ -658,7 +658,7 @@ Ein Analyse von (\ref{ex:adjgrnormalc}) in Baumform findet sich in Abbildung~\re
   \end{xlist}
 \end{exe}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&&&& \K{AP}\B{dll}\B{dllll}\B{d} \\
@@ -689,7 +689,7 @@ In prädikativen APs sind die Stellungsmöglichkeiten etwas anders (Abschnitt~\r
   \end{xlist}
 \end{exe}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&& \K{AP}\B{dll}\B{d} \\
@@ -700,7 +700,7 @@ In prädikativen APs sind die Stellungsmöglichkeiten etwas anders (Abschnitt~\r
   \label{fig:erginadjgr}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&&&&&& \K{AP}\B{dllllll}\B{dllll}\B{dll}\B{d} \\
@@ -729,9 +729,9 @@ In prädikativen APs sind die Stellungsmöglichkeiten etwas anders (Abschnitt~\r
 
 Alle Präpositionen haben eine strikt einstellige Valenz.
 Sie nehmen genau eine niemals fakultative NP als Ergänzung und regieren ihren Kasus.
-Außerdem können sie von Modifizierern (darunter Maßangaben im Akkusativ) modifiziert werden, die immer links stehen und nie regiert sind.
+Außerdem können sie von \textit{Modifizierern} (darunter Maßangaben im Akkusativ) modifiziert werden, die immer links stehen und nie regiert sind.
 Entsprechende Beispiele und Strukturen finden sich in (\ref{ex:prpgrallg}).
-Einen Modifikator in Form eines Adjektivs (\textit{weit}) zeigt (\ref{ex:prpgrintensiv}).
+Einen Modifizierer in Form eines Adjektivs (\textit{weit}) zeigt (\ref{ex:prpgrintensiv}).
 
 \begin{exe}
   \ex\label{ex:prpgrallg}
@@ -742,7 +742,7 @@ Einen Modifikator in Form eines Adjektivs (\textit{weit}) zeigt (\ref{ex:prpgrin
   \ex{\label{ex:prpgrintensiv} Seit den London Masters spielt Carter [weit unter [seinem Niveau]].}
 \end{exe}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&& \K{PP}\B{dll}\B{d}\B{drr} \\
@@ -753,14 +753,14 @@ Einen Modifikator in Form eines Adjektivs (\textit{weit}) zeigt (\ref{ex:prpgrin
   \label{fig:prpgrmitakkmod}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     & \K{PP}\B{dl}\B{d}\B{drr} \\
     \K{Ptkl}\B{d} & \K{\textbf{P}}\B{d} && \K{NP}\TRi[-1] \\
     \K{\textit{weit}} & \K{\textit{unter}} && \K{\textit{seinem Niveau}} &\\
   }
-  \caption{PP mit Intensivierer}
+  \caption{PP mit Modifizierer}
   \label{fig:prpgrmitadvmod}
 \end{figure}
 
@@ -768,13 +768,13 @@ Einen Modifikator in Form eines Adjektivs (\textit{weit}) zeigt (\ref{ex:prpgrin
 
 Für die im Deutschen sehr seltenen \textit{Postpositionen} (\zB \textit{wegen}, \textit{halber}) wird aus Platzgründen kein gesondertes Schema angegeben.
 Die regierte NP steht bei ihnen vor dem Kopf statt nach dem Kopf.
-Ein Beispiel ist (\ref{ex:postpos}), wobei bei \textit{wegen} sowohl eine präpositionale als auch eine postpositionale Variante hat.
+Ein Beispiel ist (\ref{ex:postpos}), wobei \textit{wegen} sowohl eine präpositionale als auch eine postpositionale Variante hat.
 
 \begin{exe}
   \ex{\label{ex:postpos} [[Der Sprechstunde] wegen] habe ich mein Training verpasst.}
 \end{exe}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&& \K{PP}\B{dll}\B{d} \\
@@ -795,7 +795,7 @@ Einen Problemfall stellen die flektierbaren Präpositionen wie \textit{zur}, \te
 Die einfachste Möglichkeit wäre, sie nicht als eine, sondern zwei Wortformen zu analysieren.
 Das sähe dann aus wie in Abbildung~\ref{fig:flektprpreanalyse}.
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     \K{PP}\B{dd}\B{drr} \\
@@ -813,7 +813,7 @@ Außerdem werden in dieser die \textsc{Genus}- und \textsc{Numerus}-Werte der NP
 Eine solche Analyse wird in \ref{fig:flektprpalswortform} gezeigt.
 Wir entscheiden uns hier für diese Variante.
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     \K{PP}\B{dd}\B{dr} \\
@@ -839,7 +839,7 @@ Wir entscheiden uns hier für diese Variante.
   \end{tabular}
 }
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&& \K{AdvP}\B{dll}\B{d} \\
@@ -851,7 +851,7 @@ Wir entscheiden uns hier für diese Variante.
 \end{figure}
 
 Adverben verhalten sich bezüglich der Phrasenbildung wie Präpositionen ohne Valenz, also ohne die NP-Ergänzung.
-Auch bei ihnen sind Maßangaben und andere Modifikatoren möglich, wie in (\ref{ex:advgrintensiv}).
+Auch bei ihnen sind Maßangaben und andere Modifizierer möglich, wie in (\ref{ex:advgrintensiv}).
 
 \begin{exe}
   \ex\label{ex:advgrintensiv} 
@@ -889,7 +889,7 @@ Die grammatischen und ungrammatischen Beispielsätze in (\ref{ex:substval}) illu
   \end{xlist}
 \end{exe}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     \K{KP}\B{d}\B{drr} \\
@@ -932,7 +932,7 @@ Die Verbphrase enthält das Verb als Kopf und links davon die Ergänzungen des V
 Die Ergänzungen können vergleichsweise beliebig mit Angaben (PP, AdvP, seltener auch NP) gemischt werden.
 Im Deutschen gibt es darüber hinaus für die Kombination von finiten und infiniten Verbformen (s.\ Abschnitt~\ref{sec:finit}) innerhalb der VP spezielle Regularitäten, die hier gesondert im Schema des \textit{Verbalkomplexes} kodiert werden.
 Wir stellen Verbalkomplexe hier so dar, dass die Kombination aus dem finiten und den von ihm direkt oder indirekt abhängenden infiniten Verben immer das Symbol V erhalten.
-Zahlreiche Beispiele folgen nach den Phrasenschemata.
+Zahlreiche Beispiele folgen nach den Phrasenschemata~\ref{str:vgr} und \ref{str:vk} in den Abschnitten~\ref{sec:verbphrase} und \ref{sec:verbkomplexe}.
 
 \index{Verbphrase}
 
@@ -987,7 +987,7 @@ Wenn wir fürs Erste auch den Verbalkomplex nicht genauer betrachten, sondern nu
 \end{xlist} 
 \end{exe}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&& \K{VP}\B{dll}\B{d} \\
@@ -998,7 +998,7 @@ Wenn wir fürs Erste auch den Verbalkomplex nicht genauer betrachten, sondern nu
   \label{fig:vgreinstellig}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&&&& \K{VP}\B{dllll}\B{dll}\B{d} \\
@@ -1009,7 +1009,7 @@ Wenn wir fürs Erste auch den Verbalkomplex nicht genauer betrachten, sondern nu
   \label{fig:vgrzweistellig}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&&&&&& \K{VP}\B{dllllll}\B{dllll}\B{dll}\B{d} \\
@@ -1020,7 +1020,7 @@ Wenn wir fürs Erste auch den Verbalkomplex nicht genauer betrachten, sondern nu
   \label{fig:vgrdreistellig}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \resizebox{\textwidth}{!}{
     \Tree[0.1]{
       &&&&&&&&&&&&& \K{VP}\B{ddllllllllllll}\B{ddllllllllll}\B{ddllllllll}\B{ddllllll}\B{ddllll}\B{ddll}\B{dd} \\
@@ -1079,7 +1079,7 @@ Beispiele dafür sind (\ref{ex:auxinfa})--(\ref{ex:auxinfc}).
   \end{xlist}
 \end{exe}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     \K{\textbf{V}}\B{d} \\
@@ -1095,7 +1095,7 @@ Da man zwei oder mehr Verben im Verbalkomplex kombinieren kann, ist das Schema f
 In den Abbildungen~\ref{fig:vkomplex0}--\ref{fig:vkomplex3} finden sich Analysen der Verbalkomplexe aus (\ref{ex:auxinf}) mit einer zusätzlichen Numerierung, die im Folgenden sofort erklärt wird.
 Außerdem zeigen Pfeile die Rektionsbeziehungen an.
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&& \K{\textbf{V}}\B{dll}\B{d} \\
@@ -1111,7 +1111,7 @@ Außerdem zeigen Pfeile die Rektionsbeziehungen an.
   \label{fig:vkomplex2}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&&&& \K{\textbf{V}}\B{dll}\B{dd} \\
@@ -1127,7 +1127,7 @@ Außerdem zeigen Pfeile die Rektionsbeziehungen an.
 \index{Status}
 
 Die hierarchische Ordnung im Verbalkomplex ist davon geprägt, dass jeder der Verbköpfe seine eigene Valenz hat.
-Bereits in Abschnitt~\ref{sec:infinflex} wurde gesagt, dass bestimmte Verben andere Verben als Ergänzungen nehmen können, und dass sie dabei deren Status regieren (vgl.\ Abschnitt~\ref{sec:infinflex}).
+Bereits in Abschnitt~\ref{sec:infinflex} wurde gesagt, dass bestimmte Verben andere Verben als Ergänzungen nehmen können, und dass sie dabei deren Status regieren.
 Die infragekommenden Formen sind der reine Infinitiv (der \textit{erste Status}), der Infinitiv mit \textit{zu} (der \textit{zweite Status}) und das Partizip (der \textit{dritte Status}).
 Wenn wie in (\ref{ex:auxinfa}) bzw.\ Abbildung~\ref{fig:vkomplex2} (linker Baum) das Futurhilfsverb \textit{werden} verwendet wird, muss das von \textit{werden} abhängige Vollverb immer im ersten Status stehen.
 Konstruktionen wie in (\ref{ex:futursterr}) sind nicht möglich (\ref{ex:futursterra}) bzw.\ sind keine Futurformen (\ref{ex:futursterrb}).
@@ -1147,21 +1147,21 @@ Hier steht \textit{gegessen} im dritten Status und erfüllt damit die Rektionsan
 
 Genauso haben Modalverben wie \textit{wollen} eine Valenz und Status-Rektion.
 Alle Modalverben regieren den ersten Status.
-In (\ref{ex:auxinfc}) bzw.\ Abbildung~\ref{fig:vkomplex3} bilden drei die Verben dadurch eine von hinten nach vorne zu lesende Kette von Rektionsbeziehungen.
-Das Futur-Hilfsverb \textit{werden} regiert den ersten Status der Modalverbs \textit{wollen}, und \textit{wollen} regiert den ersten Status des Vollverbs \textit{kaufen}.
+In (\ref{ex:auxinfc}) bzw.\ Abbildung~\ref{fig:vkomplex3} bilden die drei Verben dadurch eine von hinten nach vorne zu lesende Kette von Rektionsbeziehungen.
+Das Futur-Hilfsverb \textit{werden} regiert den ersten Status des Modalverbs \textit{wollen}, und \textit{wollen} regiert den ersten Status des Vollverbs \textit{kaufen}.
 Verben, die einen Status regieren (wie \textit{werden} und \textit{wollen} im gegebenen Beispiel) haben also Kopfcharakter.
 Dass in (\ref{ex:auxinfc}) bzw.\ Abbildung~\ref{fig:vkomplex3} \textit{kaufen} auch Kopfeigenschaften haben muss, ergibt sich aus dem restlichen Aufbau der VP.
-Das Verb \textit{kaufen} ist maßgeblich für die Ergänzungen und Angaben, die in der VP stehen.
+Das Verb \textit{kaufen} ist maßgeblich für die Ergänzungen und Angaben verantwortlich, die in der VP stehen.
 Im Vergleichssatz in (\ref{ex:vkrekexta}) besteht der Verbalkomplex nur aus einem finiten \textit{kaufen}, aber der Rest der VP ist genauso gebaut wie in (\ref{ex:auxinfc}).
 Nach außen wird die Valenz des Verbalkomplexes also immer vom lexikalischen Verb bestimmt.
-Die Kongruenzeigenschaften (Numerus und Person) werden am Verb, das in der Rektionshierarchie am höchsten steht realisiert.
+Die Kongru\-enz\-ei\-gen\-schaf\-ten (Numerus und Person) werden am Verb, das in der Rektionshierarchie am höchsten steht, realisiert.
 In (\ref{ex:auxinfc}) ist das \textit{wird} und in (\ref{ex:vkrekexta}) \textit{kauft}.
 
 \begin{exe}
   \ex{\label{ex:vkrekexta} dass die Mutter das Eis kauft}
 \end{exe}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
     &&&&&&&&& \K{VP}\B{ddddllllllll}\B{ddddllllll}\B{dd} \\
@@ -1176,12 +1176,15 @@ In (\ref{ex:auxinfc}) ist das \textit{wird} und in (\ref{ex:vkrekexta}) \textit{
   \label{fig:vkrekext}
 \end{figure}
 
-Die Zahlen 1, 2 und 3 unter den Verben führen dabei lediglich eine in der germanistischen Linguistik übliche Art und Weise ein, über die Reihenfolge und die Rektionsabhängigkeiten der Verben im Verbalkomplex zu sprechen.
-Die Zahlen geben die Rektionsabfolge wieder und dürfen nicht mit Bestimmungen des Status verwechselt werden.
-Die Reihenfolge, in der sie stehen, entspricht der linearen Abfolge (und eben nicht der Rektionshierarchie) der korrespondierenden Elemente im Verbalkomplex.
-Dabei gilt, dass das Verb mit Nummer 1 das Verb mit Nummer 2 regiert, welches wiederum das Verb mit Nummer 3 regiert.
-Die 3 entfällt selbstverständlich, wenn der Komplex nur aus zwei Verben besteht, wie in (\ref{ex:auxinfa}) und (\ref{ex:auxinfb}).
-Ein sogenannter \textit{321-Komplex} ist ein Verbalkomplex wie in (\ref{ex:auxinfc}), also einer, in dem zwei statusregierende Verben und ein Vollverb vorkommen, die in der Rektionshierarchie von hinten nach vorne geordnet sind.
+Die Zahlen 1, 2 und 3 unter den Verben führen dabei eine in der germanistischen Linguistik übliche Art und Weise ein, über die Reihenfolge und die Rektionsabhängigkeiten der Verben im Verbalkomplex zu sprechen.
+Die Zahlwerte kodieren die Rektionshierarchie:
+Das mit \textit{n} beschriftete Element regiert immer das mit \textit{n+1} beschriftete Element.
+Das Verb mit Nummer 1 regiert also das Verb mit Nummer 2, welches wiederum das Verb mit Nummer 3 regiert.
+Die 3 entfällt selbstverständlich, wenn der Komplex nur aus zwei Verben besteht, wie in (\ref{ex:auxinfa}) und (\ref{ex:auxinfb}).%
+\footnote{Die Zahlen dürfen nicht mit Bestimmungen des Status verwechselt werden.}
+Die Reihenfolge, in der die Zahlen stehen, entspricht der linearen Abfolge (und eben nicht der Rektionshierarchie) der Elemente im Verbalkomplex.
+Ein sogenannter \textit{321-Komplex} ist typischerweise ein Verbalkomplex wie in (\ref{ex:auxinfc}).
+Dort kommen zwei statusregierende Verben und ein Vollverb vor, die in der Rektionshierarchie von hinten nach vorne angeordnet sind.
 Die wichtigste Abweichung vom 321-Komplex wird in Abschnitt~\ref{sec:ersiofu} besprochen.
 
 \section{Konstruktion von Konstituentenanalysen}
@@ -1191,7 +1194,7 @@ Die wichtigste Abweichung vom 321-Komplex wird in Abschnitt~\ref{sec:ersiofu} be
 
 Abschließend wird kurz darauf eingegangen, wie man Analysen von Konstituentenstrukturen konstruktiv angehen kann.
 Je komplexer die Strukturen werden, umso schwerer ist es erfahrungsgemäß, durch einfache Intuition eine angemessene Analyse zu finden.
-Einige wichtige bereits bekannte syntaktische Prinzipien helfen aber bei einem systematischen Vorgehen.
+Einige wichtige, bereits bekannte syntaktische Prinzipien helfen aber bei einem systematischen Vorgehen.
 Einerseits wird der Aufbau der syntaktischen Struktur durch die Wortklasse (und weitere grammatische Merkmale) der Wörter bestimmt.
 Außerdem bestimmen Valenz und Rektion in großem Maß die Syntax.
 Schließlich gilt, dass wir nur Strukturen annehmen wollen, für die Phrasenschemata definiert wurden.
@@ -1216,7 +1219,7 @@ Der Ablauf einer solchen Analyse wird jetzt anhand der KP in (\ref{ex:phrasen237
 
 Zunächst muss gemäß Punkt~\ref{it:sya01} aus Satz~\ref{satz:syntaxana} für jedes Wort die Wortklasse bestimmt werden, s.\ Abbildung~\ref{fig:sya01}.
 
-\begin{figure}
+\begin{figure}[!htbp]
 %  \resizebox{\textwidth}{!}{
     \Tree[1.25]{
       \K{K}\B{d} & \K{N}\B{d} & \K{Art}\B{d} & \K{A}\B{d} & \K{N}\B{d} & \K{Adv}\B{d} & \K{V}\B{d} & \K{V}\B{d} \\
@@ -1235,7 +1238,7 @@ Gemäß Strukturschema \ref{str:agr} kann vor einem Adjektiv in einer AP dabei n
 Da vor dem Adjektiv ein Artikel steht, können wir sicher sein, dass die AP hier nur aus dem Adjektiv besteht.
 Eine ähnliche Schlussfolgerung kann für das Adverb \textit{gerne} getroffen werden, und wir erhalten Abbildung~\ref{fig:sya02}.
 
-\begin{figure}
+\begin{figure}[!htbp]
 %  \resizebox{\textwidth}{!}{
     \Tree[1.25]{
       & \K{NP}\B{d} && \K{AP}\B{d} && \K{AdvP}\B{d} \\
@@ -1258,7 +1261,7 @@ Man erhält also im nächsten Schritt Abbildung~\ref{fig:sya03}.%
 \footnote{Einige Symbole, \zB Art, werden hier aus rein grafischen Gründen angehoben.
 Die Struktur des Baumes verändert sich dadurch nicht.}
 
-\begin{figure}
+\begin{figure}[!htbp]
 %  \resizebox{\textwidth}{!}{
     \Tree[1.25]{
       &&&& \K{NP}\B{dll}\B{dl}\B{dd} \\
@@ -1274,7 +1277,7 @@ Die Struktur des Baumes verändert sich dadurch nicht.}
 Bei der Suche nach valenzgebundenen Phrasen und ihren Köpfen gemäß Punkt \ref{it:sya03} aus Satz~\ref{satz:syntaxana} fällt als nächstes auf, dass mit \textit{trinken möchte} eine Folge aus einem infiniten Vollverb im ersten Status und einem finiten Modalverb vorliegt.
 Da sonst keine ersten Status im Satz vorkommen, saturiert \textit{trinken} offensichtlich die Valenzanforderung des Modalverbs, und der Verbalkomplex aus beiden kann gebildet werden, vgl.\ Abbildung~\ref{fig:sya04}.
 
-\begin{figure}
+\begin{figure}[!htbp]
 %  \resizebox{\textwidth}{!}{
     \Tree[1.25]{
       &&&& \K{NP}\B{dll}\B{dl}\B{dd} \\
@@ -1291,7 +1294,7 @@ Da \textit{trinken} ein transitives Verb ist und damit typischerweise eine NP im
 Solche NPs liegen in Form von \textit{Frida} (Nominativ) und \textit{den heißen Kaffee} (Akkusativ) vor.
 Wir können daher die VP in Abbildung~\ref{fig:sya05} annehmen.
 
-\begin{figure}
+\begin{figure}[!htbp]
 %  \resizebox{\textwidth}{!}{
     \Tree[1.25]{
       &&&&&&& \K{VP}\B{dllllll}\B{dlll}\B{dd} \\
@@ -1312,7 +1315,7 @@ Der Baum in Abbildung~\ref{fig:sya06} ist fertig.
 Dass er fertig ist, erkennt man daran, dass es einen einzigen Wurzelknoten gibt, nämlich den KP-Knoten, und dass alle anderen Knoten genau einen Mutterknoten haben.
 Für jeden Knoten gibt es außerdem ein Strukturschema, das ihn beschreibt.
 
-\begin{figure}
+\begin{figure}[!htbp]
  % \resizebox{\textwidth}{!}{
     \Tree[1.25]{
       \K{KP}\B{dddd}\B{drrrrrrr} \\

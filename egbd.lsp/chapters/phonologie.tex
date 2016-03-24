@@ -178,7 +178,7 @@ Die phonologische Repräsentation eines Wortes erfordert hingegen zusätzliches 
 Dieses Wissen erschließt sich durch die Betrachtung des gesamten Sprachsystems, also jedes Wortes in Bezug zu allen anderen Wörtern und in allen möglichen Umgebungen.
 Anders gesagt müssen die Verteilungen der Segmente und der Wörter bekannt sein.
 
-\begin{table}
+\begin{table}[!htbp]
   \resizebox{\textwidth}{!}{
     \begin{tabular}{ccc}
       \lsptoprule
@@ -259,7 +259,7 @@ Es ergibt sich das neue Vokalviereck in Tabelle~\ref{tab:vokalviereckmitgespannt
   \end{xlist}
 \end{exe}
 
-\begin{table}
+\begin{table}[!htbp]
   \centering
   \begin{tabular}{cp{2mm}p{2mm}cp{5mm}cp{5mm}cp{5mm}cp{5mm}cp{2mm}}
    \lsptoprule
@@ -316,7 +316,7 @@ Je nach Auffassung, was der Kernwortschatz ist, gilt im Kernwortschatz (auf jede
 Innerhalb des Kernwortschatzes gibt es damit die in Tabelle~\ref{tab:vokalviereckmitgespannt} durch Striche markierten Paare aus langen gespannten betonten und kurzen ungespannten betonten oder unbetonten Vokalen.
 Während die ungespannten betont oder unbetont auftreten können, sind die gespannten immer betont.
 
-\begin{table}
+\begin{table}[!htbp]
 	\centering
 	\begin{tabular}{cllp{0.25cm}cll}
 		\lsptoprule
@@ -569,7 +569,7 @@ Offensichtlich bilden Silben komplexere Strukturen aus, die sich um einen Vokal 
 Für unsere Zwecke ist der sich ergebende theoretische Unterschied vernachlässigbar.}
 Für die drei sich ergebenden Konstituenten der Silbe gibt es verschiedene Bezeichnungen, von denen hier \textit{Anfangsrand}, \textit{Kern} und \textit{Endrand} verwendet werden.
 Aus Gründen, die erst in Abschnitt~\ref{sec:einsilblerzweisilbler} diskutiert werden, hat es sich als nützlich erwiesen, Kern und Endrand zu einer eigenen Konstituente, dem \textit{Reim} zusammenzufassen.
-Neben Definition~\ref{def:kern} wird eine Baumdarstellung der allgemeinen Silbenstruktur in Abbildung~\ref{fig:silbenstruktur} und ein Beispiel (\textit{fremd}) in Abbildung~\ref{fig:phonstr} gegeben.
+Neben Definition~\ref{def:silbenstruktur} wird eine Baumdarstellung der allgemeinen Silbenstruktur in Abbildung~\ref{fig:silbenstruktur} und ein Beispiel (\textit{fremd}) in Abbildung~\ref{fig:phonstr} gegeben.
 In Abbildung~\ref{fig:silbenstruktur} werden C und V als Abkürzungen für \textit{Konsonant} und \textit{Vokal} verwendet und im Anfangs- und Endrand je zwei Konsonantenpositionen angenommen.
 In Abschnitt~\ref{sec:systematikderraender} wird argumentiert, dass dies tatsächlich die maximale Komplexität der Ränder ist.
 
@@ -578,13 +578,14 @@ Der \textit{Silbenkern} (der \textit{Nukleus}) wird immer durch einen Vokal oder
 Vor und nach dem Kern können Konsonanten stehen, die den \textit{Anfangsrand} (den \textit{Onset}) bzw.\ den \textit{Endrand} (die \textit{Coda}) bilden.
 Es gibt Silben mit leeren Anfangs- und\slash oder Endrändern, aber keine Silben mit leerem Kern.
 Kern und Endrand bilden den \textit{Reim}.
+\label{def:silbenstruktur}
 \index{Silbe!Kern}
 \index{Silbe!Anfangsrand}
 \index{Silbe!Endrand}
 \index{Silbe!Reim}
 }
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
 	 & & \K{Silbe}\B{ddll}\B{d} & & \\
@@ -604,7 +605,7 @@ Kern und Endrand bilden den \textit{Reim}.
   }
 }
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \ThePhonStr
   \caption{Beispiel für Silbenstruktur}
@@ -855,7 +856,7 @@ Auch hier behandeln wir also \textipa{[K]} und [l] wieder als eine Klasse (Liqui
 
 \index{Sonorität!Hierarchie}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \begin{tabular}{cp{0mm}c}
      \rnode{SOb}{maximal sonor} && \textbf{Vokale} \\
@@ -869,7 +870,7 @@ Auch hier behandeln wir also \textipa{[K]} und [l] wieder als eine Klasse (Liqui
   \label{fig:sonoritaetshierarchie}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \begin{tabular}{ccccccccccc}
   &&&& \rnode{V}{V} &&&& \\
@@ -903,7 +904,7 @@ Es gibt innerhalb einer Silbe keinen Sonoritätsanstieg nach einem Sonoritätsab
 \index{Sonorität}
 }
 
-\begin{table}
+\begin{table}[!htbp]
   \centering
     \begin{tabular}{cccccccccccp{0.5mm}l}
       \lsptoprule
@@ -938,7 +939,7 @@ Da Frikative eine höhere Sonorität haben als Plosive, steigt in diesen Fällen
 In Wörtern wie \textit{trittst} setzt sich das Problem sogar noch weiter fort, weil nach dem Anstieg ein weiterer Abfall folgt.
 In \textit{Herbsts} folgt nach dem [p] sogar eine Kontur aus Anstieg, Abstieg und erneutem Anstieg, s.\ Abbildung~\ref{fig:sonhierherbsts}.
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \begin{tabular}{cccccccc}
     V & & \rnode{herbsts02}{\textipa{E}} & & & & & \\
@@ -966,7 +967,7 @@ Es ergibt sich eine erweiterte Silbenstruktur in Abbildung~\ref{fig:silbenstrukt
 Im Vorgriff auf Abschnitt~\ref{sec:systematikderraender} nehmen wir an, dass maximal zwei Konsonanten (C) im Anfangs- und Endrand stehen können, und dass vor dem Anfangsrand ein extrasilbisches Segment (X) und nach dem Endrand maximal drei extrasilbische Segmente stehen können.
 Da die Konsonanten in den Rändern teilweise bestimmen, welche extrasilbischen Obstruenten vorkommen können, ist die Anlehnung an die Ränder eine plausible Darstellung.
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree{
 	 & & & \K{Silbe}\B{ddll}\B{d} & & & \\
@@ -982,7 +983,7 @@ Außerdem kann die Sonorität auch gleich bleiben, so dass sich \textit{Plateaus
 Abbildung~\ref{fig:sonhiersstrolchst} zeigt die Kontur des Wortes \textit{strolchst} mit extrasilbischem \textipa{[S]} vor dem Anfangsrand und einem Frikativ-Plateau im Endrand.
 In Abschnitt~\ref{sec:systematikderraender} werden Plateaus allerdings eliminiert, indem Plateaus bildendes Material auch als extrasilbisch aufgefasst wird.
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \begin{tabular}{ccccccccc}
     V &&&& \rnode{V1}{\textipa{O}} &&&& \\
@@ -1027,7 +1028,7 @@ Es ist \textit{extrasilbisch}.
 \newcommand{\Rxxx}[4]{\POS[]+(#1,-1.2)\ar@{-}[#4]-(#2,#3)}
 \newcommand{\Rxxxx}[5]{\POS[]+(#1,#2)\ar@{-}[#5]-(#3,#4)}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree[3]{
      \K{\small\textbf{extrasilbisch}} & \K{\small\textbf{Anfangsrand}} && \K{\small\textbf{Kern}} \\
@@ -1065,7 +1066,7 @@ Zwischen den beiden Liquiden an zweiter Stelle ist der einzige Unterschied, dass
 Die präferierte Besetzung des duplexen Anfangsrands ist die aus einem inneren Liquid und einem äußeren Obstruenten.
 Extrasilbisch tritt ggf.\ \textipa{[S]} vor den Anfangsrand.}
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree[3]{
      \K{\small\textbf{extrasilbisch}} & \K{\small\textbf{Anfangsrand}}\Below{\small\textbf{erste Pos.}} & \K{\small\textbf{Anfangsrand}}\Below{\small\textbf{zweite Pos.}} && \K{\small\textbf{Kern}} \\
@@ -1088,7 +1089,7 @@ Alle Kombinationen, die eine Verletzung der Sonoritätskontur darstellen würden
 Außerdem wird \textipa{[N]} als zugrundeliegendes Segment aus dem System eliminiert (mehr dazu weiter unten).
 Es ergibt sich Abbildung~\ref{fig:endranduplex}, die den duplexen Endrand ohne extrasilbisches Material abbildet.
 
-\begin{figure}
+\begin{figure}[!htbp]
   \Tree[3]{
   \K{\textbf{Kern}} && \K{\textbf{Endrand}}\Below{\textbf{erste Pos.}} & \K{\textbf{Endrand}}\Below{\textbf{zweite Pos.}} \\
                &&             & \K{k (g)} \\
@@ -1303,7 +1304,7 @@ Segmente, die Strukturpositionen in zwei aneinander angrenzenden Silben besetzen
 \index{Ambisyllabizität}
 }
 
-\begin{figure}
+\begin{figure}[!htbp]
   \centering
   \Tree[2]{
                          & \K{Wort}\B{d}\B{drrr}                                                                        \\
@@ -1339,7 +1340,7 @@ Unter der Annahme des Silbengelenks sind alle betonbaren Silben (also nicht Schw
 Kurze offene Silben gibt es damit nicht (außer Schwa-Silben).
 In scheinbar offenen Erstsilben von Mehrsilblern mit ungespanntem Vokal wird Zweimorigkeit dadurch hergestellt, dass der Konsonant im Anfangsrand der Folgesilbe durch seinen Status als Silbengelenk zum Silbengewicht der Erstsilbe zählt.}
 
-\begin{table}
+\begin{table}[!htbp]
 	\centering
 	\begin{tabular}{lll}
 		\lsptoprule
@@ -1610,7 +1611,7 @@ Im Fall von \textit{\Akz Tüte}, \textit{\Akz Ranzen}, \textit{\Akz Tische}, \te
 Tabelle~\ref{tab:dtfuesse} fasst einige wichtige Fußtypen zusammen, wobei der Einsilbler normalerweise nicht als eigener Fußtyp gezählt wird.
 Das zweisilbige Wort des deutschen Kernwortschatzes ist \textit{trochäisch}.
 
-\begin{table}
+\begin{table}[!htbp]
 \centering
 \begin{tabular}{lll}
   \lsptoprule
@@ -1647,7 +1648,7 @@ Der Übersichtlichkeit halber wird \textit{Anfangsrand} mit A, \textit{Endrand} 
 Weiterhin steht PhW für \textit{phonologisches Wort}, F für \textit{Fuß} und S für \textit{Silbe}.
 Das F-Symbol wird direkt über der Silbe aufgebaut, die im Fuß den Akzent trägt.
 
-\begin{figure}
+\begin{figure}[!htbp]
 	\centering
 	\Tree{
 	\K{} & \K{} & \K{} & \K{} & \K{PhW}\B{d} & \K{} & \K{} & \K{} \\ 
@@ -1717,7 +1718,7 @@ Für alle Ebenen dieser Analyse wurde unabhängig argumentiert, und es handelt s
 Im Gegenteil, denn verglichen mit aktuellen Analysen in der theoretischen Phonologie handelt es sich um eine Vereinfachung.
 
 
-\begin{figure}
+\begin{figure}[!htbp]
  \centering
 % \resizebox{\textwidth}{!}{
  \Tree{
