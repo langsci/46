@@ -91,7 +91,8 @@
 \definecolor{lightred}{rgb}{1,.9,.9}
 \definecolor{lightyellow}{rgb}{1,1,.8}
 \definecolor{lightgray}{rgb}{.88,.88,.88}
-
+\definecolor{lsLightgray}{gray}{0.88}
+\definecolor{lsYellow}{cmyk}{0,0.25,1,0}
 
 
 % bookkeeping of own environments for definitions etc.
@@ -106,10 +107,10 @@
 
 % Fix spacing between numbers and caption in list of figures etc.
 \makeatletter
-     \renewcommand*\l@figure{\@dottedtocline{1}{1em}{3.2em}}
-     \renewcommand*\l@table{\@dottedtocline{1}{1em}{3.2em}}
-     \renewcommand*\l@dgdef{\@dottedtocline{1}{1em}{3.2em}}
-     \renewcommand*\l@dgsatz{\@dottedtocline{1}{1em}{3.2em}}
+  \renewcommand*\l@figure{\@dottedtocline{1}{1em}{3.2em}}
+  \renewcommand*\l@table{\@dottedtocline{1}{1em}{3.2em}}
+  \renewcommand*\l@dgdef{\@dottedtocline{1}{1em}{3.2em}}
+  \renewcommand*\l@dgsatz{\@dottedtocline{1}{1em}{3.2em}}
 \makeatother
 
 % Vertiefungs-Floats
@@ -122,10 +123,9 @@
       \vspace{.3cm}
       \rule{\textwidth}{1pt}
       \begin{center}
-	\textbf{Vertiefung \arabic{deskgram-vertief} --- #1}
+         \textbf{Vertiefung \arabic{deskgram-vertief} --- #1}
       \end{center}
       #2
-
       \rule{\textwidth}{1pt}
     \end{minipage}
   \end{deskgram-vertief}
@@ -135,50 +135,82 @@
 \newcommand{\Phantom}{\phantomsection}
 
 
+
+
 % Basic gray box
-\setlength{\fboxsep}{5mm}
 \newcommand{\htb}[4][] % {headline}{color}{text}{icon}
 {%
-	\vspace{9mm}
-	\noindent\colorbox{#2}{
-	\begin{minipage}[h]{\textwidth-1.15cm}
-	  \begin{flushleft}
-	    \hspace*{0mm}\raisebox{0mm}[0mm][0mm]{%
-	      \color{white}%
-	      \includegraphics[width=10mm]{langsci/graphics/#4}%
-	    }
-	  \end{flushleft}
-	  \sffamily\large \textbf{#1}\\[5mm]
-		\rmfamily\normalsize #3 \hfill
-	\end{minipage}
-	}
-	\vspace{0.5cm}
+  \setlength{\fboxsep}{5mm}
+  \vspace{9mm}
+  \noindent\colorbox{#2}{
+  \begin{minipage}[h]{\textwidth-1.15cm}
+    \begin{flushleft}
+      \hspace*{0mm}\raisebox{0mm}[0mm][0mm]{%
+        \color{white}%
+        \includegraphics[width=10mm]{langsci/graphics/#4}%
+      }
+    \end{flushleft}
+    \sffamily\large \textbf{#1}\\[5mm]
+    \rmfamily\normalsize #3 \hfill
+  \end{minipage}
+  }
+  \vspace{0.5cm}
 }
+
+
+
+% Basic framed box
+\newcommand{\hfb}[3][] % {headline}{color}{text}{icon}
+{%
+  \setlength{\fboxsep}{5mm}
+  \fboxrule.8mm
+  \vspace{5mm}
+  \noindent\color{#2}\fbox{
+  \begin{minipage}[h]{\textwidth-1.15cm-1.6mm}
+    \color{black}
+    \sffamily\large \textbf{#1}\\[5mm]
+    \rmfamily\normalsize #3 \hfill
+  \end{minipage}
+  }
+  \color{black}
+  \vspace{0.5cm}
+}
+
 
 
 \newcommand{\Definition}[2]{
   \refstepcounter{dgdef}
-  \htb[\textit{#1}\hfill(Definition \thechapter.\arabic{dgdef})]{lightgray}{#2}{law}
+  \htb[\textit{#1}\hfill(Definition \thechapter.\arabic{dgdef})]{lsLightgray}{#2}{law}
 }
+
 
 
 \newcommand{\Satz}[2]{
   \refstepcounter{dgsatz}
-  \htb[\textit{#1}\hfill(Satz \thechapter.\arabic{dgsatz})]{lightgray}{#2}{bulb}
+  \htb[\textit{#1}\hfill(Satz \thechapter.\arabic{dgsatz})]{lsLightgray}{#2}{bulb}
 }
+
+
+
+\newcommand{\Zusammenfassung}[1]{
+  \refstepcounter{dgdef}
+  \hfb[Zusammenfassung]{lsYellow}{\small #1}
+}
+
 
 
 \newcommand{\WFiltTree}[6]{
   \refstepcounter{deskgram-wfilt}
-  \htb[\textit{#1}\hfill(Wortklassenfilter \arabic{deskgram-wfilt})]{lightgray}{
+  \htb[\textit{#1}\hfill(Wortklassenfilter \arabic{deskgram-wfilt})]{lsLightgray}{
     \label{#2}
     \vspace{-1cm}
-    \begin{center}
+      \begin{center}
       \Treek[1]{3}{
-	&& \K{#3}\B{d} && \\
-	&& \K{#4}\B{dl}_{\textrm{Ja}}\B{dr}^{\textrm{Nein}} && \\
-	& \K{#5} && \K{#6} & \\
-      }\end{center}
+        && \K{#3}\B{d} && \\
+        && \K{#4}\B{dl}_{\textrm{Ja}}\B{dr}^{\textrm{Nein}} && \\
+        & \K{#5} && \K{#6} & \\
+      }
+      \end{center}
     \vspace{-5mm}
   }{law}
 }
@@ -186,21 +218,20 @@
 
 
 \newcommand{\KTest}[2]{
-  \htb[\textit{#1}]{lightgray}{#2}{law}
+  \htb[\textit{#1}]{lsLightgray}{#2}{law}
 }
+
 
 
 \newcommand{\Phrasenschema}[2]{
   \refstepcounter{deskgram-strsch}
-  \htb[\textit{#1}\hfill(Phrasenschema \arabic{deskgram-strsch})]{lightgray}{%
+  \htb[\textit{#1}\hfill(Phrasenschema \arabic{deskgram-strsch})]{lsLightgray}{%
     \vspace{-0.4cm}%
     \begin{center}%
       #2%
     \end{center}%
   }{law}%
 }
-
-
 
 
 
