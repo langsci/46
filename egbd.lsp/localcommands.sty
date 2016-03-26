@@ -98,6 +98,7 @@
 % bookkeeping of own environments for definitions etc.
 \newlistof[chapter]{dgdef}{dgd}{Verzeichnis der Definitionen}
 \newlistof[chapter]{dgsatz}{dgs}{Verzeichnis der Sätze}
+\newlistof[chapter]{dgvertief}{dgv}{Verzeichnis der Vertiefungen}
 
 \newcounter{deskgram-ziel}
 \newcounter{deskgram-ex}
@@ -113,23 +114,28 @@
   \renewcommand*\l@dgsatz{\@dottedtocline{1}{1em}{3.2em}}
 \makeatother
 
-% Vertiefungs-Floats
-\newfloat{deskgram-vertief}{thp}{vert}
-\floatname{deskgram-vertief}{Vertiefung}
-\newcommand{\BVertiefung}[2]{
-  \refstepcounter{deskgram-vertief}
-  \begin{deskgram-vertief}
-    \begin{minipage}{\textwidth}
-      \vspace{.3cm}
-      \rule{\textwidth}{1pt}
-      \begin{center}
-         \textbf{Vertiefung \arabic{deskgram-vertief} --- #1}
-      \end{center}
-      #2
-      \rule{\textwidth}{1pt}
-    \end{minipage}
-  \end{deskgram-vertief}
-}
+
+% NEW Vertiefung (non-floating)
+
+\newcommand{\tblsthickline}{{\color{gray}\rule{\textwidth}{1.5mm}}}
+
+\newenvironment{Sandwich}[1]
+  {
+    \par\vspace{5mm}\noindent\tblsthickline
+    {\par\vspace{5mm}\noindent\sffamily\Large\bfseries#1\vspace{5mm}}
+  }
+  {\par\vspace{5mm}\noindent\tblsthickline\par\vspace{5mm}}
+
+
+\newenvironment{Vertiefung}[1]
+  {
+    \refstepcounter{dgvertief}
+    \begin{Sandwich}{#1\hfill(Vertiefung~\thechapter.\arabic{dgvertief})}
+  }
+  {\end{Sandwich}}
+
+
+
 
 % if not using hyperref, redefine this as empty:
 \newcommand{\Phantom}{\phantomsection}
@@ -180,20 +186,19 @@
 
 \newcommand{\Definition}[2]{
   \refstepcounter{dgdef}
-  \htb[\textit{#1}\hfill(Definition \thechapter.\arabic{dgdef})]{lsLightgray}{#2}{law}
+  \htb[\textit{#1}\hfill(Definition~\thechapter.\arabic{dgdef})]{lsLightgray}{#2}{law}
 }
 
 
 
 \newcommand{\Satz}[2]{
   \refstepcounter{dgsatz}
-  \htb[\textit{#1}\hfill(Satz \thechapter.\arabic{dgsatz})]{lsLightgray}{#2}{bulb}
+  \htb[\textit{#1}\hfill(Satz~\thechapter.\arabic{dgsatz})]{lsLightgray}{#2}{bulb}
 }
 
 
 
 \newcommand{\Zusammenfassung}[1]{
-  \refstepcounter{dgdef}
   \hfb[Zusammenfassung]{lsYellow}{\small #1}
 }
 
@@ -201,7 +206,7 @@
 
 \newcommand{\WFiltTree}[6]{
   \refstepcounter{deskgram-wfilt}
-  \htb[\textit{#1}\hfill(Wortklassenfilter \arabic{deskgram-wfilt})]{lsLightgray}{
+  \htb[\textit{#1}\hfill(Wortklassenfilter~\arabic{deskgram-wfilt})]{lsLightgray}{
     \label{#2}
     \vspace{-1cm}
       \begin{center}
@@ -225,7 +230,7 @@
 
 \newcommand{\Phrasenschema}[2]{
   \refstepcounter{deskgram-strsch}
-  \htb[\textit{#1}\hfill(Phrasenschema \arabic{deskgram-strsch})]{lsLightgray}{%
+  \htb[\textit{#1}\hfill(Phrasenschema~\arabic{deskgram-strsch})]{lsLightgray}{%
     \vspace{-0.4cm}%
     \begin{center}%
       #2%
