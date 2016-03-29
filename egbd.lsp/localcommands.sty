@@ -52,7 +52,7 @@
 \newcommand{\Sgel}[1]{\textipa{\textsubdot{#1}}}
 \newcommand{\PhPr}[1]{\ensuremath{\stackrel{\textnormal{#1\ }}{\Longrightarrow}}}
 \newcommand{\phopro}{\ensuremath{\Rightarrow}}
-\newcommand{\KTArr}[1]{\ensuremath{\xrightarrow{\textnormal{#1}}}}
+\newcommand{\KTArr}[1]{\ding{226}~\textit{#1}~\ding{226}}
 \newcommand{\FTest}{\KTArr{FTest}~}
 \newcommand{\VfTest}{\KTArr{VfTest}~}
 \newcommand{\ProTest}{\KTArr{ProTest}~}
@@ -122,7 +122,7 @@
 \newenvironment{Sandwich}[1]
   {
     \par\vspace{5mm}\noindent\tblsthickline
-    {\par\vspace{5mm}\noindent\sffamily\Large\bfseries#1\vspace{5mm}}
+    {\par\vspace{5mm}\noindent\sffamily\large\bfseries#1\vspace{5mm}}
   }
   {\par\vspace{5mm}\noindent\tblsthickline\par\vspace{5mm}}
 
@@ -199,7 +199,7 @@
 
 
 \newcommand{\Zusammenfassung}[1]{
-  \hfb[Zusammenfassung]{lsYellow}{#1}
+  \hfb[Zusammenfassung von Abschnitt~\thesection]{lsYellow}{#1}
 }
 
 
