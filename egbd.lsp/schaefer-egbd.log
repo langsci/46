@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_8) (preloaded format=xelatex 2015.11.9)  29 MAR 2016 21:32
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_8) (preloaded format=xelatex 2015.11.9)  30 MAR 2016 18:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2543,8 +2543,6 @@ File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/bx/n' will be
 (Font)              scaled to size 9.78955pt on input line 55.
-LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/bx/it' will be
-(Font)              scaled to size 9.78955pt on input line 55.
 
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 55--56
 [][][][][][]
@@ -4489,9 +4487,9 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 87--88
  []
 
 [452]
-Overfull \hbox (16.84854pt too wide) in paragraph at lines 112--113
+Overfull \hbox (16.99089pt too wide) in paragraph at lines 112--113
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Ein üblicherweise angenommenes Prinzip
-, das sich zum Beispiel in Abschnitt []13.3.3[]
+, das sich zum Beispiel in Abschnitt []13.3.2[]
  []
 
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
@@ -4531,70 +4529,73 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 412--413
  []
 
 [460] [461] [462] [463] [464] [465] <xymatrix 5x4 546>
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 675--676
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 677--678
 [][]
  []
 
 [466] [467] [468]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 769--770
+LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/bx/it' will be
+(Font)              scaled to size 9.78955pt on input line 771.
+
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 771--772
 [][][][][][]
  []
 
 [469] [470]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 866--867
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 868--869
 [][][][][][]
  []
 
 [471]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 939--940
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 941--942
 [][]
  []
 
 [472] [473]
-Overfull \hbox (2.4958pt too wide) in paragraph at lines 987--988
+Overfull \hbox (2.4958pt too wide) in paragraph at lines 989--990
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Damit haben wir einige kritische Fälle
  von Akkusativen als Akkusativ-Angaben
  []
 
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 994--995
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 996--997
 [][][][][][]
  []
 
 [474] [475]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1081--1082
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1083--1084
 [][][][][][]
  []
 
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1091--1092
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1093--1094
 [][][][][][]
  []
 
 [476]
-Overfull \hbox (1.44926pt too wide) in paragraph at lines 1116--1117
+Overfull \hbox (1.44926pt too wide) in paragraph at lines 1118--1119
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 weder eine Vergleichskonstruktion wie \E
 U1/LinLibertine_R_B.otf(0)/m/it/10.95 zu laut \EU1/LinLibertine_R_B.otf(0)/m/n/
 10.95 ([]55a[]) oder eine anderweitige Kenn-
  []
 
-[477]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1187--1188
+[477] [478]
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1189--1190
 [][]
  []
 
-[478] [479]
+[479]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1258--1259
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1260--1261
 [][][][][][]
  []
 
@@ -4611,27 +4612,10 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              Note also, that KOMA-Script will remove the definition
 (scrbook)              of `\sc' anytime until release of about version 3.20.
 (scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1286.
+(scrbook)              by `\@nomath \sc ' on input line 1288.
 
 
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1286.
-
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1286.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1286.
+LaTeX Font Warning: Command \sc invalid in math mode on input line 1288.
 
 
 Class scrbook Warning: Usage of deprecated font command `\sc'!
@@ -4645,99 +4629,116 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              Note also, that KOMA-Script will remove the definition
 (scrbook)              of `\sc' anytime until release of about version 3.20.
 (scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1286.
+(scrbook)              by `\@nomath \sc ' on input line 1288.
 
 
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1286.
+LaTeX Font Warning: Command \sc invalid in math mode on input line 1288.
+
+
+Class scrbook Warning: Usage of deprecated font command `\sc'!
+(scrbook)              You should note, that in 1994 font command `\sc' has
+(scrbook)              been defined for compatiblitiy to Script 2.0 only.
+(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrbook)              shouldn't use such commands any longer and within
+(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
+(scrbook)              See `fntguide.pdf' for more information about
+(scrbook)              recommended font commands.
+(scrbook)              Note also, that KOMA-Script will remove the definition
+(scrbook)              of `\sc' anytime until release of about version 3.20.
+(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
+(scrbook)              by `\@nomath \sc ' on input line 1288.
+
+
+LaTeX Font Warning: Command \sc invalid in math mode on input line 1288.
 
 922> [481] [482]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1348--1349
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1350--1351
 [][]
  []
 
-<xymatrix 3x4 554>
+[483] <xymatrix 3x4 554>
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1395--1396
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1397--1398
 [][][][][][]
  []
 
-[483] [484] <xymatrix 4x4 375> <xymatrix 3x4 371> <xymatrix 6x5 701> <xymatrix
-6x5 713> [485] [486]
+[484] <xymatrix 4x4 375> <xymatrix 3x4 371> <xymatrix 6x5 701> <xymatrix 6x5
+713> [485] [486] [487]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1494--1495
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1496--1497
 [][][][][][]
  []
 
-[487] [488] [489]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1623--1624
+[488] [489] [490]
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1625--1626
 [][]
  []
 
-[490]
+[491]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1686--1687
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1688--1689
 [][][][][][]
  []
 
-[491] [492]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1750--1751
+[492] [493]
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1752--1753
 [][]
  []
 
-[493]
+[494]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1798--1799
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1800--1801
 [][][][][][]
  []
 
-[494] [495]
+[495]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1848--1849
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1850--1851
 [][][][][][]
  []
 
-
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1853--1854
+[496]
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1855--1856
 [][]
  []
 
-[496] [497
+[497] [498
 
-] [498] [499] [500]) [501
-
-
-] [502
+] [499] [500] [501] [502
 
 
+]) [503] [504
 
-] [503] [504]
+
+
+] [505] [506]
 \openout2 = `chapters/phonschrift.aux'.
 
 
 (./chapters/phonschrift.tex
 Kapitel 14.
-[505
+[507
 
 
 
-] [506] [507] [508] [509] [510] [511]
+] [508] [509] [510] [511] [512] [513]
 Overfull \hbox (1.20723pt too wide) in paragraph at lines 172--173
 [][]
  []
 
-[512] [513] [514]
+[514] [515] [516]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 286--287
 [][][][][][]
  []
 
-[515] [516]
+[517] [518]
 Overfull \hbox (1.20723pt too wide) in paragraph at lines 346--347
 [][]
  []
@@ -4748,7 +4749,7 @@ Overfull \hbox (3.1529pt too wide) in paragraph at lines 362--369
 e festgestellt, dass zugrundeliegend das Merk-
  []
 
-[517]
+[519]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 375--376
@@ -4761,7 +4762,7 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 382--383
 [][][][][][]
  []
 
-[518]
+[520]
 Overfull \vbox (4.9668pt too high) detected at line 432
  []
 
@@ -4769,20 +4770,20 @@ Overfull \vbox (4.9668pt too high) detected at line 432
 Overfull \vbox (4.9668pt too high) detected at line 432
  []
 
-[519] [520]
+[521] [522]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 476--477
 [][][][][][]
  []
 
-[521] <xymatrix 5x5 1020> <xymatrix 6x5 1154> <xymatrix 6x5 1168> [522]
-[523] [524] [525]
+[523] <xymatrix 5x5 1020> <xymatrix 6x5 1154> <xymatrix 6x5 1168> [524]
+[525] [526] [527]
 Overfull \hbox (1.20723pt too wide) in paragraph at lines 651--652
 [][]
  []
 
-[526] [527]
+[528] [529]
 Underfull \hbox (badness 1642) in paragraph at lines 696--696
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Schreiber machen kreativen Gebrauch von 
 den Möglichkeiten des
@@ -4793,17 +4794,17 @@ Overfull \hbox (1.20723pt too wide) in paragraph at lines 696--697
 [][]
  []
 
-[528] [529]
+[530] [531]
 Overfull \hbox (1.20723pt too wide) in paragraph at lines 762--763
 [][]
  []
 
-[530] [531] [532
+[532] [533] [534
 
-]) [533]
+]) [535]
 \openout2 = `chapters/andereschrift.aux'.
 
- (./chapters/andereschrift.tex [534
+ (./chapters/andereschrift.tex [536
 
 
 
@@ -4816,67 +4817,67 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 19--20
 [][][][][][]
  []
 
-[535] [536]
+[537] [538]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 93--94
 [][][][][][]
  []
 
-[537] [538] [539] [540] [541]
+[539] [540] [541] [542] [543]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 244--245
 [][][][][][]
  []
 
-[542] [543]
+[544] [545]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 297--298
 [][][][][][]
  []
 
-[544] [545] [546]
+[546] [547] [548]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 397--398
 [][][][][][]
  []
 
-[547]
+[549]
 Overfull \hbox (1.58246pt too wide) in paragraph at lines 399--402
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 te. Damit kann man die Schärfungsschreib
 ung weitgehend als Silbengelenkschrei-
  []
 
-[548]
+[550]
 Overfull \hbox (1.20723pt too wide) in paragraph at lines 447--448
 [][]
  []
 
-[549] [550]
+[551] [552]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 485--486
 [][][][][][]
  []
 
-[551] [552] [553]
+[553] [554] [555]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 603--604
 [][][][][][]
  []
 
-[554] [555]
+[556] [557]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 674--675
 [][][][][][]
  []
 
-[556]
+[558]
 Underfull \hbox (badness 1127) in paragraph at lines 716--716
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 nen durch \EU1/LinLibertine_R_B.otf(0)/m
 /it/10.95 parenthetische Phrasen \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 gebilde
@@ -4888,68 +4889,68 @@ Overfull \hbox (1.20723pt too wide) in paragraph at lines 716--717
 [][]
  []
 
-[557] [558
+[559] [560
 
-] [559] [560
+] [561] [562
 
 
-]) [561]
+]) [563]
 \openout2 = `chapters/loesungen.aux'.
 
- (./chapters/loesungen.tex [562
+ (./chapters/loesungen.tex [564
 
 
 
 
-] [563] [564]
-[565
+] [565] [566]
+[567
 
-] [566] [567] [568]
+] [568] [569] [570]
 Underfull \hbox (badness 2277) in paragraph at lines 304--308
 []\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Gerne \EU1/LinLibertine_R_B.otf(0)/m/
 n/10.95 kann als Antwort auf eine Ja/Nein-Frage verwendet werden:
  []
 
-[569
+[571
 
-] [570] [571] [572
+] [572] [573] [574
 
-] [573] [574] [575
+] [575] [576] [577
 
-] [576] [577] [578
+] [578] [579] [580
 
-] [579] [580]
-[581] [582] [583
+] [581] [582]
+[583] [584] [585
 
-] [584]
+] [586]
 Overfull \hbox (7.24919pt too wide) in paragraph at lines 887--888
 []\U/pzd/m/n/10.95 â \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 VfTest \U/pzd/m/n/
 10.95 â \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 [Sehr wahrscheinlich] hätten dan
 n die 37 problemlos in Deutsch-
  []
 
-[585] [586] <xymatrix 5x3 453> <xymatrix 4x3 321> <xymatrix 4x3 337> <xymatrix
-7x3 474> <xymatrix 4x3 321> [587
+[587] [588] <xymatrix 5x3 453> <xymatrix 4x3 321> <xymatrix 4x3 337> <xymatrix
+7x3 474> <xymatrix 4x3 321> [589
 
 ] <xymatrix 4x3 325> <xymatrix 7x3 474>
-<xymatrix 5x3 453> <xymatrix 2x3 304> <xymatrix 7x3 474> [588] <xymatrix 2x3
+<xymatrix 5x3 453> <xymatrix 2x3 304> <xymatrix 7x3 474> [590] <xymatrix 2x3
 304> <xymatrix 10x4 885> <xymatrix 10x4 873>
 Underfull \hbox (badness 10000) in paragraph at lines 996--997
 
  []
 
-[589] <xymatrix 8x4 729> <xymatrix 12x4 1026> <xymatrix 6x4 552> [590]
-<xymatrix 10x4 873> <xymatrix 3x5 628> <xymatrix 3x5 628> [591] <xymatrix 3x5
-628> <xymatrix 3x5 628> [592] [593
+[591] <xymatrix 8x4 729> <xymatrix 12x4 1026> <xymatrix 6x4 552> [592]
+<xymatrix 10x4 873> <xymatrix 3x5 628> <xymatrix 3x5 628> [593] <xymatrix 3x5
+628> <xymatrix 3x5 628> [594] [595
 
-] [594] [595] <xymatrix 12x5 1038> [596]
-<xymatrix 10x5 1046> <xymatrix 12x5 1038> <xymatrix 5x4 487> [597] <xymatrix
+] [596] [597] <xymatrix 12x5 1038> [598]
+<xymatrix 10x5 1046> <xymatrix 12x5 1038> <xymatrix 5x4 487> [599] <xymatrix
 14x5 1211> <xymatrix 12x5 1049>
 Underfull \hbox (badness 10000) in paragraph at lines 1288--1297
 
  []
 
-[598] <xymatrix 8x5 623>
+[600] <xymatrix 8x5 623>
 Underfull \hbox (badness 10000) in paragraph at lines 1311--1312
 
  []
@@ -4959,10 +4960,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1317--1326
 
  []
 
-<xymatrix 10x5 1004> [599] <xymatrix 9x5 869> <xymatrix 11x5 1231> [600]
-<xymatrix 6x4 617> [601] [602
+<xymatrix 10x5 1004> [601] <xymatrix 9x5 869> <xymatrix 11x5 1231> [602]
+<xymatrix 6x4 617> [603] [604
 
-] [603] [604]
+] [605] [606]
 Overfull \vbox (0.31305pt too high) detected at line 1523
  []
 
@@ -4978,11 +4979,11 @@ Overfull \vbox (0.31305pt too high) detected at line 1536
 Overfull \vbox (4.9668pt too high) detected at line 1540
  []
 
-[605
+[607
 
-] [606] [607] [608
+] [608] [609] [610
 
-] [609]) [610] [611
+] [611]) [612] [613
 
 
 
@@ -4995,24 +4996,24 @@ Underfull \hbox (badness 2409) in paragraph at lines 102--102
 e Geheimnisse der deutschen würde-
  []
 
-[612] [613]
+[614] [615]
 Underfull \hbox (badness 1303) in paragraph at lines 102--102
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Leirbukt, Oddleif. 2013. \EU1/LinLib
 ertine_R_B.otf(0)/m/it/10.95 Untersuchungen zum bekommen-Passiv im heutigen
  []
 
-[614]
+[616]
 Underfull \hbox (badness 1466) in paragraph at lines 102--102
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Nübling, Damaris & Renata Szczepania
 k. 2009. Religion+s+freiheit, Stabili-
  []
 
-[615] [616] [617] (./indices.tex) (./schaefer-egbd.and [618
+[617] [618] [619] (./indices.tex) (./schaefer-egbd.and [620
 
-] [619
+] [621
 
-] [620]
-[621] [622] [623] [624] [625] [626] [627])
+] [622]
+[623] [624] [625] [626] [627] [628] [629])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
  (./schaefer-egbd.aux
@@ -5040,11 +5041,11 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  49474 strings out of 494865
- 864801 string characters out of 6167200
- 1409683 words of memory out of 5000000
+ 864803 string characters out of 6167200
+ 1410673 words of memory out of 5000000
  51851 multiletter control sequences out of 15000+600000
  21370 words of font info for 158 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
  65i,18n,104p,10460b,2292s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on schaefer-egbd.pdf (643 pages).
+Output written on schaefer-egbd.pdf (645 pages).

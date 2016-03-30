@@ -186,14 +186,14 @@
 
 \newcommand{\Definition}[2]{
   \refstepcounter{dgdef}
-  \htb[\textit{#1}\hfill(Definition~\thechapter.\arabic{dgdef})]{lsLightgray}{#2}{law}
+  \htb[#1\hfill Definition~\thechapter.\arabic{dgdef}]{lsLightgray}{#2}{law}
 }
 
 
 
 \newcommand{\Satz}[2]{
   \refstepcounter{dgsatz}
-  \htb[\textit{#1}\hfill(Satz~\thechapter.\arabic{dgsatz})]{lsLightgray}{#2}{bulb}
+  \htb[#1\hfill Satz~\thechapter.\arabic{dgsatz}]{lsLightgray}{#2}{bulb}
 }
 
 
@@ -206,7 +206,7 @@
 
 \newcommand{\WFiltTree}[6]{
   \refstepcounter{deskgram-wfilt}
-  \htb[\textit{#1}\hfill(Wortklassenfilter~\arabic{deskgram-wfilt})]{lsLightgray}{
+  \htb[#1\hfill Wortklassenfilter~\arabic{deskgram-wfilt}]{lsLightgray}{
     \label{#2}
     \vspace{-1cm}
       \begin{center}
@@ -223,14 +223,14 @@
 
 
 \newcommand{\KTest}[2]{
-  \htb[\textit{#1}]{lsLightgray}{#2}{law}
+  \htb[#1]{lsLightgray}{#2}{law}
 }
 
 
 
 \newcommand{\Phrasenschema}[2]{
   \refstepcounter{deskgram-strsch}
-  \htb[\textit{#1}\hfill(Phrasenschema~\arabic{deskgram-strsch})]{lsLightgray}{%
+  \htb[#1\hfill Phrasenschema~\arabic{deskgram-strsch}]{lsLightgray}{%
     \vspace{-0.4cm}%
     \begin{center}%
       #2%
