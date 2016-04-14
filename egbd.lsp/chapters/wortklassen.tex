@@ -63,6 +63,8 @@ Die Struktur, die hier aufgebaut wird, folgt anderen Regularitäten (und zwar mo
 Der Nachteil an dieser Definition ist aber, dass sie eher auf Einheiten zutrifft, die kleiner als das sind, was gemeinhin als Wort bezeichnet wird.
 Es folgt ein Beispiel zur Illustration.
 
+\Enl
+
 \begin{exe}
   \ex
   \begin{xlist}
@@ -165,14 +167,16 @@ Die Werte der Merkmale von Wortformen sind gemäß ihrem Paradigma vollständig 
 \index{Wort!syntaktisch}
 }
 
-Wortformen sind also all die (minimalen) Einheiten, die tatsächlich in syntaktischen Kontexten vorkommen.
+Wortformen sind also all die (minimalen) Einheiten, die in syntaktischen Kontexten vorkommen.
 Sie haben die nötigen Werte für ihre Merkmale und die dazu passende Form.
 Das (lexikalische) Wort ist die Abstraktion davon.
 Das ist vergleichbar mit der zugrundeliegenden Form der Phonologie (\ref{sec:segmentemerkmaleverteilungen}), die ebenfalls genau die Information enthält, die benötigt wird, um die phonetischen Realisierungen eines Segments in allen möglichen Kontexten abzuleiten.
 
-\newcommand{\DefWort}{Das Wort ist die abstrakte Repräsentation aller in einem Paradigma zusammengehörenden Wortformen.
-Beim Wort sind Werte nur für diejenigen Merkmale spezifiziert, die in allen Wortformen des Paradigmas dieselben Werte haben.
-Die restlichen Werte werden gemäß der Position im Paradigma bei den einzelnen Wortformen gefüllt.}
+\Enl[1]
+
+\newcommand{\DefWort}{Das Wort ist die Repräsentation von paradigmatisch verbundenen Wortformen.
+Beim Wort sind Werte nur für Merkmale spezifiziert, die in allen Wortformen des Paradigmas dieselben Werte haben.
+Die restlichen Werte werden gemäß der Position im Paradigma bei den Wortformen gesetzt.}
 
 \Definition{Wort (lexikalisches Wort)}{
 \label{def:wort}
@@ -331,6 +335,8 @@ Beim Genitiv Singular (\textit{des Berg-es} usw.) kommen \textit{-es} und \texti
 Die Paradigmen sind also nicht etwa bestimmte Formenreihen in dem Sinn, dass die Bildung der Formen innerhalb des Paradigmas immer mit denselben Mitteln geschieht.
 Vielmehr sind sie Formenreihen in dem Sinn, dass die verschiedenen Formen des Paradigmas bestimmte Merkmalswerte aufweisen, wobei sich manchmal auch die Form ändert.
 Mehr zu der Beziehung von formalen Mitteln und Merkmalen findet sich in Kapitel~\ref{sec:morphologie}.
+
+\Np
 
 \Satz{Formen im morphologischen Paradigma}{
 Die Formänderungen in einem Paradigma müssen nicht bei allen Wörtern im Paradigma dem gleichen Muster folgen.
@@ -499,19 +505,7 @@ Vgl.\ auch Abschnitt~\ref{sec:person}.}
 Es folgt, dass sowohl Verben als auch Nomina eine Singular- und eine Pluralform haben müssen, um überhaupt kongruieren zu können.
 In Abschnitt~\ref{sec:numerus} wird argumentiert, dass die Unterscheidung von Singular und Plural semantisch bei den Nomina motiviert ist.
 Die Kongruenz innerhalb der nominalen Gruppen und ihre Kongruenz mit dem Verb sind Mittel, um die Satzstruktur besser zu markieren.
-
-Die Beispiele in (\ref{ex:wk01011}) und (\ref{ex:wk01012}) illustrieren abschließend einige Formveränderungen flektierbarer Wörter.
 Filter~\ref{wfilt:flektierbare} wird entsprechend formuliert.
-
-\begin{exe}
-  \ex{\label{ex:wk01011} \textbf{flektierbar}}
-  \begin{xlist}
-    \ex{laufen, laufe, läufst, lief, liefen usw.}
-    \ex{Ball, Balls, Bälle, Bällen}
-  \end{xlist}
-  \ex{\label{ex:wk01012}\textbf{nicht flektierbar}\\
-    bis, unter, wenn, obwohl, ja, gewöhnlicherweise usw.}
-\end{exe}
 
 \WFiltTree{Flektierbares und unflektierbares Wort}{wfilt:flektierbare}{Wort}{Hat das Wort potentiell ein \textsc{Numerus}-Merkmal?}{flektierbar}{unflektierbar}
 
@@ -602,6 +596,8 @@ Die verbleibenden Nomina sind genau diejenigen, die syntaktisch noch vor der Gru
 Dadurch erklärt sich die etwas umständliche Klausel in der Formulierung des Filters \textit{in Abhängigkeit von davor stehenden anderen nicht-substantivischen Nomina}.
 Die Artikel und Pronomina werden erst in Abschnitt~\ref{sec:artikelpronomen} voneinander getrennt.
 
+\Np
+
 \index{Adjektiv}
 \index{Pronomen}
 \index{Stärke!Adjektiv}
@@ -629,6 +625,8 @@ Welchen Wert für \textsc{Kasus} das Substantiv \textit{Rasen} (und die mit ihm 
 Die Präposition \textit{mit} regiert den Dativ, \textit{angesichts} regiert den Genitiv.
 Keine andere Art von unflektierbaren Wörtern verhält sich so, und Filter~\ref{wfilt:prep} bezieht sich daher auf dieses Verhalten.
 
+\Np
+
 \WFiltTree{Präposition}{wfilt:prep}{nicht flektierbares Wort}{Hat das Wort eine einstellige Valenz und Kasusrektion?}{Präposition}{anderes}
 
 \subsection{Komplementierer}
@@ -648,6 +646,8 @@ Ein Nebensatz ist eine syntaktische Struktur, die ein finites Verb enthält, das
 
 Hier einige Beispiele, um die Definition zu illustrieren.
 Die Nebensätze sind dabei in [~] gesetzt.
+
+\Enl
 
 \begin{exe}
   \ex[]{\label{ex:wa9911} Ich glaube, [dass dieser Nebensatz ein Verb enthält].}
@@ -708,6 +708,8 @@ Das \textit{doch} in Satz (\ref{ex:wa2829d}) soll dabei verstanden werden wie da
 
 Die Beispiele in (\ref{ex:wa2829}) sind hilfreich für die Klassifizierung der in ihnen vorkommenden satzeinleitenden Wörter.
 \textit{Gestern}, \textit{erfreulicherweise} und \textit{oben} sind gemäß Filter \ref{wfilt:advpart} Adverben, \textit{doch} und \textit{und} jedoch Partikeln.
+
+\Np
 
 \WFiltTree{Adverb}{wfilt:advpart}{Partikel\slash Adverb}{Ist das Wort ein Vorfeldbesetzer?}{Adverb}{Partikel}
 
