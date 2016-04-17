@@ -22,7 +22,7 @@
 \newif\iflsShowIndex \lsShowIndexfalse
 
 \newif\iflsIndex \lsIndextrue
-\newif\iflsBiblatex \lsBiblatextrue
+\newif\iflsBiblatex \lsBiblatexfalse
 \newif\iflsCollection \lsCollectionfalse
 \newif\iflsCollectionChapter \lsCollectionChapterfalse
 \newif\iflsCollectionTOCLong \lsCollectionTOCLongfalse
