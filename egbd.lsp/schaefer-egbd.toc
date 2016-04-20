@@ -500,7 +500,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {15.1}Wortbezogene Schreibungen}{527}{section.15.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {15.1.1}Spatien}{527}{subsection.15.1.1}
+\contentsline {subsection}{\numberline {15.1.1}Wörter}{527}{subsection.15.1.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {15.1.2}Wortklassen}{529}{subsection.15.1.2}
 \defcounter {refsection}{0}\relax 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_9) (preloaded format=xelatex 2015.11.9)  17 APR 2016 18:46
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_9) (preloaded format=xelatex 2015.11.9)  20 APR 2016 21:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4990,7 +4990,7 @@ k. 2009. Religion+s+freiheit, Stabili-
 ] [609
 
 ] [610]
-[611] [612] [613] [614] [615] [616] [617])
+[611] [612] [613] [614] [615] [616])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
  (./schaefer-egbd.aux
@@ -5017,12 +5017,12 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49483 strings out of 494865
- 865037 string characters out of 6167200
- 1405532 words of memory out of 5000000
- 51859 multiletter control sequences out of 15000+600000
+ 49482 strings out of 494865
+ 865021 string characters out of 6167200
+ 1405467 words of memory out of 5000000
+ 51858 multiletter control sequences out of 15000+600000
  21435 words of font info for 159 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
  65i,18n,104p,10460b,2290s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on schaefer-egbd.pdf (633 pages).
+Output written on schaefer-egbd.pdf (632 pages).
