@@ -209,18 +209,32 @@
 
 
 
-\newcommand{\WFiltTree}[6]{
+\newcommand{\WFiltTree}[6]{%
   \refstepcounter{deskgram-wfilt}
-  \htb[#1\hfill Wortklassenfilter~\arabic{deskgram-wfilt}]{lsLightgray}{
+  \htb[#1\hfill Wortklassenfilter~\arabic{deskgram-wfilt}]{lsLightgray}{%
     \label{#2}
-    \vspace{-1cm}
-      \begin{center}
-      \Treek[1]{3}{
-        && \K{#3}\B{d} && \\
-        && \K{#4}\B{dl}_{\textrm{Ja}}\B{dr}^{\textrm{Nein}} && \\
-        & \K{#5} && \K{#6} & \\
-      }
-      \end{center}
+    \vspace{-\baselineskip}    
+    \hspace{-5pt}\begin{tikzpicture}[baseline]
+    \node at (0,0) (Wort) [align=left] {#3};
+    \node [right=of Wort.east, text width=4.5cm, align=left] (Filter) {#4};
+    \node [above right=\baselineskip and 1cm of Filter.east] (Ja) {#5};
+    \node [below right=\baselineskip and 1cm of Filter.east] (Nein) {#6}; 
+    \draw (Wort)--(Filter); 
+    \path (Filter.east) edge node [above,sloped] {Ja} (Ja.west);
+    \path (Filter.east) edge node [below,sloped] {Nein} (Nein.west);
+    \end{tikzpicture}
+	\vspace{\baselineskip}
+    %%%%
+    
+%      \begin{center}
+%      \Treek[1]{3}{
+%%        && \K{#3}\B{d} && \\
+%        && \K{#4}\B{dl}_{\textrm{Ja}}\B{dr}^{\textrm{Nein}} && \\
+%        & \K{#5} && \K{#6} & \\
+%      }
+%      \end{center}
+      
+     %%%%%
     \vspace{-5mm}
   }{law}
 }
