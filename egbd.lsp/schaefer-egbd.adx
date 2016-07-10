@@ -123,11 +123,11 @@
 \indexentry {Lippen|hyperpage}{80}
 \indexentry {Obstruktion|hyperpage}{80}
 \indexentry {Artikulator|hyperpage}{81}
-\indexentry {Artikulationsart|hyperpage}{81}
+\indexentry {Artikulationsart|hyperpage}{82}
 \indexentry {Stimmhaftigkeit|hyperpage}{82}
-\indexentry {Obstruent|hyperpage}{82}
+\indexentry {Obstruent|hyperpage}{83}
 \indexentry {Plosiv|hyperpage}{83}
-\indexentry {Frikativ|hyperpage}{83}
+\indexentry {Frikativ|hyperpage}{84}
 \indexentry {homorgan|hyperpage}{84}
 \indexentry {Affrikate|hyperpage}{84}
 \indexentry {Approximant|hyperpage}{85}
@@ -156,11 +156,11 @@
 \indexentry {Vokal!Rundung|hyperpage}{94}
 \indexentry {Vokalviereck|hyperpage}{94}
 \indexentry {Lippenrundung|hyperpage}{96}
-\indexentry {Schwa|hyperpage}{96}
-\indexentry {Diphthong|hyperpage}{96}
+\indexentry {Schwa|hyperpage}{97}
+\indexentry {Diphthong|hyperpage}{97}
 \indexentry {Auslautverhärtung|hyperpage}{100}
-\indexentry {r-Vokalisierung|hyperpage}{102}
-\indexentry {Diphthong!sekundär|hyperpage}{102}
+\indexentry {r-Vokalisierung|hyperpage}{103}
+\indexentry {Diphthong!sekundär|hyperpage}{103}
 \indexentry {Verteilung|hyperpage}{108}
 \indexentry {Minimalpaar|hyperpage}{109}
 \indexentry {Kontrast|hyperpage}{109}
@@ -196,35 +196,35 @@
 \indexentry {Silbe!Silbifizierung|hyperpage}{143}
 \indexentry {Einsilbler|hyperpage}{143}
 \indexentry {Zweisilbler|hyperpage}{143}
-\indexentry {Wort!phonologisch|hyperpage}{143}
-\indexentry {Silbe!offen|hyperpage}{144}
-\indexentry {Silbe!geschlossen|hyperpage}{144}
-\indexentry {Silbe!Gewicht|hyperpage}{145}
-\indexentry {More|hyperpage}{145}
+\indexentry {Wort!phonologisch|hyperpage}{144}
+\indexentry {Silbe!offen|hyperpage}{145}
+\indexentry {Silbe!geschlossen|hyperpage}{145}
+\indexentry {Silbe!Gewicht|hyperpage}{146}
+\indexentry {More|hyperpage}{146}
 \indexentry {Endrand|hyperpage}{146}
 \indexentry {Anfangsrand|hyperpage}{146}
 \indexentry {Silbengelenk|hyperpage}{146}
 \indexentry {Ambisyllabizität|hyperpage}{146}
-\indexentry {Auslautverhärtung!am Silbengelenk|hyperpage}{148}
-\indexentry {Prosodie|hyperpage}{150}
-\indexentry {Akzent|hyperpage}{150}
+\indexentry {Auslautverhärtung!am Silbengelenk|hyperpage}{149}
+\indexentry {Prosodie|hyperpage}{151}
 \indexentry {Akzent|hyperpage}{151}
-\indexentry {Akzent!Stamm--|hyperpage}{153}
+\indexentry {Akzent|hyperpage}{152}
+\indexentry {Akzent!Stamm--|hyperpage}{154}
 \indexentry {Akzent!in Komposita|hyperpage}{154}
 \indexentry {Hauptakzent|hyperpage}{154}
 \indexentry {Nebenakzent|hyperpage}{154}
-\indexentry {Akzent!Präfixe und Partikeln|hyperpage}{154}
+\indexentry {Akzent!Präfixe und Partikeln|hyperpage}{155}
 \indexentry {Pronomen!expletiv|hyperpage}{155}
 \indexentry {Fuß|hyperpage}{156}
 \indexentry {Silbe!extrametrisch|hyperpage}{157}
 \indexentry {Fuß!defekt|hyperpage}{157}
-\indexentry {Glottalverschluss|hyperpage}{157}
-\indexentry {Wort!phonologisch|hyperpage}{159}
-\indexentry {Wort!prosodisch|hyperpage}{159}
+\indexentry {Glottalverschluss|hyperpage}{158}
+\indexentry {Wort!phonologisch|hyperpage}{160}
+\indexentry {Wort!prosodisch|hyperpage}{160}
 \indexentry {Phon|hyperpage}{161}
-\indexentry {Phon|hyperpage}{161}
-\indexentry {Phonem|hyperpage}{161}
-\indexentry {Allophon|hyperpage}{161}
+\indexentry {Phon|hyperpage}{162}
+\indexentry {Phonem|hyperpage}{162}
+\indexentry {Allophon|hyperpage}{162}
 \indexentry {Phonem|hyperpage}{162}
 \indexentry {Wort|hyperpage}{171}
 \indexentry {Kasus|hyperpage}{175}
@@ -303,7 +303,11 @@
 \indexentry {Affigierung|hyperpage}{220}
 \indexentry {Morphem|hyperpage}{223}
 \indexentry {Allomorph|hyperpage}{223}
+\indexentry {Lexem|hyperpage}{223}
+\indexentry {Konditionierung!phonologisch|hyperpage}{224}
 \indexentry {Konditionierung|hyperpage}{224}
+\indexentry {Konditionierung!grammatisch|hyperpage}{224}
+\indexentry {Konditionierung!lexikalisch|hyperpage}{224}
 \indexentry {Markierungsfunktion|hyperpage}{227}
 \indexentry {Komposition|hyperpage}{231}
 \indexentry {Produktivität|hyperpage}{232}
