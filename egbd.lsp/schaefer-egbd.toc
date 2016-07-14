@@ -196,7 +196,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3.8}Adverben und Partikeln}{191}{subsection.5.3.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.9}Kopulapartikeln}{193}{subsection.5.3.9}
+\contentsline {subsection}{\numberline {5.3.9}Adkopulas}{193}{subsection.5.3.9}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3.10}Satzäquivalente}{193}{subsection.5.3.10}
 \defcounter {refsection}{0}\relax 
@@ -446,27 +446,27 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {13.4.2}\textit {bekommen}-Passiv}{466}{subsection.13.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.5}Objekte, Ergänzungen und Angaben}{469}{section.13.5}
+\contentsline {section}{\numberline {13.5}Objekte, Ergänzungen und Angaben}{470}{section.13.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.5.1}Akkusative und direkte Objekte}{469}{subsection.13.5.1}
+\contentsline {subsection}{\numberline {13.5.1}Akkusative und direkte Objekte}{470}{subsection.13.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.5.2}Dative und indirekte Objekte}{470}{subsection.13.5.2}
+\contentsline {subsection}{\numberline {13.5.2}Dative und indirekte Objekte}{471}{subsection.13.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.5.3}PP-Ergänzungen und PP-Angaben}{473}{subsection.13.5.3}
+\contentsline {subsection}{\numberline {13.5.3}PP-Ergänzungen und PP-Angaben}{474}{subsection.13.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.6}Analytische Tempora}{475}{section.13.6}
+\contentsline {section}{\numberline {13.6}Analytische Tempora}{476}{section.13.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.7}Modalverben und Halbmodalverben}{479}{section.13.7}
+\contentsline {section}{\numberline {13.7}Modalverben und Halbmodalverben}{481}{section.13.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.1}Ersatzinfinitiv und Oberfeldumstellung}{479}{subsection.13.7.1}
+\contentsline {subsection}{\numberline {13.7.1}Ersatzinfinitiv und Oberfeldumstellung}{481}{subsection.13.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.2}Kohärenz}{481}{subsection.13.7.2}
+\contentsline {subsection}{\numberline {13.7.2}Kohärenz}{482}{subsection.13.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.3}Modalverben und Halbmodalverben}{484}{subsection.13.7.3}
+\contentsline {subsection}{\numberline {13.7.3}Modalverben und Halbmodalverben}{485}{subsection.13.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.8}Infinitivkontrolle}{487}{section.13.8}
+\contentsline {section}{\numberline {13.8}Infinitivkontrolle}{488}{section.13.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.9}Bindung}{490}{section.13.9}
+\contentsline {section}{\numberline {13.9}Bindung}{491}{section.13.9}
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{\numberline {V}Sprache und Schrift}{501}{part.5}
 \defcounter {refsection}{0}\relax 
