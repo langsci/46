@@ -69,7 +69,7 @@ Es werden also auf jeden Fall Werte statischer Merkmale überschrieben bzw.\ Mer
 
 \Definition{Kopf (Kompositum)}{
 \label{def:kompkopf}
-Der Kopf eines Kompositums ist das Glied, das die Werte der statischen grammatischen Merkmale und die gesamte grammatische Merkmalsaustattung des Kompositums bestimmt.
+Der Kopf eines Kompositums ist das Glied, das die Werte der statischen grammatischen Merkmale und die gesamte grammatische Merkmalsausstattung des Kompositums bestimmt.
 Der Kopf ist immer das rechte Glied.
 \index{Kopf!Komposition}
 }
@@ -140,10 +140,11 @@ Dies dürfte daran liegen, dass \textit{Geldwäsche} von den gegebenen Beispiele
 \end{exe}
 
 Die vom Kompositum bezeichneten Gegenstände können also auch immer von dem Kopf bezeichnet werden.
-Anders gesagt bezeichnet das Kompositum eine Untermenge der Menge, die vom Kopf bezeichnet wird.
+Anders gesagt bezeichnet das Kompositum eine Untermenge der Gegenstände, die von dem Kopf alleine bezeichnet werden.
 Mit dem Nicht-Kopf (dem linken Glied) verhält es sich niemals so, wie man an (\ref{ex:kompimplfail}) leicht sieht.
 Das Zeichen \# signalisiert, dass diese Sätze niemals wahr sein können.
-Sie zeigen, was mit semantischen Zentrum (manchmal auch \textit{Kern}) gemeint ist, denn der Kopf dominiert das Kompositum nicht nur grammatisch, sondern auch in der Bedeutung.
+Sie zeigen, was mit dem \textit{semantischen Zentrum} (manchmal auch \textit{Kern}) gemeint ist.
+Der Kopf dominiert das Kompositum nicht nur grammatisch, sondern auch semantisch.
 
 \begin{exe}
   \ex\label{ex:kompimplfail}
@@ -157,7 +158,8 @@ Sie zeigen, was mit semantischen Zentrum (manchmal auch \textit{Kern}) gemeint i
 \end{exe}
 
 Zwischen den Gruppen (\ref{ex:detkomp}) und (\ref{ex:rekkomp}) lässt sich ebenfalls ein Unterschied feststellen.
-Die Testsätze in (\ref{ex:kompimpl}) funktionieren für beide, aber es gibt eine zusätzliche Testsatzkonstruktion, die nur für die Gruppe in (\ref{ex:rekkomp}) funktioniert, nämlich die Tests in (\ref{ex:rekkompsucc}).
+Die Testsätze in (\ref{ex:kompimpl}) funktionieren für beide Gruppen.
+Es gibt aber eine zusätzliche Testsatzkonstruktion, die nur für die Gruppe in (\ref{ex:rekkomp}) funktioniert, s.\ (\ref{ex:rekkompsucc}).
 
 \begin{exe}
   \ex\label{ex:rekkompsucc}
@@ -253,16 +255,22 @@ Die Entscheidung wird immer aufgrund von mehr oder weniger subjektiven semantisc
 \begin{Vertiefung}{Wahrscheinliche Analysen von Komposita}
 
 \noindent Man kann durch Analysen der Häufigkeit der beteiligten Wörter bestimmte Analysen plausibilisieren.
-Im DeReKo findet man zum Beispiel für \textit{Langstrecke} 3.804 Belege, für \textit{Streckenlauf} hingegen nur 18 (bei Anfragen mit Wortformenoperator am 26.12.2009 im Archiv W-Öffentlich.)
-Der einfache Vergleich dieser absoluten Häufigkeiten zeigt, dass die Wahrscheinlichkeit für die Analyse (\textit{Lang.strecken})\textit{.lauf} deutlich höher ist als die für \textit{Lang.}(\textit{strecken.lauf}), ganz einfach weil das Wort \textit{Lang.strecke} für sich genommen stärker im Wortschatz des Deutschen vertreten ist.
-Im Einzelfall muss natürlich trotzdem damit gerechnet werden, dass die unwahrscheinlichere Analyse je nach Kontext doch die zutreffende ist.
+Im DeReKo (vgl.\ S.~\pageref{abs:dereko}) findet man zum Beispiel für \textit{Langstrecke} 3.804 Belege, für \textit{Streckenlauf} hingegen nur 18 (bei Anfragen mit Wortformenoperator am 26.12.2009 im Archiv W-Öffentlich.)
+Der einfache Vergleich dieser absoluten Häufigkeiten zeigt, dass die Wahrscheinlichkeit für die Analyse (\textit{Lang.strecken})\textit{.lauf} deutlich höher ist als die für \textit{Lang.}(\textit{strecken.lauf}), ganz einfach, weil das Wort \textit{Lang.strecke} für sich genommen stärker im Wortschatz des Deutschen vertreten ist.
+In der Realität ist die statistische Auswertung etwas komplizierter, und es muss natürlich trotzdem damit gerechnet werden, dass die unwahrscheinlichere Analyse je nach Kontext doch die zutreffende ist.
 
 \end{Vertiefung}
 
 Unabhängig von Problemen bei der konkreten Analyse im Einzelfall ist aus grammatischer Sicht aber auf jeden Fall interessant, dass die Komposition ein Prozess ist, bei dem das Ergebnis des Prozesses wieder als Ausgangsbasis des gleichen Prozesses verwendet werden kann.
 Wurden also einmal \textit{lang} und \textit{Strecke} zu \textit{Lang.strecke} komponiert, kann das dabei entstehende Kompositum wie jedes andere Substantiv erneut in einem Kompositionsprozess verwendet werden.
-Diese Eigenschaft mancher produktiver Prozesse nennt man \textit{Rekursion}.
-Innerhalb der Morphologie muss beachtet werden, dass Flexion die Eigenschaft der Rekursion nicht hat.
+Diese Eigenschaft mancher produktiver Prozesse nennt man \textit{Rekursion}, s.\ Definition~\ref{def:rekursion}, wobei umstritten ist, ob natürlich Sprache unbegrenzt Rekursiv ist.
+Immerhin ist die Länge (bzw.\ Komplexität) tatsächlich benutzbarer Komposita stark begrenzt (dazu auch S.~\pageref{abs:syntaxrekursion}).
+
+\Definition{Rekursion}{\label{def:rekursion}
+Ein produktiver Prozess bzw.\ eine rekursive Regel (im technischen Sinn) ist \textit{rekursiv}, wenn er auf sein eigenes Ergebnis angewendet werden kann.
+\index{Rekursion}}
+
+Innerhalb der Morphologie muss beachtet werden, dass Flexion im Gegensatz zu Teilen der Wortbildung nicht rekursiv ist.
 Wenn ein Substantiv einmal nach Kasus und Numerus flektiert wurde, kann dies nicht nochmal geschehen.
 Gleiches gilt für ein Verb, das nach Modus, Tempus, Person und Numerus flektiert wurde.
 Es kommt also eine weitere Unterscheidung zwischen Flexion und Wortbildung hinzu, s.\ Satz~\ref{satz:reknrek}.
@@ -281,9 +289,10 @@ In eingeschränkterem Maß sind Konversion (Abschnitt~\ref{sec:konv}) und Deriva
 
 \index{Kompositionsfuge}
 \index{Fugenelement}
+\index{Fuge}
 
 Besonders in den hier in erster Linie betrachteten Komposita aus Substantiv und Substantiv gibt es in vielen, aber nicht allen Fällen eine morphologische Markierung, die an der so genannten \textit{Fuge} (der Grenze zwischen den beiden Gliedern des Kompositums) auftritt.
-Betrachtet man Wörter wie (\textit{Lang.strecke-n})\textit{.lauf}, so sieht man, dass nicht einfach die Stämme der beiden Glieder das Komposition bilden.
+Betrachtet man Wörter wie (\textit{Lang.strecke-n})\textit{.lauf}, so sieht man, dass nicht einfach die Stämme der beiden Glieder das Kompositum bilden.
 Vielmehr wird das Suffix \textit{-n} an das Vorderglied angefügt.
 In diesem Fall ist das so genannte \textit{Fugenelement} \textit{-n} formal identisch mit der Pluralmarkierung des Wortes \textit{Langstrecke}.
 Man könnte nun vermuten, dass \textit{-n} hier tatsächlich die Markierungsfunktion [\textsc{Numerus}: \textit{pl}] hat.
@@ -323,7 +332,7 @@ Die wichtigsten Fugenelemente sind in Tabelle~\ref{tab:fugen} mit Beispielen ang
 
 \begin{figure}[!htbp]
   \centering
-  \Tree[1.5]{
+  \Tree[1.75]{
     && \K{Subst-Stamm}\B{dl}\B{dr} \\
     & \K{[Subst-Stamm]}\B{dl}\B{dr} && \K{Subst-Stamm}\B{d} \\
     \K{Subst-Stamm}\B{d} && \K{Fugenelement}\B{d} & \K{\textit{schrei}} \\
@@ -374,7 +383,7 @@ Vergleichen wir dazu die folgenden Beispiele (\ref{ex:wobimotiv}).
 
 Im ersten Satz kommt \textit{einkauf-en} als Infinitiv des Verbs (also als Verbform) vor.
 Im zweiten Satz steht \textit{Einkaufen} mit dem bestimmten Artikel als Subjekt des Satzes, es handelt sich also um ein Substantiv.
-Die Orthographie verlangt genau wegen dieses Wechsels in die Klasse der Substantive, dass das Wort groß geschrieben wird (mehr in Abschnitt~\ref{sec:wortklassschreib}).
+Die Orthographie verlangt genau wegen dieses Wechsels in die Klasse der Substantive, dass das Wort großgeschrieben wird (mehr in Abschnitt~\ref{sec:wortklassschreib}).
 Da [\textsc{Klasse}: \textit{\textbf{subst}}] und [\textsc{Klasse}: \textit{\textbf{verb}}] statische Merkmale sind, kann die Beziehung zwischen den Wortformen \textit{einkauf-en} und \textit{Einkaufen} keine Flexionsbeziehung sein, sondern es muss sich um Wortbildung handeln (vgl.\ Definition~\ref{def:wortbild}, S.~\pageref{def:wortbild}).
 Es handelt sich also jeweils um die Wortform eines eigenen Wortes (Substantiv bzw.\ Verb).
 Trotzdem ist die Beziehung zwischen diesen beiden Wörtern vollständig vorhersagbar, denn fast jedes Verb in seiner Infinitivform kann auf diese Weise als Substantiv mit [\textsc{Genus}: \textit{\textbf{neut}}] verwendet werden.
@@ -384,7 +393,7 @@ Wir führen deshalb mit Definition~\ref{def:konversion} einen neuen Typ von Wort
 \Definition{Konversion}{
 \label{def:konversion}
 Konversion ist ein Wortbildungsprozess, bei dem ein Stamm (\textit{Stammkonversion}) oder eine Wortform (\textit{Wortformenkonversion}) eines Ausgangswortes als Stamm eines Zielwortes verwendet wird, wobei Wortklassenwechsel stattfindet.
-\index{Konversion}\index{Wortklasse}
+\index{Konversion}\index{Wortklasse}\index{Stammkonversion}\index{Wortformenkonversion}
 }
 
 Diese Definition erfasst zwei verschiedene Fälle, von denen erst einer an Beispielen eingeführt wurde.
@@ -580,6 +589,7 @@ Danach erfolgt ein Überblick über Derivationsaffixe mit Wortklassenwechsel und
 
 \label{sec:derivohnewaw}
 
+\index{Derivation!ohne Wortklassenwechsel}
 \index{Wortklasse}
 \index{Nomen}
 
@@ -703,6 +713,8 @@ Man kann nicht erwarten, mit den genannten drei Mustern jedem Präfix- oder Part
 Vollständigere Grammatiken wie \citet{Eisenberg1} bieten eine gründlichere Gesamtschau.
 
 \subsection{Derivation mit Wortklassenwechsel}
+
+\index{Derivation!mit Worklassenwechsel}
 
 Wir wenden uns abschließend der Derivation mit Wortklassenwechsel zu.
 Zunächst müssen hierzu einige Verbpräfixe gezählt werden, bei denen der Stamm, vor den sie treten, sonst nicht als Verb, aber als Substantiv (\ref{ex:wb012346}) oder Adjektiv (\ref{ex:wb012347}) existiert.
@@ -831,7 +843,9 @@ Wortbildungssuffixe sind nur in bestimmten Abfolgen kombinierbar.
 
 \begin{Vertiefung}{Rückbildung und Univerbierung}
 
-  \label{vert:rueckbildunguniverbierung}
+\label{vert:rueckbildunguniverbierung}
+\index{Rückbildung}
+\index{Univerbierung}
 
 \noindent Manchmal werden auch Bildungen wie die in (\ref{ex:wb35486620}) im Rahmen der Wortbildung diskutiert.
 
@@ -875,7 +889,7 @@ Dieser hypothetische Wortbildungsprozess bildet aus zwei oft nebeneinander stehe
 \end{exe}
 
 Auch hier gilt, dass es sich um einen sprachgeschichtlichen Prozess handelt.
-Ob Univerbierung stattfindet oder nicht hängt in starkem Ausmaß von der Häufigkeit der Wortverbindung ab.
+Ob Univerbierung stattfindet oder nicht, hängt in starkem Ausmaß von der Häufigkeit der Wortverbindung ab.
 Größere Häufigkeit führt dann (besonders deutlich \zB bei neu gebildeten Präpositionen wie \textit{aufgrund}) typischerweise zu einem Verblassen der Semantik der einzelnen Wörter.
 Im Fällen wie \textit{aufgrund} spricht man von \textit{Grammatikalisierung}, weil das Substantiv \textit{Grund} seine Bedeutung vollständig verliert und sich ein grammatisches Funktionswort bildet.\index{Grammatikalisierung}
 Solche Prozesse sind allerdings diachrone Prozesse, und es wäre ungewöhnlich, wenn Sprecher spontan -- also produktiv -- Univerbierungen vornähmen.

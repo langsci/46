@@ -50,10 +50,14 @@ Mit einer Näherungsweise vollständigen Klammerung ergäbe sich die recht unüb
 
 \label{sec:koor}
 
-Das erste Schema beschreibt Strukturen mit Konjunktionen wie \textit{und} oder \textit{oder}.
-
 \index{Koordination}
 \index{Konjunktion}
+Das erste Schema beschreibt Strukturen mit Konjunktionen wie \textit{und} oder \textit{oder}.
+Zwei Wortformen oder zwei Phrasen können jederzeit mit einer Konjunktion verbunden werden, vorausgesetzt, dass beide zu derselben Klasse gehören (N und N oder AP und AP usw.).
+Wir benutzen hier $\kappa$ stellvertretend für Kategoriensymbole wie N, NP, A usw.
+Schema~\ref{str:koor} erlaubt nun die Verbindung von irgendeiner syntaktischen Einheit vom Typ $\kappa$ mit einer anderen Einheit derselben Klasse $\kappa$, wobei wieder eine Einheit der Klasse $\kappa$ herauskommt.%
+\footnote{Der Koordinationstest (Abschnitt~\ref{sec:konstituententestsimeinzelnen}) beruht auf der hier angenommenen Flexibilität dieses Schemas.}
+Es werden außerdem für die Konjunktion keine konkreten Wortformen wie \textit{und} explizit im Schema genannt, sondern das Wortklassensymbol Konj, so dass irgendeine Konjunktion eingesetzt werden kann.
 
 \Phrasenschema{Koordination}{\label{str:koor}
   \begin{tabular}{c|c|c|c|}
@@ -63,13 +67,7 @@ Das erste Schema beschreibt Strukturen mit Konjunktionen wie \textit{und} oder \
   \end{tabular}
 }
 
-Der Koordinationstest (Abschnitt~\ref{sec:konstituententestsimeinzelnen}) beruht auf der hier angenommenen Flexibilität dieses Schemas.
-Zwei Wortformen oder zwei Phrasen können jederzeit mit einer Konjunktion verbunden werden, vorausgesetzt, dass beide zu derselben Klasse gehören (N und N oder AP und AP usw.).
-$\kappa$ steht hier stellvertretend für N, NP, A usw.
-Das Schema erlaubt die Verbindung von irgendeiner syntaktischen Einheit vom Typ $\kappa$ mit einer anderen Einheit derselben Klasse $\kappa$, wobei wieder eine Einheit der Klasse $\kappa$ herauskommt.
-Wie in einer mathematischen Formel zeigt die Variable $\kappa$ also an, dass statt ihrer irgendetwas, aber immer das Gleiche eingesetzt werden muss.
-Es werden außerdem für die Konjunktion keine konkreten Wortformen wie \textit{und} explizit im Schema genannt, sondern das Wortklassensymbol Konj, so dass irgendeine Konjunktion eingesetzt werden kann.
-Das Schema erlaubt damit die Analyse der Koordinationen in (\ref{ex:grp2357}) wie in den Abbildungen~\ref{fig:koorsubst}--\ref{fig:koorpraep}
+Das Schema biete damit Analysen der Koordinationen in (\ref{ex:grp2357}) an, vgl.\ die Abbildungen~\ref{fig:koorsubst}--\ref{fig:koorpraep}.
 Die koordinierten Teilstrukturen werden an dieser Stelle dabei jeweils nicht weiter analysiert und mit einem Dreieck abgekürzt.%
 \footnote{Das Symbol S für \textit{Satz} wird in Kapitel~\ref{sec:saetze} genauer eingeführt.}
 
@@ -137,7 +135,6 @@ Zu den Kommaschreibungen in solchen Konstruktionen s.\ aber auch Abschnitt~\ref{
 \subsection{Die Struktur der NP}
 
 Das Phrasenschema für die NP, wie es jetzt hier vorgestellt wird, unterscheidet sich deutlich von den bisher definierten provisorischen NPs (vor allem Definition~\ref{def:vollstaendigesnominal} auf S.~\pageref{def:vollstaendigesnominal} und Abbildung~\ref{fig:strschembsp} auf S.~\pageref{fig:strschembsp}), weil es der Versuch ist, alle möglichen NPs in einem Schema zu beschreiben.
-Die NP hat eine potentiell große Komplexität, und daher wird hier mit dem Begriff \textit{innere Rechtsattribute} ein Sammelbegriff eingeführt, der im Folgenden dann aufgelöst und im Einzelnen erläutert wird.
 Zunächst folgt die Definition des \textit{Attributs} in Definition~\ref{def:attribut}.
 
 \Definition{Attribut}{
@@ -146,9 +143,13 @@ Attribute sind alle unmittelbaren Konstituenten der Nominalphrase außer dem Art
 \index{Attribut}
 }
 
-Die Relativsätze (und Adjektive) zählen also auch zu den Attributen, und als \textit{innere Rechtsattribute} bezeichnen wir besonders die Attribute, die rechts vom nominalen Kopf aber links von Relativsätzen stehen.
+Die Relativsätze (und Adjektive) zählen also auch zu den Attributen, und als \textit{innere Rechtsattribute} bezeichnen wir besonders diejenigen Attribute, die rechts vom nominalen Kopf, aber links von Relativsätzen stehen.
 Einige der inneren Rechtsattribute sind als Ergänzungen aufzufassen, was im weiteren Verlauf diskutiert wird.
-In unserer Auffassung ist der Attributsbegriff also ein struktureller und kein funktionaler, und Attribute in der NP können sowohl (regierte) Ergänzungen sein als auch nicht. 
+In unserer Auffassung ist der Attributsbegriff also ein struktureller und kein funktionaler, und Attribute in der NP können sowohl (regierte) Ergänzungen als auch Angaben sein.%
+\footnote{In Schema~\ref{str:ngr} steht \textit{innere Rechtsattribute} als Sammelbegriff, da die Auflistung aller möglichen Typen von Konstituenten nicht übersichtlich möglich ist.
+Außerdem würde eine Auflistung nicht der Tatsache gerecht, dass bestimmte Attribute nur dann stehen können, wenn der Kopf sie auch regiert.
+Solche Sammelbegriffe tauchen auch in weiteren Schemata wieder auf (\zB \textit{Modifizierer}), werden dann im Schema kursiv gesetzt und im Text näher erläutert.
+}
 
 \index{Nominalphrase}
 
@@ -156,7 +157,7 @@ In unserer Auffassung ist der Attributsbegriff also ein struktureller und kein f
     NP = \\
     \scalebox{0.95}{\begin{tabular}{|c|c|c|c|c|}
       \cline{1-5}
-      ( Art\ \slash\ NP[\textsc{Kas}:\textit{gen}] ) & ( AP )* & \textbf{N} & ( innere Rechtsattribute )* & ( RS )* \\
+      ( Art\ \slash\ NP[\textsc{Kas}:\textit{gen}] ) & ( AP )* & \textbf{N} & ( \textit{innere Rechtsattribute} )* & ( RS )* \\
       \cline{1-5}
     \end{tabular}
     }
@@ -349,7 +350,7 @@ Die Substantive in der PP wurden hier ausgetauscht, um zu zeigen, dass nicht etw
 
 \index{Genitiv!postnominal}
 \index{Genitiv!pränominal}
-\index{Objektsgenitiv}
+\index{Genitiv!Objekts--}
 \index{Akkusativ}
 
 Bei der Substantivierung transitiver Verben (solche, die einen Nominativ und einen Akkusativ regieren) wird der Akkusativ beim Verb regelhaft in einen Genitiv beim Substantiv umgesetzt, vgl.\ (\ref{ex:grp8970}).
@@ -637,10 +638,10 @@ Genau deswegen besetzen Art und NP[\textsc{Kas}:\textit{gen}] im Phrasenschema d
 
 Wir besprechen in diesem Abschnitt nur Fälle, in denen die AP attributiv verwendet wird.
 Prädikative APs werden in Abschnitt~\ref{sec:kopulakonstruktionen} diskutiert.
-Eine attributive AP besteht aus einem Adjektiv und einem optionalen davor stehenden \textit{Intensivierer} (\zB \textit{sehr}).
-Davor stehen wiederum optional verschiedene Arten von Ergänzungen und Angaben, und zwar gegebenenfalls mehrere. 
-Was genau für Ergänzungen vorkommen, wird (im Sinn der Definition von Valenz und Rektion, s.\ Kapitel~\ref{sec:grundbegriffe}) durch das jeweilige Adjektiv festgelegt.
-Es ist notwendig, zwei verschiedene strukturelle Positionen in der AP links vom Kopf anzunehmen, weil Intensivierer wie \textit{sehr} immer direkt vor dem Adjektiv stehen und sich niemals unter die anderen Ergänzungen und Angaben mischen.
+Eine attributive AP besteht aus einem Adjektiv und einem optionalen davor stehenden \textit{Intensivierer} (\zB \textit{sehr} und \textit{überaus}).\index{Intensivierer}
+Davor stehen wiederum optional verschiedene Arten von Ergänzungen und Modifizierer (ein Sammelbegriff wie \textit{innere Rechtsattribute} in Schema~\ref{str:ngr} auf S.~\pageref{str:ngr}).
+Was genau für Ergänzungen vorkommen, wird (im Sinn der Definition von Valenz und Rektion, s.\ Kapitel~\ref{sec:grundbegriffe}) durch das jeweilige Adjektiv bestimmt.
+Es ist notwendig, zwei verschiedene strukturelle Positionen in der AP links vom Kopf anzunehmen, weil Intensivierer wie \textit{sehr} immer direkt vor dem Adjektiv stehen und sich nicht mit den Ergänzungen und Modifizierern mischen.
 Im weiteren Verlauf dieses Abschnitts werden genau diese Verhältnisse illustriert.
 Zunächst folgt aber das Phrasenschema.
 
@@ -650,16 +651,15 @@ Zunächst folgt aber das Phrasenschema.
 
     \begin{tabular}{c|c|c|c|}
       \cline{2-4}
-      AP = & ( NP / PP / AdvP )* & ( Intensivierer ) & \textbf{A} \\
+      AP = & (\textit{ Modifizierer}\slash \textit{Ergänzungen} )* & ( \textit{Intensivierer} ) & \textbf{A} \\
       \cline{2-4}
     \end{tabular}
 
 }
 
 Die Intensivierer treten in Form von Partikeln (\zB \textit{sehr}, \textit{voll} oder \textit{ziemlich}), PPs (\zB \textit{über alle Maßen}), AdvPs (\zB \textit{hochgradig}) auf.
-Die Bezeichnung \textit{Intensivierer} in Schema~\ref{str:agr} ist damit eine Sammelbezeichnung ähnlich wie \textit{innere Rechtsattribute} in Schema~\ref{str:ngr}.
-Typische Angaben, die links von der Intensiviererposition stehen, sind \zB temporale oder lokale wie \textit{seit gestern} in \textit{seit gestern berühmt} oder \textit{in Hessen} wie in \textit{in Hessen beliebt}. 
-Einige APs werden in (\ref{ex:adjgrnormal}) bebeispielt.
+Typische Modifizierer, die links von der Intensiviererposition stehen, sind \zB temporale oder lokale PP wie \textit{seit gestern} in \textit{seit gestern berühmt} oder \textit{in Hessen} wie in \textit{in Hessen beliebt}.\index{Modifizierer}
+Einige APs mit und ohne Intensivierer und Modifizierer werden in (\ref{ex:adjgrnormal}) bebeispielt.
 In (\ref{ex:adjgrnormalc}) und (\ref{ex:adjgrnormald}) zeigt sich auch die Nichtvertauschbarkeit der Modifizierer und Intensivierer.
 Eine Analyse von (\ref{ex:adjgrnormalc}) in Baumform findet sich in Abbildung~\ref{fig:adgrnormalana}.
 
@@ -684,7 +684,7 @@ Eine Analyse von (\ref{ex:adjgrnormalc}) in Baumform findet sich in Abbildung~\r
   \label{fig:adgrnormalana}
 \end{figure}
 
-Wie erwähnt sind nur einige der Elemente in der ersten Position innerhalb der AP regierte Ergänzungen, undnur wenige Adjektive haben eine besondere Valenz (vgl.\ auch Abschnitt~\ref{sec:adjektivklassifikation}).
+Wie erwähnt sind einige der Elemente in der ersten Position innerhalb der AP regierte Ergänzungen, aber nur wenige Adjektive haben eine besondere Valenz (vgl.\ auch Abschnitt~\ref{sec:adjektivklassifikation}).
 Einige Adjektive regieren eine NP im Genitiv, \zB \textit{ähnlich}, \textit{gewahr}, \textit{müde}, \textit{überdrüssig}.
 Andere regieren eine PP mit einer bestimmten Präposition, \zB \textit{verwundert} (\textit{über}), \textit{stolz} (\textit{auf}), \textit{ansässig} (irgendeine lokale PP oder AdvP, die eventuelle nicht im engeren Sinne regiert ist).
 Die Beispiele (\ref{ex:adjgrvaleinfach}) zeigen, dass in attributiven APs die Ergänzungen genau wie die Angaben immer vor dem Adjektiv stehen.
@@ -744,14 +744,14 @@ In prädikativen APs sind die Stellungsmöglichkeiten etwas anders (Abschnitt~\r
 \Phrasenschema{Präpositionalphrase (PP)}{\label{str:prpgr}
   \begin{tabular}{c|c|c|c|}
     \cline{2-4} 
-    PP = & ( NP / PP / AP / AdvP / Ptkl ) & \textbf{P} & NP \\
+    PP = & ( \textit{Modifizierer} ) & \textbf{P} & NP \\
     \cline{2-4} 
   \end{tabular}
 }
 
 Alle Präpositionen haben eine strikt einstellige Valenz.
 Sie nehmen genau eine niemals fakultative NP als Ergänzung und regieren ihren Kasus.
-Außerdem können sie von \textit{Modifizierern} (darunter Maßangaben im Akkusativ) modifiziert werden, die immer links stehen und nie regiert sind.
+Außerdem können sie von \textit{Modifizierern} wie NPs (darunter Maßangaben im Akkusativ), PPs, APs, AdvPs oder Partikeln modifiziert werden, die immer links stehen und nie regiert sind.\index{Modifizierer}
 Entsprechende Beispiele und Strukturen finden sich in (\ref{ex:prpgrallg}).
 Einen Modifizierer in Form eines Adjektivs (\textit{weit}) zeigt (\ref{ex:prpgrintensiv}).
 
@@ -863,7 +863,7 @@ Wir entscheiden uns hier für diese Variante.
 \Phrasenschema{Adverbphrase (AdvP)}{\label{str:advgr}
   \begin{tabular}{c|c|c|}
     \cline{2-3}
-    AdvP = & ( NP / PP / AdvP / Ptkl ) & \textbf{Adv} \\
+    AdvP = & ( \textit{Modifizierer} ) & \textbf{Adv} \\
     \cline{2-3} 
   \end{tabular}
 }
@@ -981,7 +981,7 @@ Zahlreiche Beispiele folgen nach den Phrasenschemata~\ref{str:vgr} und \ref{str:
 \Phrasenschema{Verbphrase (VP)}{\label{str:vgr}
   \begin{tabular}{c|c|c|}
     \cline{2-3}
-    VP = & ( NP / PP / AdvP / Ptkl )* & \textbf{V} \\
+    VP = & ( \textit{Ergänzungen}\slash \textit{Angaben} )* & \textbf{V} \\
     \cline{2-3}
   \end{tabular}
 }

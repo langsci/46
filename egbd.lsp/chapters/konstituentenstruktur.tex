@@ -229,7 +229,7 @@ In dieser NP ist allerdings eine weitere NP eingebettet, nämlich [\textit{dem V
 Es gibt keinen Grund, anzunehmen, dass diese NP nicht wieder eine NP enthalten könnte, usw.
 Wie in der Morphologie kann also das Ergebnis einer strukturbildenden Operation wieder für dieselbe Operation als Ausgangsmaterial verwendet werden.
 Ähnlich und noch einfacher ist (\ref{ex:koorendlos}).
-Hier kann eine ebenfalls rekursive Koordinationstruktur beliebig fortgesetzt werden.
+Hier kann eine ebenfalls rekursive Koordinationstruktur beliebig fortgesetzt werden.\label{abs:syntaxrekursion}
 
 \begin{exe}
   \ex{\label{ex:koorendlos} Dieser Wagen läuft und läuft und läuft und läuft\ldots}
@@ -237,12 +237,10 @@ Hier kann eine ebenfalls rekursive Koordinationstruktur beliebig fortgesetzt wer
 
 Dieser Satz wird angeblich nicht ungrammatisch, egal wie oft man \textit{und läuft} wiederholt.
 Manchmal wird dies als Beweis genommen, dass es im Prinzip unendlich viele verschiedene Sätze in einer Sprache gibt, im Minimalfall durch endlose Koordination wie in (\ref{ex:koorendlos}).
-Ein solcher Beweis ist allerdings in Wirklichkeit nicht zu führen, und er beruht auf der Idee einer strikten Trennung zwischen den Möglichkeiten, die das Sprachsystem anbietet (\textit{Kompetenz}) und den Bedingungen, unter denen wir es benutzen (\textit{Performanz}), auf die wir in einem deskriptiven Rahmen nicht eingehen können und müssen.
+Ein solcher Beweis ist allerdings in Wirklichkeit nicht zu führen, und er beruht auf der Idee einer strikten Trennung zwischen den Möglichkeiten, die das Sprachsystem anbietet (\textit{Kompetenz}) und den Bedingungen, unter denen wir es benutzen (\textit{Performanz}), auf die wir in einem deskriptiven Rahmen nicht eingehen können und müssen.\index{Kompetenz}\index{Performanz}
 Eine klare Begrenzung der Rekursion für den Menschen ist normalerweise ganz einfach schon dadurch gegeben, dass sehr lange Sätze schlicht nicht mehr verarbeitet werden können.
 Inwiefern uns jetzt die Feststellung, dass aber \textit{im Prinzip} doch unendlich viele Sätze möglich wären, weiterbringt, ist fraglich.
 Wir bleiben hier bescheiden und stellen fest, dass eingeschränkt rekursive Strukturen vorkommen (\zB NPs in NPs), und dass das syntaktische System offensichtlich so gebaut ist, dass wir ständig auf ziemlich viele Sätze treffen, die wir vorher noch nie gehört haben.
-Wir können dabei sicher sein, dass wir de facto niemals unendlich viele Sätze hören werden.
-
 
 \Zusammenfassung{
 Die Syntax (als wissenschaftliche Disziplin) versucht, mit so wenig wie möglich Generalisierungen alle Sätze einer Sprache zu beschreiben.
@@ -323,7 +321,7 @@ Dort wurde die Vorfeldfähigkeit einzelner Wörter benutzt, um Adverben und Part
 Hier geht es nicht nur um einzelne Wortformen, sondern auch um komplexere Konstituenten.
 Vorfeldfähig ist eine Konstituente genau dann, wenn sie alleine vor dem finiten Verb stehen kann.
 Bei der Anwendung dieses Tests auf sprachliches Material muss man ggf.\ also eine strukturelle Veränderung durchführen, wenn die zu untersuchende Konstituente nicht ohnehin schon alleine vor dem finiten Verb steht.
-Wichtig ist, dass sich die Bedeutung nicht ändern darf und dass kein Material weggelassen oder hinzugefügt werden darf.
+Wichtig ist, dass sich die Bedeutung nicht ändern darf, und dass kein Material weggelassen oder hinzugefügt werden darf.
 
 \begin{exe}
   \ex\label{ex:syn3333}
@@ -407,7 +405,12 @@ So ist \zB (\ref{ex:syn4445}) ein Beispiel, in dem der Test erfolgreich ist, es 
 \end{exe}
 \end{sloppypar}
 
-Bei der Anwendung des Koordinationstests kann es außerdem zu Verwirrung kommen, was man genau koordiniert hat.
+Viele Syntaktiker wollen Wortfolgen wie [\textit{meine Kollegin einen Salat}] und [\textit{mein Kollege einen Sojaburger}] nicht als Konstituente betrachten, sondern zusammen mit einem Verb als \textit{Verbphrase} (s.\ Abschnitt~\ref{sec:vgr}).
+Das \textit{und} kann dann hier so analysiert werden, dass es die vollständige Verbphrase [\textit{mein Kollege einen Sojaburger möchte}] und die unvollständige [\textit{meine Kollegin einen Salat}] koordiniert.
+In der ersten Verbphrase findet dabei eine Ellipse (Weglassung) des Verbs statt, um seine unnötige Wiederholung zu vermeiden.\index{Ellipse}
+Der Test wird damit aber durch theoriespezifische Zusatzannahmen modifiziert, die an gegebenen Sätzen nicht immer leicht umzusetzen sind.
+
+Bei der Anwendung des Koordinationstests kann es außerdem zu Fehlern kommen, weil nicht eindeutig erkennbar ist, welche potentiellen Konstituenten genau koordiniert werden.
 In (\ref{ex:syn9521}) ist genau so ein Fall illustriert.
 
 \begin{exe}
@@ -568,6 +571,9 @@ Eine Folge von Wörtern kann \textit{strukturell ambig} sein, also mehr als eine
 \label{sec:baumterminologie}
 
 \index{Baumdiagramm}
+\index{Ast}
+\index{Kante}
+\index{Knoten}
 
 Da jetzt vermehrt Baumdiagramme verwendet werden, soll hier kurz eine Terminologie eingeführt werden, mit der man über diese Diagramme redet.
 Ein Baum besteht aus sogenannten \textit{Knoten}, die durch \textit{Äste} oder \textit{Kanten} verbunden sind.
@@ -576,7 +582,7 @@ In diesem Abschnitt sind es der Einfachheit halber abstrakte Großbuchstaben, in
 In Abbildung~\ref{fig:baumschema} ist ein Baum mit den Knoten A, B und C abgebildet.
 Die Kanten verbinden C und A sowie C und B.
 
-\index{Baumdiagramm!Kante}
+\index{Kante}
 
 \begin{figure}[!htbp]
   \centering
@@ -588,13 +594,13 @@ Die Kanten verbinden C und A sowie C und B.
   \label{fig:baumschema}
 \end{figure}
 
-\index{Baumdiagramm!Tochterknoten}
-\index{Baumdiagramm!Mutterknoten}
+\index{Knoten!Tochter--}
+\index{Knoten!Mutter--}
 
 Die Kanten sind \textit{gerichtet}, zeigen also immer von oben nach unten, wobei der obere Knoten an der Kante \textit{Mutterknoten} und der untere \textit{Tochterknoten} genannt wird.
 In Abbildung~\ref{fig:baumschema} ist C der Mutterknoten und A und B sind Tochterknoten.
 Zwei verschiedene Tochterknoten eines Mutterknotens werden, wie zu erwarten, \textit{Schwestern} genannt (\zB A und B in Abbildung~\ref{fig:baumschema}).
-In einem Baum gibt es immer genau einen Knoten (ganz oben) ohne Mutterknoten, die \textit{Wurzel}.
+In einem Baum gibt es immer genau einen Knoten (ganz oben) ohne Mutterknoten, die \textit{Wurzel}.\index{Knoten!Wurzel--}
 Jeder andere Knoten hat genau einen Mutterknoten.
 In Abbildung~\ref{fig:ctree} bis \ref{fig:notree2} finden sich noch ein paar Beispiele für Bäume und Nicht-Bäume.
 
@@ -683,6 +689,7 @@ Es folgt im nächsten Abschnitt noch die genauere Einführung des Phrasenbegriff
 \subsection{Phrasen, Köpfe und Merkmale}
 
 \label{sec:koepfevalenzmaximalitaet}
+\index{Phrase}
 
 Die \textit{Phrase} ist neben dem Wort die wichtigste Einheit in der Syntax.
 Während die Wörter die kleinsten Konstituenten und die Sätze die größten sind, bilden die Phrasen genau die Zwischenebene, die es uns erlaubt, Sätze eben gerade nicht als Abfolgen von Wörtern zu beschreiben,
@@ -744,7 +751,7 @@ Der Begriff des \textit{Kopfes} wird zusammen mit dem der \textit{Phrase} defini
 \Definition{Phrase und Kopf}{
 \label{def:phrase}
 Eine Phrase ist eine syntaktische Konstituente, in der genau ein Wort der Kopf ist.
-Innerhalb der Phrase stehen (im Basisfall) alle anderen Wörter und Phrasen, die zu dem Kopf dependent sind.
+Innerhalb der Phrase sind alle anderen Wörter und Phrasen zum Kopf dependent.
 Die grammatischen Merkmale der Phrase werden durch die Merkmale des Kopfes bestimmt.
 \index{Kopf!Phrase}
 }
