@@ -346,13 +346,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {10.2.2}Konstituenten und Satzglieder}{358}{subsection.10.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.2.3}Strukturelle Ambiguität}{361}{subsection.10.2.3}
+\contentsline {subsection}{\numberline {10.2.3}Strukturelle Ambiguität}{360}{subsection.10.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.3}Topologie und Konstituentenstruktur}{363}{section.10.3}
+\contentsline {section}{\numberline {10.3}Topologie und Konstituentenstruktur}{362}{section.10.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.3.1}Terminologie für Baumdiagramme}{363}{subsection.10.3.1}
+\contentsline {subsection}{\numberline {10.3.1}Terminologie für Baumdiagramme}{362}{subsection.10.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.3.2}Topologische Struktur}{364}{subsection.10.3.2}
+\contentsline {subsection}{\numberline {10.3.2}Phrasenschemata}{364}{subsection.10.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {10.3.3}Phrasen, Köpfe und Merkmale}{365}{subsection.10.3.3}
 \defcounter {refsection}{0}\relax 
@@ -364,7 +364,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {11.2.1}Die Struktur der NP}{377}{subsection.11.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.2.2}Innere Rechtsattribute}{380}{subsection.11.2.2}
+\contentsline {subsection}{\numberline {11.2.2}Innere Rechtsattribute}{379}{subsection.11.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {11.2.3}Rektion und Valenz in der NP}{381}{subsection.11.2.3}
 \defcounter {refsection}{0}\relax 
@@ -382,25 +382,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {11.6}Komplementiererphrase}{395}{section.11.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.7}Verbphrase und Verbkomplex}{397}{section.11.7}
+\contentsline {section}{\numberline {11.7}Verbphrase und Verbkomplex}{396}{section.11.7}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {11.7.1}Verbphrase}{397}{subsection.11.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {11.7.2}Verbkomplex}{400}{subsection.11.7.2}
+\contentsline {subsection}{\numberline {11.7.2}Verbkomplex}{399}{subsection.11.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.8}Konstruktion von Konstituentenanalysen}{404}{section.11.8}
+\contentsline {section}{\numberline {11.8}Konstruktion von Konstituentenanalysen}{403}{section.11.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {12}Sätze}{411}{chapter.12}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {12.1}Hauptsatz und Matrixsatz}{411}{section.12.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.2}Satzgliedstellung und Feldermodell}{413}{section.12.2}
+\contentsline {section}{\numberline {12.2}Konstituentenstellung und Feldermodell}{413}{section.12.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.2.1}Satzgliedstellung in unabhängigen Sätzen}{413}{subsection.12.2.1}
+\contentsline {subsection}{\numberline {12.2.1}Konstituentenstellung in unabhängigen Sätzen}{413}{subsection.12.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {12.2.2}Das Feldermodell}{416}{subsection.12.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.2.3}LSK-Test und Nebensätze}{420}{subsection.12.2.3}
+\contentsline {subsection}{\numberline {12.2.3}LSK-Test und Nebensätze}{421}{subsection.12.2.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {12.3}Schemata für Sätze}{424}{section.12.3}
 \defcounter {refsection}{0}\relax 
@@ -410,9 +410,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {12.3.3}Syntax der Partikelverben}{429}{subsection.12.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.3.4}Kopulasätze}{429}{subsection.12.3.4}
+\contentsline {subsection}{\numberline {12.3.4}Kopulasätze}{430}{subsection.12.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {12.4}Nebensätze}{431}{section.12.4}
+\contentsline {section}{\numberline {12.4}Nebensätze}{432}{section.12.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {12.4.1}Relativsätze}{432}{subsection.12.4.1}
 \defcounter {refsection}{0}\relax 
@@ -520,8 +520,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Lösungen zu den Übungen}{558}{section*.41}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{607}{section*.117}
+\contentsline {chapter}{Bibliographie}{607}{section*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{607}{chapter*.118}
+\contentsline {chapter}{\nonumberline Literatur}{607}{chapter*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{614}{section*.119}
+\contentsline {chapter}{Index}{614}{section*.8}

@@ -1,5 +1,12 @@
 \chapter{Konstituentenstruktur}
 
+
+% Things break if I move this to localcommands.sty.
+% No idea why, no time to investigate.
+\newcommand{\COny}[2][-]{%
+\POS[]+(0,-3);\POS[]+(0,-6)**\dir{#1} \POS[]+(0,-6);\POS[#2]+(0,-6)**\dir{#1}
+\POS[#2]+(0,-6) \ar@{#1>}[#2]+(0,-3)}
+
 \label{sec:konstituentenstruktur}
 
 \section{Syntaktische Struktur}
@@ -244,10 +251,10 @@ Wir bleiben hier bescheiden und stellen fest, dass eingeschränkt rekursive Stru
 
 \Zusammenfassung{
 Die Syntax (als wissenschaftliche Disziplin) versucht, mit so wenig wie möglich Generalisierungen alle Sätze einer Sprache zu beschreiben.
-Wenn eine Syntax eine gegebene Folge von Wörtern auf Basis ihrer Generalisierungen als Satz beschreiben kann, gilt der Satz relativ zu dieser Syntax als \textit{grammatisch}.
+Wenn eine Syntax eine gegebene Folge von Wörtern auf Basis ihrer Generalisierungen als Satz beschreiben kann, gilt der Satz relativ zu dieser Syntax als grammatisch.
 Idealerweise klassifiziert die Syntax diejenigen Sätze als grammatisch, die auch von Sprechern als akzeptabel klassifiziert werden.
 Sätze in der Grammatik als Folgen von Wörtern zu beschreiben ist nicht zielführend, weil es viel zu viele verschiedene Arten von Wortfolgen gibt, die grammatisch sind.
-Man beschreibt zunächst die Struktur \textit{kleinerer Konstituenten} (NPs, PPs usw.), aus denen dann \textit{größere Konstituenten} und schließlich \textit{Sätze} aufgebaut werden.
+Man beschreibt zunächst die Struktur kleinerer Konstituenten (NPs, PPs usw.), aus denen dann größere Konstituenten und schließlich Sätze aufgebaut werden.
 }
 
 
@@ -501,8 +508,6 @@ Vgl.\ auch Übung~\ref{u103}.
 Der Begriff wurde hier vor allem wegen seiner Relevanz in der Didaktik aufgenommen.
 Eine weitere besondere Art von Konstituenten brauchen wir übrigens nicht erst zu testen, weil sie als trivial gegeben angesehen werden kann: die Wortform (vgl.\ schon Abschnitt~\ref{sec:definitionsproblemewort}).
 
-\Np
-
 \Definition{Atomare syntaktische Konstituenten}{
 \label{satz:atomarekonstituente}
 Die atomaren syntaktischen Konstituenten (die kleinsten nicht weiter analysierbaren Einheiten in der Syntax) sind die syntaktischen Wörter.
@@ -555,10 +560,10 @@ Im nächsten Abschnitt wird abschließend die Art und Weise vorgestellt, mit der
 
 
 \Zusammenfassung{
-  Die \textit{Konstituententests} sind eine Heuristik, mit deren Hilfe man sich einer zielführenden Konstituentenanalyse annähern kann.
+Die Konstituententests sind eine Heuristik, mit deren Hilfe man sich einer zielführenden Konstituentenanalyse annähern kann.
 Sie stellen keine notwendige oder hinreichende empirische Grundlage für die Syntax dar.
-Selbständig bewegbare und \textit{vorfeldfähige} Konstituenten werden \textit{Satzglieder} genannt.
-Eine Folge von Wörtern kann \textit{strukturell ambig} sein, also mehr als eine angemessene syntaktische Analyse haben.
+Selbständig bewegbare und vorfeldfähige Konstituenten werden Satzglieder genannt.
+Eine Folge von Wörtern kann strukturell ambig sein, also mehr als eine angemessene syntaktische Analyse haben.
 }
 
 
@@ -646,26 +651,25 @@ Der Baum in Abbildung~\ref{fig:ctree} kann also wie in (\ref{ex:konst3999}) gesc
   \ex{\label{ex:konst3999} [$_\textrm{C}$~A~[$_\textrm{B}$~D~E~F~]~]}
 \end{exe}
 
-\subsection{Topologische Struktur}
+\subsection{Phrasenschemata}
 
 \label{sec:topologische}
 
 Wir müssen nun überlegen, wie wir die Baupläne für Konstituentenstrukturen aufschreiben wollen.
-Bisher haben wir für Baupläne und Analysen Baumdiagramme verwendet, \zB in Abbildung~\ref{fig:satzbauhyp} und Abbildung~\ref{fig:bspsatzpre}.
-In jedem Baum haben die Teilkonstituenten eine Reihenfolge (von links nach rechts entlang den Ästen des Baumes), und durch den Prozess der mehrfachen Zusammensetzung schichtet sich eine hierarchische Struktur auf.
-In Zukunft soll ein Phrasenschema den topologischen Bauplan angeben, aus dem in der Analyse Bäume gebaut werden können.
-Das Schema gibt an, welche Teilkonstituenten in welcher Reihenfolge vorkommen können, im zugehörigen Teilbaum hängen sie alle unter einem Knoten.
-Die Phrasenschemata werden hier didaktisch vereinfacht wie in Abbildung~\ref{fig:strschembsp} aufgeschrieben.
-Wiederholbarkeit wird durch * angedeutet, Optionalität durch Einklammerung (\ ).
+Bisher haben wir sowohl für Baupläne als auch für Analysen Baumdiagramme verwendet, \zB in Abbildung~\ref{fig:satzbauhyp} und Abbildung~\ref{fig:bspsatzpre}.
+In einem Baum ist es nun immer der Fall, dass die Töchter unter jedem Knoten eine festgelegte Reihenfolge (von links nach rechts) haben, weil sich Kanten nicht überkreuzen dürfen.
+Wenn die Tochterknoten wiederum Tochterknoten haben, gilt für diese dasselbe, und es ergibt sich insgesamt eine hierarchische Struktur mit einer linearen Ordnung.
+Wir geben hier als \textit{Phrasenschemata} jeweils Baupläne für einzelne Knoten an.
+Ein solches Schema spezifiziert von links nach rechts, welche Teilkonstituenten in welcher Reihenfolge unter einem Knoten von einem bestimmten Typ (\zB NP) vorkommen müssen und können.
+Wenn ein Tochterknoten mehrfach auftreten kann, wird dies durch * angezeigt, \zB A* für ein Adjektiv oder mehrere Adjektive.
+Wenn ein Tochterknoten nicht stehen muss, sondern nur kann, wird das Symbol eingeklammert, \zB (A) für ein oder kein Adjektiv.
+Die Kombination (A)* steht konsequenterweise für kein Adjektiv, ein Adjektiv oder mehrere Adjektive.
 Das Symbol für den Kopf der Phrase wird fettgedruckt (zum Kopf vgl.\ Abschnitt~\ref{sec:koepfevalenzmaximalitaet}).
+Ein Beispiel ist in Abbildung~\ref{fig:strschembsp} dargestellt.
 
 \begin{figure}[!htbp]
   \centering
-  \begin{tabular}{c|c|c|c|}
-    \cline{2-4}
-    NP = & (Artikelwort) & (A)* & \textbf{N} \\
-    \cline{2-4}
-  \end{tabular}
+  \colorbox{lightgray}{\strschemspace NP\strschemspace:\strschemspace(\textit{Artikelwort})\strschemspace(A)*\strschemspace\textbf{N}\strschemspace}
   \caption{Vorläufiges Phrasenschema für die Nominalphrase (NP)}
   \label{fig:strschembsp}
 \end{figure}
@@ -673,7 +677,6 @@ Das Symbol für den Kopf der Phrase wird fettgedruckt (zum Kopf vgl.\ Abschnitt~
 Mit dem Schema in Abbildung~\ref{fig:strschembsp} definieren wir, dass eine NP aus einem optionalen Artikelwort, beliebig vielen optionalen Adjektiven (A)* und einem obligatorischen N-Kopf besteht.%
 \footnote{Ellipsen wie \zB \textit{ein rotes Auto und ein grünes}, in denen ein Substantiv ausgelassen wurde, statt es zu wiederholen, betrachten wir nicht.}
 Damit kann der Baum in Abbildung~\ref{fig:vnflach} als Analyse für \textit{ein leckerer geräucherter Tofu} gebaut werden.
-Es folgt im nächsten Abschnitt noch die genauere Einführung des Phrasenbegriffs und der mit ihm verbundenen weiteren Begriffe.
 
 \begin{figure}[!htbp]
   \centering
@@ -684,6 +687,27 @@ Es folgt im nächsten Abschnitt noch die genauere Einführung des Phrasenbegriff
   }
   \caption{Nominalphrase (NP)}
   \label{fig:vnflach}
+\end{figure}
+
+Schließlich werden in Strukturschemata Rektionsbeziehungen durch Pfeile angezeigt, und zwar durch einen durchgehenden Pfeil wie in (\ref{ex:konst1999a}) für obligatorische Rektion von Y durch X und eine gestrichelten Pfeil wie in (\ref{ex:konst1999b}) für mögliche Rektion von Y durch X.
+Im vorläufigen Phrasenschema für die Präpositionalphrase in Abbildung~\ref{fig:strschembsprek} zeigt der Pfeil \zB an, dass der P-Kopf die NP obligatorisch regiert.
+Das vollständige Schema wird in Abschnitt~\ref{sec:prpgr} eingeführt.
+
+\begin{exe}
+  \ex\label{ex:konst1999} 
+  \begin{xlist}
+    \ex{\label{ex:konst1999a} \TExt{\TXT{X} \COny{rrr} & \TXT{~~~~} & \TXT{~~~~} & \TXT{Y}}}
+    \ex{\label{ex:konst1999b} \TExt{\TXT{X} \COny[--]{rrr} & \TXT{~~~~} & \TXT{~~~~} & \TXT{Y}}}
+  \end{xlist}
+\end{exe}
+
+\begin{figure}[!htbp]
+  \centering
+  \colorbox{lightgray}{
+  \TExt{\TXT{PP\strschemspace:\strschemspace\ } & \TXT{\textbf{P}}\COny[-]{rr} & \TXT{\strschemspace\ } & \TXT{NP} } 
+  }
+  \caption{Vorläufiges Phrasenschema für die Päpositionalphrase (PP)}
+  \label{fig:strschembsprek}
 \end{figure}
 
 \subsection{Phrasen, Köpfe und Merkmale}
@@ -841,10 +865,10 @@ In Kapitel~\ref{sec:phrasen} geht es jetzt aber zunächst einmal um den Aufbau d
 
 
 \Zusammenfassung{
-  Eine Phrase hat typischerweise einen \textit{Kopf}, der ihre wesentlichen Merkmale bestimmt, die \textit{Kopf-Merkmale}.
-Innerhalb einer Phrase sind alle Konstituenten direkt oder indirekt vom Kopf abhängig (\textit{dependent}).
+Eine Phrase hat typischerweise einen Kopf, der ihre wesentlichen Merkmale bestimmt, die Kopf-Merkmale.
+Innerhalb einer Phrase sind alle Konstituenten direkt oder indirekt vom Kopf abhängig (dependent).
 Funktionswörter sind prinzipiell abhängige Wörter, die keine eigenen Phrasen bilden.
-Syntaxbäume müssen gewissen Regeln entsprechen, \zB dass sie nur einen \textit{Wurzelknoten} haben.
+Syntaxbäume müssen gewissen Regeln entsprechen, \zB dass sie nur einen Wurzelknoten haben.
 }
 
 

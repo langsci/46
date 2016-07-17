@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_11) (preloaded format=xelatex 2015.11.9)  16 JUL 2016 13:16
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_11) (preloaded format=xelatex 2015.11.9)  18 JUL 2016 01:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2652,10 +2652,84 @@ LaTeX Font Info:    Font shape `EU1/LinLibertine_R_B.otf(0)/m/sl' in size <10.9
  [11] [12
 
 
-]
-\openout2 = `chapters/einleitung.aux'.
+] [10
 
- (./chapters/einleitung.tex
+
+
+] [11] [12] [68
+
+
+
+
+] [69] [70]
+\openout2 = `chapters/phonologie.aux'.
+
+
+(./chapters/phonologie.tex
+Kapitel 4.
+
+Class scrbook Warning: \float@addtolists detected!
+(scrbook)              Implementation of \float@addtolist became
+(scrbook)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrbook)              has been replaced by several more flexible
+(scrbook)              features of package `tocbasic`.
+(scrbook)              Since Version 3.12 support for deprecated
+(scrbook)              \float@addtolist interface has been
+(scrbook)              restricted to only some of the KOMA-Script
+(scrbook)              features and been removed from others.
+(scrbook)              Loading of package `scrhack' may help to
+(scrbook)              avoid this warning, if you are using a
+(scrbook)              a package that still implements the
+(scrbook)              deprecated \float@addtolist interface .
+
+
+Overfull \hbox (1.55147pt too wide) in paragraph at lines 5--13
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Die im letzten Kapitel besprochene artik
+ulatorische Phonetik lieferte die Beschrei-
+ []
+
+[107
+
+
+
+
+]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/bx/n' will be
+(Font)              scaled to size 9.78955pt on input line 35.
+
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 35--36
+[][][][][][]
+ []
+
+[108]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 71--72
+[][][][][][]
+ []
+
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+<use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 82--83
+[][][][][][]
+ []
+
+[109]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 112--113
+[][][][][][]
+ []
+
+[110]
+Overfull \hbox (3.6867pt too wide) in paragraph at lines 114--118
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 der Kontrast zwischen stimmlosen und sti
+mmhaften Plosiven (vgl. Abschnitt []3.3.2[])
+ []
+
+[111]
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2714,527 +2788,6 @@ tex-text;mapping=tex-text;+liga;+pnum;+lnum;+smcp;"
 . and font adjustment code:
 . \fontdimen 7\font =0\fontdimen 7\font 
 .................................................
- [1
-
-
-
-] [2]
-[3] [4] [5] [6
-
-
-] [7] [8]) [9] [10
-
-
-
-] [11] [12]
-\openout2 = `chapters/grammatik.aux'.
-
- (./chapters/grammatik.tex
-Kapitel 1.
-
-Class scrbook Warning: \float@addtolists detected!
-(scrbook)              Implementation of \float@addtolist became
-(scrbook)              deprecated in KOMA-Script v3.01 2008/11/14 and
-(scrbook)              has been replaced by several more flexible
-(scrbook)              features of package `tocbasic`.
-(scrbook)              Since Version 3.12 support for deprecated
-(scrbook)              \float@addtolist interface has been
-(scrbook)              restricted to only some of the KOMA-Script
-(scrbook)              features and been removed from others.
-(scrbook)              Loading of package `scrhack' may help to
-(scrbook)              avoid this warning, if you are using a
-(scrbook)              a package that still implements the
-(scrbook)              deprecated \float@addtolist interface .
-
-[13
-
-
-
-]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/bx/n' will be
-(Font)              scaled to size 9.78955pt on input line 56.
-
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 56--57
-[][][][][][]
- []
-
-[14] [15]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 110--111
-[][][][][][]
- []
-
-[16]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 130--131
-[][][][][][]
- []
-
-[17]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 171--172
-[][][][][][]
- []
-
-[18] [19] [20] [21] [22] [23]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 367--368
-[][][][][][]
- []
-
-[24]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 383--384
-[][][][][][]
- []
-
-
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 400--401
-[][]
- []
-
-[25]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 416--417
-[][][][][][]
- []
-
-
-Overfull \hbox (5.10738pt too wide) in paragraph at lines 418--427
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Wichtig ist nun die Abgrenzung zur \EU
-1/LinLibertine_R_B.otf(0)/m/it/10.95 präskriptiven Grammatik\EU1/LinLibertine_R
-_B.otf(0)/m/n/10.95 . Die Duden-Gram-
- []
-
-[26]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 434--435
-[][][][][][]
- []
-
-[27]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 471--472
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 477--478
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 480--481
-[][][][][][]
- []
-
-[28] [29] [30] [31]
-LaTeX Font Info:    Try loading font information for OT1+LinLibertine_R_B.otf(0
-) on input line 564.
-LaTeX Font Info:    No file OT1LinLibertine_R_B.otf(0).fd. on input line 564.
-
-
-LaTeX Font Warning: Font shape `OT1/LinLibertine_R_B.otf(0)/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead
-(Font)              for symbol `glqq' on input line 564.
-
-Package microtype Info: Loading generic settings for font family
-(microtype)             `LinLibertine_R_B.otf' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-[32] [33] [34] [35] [36])
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 703--66
-[][]
- []
-
-[37]
-\openout2 = `chapters/grundbegriffe.aux'.
-
- (./chapters/grundbegriffe.tex [38
-
-
-
-
-]
-Kapitel 2.
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 18--19
-[][][][][][]
- []
-
-[39]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 67--68
-[][][][][][]
- []
-
-[40]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 97--98
-[][]
- []
-
-[41]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 120--121
-[][][][][][]
- []
-
-<xymatrix 3x2
-
-Package xypdf Warning: The produced DVI file is NOT PORTABLE. Convert it with
-dvipdfm(x) to the PDF format but do not expect the DVI file itself to be
-displayed correctly.
-
-168> <xymatrix 8x3 748> [42] <xymatrix 11x4 944> [43]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 194--195
-[][][][][][]
- []
-
-[44] [45]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 260--261
-[][][][][][]
- []
-
-[46]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 311--312
-[][][][][][]
- []
-
-[47] [48]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 393--394
-[][][][][][]
- []
-
-[49]
-Underfull \hbox (badness 10000) in paragraph at lines 418--420
-
- []
-
-[50]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 434--435
-[][][][][][]
- []
-
-<xymatrix 8x3 818> <xymatrix 4x3 320> [51]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 470--471
-[][][][][][]
- []
-
-[52]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 500--501
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 533--534
-[][][][][][]
- []
-
-[53] [54]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 597--598
-[][][][][][]
- []
-
-[55]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 618--619
-[][]
- []
-
-[56] [57] [58]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 720--721
-[][][][][][]
- []
-
-[59] [60] [61]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 841--842
-[][][][][][]
- []
-
-[62] [63]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 928--929
-[][][][][][]
- []
-
-[64]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 971--972
-[][]
- []
-
-[65] [66
-
-
-]) [67] [68
-
-
-
-] [69] [70]
-\openout2 = `chapters/phonetik.aux'.
-
- (./chapters/phonetik.tex
-Kapitel 3.
-[71
-
-
-
-]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 42--43
-[][][][][][]
- []
-
-[72] [73] [74]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 148--149
-[][][][][][]
- []
-
-[75]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 161--162
-[][]
- []
-
-File: figures/ueberblick.eps Graphic file (type eps)
-<figures/ueberblick.eps> [76] [77]
-Overfull \hbox (1.60893pt too wide) in paragraph at lines 221--229
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 nicht, wenn Luft hindurchströmt. \U/pzd/
-m/n/10.95 Ù \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Sprechen Sie Wörter mit viel
-en \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 h\EU1/LinLibertine_R_B.otf(0)/m/n/10
-.95 -Segmenten
- []
-
-[78]
-File: figures/mundraum.eps Graphic file (type eps)
- <figures/mundraum.eps> [79]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 276--277
-[][]
- []
-
-
-Overfull \hbox (3.47597pt too wide) in paragraph at lines 291--292
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 die \EU1/LinLibertine_R_B.otf(0)/m/it/
-10.95 Behinderung \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 (\EU1/LinLibertine_R_B
-.otf(0)/m/it/10.95 Obstruktion\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ) des Luft
-stroms, wodurch Geräusche (Zischen,
- []
-
-[80]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 309--310
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 316--317
-[][][][][][]
- []
-
-[81]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 329--330
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 343--344
-[][][][][][]
- []
-
-[82]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 354--355
-[][][][][][]
- []
-
-[83]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 367--368
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 383--384
-[][][][][][]
- []
-
-[84]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 408--409
-[][][][][][]
- []
-
-[85]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 424--425
-[][][][][][]
- []
-
-[86]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 447--448
-[][][][][][]
- []
-
-[87]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 472--473
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 481--482
-[][][][][][]
- []
-
-[88] <xymatrix 6x3 808>
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 502--503
-[][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 514--515
-[][][][][][]
- []
-
-[89] [90] [91] [92] [93]
-Overfull \hbox (0.69633pt too wide) in paragraph at lines 730--738
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Vokale sind gewöhnlicherweise bezüglic
-h ihres Artikulationsorts schwerer ein-
- []
-
-[94] [95]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 755--756
-[][][][][][]
- []
-
-[96] [97]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 805--806
-[][]
- []
-
-[98]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 863--864
-[][]
- []
-
-[99] [100] [101] [102]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1087--1088
-[][]
- []
-
-[103] [104] [105
-
-])
-Overfull \hbox (3.97873pt too wide) in paragraph at lines 1154--71
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 diese Behauptung mit Bezug auf das Konze
-pt der Typenhäufigkeit (Abschnitt []1.1.5[]). 
- []
-
-[106]
-\openout2 = `chapters/phonologie.aux'.
-
- (./chapters/phonologie.tex
-Kapitel 4.
-
-Overfull \hbox (1.55147pt too wide) in paragraph at lines 5--13
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Die im letzten Kapitel besprochene artik
-ulatorische Phonetik lieferte die Beschrei-
- []
-
-[107
-
-
-
-
-]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 35--36
-[][][][][][]
- []
-
-[108]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 71--72
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 82--83
-[][][][][][]
- []
-
-[109]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 112--113
-[][][][][][]
- []
-
-[110]
-Overfull \hbox (3.6867pt too wide) in paragraph at lines 114--118
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 der Kontrast zwischen stimmlosen und sti
-mmhaften Plosiven (vgl. Abschnitt []3.3.2[])
- []
-
-[111]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 153--154
@@ -3314,10 +2867,15 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 617--618
 [][][][][][]
  []
 
-<xymatrix 5x4 690> <xymatrix 5x4 674> [126] [127] [128]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
+<xymatrix 5x4
 
-<use  "langsci/graphics/law.pdf" >
+Package xypdf Warning: The produced DVI file is NOT PORTABLE. Convert it with
+dvipdfm(x) to the PDF format but do not expect the DVI file itself to be
+displayed correctly.
+
+690> <xymatrix 5x4 674> [126] [127] [128]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 767--768
 [][][][][][]
  []
@@ -3514,697 +3072,11 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 1827--1828
 
 
 
-] [169] [170]
-\openout2 = `chapters/wortklassen.aux'.
+] [169] [170] [343
 
 
-(./chapters/wortklassen.tex
-Kapitel 5.
-[171
 
 
-
-] [172]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 78--79
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 84--85
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 90--91
-[][][][][][]
- []
-
-[173] [174]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 162--163
-[][][][][][]
- []
-
-[175]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 177--178
-[][][][][][]
- []
-
-[176]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 202--203
-[][]
- []
-
-[177] [178] [179]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 335--336
-[][][][][][]
- []
-
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
-<use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 342--343
-[][][][][][]
- []
-
-[180] [181] [182]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 429--430
-[][][][][][]
- []
-
-
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 440--441
-[][]
- []
-
-[183] [184]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 476--477
-[][][][][][]
- []
-
-[185]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 500--501
-[][][][][][]
- []
-
-[186]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 529--530
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 531--532
-[][][][][][]
- []
-
-[187]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 543--544
-[][][][][][]
- []
-
-
-Overfull \hbox (1.78876pt too wide) in paragraph at lines 581--583
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 lich sind die verschiedenen Stärkeformen
- recht einfach verteilt (s. Abschnitt []8.4.2[]). 
- []
-
-[188]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (32.57077pt too wide) in paragraph at lines 591--591
-[]  []
- []
-
-
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 591--592
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 615--616
-[][][][][][]
- []
-
-[189]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 631--632
-[][][][][][]
- []
-
-[190]
-Overfull \hbox (13.00145pt too wide) in paragraph at lines 643--654
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 In ([]24[]) ist die Definition des Neb
-ensatzes erfüllt, weil \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 enthält \EU1/Lin
-Libertine_R_B.otf(0)/m/n/10.95 ein \EU1/LinLibertine_R_B.otf(0)/m/sc/10.95 Temp
-us\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 -Merkmal
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (45.9845pt too wide) in paragraph at lines 655--655
-[]  []
- []
-
-
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 655--656
-[][][][][][]
- []
-
-[191]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 677--678
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 697--698
-[][][][][][]
- []
-
-[192]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 733--734
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (33.33725pt too wide) in paragraph at lines 744--744
-[]  []
- []
-
-
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 744--745
-[][][][][][]
- []
-
-[193]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (35.59296pt too wide) in paragraph at lines 769--769
-[]  []
- []
-
-
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 769--770
-[][][][][][]
- []
-
-[194] <xymatrix 14x13 2672>
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 813--814
-[][]
- []
-
-[195] [196] [197
-
-] [198]) [199]
-\openout2 = `chapters/morphologie.aux'.
-
- (./chapters/morphologie.tex [200
-
-
-
-
-]
-Kapitel 6.
-[201] [202] [203]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 148--149
-[][][][][][]
- []
-
-[204]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 171--172
-[][][][][][]
- []
-
-[205]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 180--181
-[][][][][][]
- []
-
-[206] [207] [208]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 305--306
-[][][][][][]
- []
-
-[209]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 382--383
-[][][][][][]
- []
-
-[210] [211]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 411--412
-[][][][][][]
- []
-
-
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 422--423
-[][]
- []
-
-[212]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 460--461
-[][][][][][]
- []
-
-[213] <xymatrix 4x4 534> [214] <xymatrix 4x4 534>
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 526--527
-[][]
- []
-
-[215]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 565--566
-[][][][][][]
- []
-
-[216]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 584--585
-[][][][][][]
- []
-
-[217]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 632--633
-[][][][][][]
- []
-
-[218]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 642--643
-[][][][][][]
- []
-
-[219]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 668--669
-[][][][][][]
- []
-
-[220] [221]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 721--722
-[][]
- []
-
-[222]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 766--767
-[][][][][][]
- []
-
-[223] [224] <xymatrix 7x3 890> [225]
-Overfull \hbox (7.65425pt too wide) in paragraph at lines 887--892
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Allomorph des Dativ-Morphems und einmal 
-als Allomorph des Genitiv-Morphems. 
- []
-
-[226] [227] [228
-
-]) [229]
-\openout2 = `chapters/wortbildung.aux'.
-
- (./chapters/wortbildung.tex [230
-
-
-
-
-]
-Kapitel 7.
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 23--24
-[][][][][][]
- []
-
-[231]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 43--44
-[][][][][][]
- []
-
-[232]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 58--59
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 75--76
-[][][][][][]
- []
-
-[233]
-Overfull \hbox (0.83057pt too wide) in paragraph at lines 77--80
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Barsch \EU1/LinLibertine_R_B.otf(0)/m/n
-/10.95 ein maskulines Substantiv. Das Ergebnis der Wortbildung – also \EU1/LinL
-ibertine_R_B.otf(0)/m/it/10.95 Rot.barsch
- []
-
-[234] [235]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 197--198
-[][][][][][]
- []
-
-[236] <xymatrix 4x4 534> <xymatrix 4x4 530> [237]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 272--273
-[][][][][][]
- []
-
-[238]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 284--285
-[][][][][][]
- []
-
-[239] <xymatrix 4x4 534> [240]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 362--363
-[][]
- []
-
-[241]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 398--399
-[][][][][][]
- []
-
-[242] [243] [244] <xymatrix 1x3 160> <xymatrix 4x6 822>
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 534--535
-[][]
- []
-
-[245] [246]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 577--578
-[][][][][][]
- []
-
-[247] [248] [249] [250] [251] [252] [253]
-LaTeX Font Info:    Font shape `EU1/DejaVuSansMono.ttf(0)/m/n' will be
-(Font)              scaled to size 7.09305pt on input line 828.
-Package microtype Info: Loading generic settings for font family
-(microtype)             `DejaVuSansMono.ttf' (encoding: EU1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 841--842
-[][]
- []
-
-[254]
-Overfull \hbox (2.8174pt too wide) in paragraph at lines 872--879
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Produktiv gesehen gehören z.B. nahezu 
-alle Bildungen mit \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 -ung \EU1/LinLiberti
-ne_R_B.otf(0)/m/n/10.95 entweder trans-
- []
-
-[255] [256] [257
-
-]) [258]
-\openout2 = `chapters/nomina.aux'.
-
- (./chapters/nomina.tex
-Kapitel 8.
-[259
-
-
-
-
-]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 32--33
-[][][][][][]
- []
-
-[260] [261] [262] [263]
-Overfull \hbox (3.6118pt too wide) in paragraph at lines 223--226
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Wie man sieht, bleibt die Bedeutung de
-s Satzes nicht vollständig erhalten. Wenn
- []
-
-[264] [265] [266]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 372--373
-[][][][][][]
- []
-
-[267]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 401--402
-[][][][][][]
- []
-
-[268] [269] [270]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 495--496
-[][]
- []
-
-<xymatrix 10x3 1064> [271] [272] <xymatrix 5x4 580> [273] [274] [275]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 697--698
-[][][][][][]
- []
-
-[276]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 754--755
-[][][][][][]
- []
-
-[277] [278] [279]
-Overfull \hbox (0.566pt too wide) in paragraph at lines 838--839
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Afghane, Alemanne, Bulgare, Chilene, D
-äne, Finne, Franzose, Grieche, Hes-
- []
-
-
-Overfull \hbox (2.84909pt too wide) in paragraph at lines 838--839
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 se, Ire, Jude, Katalane, Kurde, Lette, N
-omade, Pole, Rumäne, Schwede, Tsche-
- []
-
-[280] [281] <xymatrix 5x3 516>
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 933--934
-[][]
- []
-
-[282]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 970--971
-[][][][][][]
- []
-
-[283]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1023--1024
-[][][][][][]
- []
-
-[284]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1029--1030
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (63.01175pt too wide) in paragraph at lines 1031--1031
-[]  []
- []
-
-
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1031--1032
-[][][][][][]
- []
-
-[285] [286] [287]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Underfull \hbox (badness 1163) in paragraph at lines 1129--1129
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Reine Pronomina sind Pronomina, für di
-e ein gleichlautender
- []
-
-
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1129--1130
-[][][][][][]
- []
-
-<xymatrix 5x4 524> [288] [289] [290] [291]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1306--1307
-[][]
- []
-
-[292] [293] [294] [295] [296]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1499--1500
-[][][][][][]
- []
-
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
-<use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1509--1510
-[][][][][][]
- []
-
-[297]
-Overfull \hbox (3.39735pt too wide) in paragraph at lines 1532--1534
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Kommen wir abschließend zur Bewertung 
-der eigentlichen adjektivalen (schwa-
- []
-
-[298] <xymatrix 3x3 334> [299] [300] [301]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1735--1736
-[][]
- []
-
-[302]
-Underfull \hbox (badness 2126) in paragraph at lines 1744--1744
-[][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Die Beispiele sind dem DeReKo (W-Öffentl
-ich/W) entnommen. Siglen: A10/JAN.00664,
- []
-
-[303
-
-]) [304]
-\openout2 = `chapters/verben.aux'.
-
- (./chapters/verben.tex
-Kapitel 9.
-[305
-
-
-
-
-] [306]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 108--109
-[][][][][][]
- []
-
-[307] [308] [309] [310]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 278--279
-[][][][][][]
- []
-
-[311] [312] [313] [314]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 428--429
-[][][][][][]
- []
-
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
-<use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 436--437
-[][][][][][]
- []
-
-[315] [316] [317]
-Overfull \hbox (0.16264pt too wide) in paragraph at lines 550--551
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Der eine Späher wird mitten unter die 
-(feindlichen) Feinde geschickt. (Ovid,
- []
-
-[318]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 587--588
-[][]
- []
-
-[319] [320]
-Overfull \hbox (5.55771pt too wide) in paragraph at lines 652--661
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Merkmale zusammenfasst. Einige Verben fa
-llen dabei in mehrere Klassen (z.B. \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 sei
-n
- []
-
-[321]
-Overfull \hbox (4.76709pt too wide) in paragraph at lines 707--713
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 stufe in der zweiten und dritten Person 
-Singular Präsens Indikativ (\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 breche\EU1/
-LinLibertine_R_B.otf(0)/m/n/10.95 –\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 bric
-hst\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 –
- []
-
-[322]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 723--724
-[][][][][][]
- []
-
-[323] [324] [325] [326] [327] [328] [329]
-Overfull \hbox (1.2229pt too wide) in paragraph at lines 1056--1059
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Der Infinitiv ist durch \EU1/LinLibert
-ine_R_B.otf(0)/m/it/10.95 -en \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 am Präsens
-stamm gekennzeichnet, das Partizip durch
- []
-
-[330] [331] [332] [333] [334] [335] [336]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1324--1325
-[][]
- []
-
-[337]
-Underfull \hbox (badness 3942) in paragraph at lines 1349--1349
-\EU1/LinLibertine_R_B.otf(1)/m/n/9 JUL.00395, RHZ09/MAR.15300, BVZ09/MAI.01348,
- RHZ09/JUN.22699, BRZ09/MAR.11529,
- []
-
-[338
-
-] [339] [340] [341
-
-
-]) [342] [343
 
 
 
@@ -4222,44 +3094,44 @@ Kapitel 10.
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 
 <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 85--86
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 92--93
 [][][][][][]
  []
 
 [347] <xymatrix 7x2 522> [348] <xymatrix 7x2 522>
-Underfull \hbox (badness 1803) in paragraph at lines 148--148
+Underfull \hbox (badness 1803) in paragraph at lines 155--155
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Archiv W-TAGGED öffentlich am 11.01.2011
 . Das Archiv enthielt zu diesem Zeitpunkt
  []
 
 [349] [350] <xymatrix 3x2 234> <xymatrix 7x3 474> [351]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 251--252
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 258--259
 [][]
  []
 
 [352]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 286--287
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 293--294
 [][][][][][]
  []
 
 [353]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 317--318
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 324--325
 [][][][][][]
  []
 
 [354] [355]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 370--371
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 377--378
 [][][][][][]
  []
 
 [356]
-Overfull \hbox (2.56882pt too wide) in paragraph at lines 408--412
+Overfull \hbox (2.56882pt too wide) in paragraph at lines 415--419
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Viele Syntaktiker wollen Wortfolgen wi
 e [\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 meine Kollegin einen Salat\EU1/LinLi
 bertine_R_B.otf(0)/m/n/10.95 ] und [\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 mei
@@ -4270,951 +3142,93 @@ n
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 
 <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 496--497
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 503--504
 [][][][][][]
  []
 
-[359] [360]
+[359]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 510--511
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 515--516
 [][][][][][]
  []
 
-[361]
+[360]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 552--553
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 557--558
 [][][][][][]
  []
 
 
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 562--563
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 567--568
 [][]
  []
 
-[362] <xymatrix 3x2 168> <xymatrix 4x3 382> <xymatrix 3x2 168> <xymatrix 7x3
-532> [363] [364] <xymatrix 4x3 592> [365]
+[361] <xymatrix 3x2 168> <xymatrix 4x3 382> [362] <xymatrix 3x2 168> <xymatrix
+7x3 532> [363] <xymatrix 4x3 592> <xymatrix 4x1 92> [364] <xymatrix 4x1 92>
+<xymatrix 4x1 92> [365]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 741--742
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 765--766
 [][][][][][]
  []
 
 [366]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 757--758
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 781--782
 [][][][][][]
  []
 
 [367] <xymatrix 3x2 208> [368]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 821--822
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 845--846
 [][][][][][]
  []
 
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 837--838
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 861--862
 [][][][][][]
  []
 
 [369]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 849--850
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 873--874
 [][]
  []
 
 [370]
-Underfull \hbox (badness 6876) in paragraph at lines 858--858
+Underfull \hbox (badness 6876) in paragraph at lines 882--882
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: A09/DEZ.023
 19, BRZ09/SEP.15424, HMP08/FEB.00096,
  []
 
 
-Underfull \hbox (badness 6725) in paragraph at lines 875--875
+Underfull \hbox (badness 6725) in paragraph at lines 899--899
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: BRZ06/MAI.0
 5936, A09/DEZ.02319, RHZ04/JUL.20475,
  []
 
 
-Underfull \hbox (badness 4713) in paragraph at lines 875--875
+Underfull \hbox (badness 4713) in paragraph at lines 899--899
 \EU1/LinLibertine_R_B.otf(1)/m/n/9 HMP08/FEB.00096, NON07/OKT.07665, A97/DEZ.42
 679, K97/MAI.35888, K97/MAI.35888,
  []
 
 [371
 
-]) [372]
-\openout2 = `chapters/phrasen.aux'.
+]) [372] [500
 
- (./chapters/phrasen.tex
-Kapitel 11.
-<xymatrix 7x4 859> [373
 
 
 
 
-]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 68--69
-[][][][][][]
- []
 
-[374] <xymatrix 3x3 448> <xymatrix 7x3 478> <xymatrix 3x3 444> [375]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 128--129
-[][]
- []
+] [501] [502] [607
 
-[376]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 144--145
-[][][][][][]
- []
 
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 164--165
-[][][][][][]
- []
-
-[377] [378] <xymatrix 1x3 160> <xymatrix 4x3 309> [379] <xymatrix 2x3 172>
-<xymatrix 4x3 313> <xymatrix 4x3 313> [380] <xymatrix 6x3 454> [381] <xymatrix
-9x3 643> [382] [383] <xymatrix 7x3 474> <xymatrix 6x3 478> [384] [385]
-<xymatrix 9x4 732> [386] <xymatrix 10x3 787> <xymatrix 3x3 316> [387]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 632--633
-[][]
- []
-
-[388]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 658--659
-[][][][][][]
- []
-
-<xymatrix 6x3 481> [389] <xymatrix 4x3 337> <xymatrix 8x3 658>
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 733--734
-[][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 750--751
-[][][][][][]
- []
-
-[390] <xymatrix 7x3 486> <xymatrix 5x3 453> [391] <xymatrix 4x3 325> <xymatrix
-3x4 518> [392] <xymatrix 2x4 374>
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 854--855
-[][]
- []
-
-[393]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 869--870
-[][][][][][]
- []
-
-<xymatrix 4x3 328> [394]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 897--898
-[][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 912--913
-[][][][][][]
- []
-
-<xymatrix 4x3 321> [395]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 966--967
-[][]
- []
-
-[396]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 987--988
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 997--998
-[][][][][][]
- []
-
-[397] <xymatrix 5x3 329> <xymatrix 7x3 482> <xymatrix 9x3 635> <xymatrix 15x4
-1098> [398] [399]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1101--1102
-[][][][][][]
- []
-
-<xymatrix 1x2 90> [400] <xymatrix 4x3 403> <xymatrix 4x3 403> <xymatrix 7x4
-708> [401] <xymatrix 11x7 1210> [402]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1236--1237
-[][]
- []
-
-[403]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1261--1262
-[][][][][][]
- []
-
-<xymatrix 8x2 706> [404] <xymatrix 8x3 928> <xymatrix 8x4 1118> [405]
-<xymatrix 8x4 1244> <xymatrix 8x5 1446> [406] <xymatrix 8x6 1620> [407]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1389--1390
-[][]
- []
-
-[408]
-Underfull \hbox (badness 1708) in paragraph at lines 1398--1398
-[][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: NON09/OKT.1
-0157, A00/SEP.61566, A00/OKT.71958, A00/
- []
-
-
-Underfull \hbox (badness 3579) in paragraph at lines 1411--1411
-[][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: WPD/SSS.001
-47, BRZ07/OKT.07777, NON09/AUG.06672,
- []
-
-
-Underfull \hbox (badness 3460) in paragraph at lines 1430--1430
-[][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: A00/JAN.051
-23, A09/AUG.03243, A99/DEZ.84493, A09/
- []
-
-[409
-
-]) [410]
-\openout2 = `chapters/saetze.aux'.
-
- (./chapters/saetze.tex
-Kapitel 12.
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 29--30
-[][][][][][]
- []
-
-[411
-
-
-
-
-]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 54--55
-[][][][][][]
- []
-
-
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 65--66
-[][]
- []
-
-[412] [413] [414] <xymatrix 15x4 1098> <xymatrix 11x4 1039> [415]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 215--216
-[][][][][][]
- []
-
-[416] [417] [418] [419] [420] [421]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 582--583
-[][]
- []
-
-[422] [423] <xymatrix 12x6 1097> <xymatrix 11x5 1225> [424] [425]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 659--660
-[][][][][][]
- []
-
-<xymatrix 12x5 1138> [426] <xymatrix 11x5 1225>
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 722--723
-[][][][][][]
- []
-
-[427] <xymatrix 10x5 1080> [428] <xymatrix 11x5 1221> [429] <xymatrix 9x6 966>
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 852--853
-[][]
- []
-
-[430] [431]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 914--915
-[][][][][][]
- []
-
-<xymatrix 13x6 1489> [432] [433] <xymatrix 12x5
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1000.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1000.
-
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1000.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1000.
-
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1000.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1000.
-
-1410> [434] <xymatrix 12x5
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1044.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1044.
-
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1044.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1044.
-
-1363> [435] [436]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1123--1124
-[][][][][][]
- []
-
-[437] [438] [439]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Underfull \hbox (badness 7047) in paragraph at lines 1275--1275
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Ein Adverbialsatz ist ein mit Kompleme
-ntierer eingeleiteter VL-
- []
-
-
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1275--1276
-[][][][][][]
- []
-
-[440]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1313--1314
-[][][][][][]
- []
-
-
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1338--1339
-[][]
- []
-
-[441] [442
-
-] [443]) [444]
-\openout2 = `chapters/relationen.aux'.
-
- (./chapters/relationen.tex
-Kapitel 13.
-[445
-
-
-
-
-]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 44--45
-[][][][][][]
- []
-
-[446] [447]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 83--84
-[][][][][][]
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 89--90
-[][][][][][]
- []
-
-[448]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 120--121
-[][][][][][]
- []
-
-[449]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 173--174
-[][]
- []
-
-[450]
-Overfull \hbox (14.0637pt too wide) in paragraph at lines 216--222
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 len von ihm abhängigen Konstituenten auß
-er den Satzgliedern (vgl. Abschnitt []10.2.2[]).
- []
-
-[451] [452] [453]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 326--327
-[][][][][][]
- []
-
-
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 336--337
-[][]
- []
-
-[454] [455]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 413--414
-[][][][][][]
- []
-
-[456] [457] [458] [459] [460] [461] <xymatrix 5x4 546>
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 682--683
-[][]
- []
-
-[462] [463]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/bx/it' will be
-(Font)              scaled to size 9.78955pt on input line 774.
-
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 774--775
-[][][][][][]
- []
-
-[464] [465] [466] [467]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 873--874
-[][][][][][]
- []
-
-[468]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 946--947
-[][]
- []
-
-[469]
-Overfull \hbox (2.4958pt too wide) in paragraph at lines 994--995
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Damit haben wir einige kritische Fälle
- von Akkusativen als Akkusativ-Angaben
- []
-
-[470]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1003--1004
-[][][][][][]
- []
-
-[471]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1090--1091
-[][][][][][]
- []
-
-[472]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1102--1103
-[][][][][][]
- []
-
-[473]
-Overfull \hbox (1.44926pt too wide) in paragraph at lines 1127--1128
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 weder eine Vergleichskonstruktion wie \E
-U1/LinLibertine_R_B.otf(0)/m/it/10.95 zu laut \EU1/LinLibertine_R_B.otf(0)/m/n/
-10.95 ([]55a[]) oder eine anderweitige Kenn-
- []
-
-[474]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1198--1199
-[][]
- []
-
-[475] [476]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1273--1274
-[][][][][][]
- []
-
-[477] <xymatrix 4x6
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1301.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1301.
-
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1301.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1301.
-
-
-Class scrbook Warning: Usage of deprecated font command `\sc'!
-(scrbook)              You should note, that in 1994 font command `\sc' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\sc' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\sc' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1301.
-
-
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1301.
-
-922> [478] [479]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1363--1364
-[][]
- []
-
-[480] <xymatrix 3x4 554>
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1410--1411
-[][][][][][]
- []
-
-[481] <xymatrix 4x4 375> <xymatrix 3x4 371> <xymatrix 6x5 701> <xymatrix 6x5
-713> [482] [483] [484]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1512--1513
-[][][][][][]
- []
-
-[485] [486] [487]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1641--1642
-[][]
- []
-
-[488]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1704--1705
-[][][][][][]
- []
-
-[489] [490]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1768--1769
-[][]
- []
-
-[491]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1816--1817
-[][][][][][]
- []
-
-[492] [493]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1868--1869
-[][][][][][]
- []
-
-
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1873--1874
-[][]
- []
-
-[494] [495
-
-] [496] [497] [498]) [499
-
-
-] [500
-
-
-
-] [501] [502]
-\openout2 = `chapters/phonschrift.aux'.
-
-
-(./chapters/phonschrift.tex
-Kapitel 14.
-[503
-
-
-
-] [504] [505] [506] [507] [508] [509]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 175--176
-[][]
- []
-
-[510] [511] [512]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 292--293
-[][][][][][]
- []
-
-[513] [514]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 352--353
-[][]
- []
-
-[515]
-Overfull \hbox (3.1529pt too wide) in paragraph at lines 368--375
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 von Vokalen. In Abschnitt []4.1.4[] wurd
-e festgestellt, dass zugrundeliegend das Merk-
- []
-
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 381--382
-[][][][][][]
- []
-
-[516]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 388--389
-[][][][][][]
- []
-
-[517]
-Overfull \vbox (3.7402pt too high) detected at line 440
- []
-
-
-Overfull \vbox (4.9668pt too high) detected at line 440
- []
-
-
-Overfull \vbox (4.9668pt too high) detected at line 440
- []
-
-[518] [519]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 484--485
-[][][][][][]
- []
-
-[520] <xymatrix 5x5 1020> <xymatrix 6x5 1154> <xymatrix 6x5 1168> [521]
-[522] [523] [524]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 659--660
-[][]
- []
-
-[525] [526]
-Underfull \hbox (badness 1642) in paragraph at lines 704--704
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Schreiber machen kreativen Gebrauch von 
-den Möglichkeiten des
- []
-
-
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 704--705
-[][]
- []
-
-[527] [528] [529]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 772--773
-[][]
- []
-
-[530] [531
-
-]) [532]
-\openout2 = `chapters/andereschrift.aux'.
-
- (./chapters/andereschrift.tex
-Kapitel 15.
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
-<use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 19--20
-[][][][][][]
- []
-
-[533
-
-
-
-
-] [534]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 88--89
-[][][][][][]
- []
-
-[535] [536] [537] [538] [539]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 236--237
-[][][][][][]
- []
-
-[540] [541]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 289--290
-[][][][][][]
- []
-
-[542] [543] [544]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 389--390
-[][][][][][]
- []
-
-
-Overfull \hbox (1.58246pt too wide) in paragraph at lines 391--394
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 te. Damit kann man die Schärfungsschreib
-ung weitgehend als Silbengelenkschrei-
- []
-
-[545] [546]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 439--440
-[][]
- []
-
-[547]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 477--478
-[][][][][][]
- []
-
-[548] [549] [550]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 599--600
-[][][][][][]
- []
-
-[551] [552]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 670--671
-[][][][][][]
- []
-
-[553]
-Underfull \hbox (badness 1127) in paragraph at lines 712--712
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 nen durch \EU1/LinLibertine_R_B.otf(0)/m
-/it/10.95 parenthetische Phrasen \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 gebilde
-t werden (Gedankenstrich,
- []
-
-
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 712--713
-[][]
- []
-
-[554] [555
-
-] [556]) [557
-
-
-]
-\openout2 = `chapters/loesungen.aux'.
-
- (./chapters/loesungen.tex [558
-
-
-
-
-] [559] [560] [561
-
-]
-[562] [563] [564]
-Underfull \hbox (badness 2277) in paragraph at lines 304--308
-[]\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Gerne \EU1/LinLibertine_R_B.otf(0)/m/
-n/10.95 kann als Antwort auf eine Ja/Nein-Frage verwendet werden:
- []
-
-[565
-
-] [566] [567] [568
-
-] [569] [570] [571
-
-] [572] [573] [574
-
-] [575] [576]
-[577] [578] [579
-
-] [580]
-Overfull \hbox (7.24919pt too wide) in paragraph at lines 887--888
-[]\U/pzd/m/n/10.95 â \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 VfTest \U/pzd/m/n/
-10.95 â \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 [Sehr wahrscheinlich] hätten dan
-n die 37 problemlos in Deutsch-
- []
-
-[581] [582] <xymatrix 5x3 453> <xymatrix 4x3 321> <xymatrix 4x3 337> <xymatrix
-7x3 474> <xymatrix 4x3 321> [583
-
-] <xymatrix 4x3 325> <xymatrix 7x3 474>
-<xymatrix 5x3 453> <xymatrix 2x3 304> <xymatrix 7x3 474> [584] <xymatrix 2x3
-304> <xymatrix 10x4 885> <xymatrix 10x4 873>
-Underfull \hbox (badness 10000) in paragraph at lines 996--997
-
- []
-
-[585] <xymatrix 8x4 729> <xymatrix 12x4 1026> <xymatrix 6x4 552> [586]
-<xymatrix 10x4 873> <xymatrix 3x5 628> <xymatrix 3x5 628> [587] <xymatrix 3x5
-628> <xymatrix 3x5 628> [588] [589
-
-] [590] [591] <xymatrix 12x5 1038> [592]
-<xymatrix 10x5 1046> <xymatrix 12x5 1038> <xymatrix 5x4 487> [593] <xymatrix
-14x5 1211> <xymatrix 12x5 1049>
-Underfull \hbox (badness 10000) in paragraph at lines 1288--1297
-
- []
-
-[594] <xymatrix 8x5 623>
-Underfull \hbox (badness 10000) in paragraph at lines 1311--1312
-
- []
-
-<xymatrix 13x5 862>
-Underfull \hbox (badness 10000) in paragraph at lines 1317--1326
-
- []
-
-<xymatrix 10x5 1004> [595] <xymatrix 9x5 869> <xymatrix 11x5 1231> [596]
-<xymatrix 6x4 617> [597] [598
-
-] [599] [600]
-Overfull \vbox (0.31305pt too high) detected at line 1523
- []
-
-
-Overfull \vbox (4.9668pt too high) detected at line 1527
- []
-
-
-Overfull \vbox (0.31305pt too high) detected at line 1536
- []
-
-
-Overfull \vbox (4.9668pt too high) detected at line 1540
- []
-
-[601
-
-] [602] [603] [604
-
-] [605]) [606] [607
 
 
 
@@ -5263,20 +3277,17 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 113.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
 Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 \openout1 = `schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54155 strings out of 494865
- 973066 string characters out of 6167200
- 1517574 words of memory out of 5000000
- 56376 multiletter control sequences out of 15000+600000
- 21435 words of font info for 159 fonts, out of 8000000 for 9000
+ 53639 strings out of 494865
+ 963470 string characters out of 6167200
+ 1481778 words of memory out of 5000000
+ 55911 multiletter control sequences out of 15000+600000
+ 20114 words of font info for 142 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
- 70i,18n,104p,10460b,2290s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,23n,104p,10460b,2296s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on schaefer-egbd.pdf (639 pages).
+Output written on schaefer-egbd.pdf (136 pages).
