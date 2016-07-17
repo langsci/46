@@ -36,13 +36,13 @@
 \indexentry {Standarddeutsch|hyperpage}{27}
 \indexentry {Regularität|hyperpage}{28}
 \indexentry {Regel|hyperpage}{28}
-\indexentry {Generalisierung|hyperpage}{28}
+\indexentry {Generalisierung|hyperpage}{29}
 \indexentry {Dialekt|hyperpage}{30}
 \indexentry {w-Satz|hyperpage}{30}
 \indexentry {Vorfeld|hyperpage}{30}
 \indexentry {Variation|hyperpage}{31}
 \indexentry {Dialekt|hyperpage}{31}
-\indexentry {Empirie|hyperpage}{32}
+\indexentry {Empirie|hyperpage}{33}
 \indexentry {Variation|hyperpage}{34}
 \indexentry {Standarddeutsch|hyperpage}{34}
 \indexentry {Korpus|hyperpage}{36}
@@ -50,51 +50,51 @@
 \indexentry {Merkmal|hyperpage}{39}
 \indexentry {Wert|hyperpage}{39}
 \indexentry {Kategorie|hyperpage}{40}
-\indexentry {Merkmal|hyperpage}{40}
+\indexentry {Merkmal|hyperpage}{41}
 \indexentry {Kategorie|hyperpage}{42}
 \indexentry {Lexikon|hyperpage}{42}
-\indexentry {Wort|hyperpage}{42}
-\indexentry {Genus|hyperpage}{42}
-\indexentry {Wort!flektierbar|hyperpage}{42}
-\indexentry {Numerus|hyperpage}{43}
+\indexentry {Wort|hyperpage}{43}
+\indexentry {Genus|hyperpage}{43}
 \indexentry {Wort!flektierbar|hyperpage}{43}
+\indexentry {Numerus|hyperpage}{43}
+\indexentry {Wort!flektierbar|hyperpage}{44}
 \indexentry {Wortklasse|hyperpage}{44}
 \indexentry {Kategorie|hyperpage}{44}
 \indexentry {Paradigma|hyperpage}{46}
-\indexentry {Nebensatz|hyperpage}{46}
-\indexentry {Infinitiv|hyperpage}{46}
+\indexentry {Nebensatz|hyperpage}{47}
+\indexentry {Infinitiv|hyperpage}{47}
 \indexentry {Syntagma|hyperpage}{47}
-\indexentry {Merkmal|hyperpage}{47}
+\indexentry {Merkmal|hyperpage}{48}
 \indexentry {Substantiv|hyperpage}{48}
 \indexentry {Paradigma!Genus--|hyperpage}{48}
 \indexentry {Paradigma!Numerus--|hyperpage}{48}
 \indexentry {Merkmal!Motivation|hyperpage}{49}
-\indexentry {Synkretismus|hyperpage}{49}
+\indexentry {Synkretismus|hyperpage}{50}
 \indexentry {Struktur|hyperpage}{51}
 \indexentry {Baumdiagramm|hyperpage}{51}
 \indexentry {Konstituente|hyperpage}{52}
 \indexentry {Konstituente!mittelbar|hyperpage}{52}
 \indexentry {Konstituente!unmittelbar|hyperpage}{52}
-\indexentry {Relation!syntaktisch|hyperpage}{52}
+\indexentry {Relation!syntaktisch|hyperpage}{53}
 \indexentry {Relation|hyperpage}{53}
 \indexentry {Rektion|hyperpage}{54}
 \indexentry {Regens|hyperpage}{54}
 \indexentry {Rectum|hyperpage}{54}
-\indexentry {Kongruenz|hyperpage}{55}
-\indexentry {Valenz|hyperpage}{56}
+\indexentry {Kongruenz|hyperpage}{56}
+\indexentry {Valenz|hyperpage}{57}
 \indexentry {Ergänzung!fakultativ und obligatorisch|hyperpage}{58}
-\indexentry {Lizenzierung|hyperpage}{59}
-\indexentry {Iterierbarkeit|hyperpage}{60}
-\indexentry {Kasus!Bedeutung|hyperpage}{60}
+\indexentry {Lizenzierung|hyperpage}{60}
+\indexentry {Iterierbarkeit|hyperpage}{61}
+\indexentry {Kasus!Bedeutung|hyperpage}{61}
 \indexentry {Rolle|hyperpage}{61}
-\indexentry {Angabe|hyperpage}{62}
-\indexentry {Ergänzung|hyperpage}{62}
-\indexentry {Valenz|hyperpage}{64}
-\indexentry {Verb!transitiv|hyperpage}{64}
-\indexentry {Verb!ditransitiv|hyperpage}{64}
-\indexentry {Verb!intransitiv|hyperpage}{64}
-\indexentry {Merkmal!Listen--|hyperpage}{64}
-\indexentry {Valenz!als Liste|hyperpage}{64}
+\indexentry {Angabe|hyperpage}{63}
+\indexentry {Ergänzung|hyperpage}{63}
+\indexentry {Valenz|hyperpage}{65}
+\indexentry {Verb!transitiv|hyperpage}{65}
+\indexentry {Verb!ditransitiv|hyperpage}{65}
+\indexentry {Verb!intransitiv|hyperpage}{65}
+\indexentry {Merkmal!Listen--|hyperpage}{65}
+\indexentry {Valenz!als Liste|hyperpage}{65}
 \indexentry {Medium!akustisch|hyperpage}{71}
 \indexentry {Medium!gestisch|hyperpage}{71}
 \indexentry {Phonetik|hyperpage}{72}
@@ -263,7 +263,7 @@
 \indexentry {Komplementierer|hyperpage}{190}
 \indexentry {Nebensatz|hyperpage}{190}
 \indexentry {Partikel|hyperpage}{191}
-\indexentry {Vorfeld|hyperpage}{192}
+\indexentry {Vorfeld|hyperpage}{191}
 \indexentry {Vorfeld!Fähigkeit|hyperpage}{192}
 \indexentry {Adverb|hyperpage}{193}
 \indexentry {Adkopula|hyperpage}{193}
@@ -314,11 +314,11 @@
 \indexentry {Produktivität|hyperpage}{232}
 \indexentry {Kompositionalität|hyperpage}{232}
 \indexentry {Transparenz|hyperpage}{233}
-\indexentry {Kopf!Komposition|hyperpage}{233}
+\indexentry {Kopf!Komposition|hyperpage}{234}
 \indexentry {Kompositum!Rektions--|hyperpage}{234}
 \indexentry {Kompositum!Determinativ--|hyperpage}{234}
-\indexentry {Rekursion|hyperpage}{236}
-\indexentry {Rekursion|hyperpage}{238}
+\indexentry {Rekursion|hyperpage}{237}
+\indexentry {Rekursion|hyperpage}{239}
 \indexentry {Rekursion!in der Morphologie|hyperpage}{239}
 \indexentry {Kompositionsfuge|hyperpage}{239}
 \indexentry {Fugenelement|hyperpage}{239}
@@ -329,7 +329,7 @@
 \indexentry {Stammkonversion|hyperpage}{242}
 \indexentry {Wortformenkonversion|hyperpage}{242}
 \indexentry {Wort!Stamm|hyperpage}{243}
-\indexentry {Derivation|hyperpage}{247}
+\indexentry {Derivation|hyperpage}{248}
 \indexentry {Derivation!ohne Wortklassenwechsel|hyperpage}{248}
 \indexentry {Wortklasse|hyperpage}{248}
 \indexentry {Nomen|hyperpage}{248}
@@ -338,11 +338,11 @@
 \indexentry {Substantiv|hyperpage}{252}
 \indexentry {Adjektiv|hyperpage}{252}
 \indexentry {Verb|hyperpage}{252}
-\indexentry {Diminutiv|hyperpage}{254}
-\indexentry {Rückbildung|hyperpage}{255}
-\indexentry {Univerbierung|hyperpage}{255}
-\indexentry {Grammatikalisierung|hyperpage}{256}
-\indexentry {Kurzwort|hyperpage}{258}
+\indexentry {Diminutiv|hyperpage}{253}
+\indexentry {Rückbildung|hyperpage}{254}
+\indexentry {Univerbierung|hyperpage}{254}
+\indexentry {Grammatikalisierung|hyperpage}{255}
+\indexentry {Kurzwort|hyperpage}{257}
 \indexentry {Nominalphrase|hyperpage}{260}
 \indexentry {Numerus!Nomen|hyperpage}{260}
 \indexentry {Singularetantum|hyperpage}{261}
@@ -411,8 +411,8 @@
 \indexentry {Kongruenz!Numerus--|hyperpage}{293}
 \indexentry {Adjektiv!attributiv|hyperpage}{293}
 \indexentry {Adjektiv!prädikativ|hyperpage}{293}
-\indexentry {Kopula|hyperpage}{293}
-\indexentry {Adjektiv!Kurzform|hyperpage}{293}
+\indexentry {Kopula|hyperpage}{294}
+\indexentry {Adjektiv!Kurzform|hyperpage}{294}
 \indexentry {Adjektiv!adverbial|hyperpage}{294}
 \indexentry {Adjektiv!Valenz|hyperpage}{294}
 \indexentry {Valenz!Adjektiv|hyperpage}{294}
@@ -510,404 +510,404 @@
 \indexentry {Verb!gemischt|hyperpage}{335}
 \indexentry {Suppletivität|hyperpage}{336}
 \indexentry {Grammatikalität|hyperpage}{347}
-\indexentry {Syntax|hyperpage}{347}
-\indexentry {Rekursion!in der Syntax|hyperpage}{351}
+\indexentry {Syntax|hyperpage}{348}
+\indexentry {Rekursion!in der Syntax|hyperpage}{352}
 \indexentry {Kompetenz|hyperpage}{352}
 \indexentry {Performanz|hyperpage}{352}
 \indexentry {Konstituententest|hyperpage}{353}
-\indexentry {Pronominalisierungstest|hyperpage}{353}
-\indexentry {Vorfeldtest|hyperpage}{354}
+\indexentry {Pronominalisierungstest|hyperpage}{354}
+\indexentry {Vorfeldtest|hyperpage}{355}
 \indexentry {Koordinationstest|hyperpage}{356}
-\indexentry {Ellipse|hyperpage}{357}
-\indexentry {Satzglied|hyperpage}{359}
+\indexentry {Ellipse|hyperpage}{358}
+\indexentry {Satzglied|hyperpage}{360}
 \indexentry {Konstituente!atomar|hyperpage}{360}
-\indexentry {Ambiguität|hyperpage}{361}
+\indexentry {Ambiguität|hyperpage}{362}
 \indexentry {Baumdiagramm|hyperpage}{362}
 \indexentry {Ast|hyperpage}{362}
 \indexentry {Kante|hyperpage}{362}
 \indexentry {Knoten|hyperpage}{362}
-\indexentry {Kante|hyperpage}{362}
-\indexentry {Knoten!Tochter--|hyperpage}{362}
-\indexentry {Knoten!Mutter--|hyperpage}{362}
-\indexentry {Knoten!Wurzel--|hyperpage}{362}
-\indexentry {Phrase|hyperpage}{365}
+\indexentry {Kante|hyperpage}{363}
+\indexentry {Knoten!Tochter--|hyperpage}{363}
+\indexentry {Knoten!Mutter--|hyperpage}{363}
+\indexentry {Knoten!Wurzel--|hyperpage}{363}
+\indexentry {Phrase|hyperpage}{366}
 \indexentry {Valenz|hyperpage}{366}
-\indexentry {Dependenz|hyperpage}{366}
+\indexentry {Dependenz|hyperpage}{367}
 \indexentry {Kopf!Phrase|hyperpage}{367}
 \indexentry {Kopf-Merkmal-Prinzip|hyperpage}{369}
 \indexentry {Funktionswort|hyperpage}{370}
 \indexentry {Partikel|hyperpage}{370}
 \indexentry {Artikelwort|hyperpage}{370}
 \indexentry {Konjunktion|hyperpage}{370}
-\indexentry {Phrasenschema|hyperpage}{373}
-\indexentry {Baumdiagramm|hyperpage}{373}
-\indexentry {Koordination|hyperpage}{374}
-\indexentry {Konjunktion|hyperpage}{374}
-\indexentry {Attribut|hyperpage}{377}
-\indexentry {Artikelwort|hyperpage}{377}
-\indexentry {Nominalphrase|hyperpage}{377}
-\indexentry {Artikel!Position|hyperpage}{377}
-\indexentry {Adjektivphrase|hyperpage}{377}
-\indexentry {Relativsatz|hyperpage}{377}
-\indexentry {Genitiv!pränominal|hyperpage}{377}
-\indexentry {Nomen!vs.\ Substantiv|hyperpage}{378}
-\indexentry {Genitiv!postnominal|hyperpage}{380}
-\indexentry {Valenz!Substantiv|hyperpage}{381}
-\indexentry {Nominalisierung|hyperpage}{381}
-\indexentry {Komplementsatz|hyperpage}{381}
+\indexentry {Phrasenschema|hyperpage}{375}
+\indexentry {Baumdiagramm|hyperpage}{375}
+\indexentry {Koordination|hyperpage}{376}
+\indexentry {Konjunktion|hyperpage}{376}
+\indexentry {Attribut|hyperpage}{379}
+\indexentry {Artikelwort|hyperpage}{379}
+\indexentry {Nominalphrase|hyperpage}{379}
+\indexentry {Artikel!Position|hyperpage}{379}
+\indexentry {Adjektivphrase|hyperpage}{379}
+\indexentry {Relativsatz|hyperpage}{379}
+\indexentry {Genitiv!pränominal|hyperpage}{379}
+\indexentry {Nomen!vs.\ Substantiv|hyperpage}{380}
 \indexentry {Genitiv!postnominal|hyperpage}{382}
-\indexentry {Genitiv!pränominal|hyperpage}{382}
-\indexentry {Genitiv!Objekts--|hyperpage}{382}
-\indexentry {Akkusativ|hyperpage}{382}
-\indexentry {Genitiv!Subjekts--|hyperpage}{382}
-\indexentry {Stoffsubstantiv|hyperpage}{386}
-\indexentry {Artikel!NP ohne|hyperpage}{386}
-\indexentry {Gradierungselement|hyperpage}{388}
-\indexentry {Adjektivphrase|hyperpage}{388}
-\indexentry {Modifizierer|hyperpage}{389}
-\indexentry {Präpositionalphrase|hyperpage}{391}
+\indexentry {Valenz!Substantiv|hyperpage}{383}
+\indexentry {Nominalisierung|hyperpage}{383}
+\indexentry {Komplementsatz|hyperpage}{383}
+\indexentry {Genitiv!postnominal|hyperpage}{384}
+\indexentry {Genitiv!pränominal|hyperpage}{384}
+\indexentry {Genitiv!Objekts--|hyperpage}{384}
+\indexentry {Akkusativ|hyperpage}{384}
+\indexentry {Genitiv!Subjekts--|hyperpage}{384}
+\indexentry {Stoffsubstantiv|hyperpage}{388}
+\indexentry {Artikel!NP ohne|hyperpage}{388}
+\indexentry {Gradierungselement|hyperpage}{390}
+\indexentry {Adjektivphrase|hyperpage}{390}
 \indexentry {Modifizierer|hyperpage}{391}
-\indexentry {Postposition|hyperpage}{391}
-\indexentry {Präposition!flektierbar|hyperpage}{392}
-\indexentry {Adverbphrase|hyperpage}{394}
-\indexentry {Komplementierer|hyperpage}{395}
-\indexentry {Komplementiererphrase|hyperpage}{395}
-\indexentry {Verb-Letzt-Satz|hyperpage}{395}
-\indexentry {Verb-Zweit-Satz|hyperpage}{395}
-\indexentry {Verb-Erst-Satz|hyperpage}{395}
-\indexentry {Valenz!Verb|hyperpage}{397}
-\indexentry {Verbphrase|hyperpage}{397}
-\indexentry {Scrambling|hyperpage}{399}
-\indexentry {Tempus!analytisch|hyperpage}{399}
-\indexentry {Status|hyperpage}{400}
-\indexentry {Verbkomplex|hyperpage}{400}
-\indexentry {Rekursivität|hyperpage}{400}
-\indexentry {Baumdiagramm|hyperpage}{403}
-\indexentry {Satz|hyperpage}{411}
-\indexentry {Matrix|hyperpage}{412}
-\indexentry {Matrixsatz|hyperpage}{412}
-\indexentry {Verbphrase|hyperpage}{413}
-\indexentry {Konstituente|hyperpage}{413}
-\indexentry {Verbkomplex|hyperpage}{413}
-\indexentry {Bewegung|hyperpage}{414}
-\indexentry {Spur|hyperpage}{416}
-\indexentry {Feldermodell|hyperpage}{417}
-\indexentry {Satzklammer|hyperpage}{417}
-\indexentry {Vorfeld|hyperpage}{417}
-\indexentry {Mittelfeld|hyperpage}{417}
-\indexentry {Komplementierer|hyperpage}{417}
-\indexentry {w-Frage|hyperpage}{417}
-\indexentry {Echofrage|hyperpage}{417}
-\indexentry {Fragesatz|hyperpage}{417}
-\indexentry {w-Satz|hyperpage}{417}
-\indexentry {Relativsatz|hyperpage}{419}
-\indexentry {Fragesatz!eingebettet|hyperpage}{419}
-\indexentry {Verb-Erst-Satz|hyperpage}{419}
-\indexentry {Verb-Letzt-Satz|hyperpage}{419}
-\indexentry {Verb-Zweit-Satz|hyperpage}{419}
-\indexentry {Relativsatz|hyperpage}{420}
-\indexentry {Komplementsatz|hyperpage}{420}
-\indexentry {Nachfeld|hyperpage}{420}
-\indexentry {Konnektor|hyperpage}{420}
-\indexentry {Konnektorfeld|hyperpage}{420}
-\indexentry {w-Satz|hyperpage}{422}
-\indexentry {Verb-Zweit-Satz|hyperpage}{425}
-\indexentry {Bewegung|hyperpage}{425}
-\indexentry {Spur|hyperpage}{425}
-\indexentry {Verb-Erst-Satz|hyperpage}{428}
-\indexentry {Fragesatz!Entscheidungs--|hyperpage}{428}
-\indexentry {Imperativ!Satz|hyperpage}{428}
-\indexentry {Verb!Partikel--|hyperpage}{429}
-\indexentry {Verbkomplex|hyperpage}{429}
-\indexentry {Kopula|hyperpage}{430}
-\indexentry {Kopulasatz|hyperpage}{430}
-\indexentry {Relativsatz|hyperpage}{433}
-\indexentry {Relativphrase|hyperpage}{433}
-\indexentry {Relativsatz!Einleitung|hyperpage}{433}
-\indexentry {Genitiv!pränominal|hyperpage}{434}
-\indexentry {Relativadverb|hyperpage}{434}
-\indexentry {Relativsatz!frei|hyperpage}{435}
-\indexentry {Nachfeld|hyperpage}{437}
-\indexentry {Komplementsatz|hyperpage}{437}
-\indexentry {Subjektsatz|hyperpage}{437}
-\indexentry {Objektsatz|hyperpage}{437}
-\indexentry {Mittelfeld|hyperpage}{439}
-\indexentry {Korrelat|hyperpage}{439}
-\indexentry {Nebensatz|hyperpage}{439}
-\indexentry {Spur|hyperpage}{439}
-\indexentry {Komplementierer|hyperpage}{440}
-\indexentry {Adverbialsatz|hyperpage}{440}
-\indexentry {Nachfeld|hyperpage}{441}
+\indexentry {Präpositionalphrase|hyperpage}{393}
+\indexentry {Modifizierer|hyperpage}{393}
+\indexentry {Postposition|hyperpage}{393}
+\indexentry {Präposition!flektierbar|hyperpage}{394}
+\indexentry {Adverbphrase|hyperpage}{396}
+\indexentry {Komplementierer|hyperpage}{397}
+\indexentry {Komplementiererphrase|hyperpage}{397}
+\indexentry {Verb-Letzt-Satz|hyperpage}{397}
+\indexentry {Verb-Zweit-Satz|hyperpage}{397}
+\indexentry {Verb-Erst-Satz|hyperpage}{397}
+\indexentry {Valenz!Verb|hyperpage}{399}
+\indexentry {Verbphrase|hyperpage}{399}
+\indexentry {Scrambling|hyperpage}{401}
+\indexentry {Tempus!analytisch|hyperpage}{401}
+\indexentry {Status|hyperpage}{402}
+\indexentry {Verbkomplex|hyperpage}{402}
+\indexentry {Rekursivität|hyperpage}{402}
+\indexentry {Baumdiagramm|hyperpage}{405}
+\indexentry {Satz|hyperpage}{413}
+\indexentry {Matrix|hyperpage}{414}
+\indexentry {Matrixsatz|hyperpage}{414}
+\indexentry {Verbphrase|hyperpage}{415}
+\indexentry {Konstituente|hyperpage}{415}
+\indexentry {Verbkomplex|hyperpage}{415}
+\indexentry {Bewegung|hyperpage}{416}
+\indexentry {Spur|hyperpage}{418}
+\indexentry {Feldermodell|hyperpage}{419}
+\indexentry {Satzklammer|hyperpage}{419}
+\indexentry {Vorfeld|hyperpage}{419}
+\indexentry {Mittelfeld|hyperpage}{419}
+\indexentry {Komplementierer|hyperpage}{419}
+\indexentry {w-Frage|hyperpage}{419}
+\indexentry {Echofrage|hyperpage}{419}
+\indexentry {Fragesatz|hyperpage}{419}
+\indexentry {w-Satz|hyperpage}{419}
+\indexentry {Relativsatz|hyperpage}{421}
+\indexentry {Fragesatz!eingebettet|hyperpage}{421}
+\indexentry {Verb-Erst-Satz|hyperpage}{421}
+\indexentry {Verb-Letzt-Satz|hyperpage}{421}
+\indexentry {Verb-Zweit-Satz|hyperpage}{421}
+\indexentry {Relativsatz|hyperpage}{422}
+\indexentry {Komplementsatz|hyperpage}{422}
+\indexentry {Nachfeld|hyperpage}{422}
+\indexentry {Konnektor|hyperpage}{422}
+\indexentry {Konnektorfeld|hyperpage}{422}
+\indexentry {w-Satz|hyperpage}{424}
+\indexentry {Verb-Zweit-Satz|hyperpage}{427}
+\indexentry {Bewegung|hyperpage}{427}
+\indexentry {Spur|hyperpage}{427}
+\indexentry {Verb-Erst-Satz|hyperpage}{430}
+\indexentry {Fragesatz!Entscheidungs--|hyperpage}{430}
+\indexentry {Imperativ!Satz|hyperpage}{430}
+\indexentry {Verb!Partikel--|hyperpage}{431}
+\indexentry {Verbkomplex|hyperpage}{431}
+\indexentry {Kopula|hyperpage}{432}
+\indexentry {Kopulasatz|hyperpage}{432}
+\indexentry {Relativsatz|hyperpage}{435}
+\indexentry {Relativphrase|hyperpage}{435}
+\indexentry {Relativsatz!Einleitung|hyperpage}{435}
+\indexentry {Genitiv!pränominal|hyperpage}{436}
+\indexentry {Relativadverb|hyperpage}{436}
+\indexentry {Relativsatz!frei|hyperpage}{437}
+\indexentry {Nachfeld|hyperpage}{439}
+\indexentry {Komplementsatz|hyperpage}{439}
+\indexentry {Subjektsatz|hyperpage}{439}
+\indexentry {Objektsatz|hyperpage}{439}
 \indexentry {Mittelfeld|hyperpage}{441}
-\indexentry {Adverbialsatz|hyperpage}{441}
-\indexentry {Konditionalsatz|hyperpage}{441}
-\indexentry {Verb-Erst-Satz|hyperpage}{441}
-\indexentry {Rolle|hyperpage}{446}
-\indexentry {Mitspieler|hyperpage}{446}
-\indexentry {Agens|hyperpage}{448}
-\indexentry {Experiencer|hyperpage}{448}
-\indexentry {Rolle!Zuweisung|hyperpage}{449}
-\indexentry {Angabe!präpositional|hyperpage}{449}
-\indexentry {Valenz|hyperpage}{449}
-\indexentry {Rolle|hyperpage}{449}
-\indexentry {Ergänzung|hyperpage}{450}
-\indexentry {Angabe|hyperpage}{450}
-\indexentry {Dativ!frei|hyperpage}{450}
-\indexentry {Prädikat|hyperpage}{451}
-\indexentry {Subjekt|hyperpage}{451}
-\indexentry {Satzglied|hyperpage}{451}
-\indexentry {Ergänzung!prädikativ|hyperpage}{452}
-\indexentry {Prädikatsnomen|hyperpage}{452}
-\indexentry {Kopula|hyperpage}{452}
-\indexentry {Prädikat!resultativ|hyperpage}{453}
-\indexentry {Prädikativ|hyperpage}{454}
+\indexentry {Korrelat|hyperpage}{441}
+\indexentry {Nebensatz|hyperpage}{441}
+\indexentry {Spur|hyperpage}{441}
+\indexentry {Komplementierer|hyperpage}{442}
+\indexentry {Adverbialsatz|hyperpage}{442}
+\indexentry {Nachfeld|hyperpage}{443}
+\indexentry {Mittelfeld|hyperpage}{443}
+\indexentry {Adverbialsatz|hyperpage}{443}
+\indexentry {Konditionalsatz|hyperpage}{443}
+\indexentry {Verb-Erst-Satz|hyperpage}{443}
+\indexentry {Rolle|hyperpage}{450}
+\indexentry {Mitspieler|hyperpage}{450}
+\indexentry {Agens|hyperpage}{452}
+\indexentry {Experiencer|hyperpage}{452}
+\indexentry {Rolle!Zuweisung|hyperpage}{453}
+\indexentry {Angabe!präpositional|hyperpage}{453}
+\indexentry {Valenz|hyperpage}{453}
+\indexentry {Rolle|hyperpage}{453}
+\indexentry {Ergänzung|hyperpage}{454}
+\indexentry {Angabe|hyperpage}{454}
+\indexentry {Dativ!frei|hyperpage}{454}
+\indexentry {Prädikat|hyperpage}{455}
 \indexentry {Subjekt|hyperpage}{455}
-\indexentry {Ergänzung!Nominativ--|hyperpage}{455}
-\indexentry {Nebensatz|hyperpage}{456}
-\indexentry {Komplementsatz|hyperpage}{456}
-\indexentry {Subjekt|hyperpage}{456}
-\indexentry {Passiv|hyperpage}{456}
-\indexentry {Imperativ|hyperpage}{456}
-\indexentry {Subjekt|hyperpage}{456}
-\indexentry {Korrelat|hyperpage}{459}
-\indexentry {Verb!Wetter--|hyperpage}{460}
-\indexentry {Verb!Experiencer--|hyperpage}{460}
-\indexentry {Pronomen!positional|hyperpage}{461}
-\indexentry {Pronomen!expletiv|hyperpage}{462}
-\indexentry {Passiv!werden--|hyperpage}{463}
-\indexentry {Verb!transitiv|hyperpage}{463}
-\indexentry {Passiv!unpersönlich|hyperpage}{463}
-\indexentry {Valenz|hyperpage}{463}
-\indexentry {Agens|hyperpage}{464}
-\indexentry {Lexikonregel|hyperpage}{465}
-\indexentry {Passiv!als Valenzänderung|hyperpage}{465}
-\indexentry {Passiv!werden--|hyperpage}{465}
-\indexentry {Verb!unergativ|hyperpage}{465}
-\indexentry {Verb!unakkusativ|hyperpage}{465}
-\indexentry {Verb!intransitiv|hyperpage}{465}
-\indexentry {Agens|hyperpage}{466}
-\indexentry {Agens|hyperpage}{467}
-\indexentry {Passiv!als Valenzänderung|hyperpage}{468}
-\indexentry {Passiv!bekommen--|hyperpage}{468}
+\indexentry {Satzglied|hyperpage}{456}
+\indexentry {Ergänzung!prädikativ|hyperpage}{456}
+\indexentry {Prädikatsnomen|hyperpage}{457}
+\indexentry {Kopula|hyperpage}{457}
+\indexentry {Prädikat!resultativ|hyperpage}{457}
+\indexentry {Prädikativ|hyperpage}{458}
+\indexentry {Subjekt|hyperpage}{459}
+\indexentry {Ergänzung!Nominativ--|hyperpage}{459}
+\indexentry {Nebensatz|hyperpage}{460}
+\indexentry {Komplementsatz|hyperpage}{461}
+\indexentry {Subjekt|hyperpage}{461}
+\indexentry {Passiv|hyperpage}{461}
+\indexentry {Imperativ|hyperpage}{461}
+\indexentry {Subjekt|hyperpage}{461}
+\indexentry {Korrelat|hyperpage}{464}
+\indexentry {Verb!Wetter--|hyperpage}{465}
+\indexentry {Verb!Experiencer--|hyperpage}{465}
+\indexentry {Pronomen!positional|hyperpage}{466}
+\indexentry {Pronomen!expletiv|hyperpage}{466}
+\indexentry {Passiv!werden--|hyperpage}{467}
+\indexentry {Verb!transitiv|hyperpage}{468}
+\indexentry {Passiv!unpersönlich|hyperpage}{468}
 \indexentry {Valenz|hyperpage}{468}
-\indexentry {Verb!unergativ|hyperpage}{468}
-\indexentry {Dativ!Bewertungs--|hyperpage}{468}
-\indexentry {Akkusativ|hyperpage}{470}
-\indexentry {Akkusativ!Doppel--|hyperpage}{470}
-\indexentry {Angabe!Akkusativ--|hyperpage}{470}
-\indexentry {Grammatikerfrage|hyperpage}{470}
-\indexentry {Objekt!direkt|hyperpage}{471}
-\indexentry {Ergänzung!Akkusativ--|hyperpage}{471}
-\indexentry {Dativ|hyperpage}{471}
-\indexentry {Dativ!frei|hyperpage}{471}
-\indexentry {Dativ!Bewertungs--|hyperpage}{471}
-\indexentry {Dativ!Nutznießer--|hyperpage}{471}
-\indexentry {Dativ!Pertinenz--|hyperpage}{471}
-\indexentry {Valenz|hyperpage}{472}
-\indexentry {Ergänzung!Dativ--|hyperpage}{473}
-\indexentry {Angabe!Dativ--|hyperpage}{473}
-\indexentry {Objekt!indirekt|hyperpage}{473}
-\indexentry {Dativ!Bewertungs--|hyperpage}{473}
-\indexentry {Wackernagel-Position|hyperpage}{473}
-\indexentry {Ergänzung!PP--|hyperpage}{474}
-\indexentry {Objekt!präpositional|hyperpage}{474}
-\indexentry {Hilfsverb|hyperpage}{476}
-\indexentry {Tempus!analytisch|hyperpage}{476}
-\indexentry {Perfekt|hyperpage}{476}
-\indexentry {Futur|hyperpage}{476}
-\indexentry {Status|hyperpage}{476}
-\indexentry {Präsensperfekt|hyperpage}{477}
-\indexentry {Präteritumsperfekt|hyperpage}{477}
-\indexentry {Futurperfekt|hyperpage}{477}
-\indexentry {Doppelperfekt|hyperpage}{478}
-\indexentry {Perfekt!Semantik|hyperpage}{478}
-\indexentry {Ersatzinfinitiv|hyperpage}{481}
-\indexentry {Oberfeldumstellung|hyperpage}{481}
-\indexentry {Status|hyperpage}{482}
-\indexentry {Oberfeldumstellung|hyperpage}{482}
-\indexentry {Ersatzinfinitiv|hyperpage}{482}
-\indexentry {Partizip|hyperpage}{482}
-\indexentry {Kohärenz|hyperpage}{482}
-\indexentry {Verbkomplex|hyperpage}{482}
-\indexentry {Infinitiv|hyperpage}{482}
-\indexentry {Status|hyperpage}{483}
-\indexentry {Kohärenz|hyperpage}{485}
-\indexentry {dritte Konstruktion|hyperpage}{485}
+\indexentry {Agens|hyperpage}{469}
+\indexentry {Lexikonregel|hyperpage}{469}
+\indexentry {Passiv!als Valenzänderung|hyperpage}{469}
+\indexentry {Passiv!werden--|hyperpage}{469}
+\indexentry {Verb!unergativ|hyperpage}{469}
+\indexentry {Verb!unakkusativ|hyperpage}{469}
+\indexentry {Verb!intransitiv|hyperpage}{469}
+\indexentry {Agens|hyperpage}{470}
+\indexentry {Agens|hyperpage}{471}
+\indexentry {Passiv!als Valenzänderung|hyperpage}{471}
+\indexentry {Passiv!bekommen--|hyperpage}{471}
+\indexentry {Valenz|hyperpage}{471}
+\indexentry {Verb!unergativ|hyperpage}{472}
+\indexentry {Dativ!Bewertungs--|hyperpage}{472}
+\indexentry {Akkusativ|hyperpage}{473}
+\indexentry {Akkusativ!Doppel--|hyperpage}{474}
+\indexentry {Angabe!Akkusativ--|hyperpage}{474}
+\indexentry {Grammatikerfrage|hyperpage}{474}
+\indexentry {Objekt!direkt|hyperpage}{474}
+\indexentry {Ergänzung!Akkusativ--|hyperpage}{474}
+\indexentry {Dativ|hyperpage}{474}
+\indexentry {Dativ!frei|hyperpage}{475}
+\indexentry {Dativ!Bewertungs--|hyperpage}{475}
+\indexentry {Dativ!Nutznießer--|hyperpage}{475}
+\indexentry {Dativ!Pertinenz--|hyperpage}{475}
+\indexentry {Valenz|hyperpage}{475}
+\indexentry {Ergänzung!Dativ--|hyperpage}{476}
+\indexentry {Angabe!Dativ--|hyperpage}{476}
+\indexentry {Objekt!indirekt|hyperpage}{477}
+\indexentry {Dativ!Bewertungs--|hyperpage}{477}
+\indexentry {Wackernagel-Position|hyperpage}{477}
+\indexentry {Ergänzung!PP--|hyperpage}{478}
+\indexentry {Objekt!präpositional|hyperpage}{478}
+\indexentry {Hilfsverb|hyperpage}{479}
+\indexentry {Tempus!analytisch|hyperpage}{479}
+\indexentry {Perfekt|hyperpage}{479}
+\indexentry {Futur|hyperpage}{479}
+\indexentry {Status|hyperpage}{479}
+\indexentry {Präsensperfekt|hyperpage}{480}
+\indexentry {Präteritumsperfekt|hyperpage}{480}
+\indexentry {Futurperfekt|hyperpage}{480}
+\indexentry {Doppelperfekt|hyperpage}{481}
+\indexentry {Perfekt!Semantik|hyperpage}{482}
+\indexentry {Ersatzinfinitiv|hyperpage}{484}
+\indexentry {Oberfeldumstellung|hyperpage}{484}
 \indexentry {Status|hyperpage}{485}
-\indexentry {Modalverb|hyperpage}{485}
-\indexentry {Kongruenz!Subjekt--Verb--|hyperpage}{486}
-\indexentry {Kohärenz|hyperpage}{486}
-\indexentry {Rolle|hyperpage}{486}
-\indexentry {Subjekt|hyperpage}{486}
-\indexentry {Subjekt|hyperpage}{487}
-\indexentry {Modalverb|hyperpage}{487}
-\indexentry {Halbmodalverb|hyperpage}{487}
-\indexentry {Kontrollverb|hyperpage}{487}
-\indexentry {Infinitiv!zu--|hyperpage}{488}
-\indexentry {Subjektinfinitiv|hyperpage}{488}
-\indexentry {Objektinfinitiv|hyperpage}{488}
-\indexentry {Korrelat|hyperpage}{488}
-\indexentry {Kontrolle|hyperpage}{489}
-\indexentry {Bindung|hyperpage}{492}
-\indexentry {Pronomen!reflexiv|hyperpage}{492}
-\indexentry {Bindungstheorie|hyperpage}{494}
-\indexentry {Graphematik|hyperpage}{504}
-\indexentry {Medium!schriftlich|hyperpage}{505}
-\indexentry {Orthographie|hyperpage}{507}
-\indexentry {Gebrauchsschreibung|hyperpage}{508}
-\indexentry {Minuskel|hyperpage}{509}
-\indexentry {Majuskel|hyperpage}{509}
-\indexentry {Kernwortschatz|hyperpage}{509}
-\indexentry {Alphabet!deutsch|hyperpage}{510}
-\indexentry {Buchstabe!konsonantisch|hyperpage}{511}
-\indexentry {Konsonant!Schreibung|hyperpage}{511}
-\indexentry {Auslautverhärtung!Schreibung|hyperpage}{512}
-\indexentry {r-Vokalisierung!Schreibung|hyperpage}{512}
-\indexentry {Schreibprinzip!phonologisch|hyperpage}{514}
-\indexentry {Buchstabe!vokalisch|hyperpage}{514}
-\indexentry {Vokal!Schreibung|hyperpage}{514}
-\indexentry {gespannt!Schreibung|hyperpage}{514}
-\indexentry {Dehnungsschreibung|hyperpage}{514}
-\indexentry {Schärfungsschreibung|hyperpage}{514}
-\indexentry {Diphthong!Schreibung|hyperpage}{515}
-\indexentry {Schärfungsschreibung|hyperpage}{517}
-\indexentry {Dehnungsschreibung|hyperpage}{517}
-\indexentry {Silbe!und Schreibung|hyperpage}{518}
-\indexentry {Simplex|hyperpage}{518}
-\indexentry {Schärfungsschreibung|hyperpage}{520}
-\indexentry {Silbengelenk!und Eszett|hyperpage}{521}
-\indexentry {Majuskel|hyperpage}{526}
-\indexentry {Akzent!Schreibung|hyperpage}{526}
-\indexentry {Kernwortschatz|hyperpage}{527}
-\indexentry {Spatium|hyperpage}{533}
-\indexentry {Schreibprinzip!Spatienschreibung|hyperpage}{533}
-\indexentry {Wort!graphematisch|hyperpage}{533}
-\indexentry {Univerbierung|hyperpage}{534}
-\indexentry {Grammatikalisierung|hyperpage}{534}
-\indexentry {Wortklasse!Schreibung|hyperpage}{535}
-\indexentry {Majuskel|hyperpage}{535}
-\indexentry {Substantiv!Großschreibung|hyperpage}{535}
-\indexentry {Konversion|hyperpage}{536}
-\indexentry {Substantivierung|hyperpage}{536}
-\indexentry {Substantiv!Großschreibung|hyperpage}{536}
-\indexentry {Univerbierung|hyperpage}{537}
-\indexentry {Eigenname!Schreibung|hyperpage}{538}
-\indexentry {Kompositum!Schreibung|hyperpage}{539}
-\indexentry {Bindestrich|hyperpage}{539}
-\indexentry {Zeichen!Wort--|hyperpage}{540}
-\indexentry {Majuskel|hyperpage}{540}
-\indexentry {Spatium|hyperpage}{540}
-\indexentry {Kurzwort|hyperpage}{541}
-\indexentry {Substantiv!s-Flexion|hyperpage}{541}
-\indexentry {Akronym|hyperpage}{541}
-\indexentry {Klitikon|hyperpage}{542}
-\indexentry {Gebrauchsschreibung|hyperpage}{542}
-\indexentry {Apostroph|hyperpage}{543}
-\indexentry {Artikel!indefinit|hyperpage}{543}
-\indexentry {Genitiv!sächsisch|hyperpage}{544}
-\indexentry {Schreibprinzip!Konstanz|hyperpage}{545}
-\indexentry {Dehnungsschreibung|hyperpage}{546}
-\indexentry {Umlaut!Schreibung|hyperpage}{546}
-\indexentry {Koordination!Schreibung|hyperpage}{548}
-\indexentry {Konjunktion|hyperpage}{548}
-\indexentry {Komma|hyperpage}{548}
-\indexentry {Zeichen!syntaktisch|hyperpage}{548}
-\indexentry {Parenthese|hyperpage}{548}
-\indexentry {Gedankenstrich|hyperpage}{549}
-\indexentry {Klammer|hyperpage}{549}
-\indexentry {Satz!Schreibung|hyperpage}{549}
-\indexentry {Punkt|hyperpage}{549}
-\indexentry {Satz!Koordination|hyperpage}{550}
-\indexentry {Satz!graphematisch|hyperpage}{551}
-\indexentry {Nebensatz!Schreibung|hyperpage}{552}
-\indexentry {Kohärenz!Schreibung|hyperpage}{553}
-\indexentry {Infinitiv|hyperpage}{553}
-\indexentry {Komplementsatz|hyperpage}{553}
-\indexentry {Fremdwort|hyperindexformat{\see {Lehnwort}}}{614}
-\indexentry {Grammatik!normativ|hyperindexformat{\see {Grammatik!präskriptiv}}}{614}
-\indexentry {Relation!syntagmatisch|hyperindexformat{\see {Relation!syntaktisch}}}{614}
-\indexentry {grammatisch|hyperindexformat{\see Grammatikalität}}{614}
-\indexentry {ungrammatisch|hyperindexformat{\see Grammatikalität}}{614}
-\indexentry {Inkohärenz|hyperindexformat{\see {Kohärenz}}}{614}
-\indexentry {Kopula|hyperindexformat{\see {Verb!Kopula}}}{614}
-\indexentry {Konjugation|hyperindexformat{\see {Verb!Flexion}}}{614}
-\indexentry {Deklination|hyperindexformat{\see {Substantiv!Flexion}}}{614}
-\indexentry {Vergangenheit|hyperindexformat{\see Präteritum}}{614}
-\indexentry {Zukunft|hyperindexformat{\see Futur}}{614}
-\indexentry {Singular|hyperindexformat{\see {Numerus}}}{614}
-\indexentry {Plural|hyperindexformat{\see {Numerus}}}{614}
-\indexentry {Positiv|hyperindexformat{\see {Adjektiv!Komparation}}}{614}
-\indexentry {Komparativ|hyperindexformat{\see {Adjektiv!Komparation}}}{614}
-\indexentry {Superlativ|hyperindexformat{\see {Adjektiv!Komparation}}}{614}
-\indexentry {Steigerung|hyperindexformat{\see {Adjektiv!Komparation}}}{614}
-\indexentry {Einzahl|hyperindexformat{\see {Numerus}}}{614}
-\indexentry {Mehrzahl|hyperindexformat{\see {Numerus}}}{614}
-\indexentry {Fall|hyperindexformat{\see {Kasus}}}{614}
-\indexentry {Gruppe|hyperindexformat{\see {Phrase}}}{614}
-\indexentry {Hauptwort|hyperindexformat{\see {Substantiv}}}{614}
-\indexentry {Eigenschaftswort|hyperindexformat{\see {Adjektiv}}}{614}
-\indexentry {Fürwort|hyperindexformat{\see {Pronomen}}}{614}
-\indexentry {Bindewort|hyperindexformat{\see {Konjunktion}}}{614}
-\indexentry {Tuwort|hyperindexformat{\see {Verb}}}{614}
-\indexentry {Zeitwort|hyperindexformat{\see {Verb}}}{614}
-\indexentry {Beiwort|hyperindexformat{\see {Adverb}}}{614}
-\indexentry {Zeitform|hyperindexformat{\see {Tempus}}}{614}
-\indexentry {Satzbau|hyperindexformat{\see {Syntax}}}{614}
-\indexentry {Formenlehre|hyperindexformat{\see {Morphologie}}}{614}
-\indexentry {Wortart|hyperindexformat{\see {Wortklasse}}}{614}
-\indexentry {Geschlecht|hyperindexformat{\see {Genus}}}{614}
-\indexentry {Determinativ|hyperindexformat{\see {Artikelwort}}}{614}
-\indexentry {Determinierer|hyperindexformat{\see {Artikelwort}}}{614}
-\indexentry {Beugung|hyperindexformat{\see {Flexion}}}{614}
-\indexentry {Vokaltrapez|hyperindexformat{\see {Vokalviereck}}}{614}
-\indexentry {Distribution|hyperindexformat{\see {Verteilung}}}{614}
-\indexentry {Silbifizierung|hyperindexformat{\see {Silbe}}}{614}
-\indexentry {Betonung|hyperindexformat{\see {Akzent}}}{614}
-\indexentry {Wortform|hyperindexformat{\see {Wort!syntaktisches}}}{614}
-\indexentry {Vorsilbe|hyperindexformat{\see {Präfix}}}{614}
-\indexentry {Plusquamperfekt|hyperindexformat{\see {Präteritumsperfekt}}}{614}
-\indexentry {Futur II|hyperindexformat{\see {Futurperfekt}}}{614}
-\indexentry {Genus verbi|hyperindexformat{\see {Passiv}}}{614}
-\indexentry {Aktiv|hyperindexformat{\see {Passiv}}}{614}
-\indexentry {Auxiliar|hyperindexformat{\see {Hilfsverb}}}{614}
-\indexentry {Adjunkt|hyperindexformat{\see {Angabe}}}{614}
-\indexentry {Argument|hyperindexformat{\see {Ergänzung}}}{614}
-\indexentry {Komplement|hyperindexformat{\see {Ergänzung}}}{614}
-\indexentry {Trace|hyperindexformat{\see {Spur}}}{614}
-\indexentry {Hauptsatz|hyperindexformat{\see {Satz}}}{614}
-\indexentry {In-Situ-Frage|hyperindexformat{\see {Echofrage}}}{614}
-\indexentry {Stirnsatz|hyperindexformat{\see {Verb-Erst-Satz}}}{614}
-\indexentry {V1-Satz|hyperindexformat{\see {Verb-Erst-Satz}}}{614}
-\indexentry {Kernsatz|hyperindexformat{\see {Verb-Zweit-Satz}}}{614}
-\indexentry {V2-Satz|hyperindexformat{\see {Verb-Zweit-Satz}}}{614}
-\indexentry {Spannsatz|hyperindexformat{\see {Verb-Letzt-Satz}}}{614}
-\indexentry {VL-Satz|hyperindexformat{\see {Verb-Letzt-Satz}}}{614}
-\indexentry {Vorgangspassiv|hyperindexformat{\see {werden-Passiv}}}{614}
-\indexentry {Dativ!Commodi|hyperindexformat{\see {Nutznießer-Dativ}}}{614}
-\indexentry {Dativ!Iudicantis|hyperindexformat{\see {Bewertungs-Dativ}}}{614}
-\indexentry {Dativ!Zugehörigkeits--|hyperindexformat{\see {Dativ!Pertinenz}}}{614}
-\indexentry {Anhebungsverb|hyperindexformat{\see {Halbmodalverb}}}{614}
-\indexentry {Klitisierung|hyperindexformat{\see {Klitikon}}}{614}
-\indexentry {Konstantschreibung|hyperindexformat{\see {Schreibprinzip|Konstanz}}}{614}
-\indexentry {Diathese|hyperindexformat{\see {Passiv}}}{614}
-\indexentry {Coda|hyperindexformat{\see {Endrand}}}{614}
-\indexentry {Onset|hyperindexformat{\see {Anfangsrand}}}{614}
-\indexentry {Nukleus|hyperindexformat{\see {Kern (Silbe)}}}{614}
-\indexentry {Glottis|hyperindexformat{\see Stimmbänder}}{614}
-\indexentry {Larynx|hyperindexformat{\see Kehlkopf}}{614}
-\indexentry {Uvula|hyperindexformat{\see Zäpfchen}}{614}
-\indexentry {Velum|hyperindexformat{\see Gaumensegel}}{614}
-\indexentry {Alveolen|hyperindexformat{\see Zahndamm}}{614}
-\indexentry {Pharynx|hyperindexformat{\see Rachen}}{614}
-\indexentry {Geräuschlaut|hyperindexformat{\see Obstruent}}{614}
-\indexentry {Reibelaut|hyperindexformat{\see Frikativ}}{614}
-\indexentry {Knalllaut|hyperindexformat{\see Plosiv}}{614}
-\indexentry {Mitlaut|hyperindexformat{\see Konsonant}}{614}
-\indexentry {Selbstlaut|hyperindexformat{\see Vokal}}{614}
-\indexentry {Glottisverschluss|hyperindexformat{\see Glottalverschluss}}{614}
-\indexentry {glottal stop|hyperindexformat{\see Glottalverschluss}}{614}
-\indexentry {Labio-dental|hyperindexformat{\see Labial}}{614}
-\indexentry {Bilabial|hyperindexformat{\see Labial}}{614}
-\indexentry {Reduktionsvokal|hyperindexformat{\see Schwa}}{614}
-\indexentry {Subjunktor|hyperindexformat{\see Komplementierer}}{614}
-\indexentry {Konjunktion!subordinierend|hyperindexformat{\see Komplementierer}}{614}
+\indexentry {Oberfeldumstellung|hyperpage}{485}
+\indexentry {Ersatzinfinitiv|hyperpage}{485}
+\indexentry {Partizip|hyperpage}{485}
+\indexentry {Kohärenz|hyperpage}{485}
+\indexentry {Verbkomplex|hyperpage}{485}
+\indexentry {Infinitiv|hyperpage}{485}
+\indexentry {Status|hyperpage}{485}
+\indexentry {Kohärenz|hyperpage}{488}
+\indexentry {dritte Konstruktion|hyperpage}{488}
+\indexentry {Status|hyperpage}{488}
+\indexentry {Modalverb|hyperpage}{488}
+\indexentry {Kongruenz!Subjekt--Verb--|hyperpage}{489}
+\indexentry {Kohärenz|hyperpage}{489}
+\indexentry {Rolle|hyperpage}{489}
+\indexentry {Subjekt|hyperpage}{489}
+\indexentry {Subjekt|hyperpage}{490}
+\indexentry {Modalverb|hyperpage}{490}
+\indexentry {Halbmodalverb|hyperpage}{490}
+\indexentry {Kontrollverb|hyperpage}{490}
+\indexentry {Infinitiv!zu--|hyperpage}{491}
+\indexentry {Subjektinfinitiv|hyperpage}{491}
+\indexentry {Objektinfinitiv|hyperpage}{491}
+\indexentry {Korrelat|hyperpage}{491}
+\indexentry {Kontrolle|hyperpage}{492}
+\indexentry {Bindung|hyperpage}{495}
+\indexentry {Pronomen!reflexiv|hyperpage}{495}
+\indexentry {Bindungstheorie|hyperpage}{497}
+\indexentry {Graphematik|hyperpage}{508}
+\indexentry {Medium!schriftlich|hyperpage}{509}
+\indexentry {Orthographie|hyperpage}{511}
+\indexentry {Gebrauchsschreibung|hyperpage}{512}
+\indexentry {Minuskel|hyperpage}{513}
+\indexentry {Majuskel|hyperpage}{513}
+\indexentry {Kernwortschatz|hyperpage}{513}
+\indexentry {Alphabet!deutsch|hyperpage}{514}
+\indexentry {Buchstabe!konsonantisch|hyperpage}{515}
+\indexentry {Konsonant!Schreibung|hyperpage}{515}
+\indexentry {Auslautverhärtung!Schreibung|hyperpage}{516}
+\indexentry {r-Vokalisierung!Schreibung|hyperpage}{516}
+\indexentry {Schreibprinzip!phonologisch|hyperpage}{518}
+\indexentry {Buchstabe!vokalisch|hyperpage}{518}
+\indexentry {Vokal!Schreibung|hyperpage}{518}
+\indexentry {gespannt!Schreibung|hyperpage}{518}
+\indexentry {Dehnungsschreibung|hyperpage}{518}
+\indexentry {Schärfungsschreibung|hyperpage}{518}
+\indexentry {Diphthong!Schreibung|hyperpage}{519}
+\indexentry {Schärfungsschreibung|hyperpage}{521}
+\indexentry {Dehnungsschreibung|hyperpage}{521}
+\indexentry {Silbe!und Schreibung|hyperpage}{521}
+\indexentry {Simplex|hyperpage}{521}
+\indexentry {Schärfungsschreibung|hyperpage}{523}
+\indexentry {Silbengelenk!und Eszett|hyperpage}{524}
+\indexentry {Majuskel|hyperpage}{529}
+\indexentry {Akzent!Schreibung|hyperpage}{529}
+\indexentry {Kernwortschatz|hyperpage}{531}
+\indexentry {Spatium|hyperpage}{537}
+\indexentry {Schreibprinzip!Spatienschreibung|hyperpage}{537}
+\indexentry {Wort!graphematisch|hyperpage}{537}
+\indexentry {Univerbierung|hyperpage}{538}
+\indexentry {Grammatikalisierung|hyperpage}{538}
+\indexentry {Wortklasse!Schreibung|hyperpage}{539}
+\indexentry {Majuskel|hyperpage}{539}
+\indexentry {Substantiv!Großschreibung|hyperpage}{539}
+\indexentry {Konversion|hyperpage}{540}
+\indexentry {Substantivierung|hyperpage}{540}
+\indexentry {Substantiv!Großschreibung|hyperpage}{540}
+\indexentry {Univerbierung|hyperpage}{541}
+\indexentry {Eigenname!Schreibung|hyperpage}{542}
+\indexentry {Kompositum!Schreibung|hyperpage}{543}
+\indexentry {Bindestrich|hyperpage}{543}
+\indexentry {Zeichen!Wort--|hyperpage}{544}
+\indexentry {Majuskel|hyperpage}{544}
+\indexentry {Spatium|hyperpage}{544}
+\indexentry {Kurzwort|hyperpage}{545}
+\indexentry {Substantiv!s-Flexion|hyperpage}{545}
+\indexentry {Akronym|hyperpage}{545}
+\indexentry {Klitikon|hyperpage}{546}
+\indexentry {Gebrauchsschreibung|hyperpage}{546}
+\indexentry {Apostroph|hyperpage}{547}
+\indexentry {Artikel!indefinit|hyperpage}{547}
+\indexentry {Genitiv!sächsisch|hyperpage}{548}
+\indexentry {Schreibprinzip!Konstanz|hyperpage}{549}
+\indexentry {Dehnungsschreibung|hyperpage}{550}
+\indexentry {Umlaut!Schreibung|hyperpage}{550}
+\indexentry {Koordination!Schreibung|hyperpage}{552}
+\indexentry {Konjunktion|hyperpage}{552}
+\indexentry {Komma|hyperpage}{552}
+\indexentry {Zeichen!syntaktisch|hyperpage}{552}
+\indexentry {Parenthese|hyperpage}{552}
+\indexentry {Gedankenstrich|hyperpage}{553}
+\indexentry {Klammer|hyperpage}{553}
+\indexentry {Satz!Schreibung|hyperpage}{553}
+\indexentry {Punkt|hyperpage}{553}
+\indexentry {Satz!Koordination|hyperpage}{554}
+\indexentry {Satz!graphematisch|hyperpage}{555}
+\indexentry {Nebensatz!Schreibung|hyperpage}{556}
+\indexentry {Kohärenz!Schreibung|hyperpage}{557}
+\indexentry {Infinitiv|hyperpage}{557}
+\indexentry {Komplementsatz|hyperpage}{557}
+\indexentry {Fremdwort|hyperindexformat{\see {Lehnwort}}}{618}
+\indexentry {Grammatik!normativ|hyperindexformat{\see {Grammatik!präskriptiv}}}{618}
+\indexentry {Relation!syntagmatisch|hyperindexformat{\see {Relation!syntaktisch}}}{618}
+\indexentry {grammatisch|hyperindexformat{\see Grammatikalität}}{618}
+\indexentry {ungrammatisch|hyperindexformat{\see Grammatikalität}}{618}
+\indexentry {Inkohärenz|hyperindexformat{\see {Kohärenz}}}{618}
+\indexentry {Kopula|hyperindexformat{\see {Verb!Kopula}}}{618}
+\indexentry {Konjugation|hyperindexformat{\see {Verb!Flexion}}}{618}
+\indexentry {Deklination|hyperindexformat{\see {Substantiv!Flexion}}}{618}
+\indexentry {Vergangenheit|hyperindexformat{\see Präteritum}}{618}
+\indexentry {Zukunft|hyperindexformat{\see Futur}}{618}
+\indexentry {Singular|hyperindexformat{\see {Numerus}}}{618}
+\indexentry {Plural|hyperindexformat{\see {Numerus}}}{618}
+\indexentry {Positiv|hyperindexformat{\see {Adjektiv!Komparation}}}{618}
+\indexentry {Komparativ|hyperindexformat{\see {Adjektiv!Komparation}}}{618}
+\indexentry {Superlativ|hyperindexformat{\see {Adjektiv!Komparation}}}{618}
+\indexentry {Steigerung|hyperindexformat{\see {Adjektiv!Komparation}}}{618}
+\indexentry {Einzahl|hyperindexformat{\see {Numerus}}}{618}
+\indexentry {Mehrzahl|hyperindexformat{\see {Numerus}}}{618}
+\indexentry {Fall|hyperindexformat{\see {Kasus}}}{618}
+\indexentry {Gruppe|hyperindexformat{\see {Phrase}}}{618}
+\indexentry {Hauptwort|hyperindexformat{\see {Substantiv}}}{618}
+\indexentry {Eigenschaftswort|hyperindexformat{\see {Adjektiv}}}{618}
+\indexentry {Fürwort|hyperindexformat{\see {Pronomen}}}{618}
+\indexentry {Bindewort|hyperindexformat{\see {Konjunktion}}}{618}
+\indexentry {Tuwort|hyperindexformat{\see {Verb}}}{618}
+\indexentry {Zeitwort|hyperindexformat{\see {Verb}}}{618}
+\indexentry {Beiwort|hyperindexformat{\see {Adverb}}}{618}
+\indexentry {Zeitform|hyperindexformat{\see {Tempus}}}{618}
+\indexentry {Satzbau|hyperindexformat{\see {Syntax}}}{618}
+\indexentry {Formenlehre|hyperindexformat{\see {Morphologie}}}{618}
+\indexentry {Wortart|hyperindexformat{\see {Wortklasse}}}{618}
+\indexentry {Geschlecht|hyperindexformat{\see {Genus}}}{618}
+\indexentry {Determinativ|hyperindexformat{\see {Artikelwort}}}{618}
+\indexentry {Determinierer|hyperindexformat{\see {Artikelwort}}}{618}
+\indexentry {Beugung|hyperindexformat{\see {Flexion}}}{618}
+\indexentry {Vokaltrapez|hyperindexformat{\see {Vokalviereck}}}{618}
+\indexentry {Distribution|hyperindexformat{\see {Verteilung}}}{618}
+\indexentry {Silbifizierung|hyperindexformat{\see {Silbe}}}{618}
+\indexentry {Betonung|hyperindexformat{\see {Akzent}}}{618}
+\indexentry {Wortform|hyperindexformat{\see {Wort!syntaktisches}}}{618}
+\indexentry {Vorsilbe|hyperindexformat{\see {Präfix}}}{618}
+\indexentry {Plusquamperfekt|hyperindexformat{\see {Präteritumsperfekt}}}{618}
+\indexentry {Futur II|hyperindexformat{\see {Futurperfekt}}}{618}
+\indexentry {Genus verbi|hyperindexformat{\see {Passiv}}}{618}
+\indexentry {Aktiv|hyperindexformat{\see {Passiv}}}{618}
+\indexentry {Auxiliar|hyperindexformat{\see {Hilfsverb}}}{618}
+\indexentry {Adjunkt|hyperindexformat{\see {Angabe}}}{618}
+\indexentry {Argument|hyperindexformat{\see {Ergänzung}}}{618}
+\indexentry {Komplement|hyperindexformat{\see {Ergänzung}}}{618}
+\indexentry {Trace|hyperindexformat{\see {Spur}}}{618}
+\indexentry {Hauptsatz|hyperindexformat{\see {Satz}}}{618}
+\indexentry {In-Situ-Frage|hyperindexformat{\see {Echofrage}}}{618}
+\indexentry {Stirnsatz|hyperindexformat{\see {Verb-Erst-Satz}}}{618}
+\indexentry {V1-Satz|hyperindexformat{\see {Verb-Erst-Satz}}}{618}
+\indexentry {Kernsatz|hyperindexformat{\see {Verb-Zweit-Satz}}}{618}
+\indexentry {V2-Satz|hyperindexformat{\see {Verb-Zweit-Satz}}}{618}
+\indexentry {Spannsatz|hyperindexformat{\see {Verb-Letzt-Satz}}}{618}
+\indexentry {VL-Satz|hyperindexformat{\see {Verb-Letzt-Satz}}}{618}
+\indexentry {Vorgangspassiv|hyperindexformat{\see {werden-Passiv}}}{618}
+\indexentry {Dativ!Commodi|hyperindexformat{\see {Nutznießer-Dativ}}}{618}
+\indexentry {Dativ!Iudicantis|hyperindexformat{\see {Bewertungs-Dativ}}}{618}
+\indexentry {Dativ!Zugehörigkeits--|hyperindexformat{\see {Dativ!Pertinenz}}}{618}
+\indexentry {Anhebungsverb|hyperindexformat{\see {Halbmodalverb}}}{618}
+\indexentry {Klitisierung|hyperindexformat{\see {Klitikon}}}{618}
+\indexentry {Konstantschreibung|hyperindexformat{\see {Schreibprinzip|Konstanz}}}{618}
+\indexentry {Diathese|hyperindexformat{\see {Passiv}}}{618}
+\indexentry {Coda|hyperindexformat{\see {Endrand}}}{618}
+\indexentry {Onset|hyperindexformat{\see {Anfangsrand}}}{618}
+\indexentry {Nukleus|hyperindexformat{\see {Kern (Silbe)}}}{618}
+\indexentry {Glottis|hyperindexformat{\see Stimmbänder}}{618}
+\indexentry {Larynx|hyperindexformat{\see Kehlkopf}}{618}
+\indexentry {Uvula|hyperindexformat{\see Zäpfchen}}{618}
+\indexentry {Velum|hyperindexformat{\see Gaumensegel}}{618}
+\indexentry {Alveolen|hyperindexformat{\see Zahndamm}}{618}
+\indexentry {Pharynx|hyperindexformat{\see Rachen}}{618}
+\indexentry {Geräuschlaut|hyperindexformat{\see Obstruent}}{618}
+\indexentry {Reibelaut|hyperindexformat{\see Frikativ}}{618}
+\indexentry {Knalllaut|hyperindexformat{\see Plosiv}}{618}
+\indexentry {Mitlaut|hyperindexformat{\see Konsonant}}{618}
+\indexentry {Selbstlaut|hyperindexformat{\see Vokal}}{618}
+\indexentry {Glottisverschluss|hyperindexformat{\see Glottalverschluss}}{618}
+\indexentry {glottal stop|hyperindexformat{\see Glottalverschluss}}{618}
+\indexentry {Labio-dental|hyperindexformat{\see Labial}}{618}
+\indexentry {Bilabial|hyperindexformat{\see Labial}}{618}
+\indexentry {Reduktionsvokal|hyperindexformat{\see Schwa}}{618}
+\indexentry {Subjunktor|hyperindexformat{\see Komplementierer}}{618}
+\indexentry {Konjunktion!subordinierend|hyperindexformat{\see Komplementierer}}{618}
