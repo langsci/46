@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_11) (preloaded format=xelatex 2015.11.9)  18 JUL 2016 01:26
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/MacPorts 2015_11) (preloaded format=xelatex 2015.11.9)  18 JUL 2016 16:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4638,10 +4638,10 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              Note also, that KOMA-Script will remove the definition
 (scrbook)              of `\sc' anytime until release of about version 3.20.
 (scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1048.
+(scrbook)              by `\@nomath \sc ' on input line 1050.
 
 
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1048.
+LaTeX Font Warning: Command \sc invalid in math mode on input line 1050.
 
 
 Class scrbook Warning: Usage of deprecated font command `\sc'!
@@ -4655,44 +4655,44 @@ Class scrbook Warning: Usage of deprecated font command `\sc'!
 (scrbook)              Note also, that KOMA-Script will remove the definition
 (scrbook)              of `\sc' anytime until release of about version 3.20.
 (scrbook)              But for now, KOMA-Script will replace deprecated `\sc'
-(scrbook)              by `\@nomath \sc ' on input line 1048.
+(scrbook)              by `\@nomath \sc ' on input line 1050.
 
 
-LaTeX Font Warning: Command \sc invalid in math mode on input line 1048.
+LaTeX Font Warning: Command \sc invalid in math mode on input line 1050.
 
 1363> [437] [438]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1125--1126
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1127--1128
 [][][][][][]
  []
 
 [439] [440] [441]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Underfull \hbox (badness 7047) in paragraph at lines 1275--1275
+Underfull \hbox (badness 7047) in paragraph at lines 1277--1277
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Ein Adverbialsatz ist ein mit Kompleme
 ntierer eingeleiteter VL-
  []
 
 
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1275--1276
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1277--1278
 [][][][][][]
  []
 
 [442]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1311--1312
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1313--1314
 [][][][][][]
  []
 
-
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1336--1337
+[443]
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1338--1339
 [][]
  []
 
-[443] [444] [445
+[444] [445
 
 ] [446]) [447]
 \openout2 = `chapters/relationen.aux'.
@@ -5280,10 +5280,10 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54168 strings out of 494865
- 973278 string characters out of 6167200
- 1518123 words of memory out of 5000000
- 56389 multiletter control sequences out of 15000+600000
+ 54170 strings out of 494865
+ 973296 string characters out of 6167200
+ 1518212 words of memory out of 5000000
+ 56391 multiletter control sequences out of 15000+600000
  21435 words of font info for 159 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
  70i,25n,104p,10460b,2290s stack positions out of 5000i,500n,10000p,200000b,80000s
