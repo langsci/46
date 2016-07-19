@@ -348,13 +348,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {10.2.3}Strukturelle Ambiguität}{361}{subsection.10.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.3}Topologie und Konstituentenstruktur}{362}{section.10.3}
+\contentsline {section}{\numberline {10.3}Analysen von Konstituentenstrukturen}{362}{section.10.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {10.3.1}Terminologie für Baumdiagramme}{362}{subsection.10.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {10.3.2}Phrasenschemata}{364}{subsection.10.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.3.3}Phrasen, Köpfe und Merkmale}{366}{subsection.10.3.3}
+\contentsline {subsection}{\numberline {10.3.3}Phrasen, Köpfe und Merkmale}{365}{subsection.10.3.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {11}Phrasen}{375}{chapter.11}
 \defcounter {refsection}{0}\relax 

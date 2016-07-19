@@ -531,7 +531,7 @@
 \indexentry {Knoten!Tochter--|hyperpage}{363}
 \indexentry {Knoten!Mutter--|hyperpage}{363}
 \indexentry {Knoten!Wurzel--|hyperpage}{363}
-\indexentry {Phrase|hyperpage}{366}
+\indexentry {Phrase|hyperpage}{365}
 \indexentry {Valenz|hyperpage}{366}
 \indexentry {Dependenz|hyperpage}{367}
 \indexentry {Kopf!Phrase|hyperpage}{367}
@@ -912,3 +912,5 @@
 \indexentry {Reduktionsvokal|hyperindexformat{\see Schwa}}{618}
 \indexentry {Subjunktor|hyperindexformat{\see Komplementierer}}{618}
 \indexentry {Konjunktion!subordinierend|hyperindexformat{\see Komplementierer}}{618}
+\indexentry {Ergänzungssatz|hyperindexformat{\see Komplementsatz}}{618}
+\indexentry {Theta-Rolle|hyperindexformat{\see Rolle}}{618}
