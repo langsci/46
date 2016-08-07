@@ -588,7 +588,7 @@ Die Artikel und Pronomina werden erst in Abschnitt~\ref{sec:artikelpronomen} von
 
 \index{Adjektiv}
 \index{Pronomen}
-\WFiltTree{Adjektiv}{wfilt:adjartpron}{anderes Nomen\\ nach Filter \ref{wfilt:subst}}{Flektiert das Nomen nach dem Stärkeparadigma?}{Adjektiv}{Artikel\slash Pronomen}
+\WFiltTree[-0mm]{Adjektiv}{wfilt:adjartpron}{anderes Nomen\\nach Filter \ref{wfilt:subst}}{Flektiert das Nomen im Stärkeparadigma?}{Adjektiv}{Artikel\slash Pronomen}
 
 \subsection{Präpositionen}
 
@@ -612,7 +612,7 @@ Welchen Wert für \textsc{Kasus} das Substantiv \textit{Rasen} (und die mit ihm 
 Die Präposition \textit{mit} regiert den Dativ, \textit{angesichts} regiert den Genitiv.
 Keine andere Art von unflektierbaren Wörtern verhält sich so, und Filter~\ref{wfilt:prep} bezieht sich daher auf dieses Verhalten.
 
-\WFiltTree{Präposition}{wfilt:prep}{nicht flektier-\\bares Wort}{Hat das Wort eine einstellige Valenz und Kasusrektion?}{Präposition}{anderes}
+\WFiltTree[0cm]{Präposition}{wfilt:prep}{nicht flektierbares Wort}{Hat das Wort eine einstellige Valenz und Kasusrektion?}{Präposition}{anderes}
 
 \subsection{Komplementierer}
 
@@ -651,23 +651,24 @@ Das wird in Abschnitt~\ref{sec:kohaerenz} besprochen.}
 (\ref{ex:wa9914}) demonstriert schließlich, dass ein Nebensatz wie \textit{obwohl kein Tor fiel} normalerweise nicht alleine stehen kann.
 Nebensatzeinleiter sind laut Filter~\ref{wfilt:subjunktion} \textit{Komplementierer} und werden auch \textit{subordinierende Konjunktionen} oder \textit{Subjunktoren} genannt.
 
-\WFiltTree{Komplementierer}{wfilt:subjunktion}{anderes aus Filter \ref{wfilt:prep}}{Kann das Wort einen Nebensatz einleiten?}{Komplementierer}{Partikel\slash Adverb}
+\WFiltTree{Komplementierer}{wfilt:subjunktion}{anderes\\aus Filter \ref{wfilt:prep}}{Kann das Wort einen Nebensatz einleiten?}{Komplementierer}{Partikel\slash Adverb}
 
 Weil \textit{dass} in (\ref{ex:wa9911}) und (\ref{ex:wa9912}) Nebensatzstrukturen einleitet, ist es gemäß Filter \ref{wfilt:subjunktion} ein Komplementierer.
 In (\ref{ex:wa9914}) kommt \textit{obwohl} als Komplementierer vor, auch wenn insgesamt die Struktur nicht grammatisch ist.
 In (\ref{ex:wa9913}) ist \textit{zu} kein Komplementierer, weil die eingeleitete Struktur nicht Definition~\ref{def:nebensatz} erfüllt.
+Zu den übrig gebliebenen Partikeln und Adverben gehört eigentlich noch die kleine Klasse der \textit{Adkopulas}.
+Die weitere Trennung dieser Klassen erfolgt in Abschnitt~\ref{sec:adverbenpartikelnwortklassen} und Abschnitt~\ref{sec:kopulapartikelwortklassen}.
 
-\subsection{Adverben und Partikeln}
+\subsection{Adverben, Adkopulas und Partikeln}
 
 \label{sec:adverbenpartikelnwortklassen}
 
 \index{Partikel}
 
-Die Unterscheidung von Adverben und Partikeln ist eine delikate Angelegenheit.
-Syntaktisch gesehen sind Adverben flexibler im Satz positionierbar als Partikeln. 
-Dazu definieren wir zuerst den Begriff \textit{Vorfeldbesetzer} bzw.\ \textit{Vorfeldfähigkeit}.\index{Vorfeld}
-Warum man hier den Terminus \textit{Vorfeld} benutzt, wird in Kapitel~\ref{sec:saetze} genauer erklärt.
-Auch ohne die zugehörigen Konzepte genau zu kennen, kann das Kriterium aber trotzdem definiert werden.
+Die Abgrenzung der Adverben (und Adkopulas, um die es in Abschnitt~\ref{sec:kopulapartikelwortklassen} geht) von den Partikeln ist eine delikate Angelegenheit.
+Syntaktisch gesehen sind Adverben und Adkopulas flexibler im Satz positionierbar als Partikeln. 
+Dazu definieren wir zuerst den Begriff \textit{Vorfeldbesetzer} bzw.\ \textit{Vorfeldfähigkeit} in Definition~\ref{def:vorfeldfaehig}.\index{Vorfeld}%
+\footnote{Warum man hier den Terminus \textit{Vorfeld} benutzt, wird in Kapitel~\ref{sec:saetze} genauer erklärt.}
 
 \Definition{Vorfeldbesetzer und Vorfeldfähigkeit}{
 \label{def:vorfeldfaehig}
@@ -675,7 +676,7 @@ Vorfeldbesetzer sind Wörter, die einen unabhängigen Aussagesatz einleiten und 
 \index{Vorfeld!Fähigkeit}
 }
 
-Auf die in den folgenden Sätzen am Satzanfang stehenden Wörter trifft diese Definition offensichtlich jeweils zu oder nicht zu.
+Die in (\ref{ex:wa2829}) am Satzanfang stehenden Wörter sind vorfeldfähig oder nicht, und die Grammatikalität bzw.\ Ungrammatikalität der Sätze ergibt sich jeweils aus dieser Eigenschaft.
 Das \textit{doch} in Satz (\ref{ex:wa2829d}) soll dabei verstanden werden wie das nicht betonbare \textit{doch} in (\ref{ex:wa282999}).
 
 \begin{exe}
@@ -690,12 +691,11 @@ Das \textit{doch} in Satz (\ref{ex:wa2829d}) soll dabei verstanden werden wie da
   \ex\label{ex:wa282999} Das ist aber doch nicht das Ende der Saison.
 \end{exe}
 
-Die Beispiele in (\ref{ex:wa2829}) sind hilfreich für die Klassifizierung der in ihnen vorkommenden satzeinleitenden Wörter.
-\textit{Gestern}, \textit{erfreulicherweise} und \textit{oben} sind gemäß Filter \ref{wfilt:advpart} Adverben, \textit{doch} und \textit{und} jedoch Partikeln.
+\textit{Gestern}, \textit{erfreulicherweise} und \textit{oben} sind gemäß Filter \ref{wfilt:advpart} Adverben oder Adkopulas, \textit{doch} und \textit{und} jedoch Partikeln.
 
-\WFiltTree{Adverb}{wfilt:advpart}{Partikel\slash Adverb}{Ist das Wort ein Vorfeldbesetzer?}{Adverb}{Partikel}
+\WFiltTree[0cm]{Partikel}{wfilt:advpart}{Partikel\slash Adverb}{Ist das Wort ein Vorfeldbesetzer?}{Adverb\slash Adkopula}{Partikel}
 
-\subsection{Adkopulas}
+\subsection{Adverben und Adkopulas}
 
 \label{sec:kopulapartikelwortklassen}
 
@@ -713,8 +713,9 @@ Die Beispielsätze in (\ref{ex:wa2220}) zeigen Adkopulas, die jeweils mit einem 
 \end{exe}
 
 Man kann diese Wörter auch als \textit{nur prädikativ verwendbare Adjektive} bezeichnen.
-Adjektive können dieselbe, aber eben auch andere Positionen im Satz einnehmen wie Adkopulas, vgl.\ (\ref{ex:wa0815}) und (\ref{ex:wa0816}).
-Den Adkopulas fehlt damit jegliche Flektierbarkeit, was der Grund für die hier vertretene Einordnung als eigene Klasse und eben nicht als Adjektiv ist.
+Wir tun dies hier nicht.
+Adjektive können zwar durchaus dieselben Positionen im Satz einnehmen wie Adkopulas, aber eben auch zusätzlich die attributive Positionen in der Nominalphrase, vgl.\ (\ref{ex:wa0815}) und (\ref{ex:wa0816}).
+Den Adkopulas fehlt außerdem jegliche Flektierbarkeit, und wir betrachten sie daher als eigene Klasse und nicht als Adjektiv.
 
 \begin{exe}
   \ex\label{ex:wa0815}
@@ -729,7 +730,7 @@ Den Adkopulas fehlt damit jegliche Flektierbarkeit, was der Grund für die hier 
   \end{xlist}
 \end{exe}
 
-\WFiltTree{Adkopula}{wfilt:advkopulaele}{Partikel}{Tritt das Wort prototypisch mit einem Kopulaverb auf?}{Adkopula}{anderes}
+\WFiltTree{Adverb und Adkopula}{wfilt:advkopulaele}{Adverb\slash Adkopula}{Tritt das Wort prototypisch mit einem Kopulaverb auf?}{Adkopula}{Adverb}
 
 \subsection{Satzäquivalente}
 
@@ -740,7 +741,7 @@ Den Adkopulas fehlt damit jegliche Flektierbarkeit, was der Grund für die hier 
 Mit den Satzäquivalenten sind wir bei einer relativ kleinen Klasse angekommen, die wahrscheinlich eher für gesprochene Sprache -- zumindest aber für dialogische Sprache -- typisch ist.
 Wörter, die traditionell auch als \textit{Interjektionen} bezeichnet werden, gehören in die Gruppe der Satzäquivalente, also \textit{Ja!} oder \textit{Ohje!}
 
-\WFiltTree{Satzäquivalent}{wfilt:satzaeq}{anderes aus Filter \ref{wfilt:advkopulaele}}{Ist die Partikel wie ein Satz unabhängig verwendbar?}{Satzäquivalent}{anderes}
+\WFiltTree{Satzäquivalent}{wfilt:satzaeq}{Partikel}{Ist die Partikel wie ein Satz unabhängig verwendbar?}{Satzäquivalent}{andere Partikel}
 
 \subsection{Konjunktionen}
 
@@ -765,14 +766,14 @@ Bei den verbindenden Wörtern spricht man von \textit{Konjunktionen} (Filter~\re
 In der übrig bleibenden Kategorie der restlichen Partikeln finden sich jetzt Wörter wie \textit{wie}, \textit{als}, \textit{eben} oder \textit{doch}.
 Auch diese verhalten sich unterschiedlich, aber eine Restmenge bleibt realistisch gesehen immer, und für eine grobe Einteilung können wir an dieser Stelle die Klassifikation abschließen.
 
-\WFiltTree{Konjunktion}{wfilt:konjpart}{anderes aus Filter \ref{wfilt:satzaeq}}{Kann die Partikel zwei gleichartige Konstituenten verbinden?}{Konjunktion}{andere Partikel}
+\WFiltTree{Konjunktion}{wfilt:konjpart}{andere Partikel\\aus Filter \ref{wfilt:satzaeq}}{Kann die Partikel zwei gleichartige Konstituenten verbinden?}{Konjunktion}{Rest}
 
 \subsection{Gesamtübersicht}
 
 \label{sec:gesamtuebersichtwortklassen}
 
 In Abbildung~\ref{fig:wa} wird die Klassifikation anhand der Filter zusammengefasst.
-Zu beachten ist, dass diese Klassifikation weder die einzige noch die in einem absoluten Sinn richtige ist.
+Zu beachten ist, dass diese Klassifikation weder die einzige noch die in einem absoluten Sinn \textit{richtige} ist.
 Jede Klassifikation von Wörtern ist, wie eingangs schon erwähnt, ein Kompromiss zwischen Genauigkeit und Brauchbarkeit.
 Im Wesentlichen leistet unsere Klassifikation aber eine Rekonstruktion der traditionellen Wortarten auf Basis einer sauberen definitorischen Basis.
 
@@ -792,7 +793,7 @@ Im Wesentlichen leistet unsere Klassifikation aber eine Rekonstruktion der tradi
     & \K{\textbf{Substantiv}} && \K{andere}\B{d} &&&& \K{\textbf{Komplemen-}}\Below{\textbf{tierer}} && \K{Partikel/Adverb}\B{d} \\
     &&& \K{(F4) Stärkeflexion?}\Bjn &&&&&& \K{(F7) Vorfeldbesetzer?}\Bjnd \\
     && \K{\textbf{Adjektiv}} && \K{\textbf{Artikel\slash}}\Below{\textbf{Pronomen}} &&& \K{Adverb\slash Adkopula}\B{d} &&&& \K{Partikel}\B{d} \\
-    &&&&&&& \K{(F8) immer mit KoV?}\Bjn &&&& \K{(F9) satzersetzend?}\Bjn \\
+    &&&&&&& \K{(F8) protot.\ mit KoV?}\Bjn &&&& \K{(F9) satzersetzend?}\Bjn \\
     &&&&&& \K{\textbf{Adkopula}} && \K{\textbf{Adverb}} && \K{\textbf{Satzäquivalent}} && \K{andere}\B{d} \\
     &&&&&&&&&&&& \K{(F10) Konstituentenverbinder?}\Bjn \\
     &&&&&&&&&&& \K{\textbf{Konjunktion}} && \K{\textbf{Rest}}
