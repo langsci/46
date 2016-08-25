@@ -136,19 +136,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.1}Phonotaktik}{122}{subsection.4.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.2}Silben}{122}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.2}Silben}{123}{subsection.4.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.3}Silbenstruktur}{125}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.3}Silbenstruktur}{126}{subsection.4.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.4}Der Anfangsrand im Einsilbler}{127}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.4}Der Anfangsrand im Einsilbler}{128}{subsection.4.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.5}Der Endrand im Einsilbler}{130}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.5}Der Endrand im Einsilbler}{131}{subsection.4.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.6}Sonorität}{132}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.6}Sonorität}{133}{subsection.4.2.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.7}Die Systematik der Ränder}{136}{subsection.4.2.7}
+\contentsline {subsection}{\numberline {4.2.7}Die Systematik der Ränder}{137}{subsection.4.2.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.8}Einsilbler und Zweisilbler}{143}{subsection.4.2.8}
+\contentsline {subsection}{\numberline {4.2.8}Einsilbler und Zweisilbler}{144}{subsection.4.2.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.9}Maximale Anfangsränder}{150}{subsection.4.2.9}
 \defcounter {refsection}{0}\relax 
@@ -520,8 +520,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Lösungen zu den Übungen}{564}{section*.41}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{613}{section*.2}
+\contentsline {chapter}{Bibliographie}{613}{section*.117}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{613}{chapter*.3}
+\contentsline {chapter}{\nonumberline Literatur}{613}{chapter*.118}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{620}{section*.4}
+\contentsline {chapter}{Index}{620}{section*.119}
