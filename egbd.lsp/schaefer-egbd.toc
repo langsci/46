@@ -520,8 +520,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Lösungen zu den Übungen}{564}{section*.41}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{613}{section*.1}
+\contentsline {chapter}{Bibliographie}{613}{section*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{613}{chapter*.2}
+\contentsline {chapter}{\nonumberline Literatur}{613}{chapter*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{620}{section*.3}
+\contentsline {chapter}{Index}{620}{section*.8}

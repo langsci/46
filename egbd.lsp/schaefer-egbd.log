@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  25 AUG 2016 19:03
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  25 AUG 2016 19:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2620,10 +2620,15 @@ Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 64.
 [11] [12]
-\openout2 = `chapters/grammatik.aux'.
+\openout2 = `chapters/grundbegriffe.aux'.
 
- (./chapters/grammatik.tex
-chapter 1.
+ (./chapters/grundbegriffe.tex [38
+
+
+
+
+]
+chapter 2.
 
 Class scrbook Warning: \float@addtolists detected!
 (scrbook)              Implementation of \float@addtolist became
@@ -2638,6 +2643,34 @@ Class scrbook Warning: \float@addtolists detected!
 (scrbook)              avoid this warning, if you are using a
 (scrbook)              a package that still implements the
 (scrbook)              deprecated \float@addtolist interface .
+
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+<use  "langsci/graphics/law.pdf" >
+LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/bx/n' will be
+(Font)              scaled to size 9.78955pt on input line 17.
+
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 17--18
+[][][][][][]
+ []
+
+[39]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 64--65
+[][][][][][]
+ []
+
+[40]
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 94--95
+[][]
+ []
+
+[41]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 116--117
+[][][][][][]
+ []
 
 .................................................
 . fontspec info: "defining-font"
@@ -2679,118 +2712,121 @@ tex-text;mapping=tex-text;+liga;+pnum;+lnum;+smcp;"
 . and font adjustment code:
 . \fontdimen 7\font =0\fontdimen 7\font 
 .................................................
-[13
+[42] <xymatrix 3x2
 
+Package xypdf Warning: The produced DVI file is NOT PORTABLE. Convert it with
+dvipdfm(x) to the PDF format but do not expect the DVI file itself to be
+displayed correctly.
 
-
-]
+168> <xymatrix 8x3 748> [43] <xymatrix 11x4 944>
 File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/bx/n' will be
-(Font)              scaled to size 9.78955pt on input line 54.
 
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 54--55
+<use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 188--189
 [][][][][][]
  []
 
-[14] [15]
+
+Overfull \hbox (0.60974pt too wide) in paragraph at lines 190--196
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Kategorisierungen anhand von Merkmalsa
+usstattungen werden konkret gleich
+ []
+
+[44] [45]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 107--108
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 251--252
 [][][][][][]
  []
 
-[16]
+[46]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 127--128
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 301--302
 [][][][][][]
  []
 
-[17]
+[47] [48] [49]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 167--168
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 382--383
 [][][][][][]
  []
 
-[18] [19] [20] [21] [22] [23]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 362--363
-[][][][][][]
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 408--410
+
  []
 
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 376--377
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 422--423
 [][][][][][]
  []
 
-[24]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 393--394
+<xymatrix 8x3 818> <xymatrix 4x3 320>
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 457--458
+[][][][][][]
+ []
+
+[51] [52]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 487--488
+[][][][][][]
+ []
+
+[53]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 519--520
+[][][][][][]
+ []
+
+[54]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 582--583
+[][][][][][]
+ []
+
+[55]
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 603--604
 [][]
  []
 
-[25]
+[56] [57] [58]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 408--409
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 704--705
 [][][][][][]
  []
 
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 425--426
-[][][][][][]
- []
-
-[26] [27]
+[59] [60] [61]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 461--462
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 823--824
 [][][][][][]
  []
 
+[62] [63] [64]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 466--467
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 908--909
 [][][][][][]
  []
 
-File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 470--471
-[][][][][][]
- []
-
-[28] [29] [30] [31]
-LaTeX Font Info:    Try loading font information for OT1+LinLibertine_R_B.otf(0
-) on input line 553.
-LaTeX Font Info:    No file OT1LinLibertine_R_B.otf(0).fd. on input line 553.
-
-
-LaTeX Font Warning: Font shape `OT1/LinLibertine_R_B.otf(0)/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead
-(Font)              for symbol `glqq' on input line 553.
-
-Package microtype Info: Loading generic settings for font family
-(microtype)             `LinLibertine_R_B.otf' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-[32] [33] [34] [35]
-Overfull \hbox (1.5351pt too wide) in paragraph at lines 654--659
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 chen, ggf. auch aus verschiedenen Epoche
-n und Regionen.[] Man könnte z.B. Kor-
- []
-
-[36])
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 692--66
+[65]
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 951--952
 [][]
  []
 
-[37] [68
+[66]) [67
 
+
+] [68
 
 
 
@@ -2902,20 +2938,17 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 113.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
 Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 \openout1 = `schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 55077 strings out of 494776
- 988718 string characters out of 6165553
- 1558581 words of memory out of 5000000
- 57413 multiletter control sequences out of 15000+600000
- 19568 words of font info for 132 fonts, out of 8000000 for 9000
+ 55133 strings out of 494776
+ 989051 string characters out of 6165553
+ 1555275 words of memory out of 5000000
+ 57469 multiletter control sequences out of 15000+600000
+ 19633 words of font info for 133 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
- 70i,13n,107p,10449b,5509s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,15n,107p,10449b,5509s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on schaefer-egbd.pdf (73 pages).
+Output written on schaefer-egbd.pdf (78 pages).
