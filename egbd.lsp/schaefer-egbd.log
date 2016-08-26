@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  26 AUG 2016 18:28
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  26 AUG 2016 19:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2629,28 +2629,11 @@ part II.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 70.
-[69] [70] [168
+[69] [70]
+\openout2 = `chapters/phonologie.aux'.
 
-
-
-
-]
-part III.
-Package scrkbase Info: You've told me to use the font selection of the element
-(scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 75.
-[169] [170]
-\openout2 = `chapters/nomina.aux'.
-
- (./chapters/nomina.tex [260
-
-
-
-
-
-
-]
-chapter 8.
+ (./chapters/phonologie.tex
+chapter 4.
 
 Class scrbook Warning: \float@addtolists detected!
 (scrbook)              Implementation of \float@addtolist became
@@ -2666,6 +2649,48 @@ Class scrbook Warning: \float@addtolists detected!
 (scrbook)              a package that still implements the
 (scrbook)              deprecated \float@addtolist interface .
 
+
+Overfull \hbox (1.55147pt too wide) in paragraph at lines 5--13
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Die im letzten Kapitel besprochene artik
+ulatorische Phonetik lieferte die Beschrei-
+ []
+
+[107
+
+
+
+
+]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/bx/n' will be
+(Font)              scaled to size 9.78955pt on input line 35.
+
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 35--36
+[][][][][][]
+ []
+
+[108]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 70--71
+[][][][][][]
+ []
+
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+<use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 81--82
+[][][][][][]
+ []
+
+[109]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 111--112
+[][][][][][]
+ []
+
+[110] [111]
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2707,260 +2732,344 @@ tex-text;mapping=tex-text;+liga;+pnum;+lnum;+smcp;"
 . \fontdimen 7\font =0\fontdimen 7\font 
 .................................................
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
-LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/bx/n' will be
-(Font)              scaled to size 9.78955pt on input line 29.
-
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 29--30
-[][][][][][]
- []
-
-[261] [262] [263] [264] [265]
-Overfull \hbox (7.72455pt too wide) in paragraph at lines 219--221
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Wenn ursprünglich ein Nominativ (Subjekt
-) im Plural vorliegt, müssen ggf. kongru-
- []
-
-[266] [267] [268]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 366--367
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 152--153
 [][][][][][]
  []
 
-[269]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 394--395
+
+Overfull \hbox (2.11717pt too wide) in paragraph at lines 154--165
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 deliegende Formen und Strukturbedingunge
+n die Einfügung des Glottalverschlus-
+ []
+
+[112] [113]
+File: langsci/graphics/bulb.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/bulb.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 209--210
 [][][][][][]
  []
 
-[270] [271] [272]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 488--489
+[114] [115] [116]
+Overfull \hbox (0.12065pt too wide) in paragraph at lines 335--340
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Diese bemerkenswerten Zusammenhänge we
+rden jetzt auf den Punkt gebracht
+ []
+
+File: langsci/graphics/bulb.pdf Graphic file (type QTm)
+<use  "langsci/graphics/bulb.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 344--345
+[][][][][][]
+ []
+
+[117]
+File: langsci/graphics/bulb.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/bulb.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 376--377
+[][][][][][]
+ []
+
+[118]
+File: langsci/graphics/bulb.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/bulb.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 382--383
+[][][][][][]
+ []
+
+[119]
+File: langsci/graphics/bulb.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/bulb.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 427--428
+[][][][][][]
+ []
+
+[120]
+File: langsci/graphics/bulb.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/bulb.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 465--466
+[][][][][][]
+ []
+
+
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 482--483
 [][]
  []
 
-<xymatrix 10x3
+[121]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 512--513
+[][][][][][]
+ []
+
+[122] [123] [124]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 593--594
+[][][][][][]
+ []
+
+[125]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 624--625
+[][][][][][]
+ []
+
+[126] <xymatrix 5x4
 
 Package xypdf Warning: The produced DVI file is NOT PORTABLE. Convert it with
 dvipdfm(x) to the PDF format but do not expect the DVI file itself to be
 displayed correctly.
 
-1064> [273] [274] <xymatrix 5x4 580> [275] [276] [277]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 689--690
+690> <xymatrix 5x4 674> [127] [128] [129]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 775--776
 [][][][][][]
  []
 
-[278]
+[130] [131] [132] [133]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 948--949
+[][][][][][]
+ []
+
+[134]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1006--1007
+[][][][][][]
+ []
+
+[135]
+Overfull \hbox (1.07513pt too wide) in paragraph at lines 1008--1010
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 dern angelehnten extrasilbischen Obstrue
+nten gilt. Im Vorgriff auf Abschnitt []4.2.7[]
+ []
+
+<xymatrix 9x4 978>
+Overfull \hbox (2.96036pt too wide) in paragraph at lines 1048--1052
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Was die Sonorität aus phonetisch-artik
+ulatorischer (oder perzeptorischer) Sicht
+ []
+
+[136] <xymatrix 4x9 810> [137] [138]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 746--747
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1114--1115
 [][][][][][]
  []
 
-[279] [280] [281]
-Overfull \hbox (0.566pt too wide) in paragraph at lines 830--831
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Afghane, Alemanne, Bulgare, Chilene, D
-äne, Finne, Franzose, Grieche, Hes-
+<xymatrix 5x9 1151> <xymatrix 4x8 867> [139] [140]
+Overfull \hbox (13.27618pt too wide) in paragraph at lines 1190--1193
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Endränder mit extrasilbischem [t] aufgef
+asst werden, weswegen es in Abbildung []4.11[]
  []
 
 
-Overfull \hbox (2.84909pt too wide) in paragraph at lines 830--831
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 se, Ire, Jude, Katalane, Kurde, Lette, N
-omade, Pole, Rumäne, Schwede, Tsche-
+Overfull \hbox (9.2831pt too wide) in paragraph at lines 1190--1193
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 etwa um einen phonologischen Taschenspie
+lertrick handelt, wird in Abschnitt []4.2.8[]
  []
 
-[282] [283] <xymatrix 5x3 516>
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 925--926
-[][]
- []
-
-[284]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 962--963
+[141] [142]
+File: langsci/graphics/bulb.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/bulb.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1264--1265
 [][][][][][]
  []
 
-[285]
+[143]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1014--1015
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1282--1283
 [][][][][][]
  []
 
-[286]
+[144]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1019--1020
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1318--1319
+[][][][][][]
+ []
+
+[145]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1340--1341
 [][][][][][]
  []
 
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1021--1022
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1352--1353
 [][][][][][]
  []
 
-[287] [288] [289]
+<xymatrix 5x5 1014> [146]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Underfull \hbox (badness 1163) in paragraph at lines 1117--1117
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Reine Pronomina sind Pronomina, für di
-e ein gleichlautender
- []
-
-
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1117--1118
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1381--1382
 [][][][][][]
  []
 
-<xymatrix 5x4 524> [290] [291] [292] [293] [294]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1294--1295
+[147] [148]
+Underfull \hbox (badness 1325) in paragraph at lines 1440--1440
+[][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Zu bei manchen Sprechern stimmhaften \EU
+1/LinLibertine_R_B.otf(1)/m/it/9 s\EU1/LinLibertine_R_B.otf(1)/m/n/9 -Silbengel
+enken wie in \EU1/LinLibertine_R_B.otf(1)/m/it/9 quasseln \EU1/LinLibertine_R_B
+.otf(1)/m/n/9 folgt in Ab-
+ []
+
+[149]
+File: langsci/graphics/bulb.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/bulb.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1472--1473
+[][][][][][]
+ []
+
+
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1480--1481
 [][]
  []
 
-[295] [296] [297]
+[150] [151]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1526--1527
+[][][][][][]
+ []
+
+[152]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1485--1486
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1593--1594
 [][][][][][]
  []
 
-[298]
+[153]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1494--1495
-[][][][][][]
- []
-
-[299]
-Overfull \hbox (4.34735pt too wide) in paragraph at lines 1517--1519
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Kommen wir abschließend zur Bewertung 
-der eigentlichen adjektivalen (schwa-
- []
-
-[300] <xymatrix 3x3 334> [301] [302] [303]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1721--1722
-[][]
- []
-
-[304]
-Underfull \hbox (badness 2126) in paragraph at lines 1730--1730
-[][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Die Beispiele sind dem DeReKo (W-Öffentl
-ich/W) entnommen. Siglen: A10/JAN.00664,
- []
-
-LaTeX Font Info:    Try loading font information for OT1+LinLibertine_R_B.otf(0
-) on input line 1745.
-LaTeX Font Info:    No file OT1LinLibertine_R_B.otf(0).fd. on input line 1745.
-
-LaTeX Font Warning: Font shape `OT1/LinLibertine_R_B.otf(0)/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead
-(Font)              for symbol `glqq' on input line 1745.
-
-Package microtype Info: Loading generic settings for font family
-(microtype)             `LinLibertine_R_B.otf' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-[305
-
-]) [306]
-\openout2 = `chapters/verben.aux'.
-
- (./chapters/verben.tex
-chapter 9.
-[307
-
-
-
-
-] [308]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 107--108
-[][][][][][]
- []
-
-[309] [310] [311] [312]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 276--277
-[][][][][][]
- []
-
-[313] [314] [315] [316]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 426--427
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1605--1606
 [][][][][][]
  []
 
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
 <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 432--433
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1618--1619
 [][][][][][]
  []
 
-[317] [318] [319] [320]
-Overfull \hbox (0.16264pt too wide) in paragraph at lines 546--547
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Der eine Späher wird mitten unter die 
-(feindlichen) Feinde geschickt. (Ovid,
+[154] [155]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1652--1653
+[][][][][][]
  []
 
-[321]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 583--584
-[][]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+<use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1685--1686
+[][][][][][]
  []
 
-[322] [323]
-Overfull \hbox (5.55771pt too wide) in paragraph at lines 648--657
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Merkmale zusammenfasst. Einige Verben fa
-llen dabei in mehrere Klassen (z.B. \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 sei
-n
- []
-
-[324]
-Overfull \hbox (4.76709pt too wide) in paragraph at lines 703--709
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 stufe in der zweiten und dritten Person 
-Singular Präsens Indikativ (\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 breche\EU1/
-LinLibertine_R_B.otf(0)/m/n/10.95 –\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 bric
-hst\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 –
- []
-
+[156] [157] <xymatrix 8x6 2006>
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
-<use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 719--720
+ <use  "langsci/graphics/bulb.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1722--1723
 [][][][][][]
  []
 
-[325] [326] [327] [328] [329] [330] [331]
-Overfull \hbox (2.1729pt too wide) in paragraph at lines 1052--1055
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Der Infinitiv ist durch \EU1/LinLibert
-ine_R_B.otf(0)/m/it/10.95 -en \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 am Präsens
-stamm gekennzeichnet, das Partizip durch
+[158]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1759--1760
+[][][][][][]
  []
 
-[332] [333] [334] [335] [336] [337] [338]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1319--1320
+[159] <xymatrix 12x7 2640>
+Overfull \hbox (4.34055pt too wide) in paragraph at lines 1776--1779
+ [][] 
+ []
+
+
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1786--1787
 [][]
  []
 
-[339]
-Underfull \hbox (badness 3942) in paragraph at lines 1344--1344
-\EU1/LinLibertine_R_B.otf(1)/m/n/9 JUL.00395, RHZ09/MAR.15300, BVZ09/MAI.01348,
- RHZ09/JUN.22699, BRZ09/MAR.11529,
+[160]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1804--1805
+[][][][][][]
  []
 
-[340
+[161]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1814--1815
+[][][][][][]
+ []
 
-] [341] [342] [343
+[162] [163] [164
+
+] [165] [166]
+
+LaTeX Warning: Citation 'Laver94' on page 167 undefined on input line 1922.
 
 
-]) [344]
+LaTeX Warning: Citation 'RRKWS09' on page 167 undefined on input line 1923.
+
+
+LaTeX Warning: Citation 'Wiese10' on page 167 undefined on input line 1923.
+
+
+LaTeX Warning: Citation 'Krech-ea2009' on page 167 undefined on input line 1924
+.
+
+
+LaTeX Warning: Citation 'Krech-ea2009' on page 167 undefined on input line 1925
+.
+
+
+LaTeX Warning: Citation 'Mangold06' on page 167 undefined on input line 1925.
+
+
+Overfull \hbox (1.97162pt too wide) in paragraph at lines 1922--1926
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ist [] Einführende Darstellungen der deu
+tschen Phonetik finden sich z.B. in
+ []
+
+
+LaTeX Warning: Citation 'Hall00' on page 167 undefined on input line 1931.
+
+
+LaTeX Warning: Citation 'Wiese10' on page 167 undefined on input line 1931.
+
+
+LaTeX Warning: Citation 'Ternes2012' on page 167 undefined on input line 1933.
+
+
+LaTeX Warning: Citation 'Wiese00' on page 167 undefined on input line 1934.
+
+
+LaTeX Warning: Citation 'Maas2002' on page 167 undefined on input line 1935.
+
+) [167
+
+
+] [168
+
+
+
+]
+part III.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 75.
+[169] [170]
 part IV.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
@@ -2969,7 +3078,167 @@ Package scrkbase Info: You've told me to use the font selection of the element
 
 
 
-] [346] [508
+
+
+
+
+] [346]
+\openout2 = `chapters/konstituentenstruktur.aux'.
+
+ (./chapters/konstituentenstruktur.tex
+chapter 10.
+<xymatrix 5x4 674> [347
+
+
+
+] <xymatrix 5x5 760> <xymatrix 9x3 619> [348]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+
+<use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 90--91
+[][][][][][]
+ []
+
+[349] <xymatrix 7x2 522> [350] <xymatrix 7x2 522>
+Underfull \hbox (badness 1803) in paragraph at lines 153--153
+[][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Archiv W-TAGGED öffentlich am 11.01.2011
+. Das Archiv enthielt zu diesem Zeitpunkt
+ []
+
+[351] [352] <xymatrix 3x2 234> <xymatrix 7x3 474> [353]
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 256--257
+[][]
+ []
+
+[354] [355]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 291--292
+[][][][][][]
+ []
+
+[356]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 322--323
+[][][][][][]
+ []
+
+[357]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 375--376
+[][][][][][]
+ []
+
+[358] [359]
+Overfull \hbox (3.51881pt too wide) in paragraph at lines 413--417
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Viele Syntaktiker wollen Wortfolgen wi
+e [\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 meine Kollegin einen Salat\EU1/LinLi
+bertine_R_B.otf(0)/m/n/10.95 ] und [\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 mei
+n
+ []
+
+[360] <xymatrix 5x2 312> <xymatrix 5x3 390> [361]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+
+<use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 500--501
+[][][][][][]
+ []
+
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+<use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 512--513
+[][][][][][]
+ []
+
+
+LaTeX Warning: Reference `satz:atomarekonstituente' on page 362 undefined on in
+put line 514.
+
+[362]
+Overfull \hbox (0.7941pt too wide) in paragraph at lines 532--536
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Dieser Satz hat zwei mögliche Lesarten
+. Einerseits kann das Teleskop das Werk-
+ []
+
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+<use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 554--555
+[][][][][][]
+ []
+
+[363]
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 564--565
+[][]
+ []
+
+[364] <xymatrix 3x2 168> <xymatrix 4x3 382> <xymatrix 3x2 168> <xymatrix 7x3
+532> [365] [366] <xymatrix 4x3 592> <xymatrix 4x1 92> <xymatrix 4x1 92>
+<xymatrix 4x1 92> [367] [368]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 761--762
+[][][][][][]
+ []
+
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+<use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 775--776
+[][][][][][]
+ []
+
+[369] <xymatrix 3x2 208> [370]
+File: langsci/graphics/bulb.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/bulb.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 838--839
+[][][][][][]
+ []
+
+
+Overfull \hbox (0.87622pt too wide) in paragraph at lines 840--842
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Bei der konkreten Formulierung der Phr
+asenschemata in den Kapiteln []11[] und []12[]
+ []
+
+[371]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 857--858
+[][][][][][]
+ []
+
+
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 869--870
+[][]
+ []
+
+[372] [373]
+Underfull \hbox (badness 6876) in paragraph at lines 878--878
+[][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: A09/DEZ.023
+19, BRZ09/SEP.15424, HMP08/FEB.00096,
+ []
+
+
+Underfull \hbox (badness 6725) in paragraph at lines 895--895
+[][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: BRZ06/MAI.0
+5936, A09/DEZ.02319, RHZ04/JUL.20475,
+ []
+
+
+Underfull \hbox (badness 4713) in paragraph at lines 895--895
+\EU1/LinLibertine_R_B.otf(1)/m/n/9 HMP08/FEB.00096, NON07/OKT.07665, A97/DEZ.42
+679, K97/MAI.35888, K97/MAI.35888,
+ []
+
+[374
+
+]
+
+LaTeX Warning: Citation 'Dekuthy2002' on page 375 undefined on input line 915.
+
+) [375] [508
 
 
 
@@ -3031,19 +3300,24 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
 
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                schaefer-egbd
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 \openout1 = `schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 55065 strings out of 494776
- 986436 string characters out of 6165553
- 1538416 words of memory out of 5000000
- 57391 multiletter control sequences out of 15000+600000
- 19722 words of font info for 137 fonts, out of 8000000 for 9000
+ 55050 strings out of 494776
+ 984919 string characters out of 6165553
+ 1563823 words of memory out of 5000000
+ 57379 multiletter control sequences out of 15000+600000
+ 19714 words of font info for 136 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
- 70i,16n,107p,10449b,5508s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,23n,107p,10449b,5508s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on schaefer-egbd.pdf (129 pages).
+Output written on schaefer-egbd.pdf (134 pages).

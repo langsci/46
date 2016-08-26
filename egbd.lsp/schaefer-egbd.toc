@@ -336,25 +336,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{\numberline {IV}Satz und Satzglied}{345}{part.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {10}Konstituentenstruktur}{349}{chapter.10}
+\contentsline {chapter}{\numberline {10}Konstituentenstruktur}{347}{chapter.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.1}Syntaktische Struktur}{349}{section.10.1}
+\contentsline {section}{\numberline {10.1}Syntaktische Struktur}{347}{section.10.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.2}Konstituenten}{357}{section.10.2}
+\contentsline {section}{\numberline {10.2}Konstituenten}{355}{section.10.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.2.1}Konstituententests}{358}{subsection.10.2.1}
+\contentsline {subsection}{\numberline {10.2.1}Konstituententests}{356}{subsection.10.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.2.2}Konstituenten und Satzglieder}{362}{subsection.10.2.2}
+\contentsline {subsection}{\numberline {10.2.2}Konstituenten und Satzglieder}{360}{subsection.10.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.2.3}Strukturelle Ambiguität}{365}{subsection.10.2.3}
+\contentsline {subsection}{\numberline {10.2.3}Strukturelle Ambiguität}{363}{subsection.10.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10.3}Analysen von Konstituentenstrukturen}{366}{section.10.3}
+\contentsline {section}{\numberline {10.3}Analysen von Konstituentenstrukturen}{364}{section.10.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.3.1}Terminologie für Baumdiagramme}{366}{subsection.10.3.1}
+\contentsline {subsection}{\numberline {10.3.1}Terminologie für Baumdiagramme}{364}{subsection.10.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.3.2}Phrasenschemata}{368}{subsection.10.3.2}
+\contentsline {subsection}{\numberline {10.3.2}Phrasenschemata}{366}{subsection.10.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {10.3.3}Phrasen, Köpfe und Merkmale}{369}{subsection.10.3.3}
+\contentsline {subsection}{\numberline {10.3.3}Phrasen, Köpfe und Merkmale}{367}{subsection.10.3.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {11}Phrasen}{379}{chapter.11}
 \defcounter {refsection}{0}\relax 
@@ -520,8 +520,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Lösungen zu den Übungen}{566}{section*.41}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{615}{section*.8}
+\contentsline {chapter}{Bibliographie}{615}{section*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{615}{chapter*.9}
+\contentsline {chapter}{\nonumberline Literatur}{615}{chapter*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{618}{section*.10}
+\contentsline {chapter}{Index}{618}{section*.8}

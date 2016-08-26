@@ -83,9 +83,8 @@ Die syntaktische Komponente der Grammatik muss also spezifizieren, wie Sätze au
 Konkret muss eine Syntaxtheorie für das Deutsche also unter anderem feststellen, dass (\ref{ex:syn1205a}) grammatisch ist, aber (\ref{ex:syn1205c}) und (\ref{ex:syn1205b}) ungrammatisch sind.
 
 
-\Definition{Syntax}{
-\label{def:syntax}
-Eine Syntax formuliert die Generalisierungen, die genau die Sätze einer natürlichen Sprache (nicht mehr oder weniger oder andere Sätze) beschreiben.
+\Definition{Syntax}{\label{def:syntax}%
+Die \textit{Syntax} formuliert die Generalisierungen, die genau die Sätze einer natürlichen Sprache (nicht mehr oder weniger oder andere Sätze) beschreiben.
 Sie trennt zwischen grammatischen und ungrammatischen Sätzen, indem sie grammatischen Sätzen eine Struktur zuweist, ungrammatischen Sätzen aber nicht.
 \index{Syntax}
 }
@@ -119,7 +118,7 @@ Dadurch stellt sich die Frage, ob die gesamte Wortkette einen Satz ergibt, noch 
 \end{figure}
 
 Man braucht nun für die Grammatik schematische Beschreibungen von allen Ketten von Wörtern, die zusammen in einer bestimmten Reihenfolge Sätze ergeben.
-Es hat angesichts des in Definition~\ref{def:syntax} formulierten Vorhabens aber wenig Sinn, Sätze in der Grammatik einfach im Ganzen als Ketten von Wortformen zu beschreiben.
+Es hat angesichts des in Definition~\ref{def:syntax} formulierten Vorhabens aber wenig Sinn, Sätze in der Syntax einfach im Ganzen als Ketten von Wortformen zu beschreiben.
 Täte man dies, so müsste eine Grammatik des Deutschen einen Bauplan enthalten, der das konkrete Beispiel (\ref{ex:syn1205a}) beschreibt.
 So ein naiver Bauplan für (\ref{ex:syn1205a}) könnte aussehen wie Abbildung~\ref{fig:satzschema1}.
 Dieser Bauplan besagt, dass eine ganz bestimmte Abfolge von Wortformen (nämlich \textit{ein}, \textit{Snookerball} usw.) ein möglicher Satz ist.
@@ -252,8 +251,8 @@ Wir bleiben hier bescheiden und stellen fest, dass eingeschränkt rekursive Stru
 Die Syntax (als wissenschaftliche Disziplin) versucht, mit so wenig wie möglich Generalisierungen alle Sätze einer Sprache zu beschreiben.
 Wenn eine Syntax eine gegebene Folge von Wörtern auf Basis ihrer Generalisierungen als Satz beschreiben kann, gilt der Satz relativ zu dieser Syntax als grammatisch.
 Idealerweise klassifiziert die Syntax diejenigen Sätze als grammatisch, die auch von Sprechern als akzeptabel klassifiziert werden.
-Sätze in der Grammatik als Folgen von Wörtern zu beschreiben ist nicht zielführend, weil es viel zu viele verschiedene Arten von Wortfolgen gibt, die grammatisch sind.
-Man beschreibt zunächst die Struktur kleinerer Konstituenten (NPs, PPs usw.), aus denen dann größere Konstituenten und schließlich Sätze aufgebaut werden.
+Sätze in der Syntax als Folgen von Wörtern zu beschreiben, ist nicht zielführend, weil es viel zu viele verschiedene Arten von Wortfolgen gibt, die grammatische Sätze sind.
+Man beschreibt zunächst die Struktur kleinerer Konstituenten, aus denen dann größere Konstituenten und schließlich Sätze aufgebaut werden.
 }
 
 
@@ -493,11 +492,10 @@ Vereinfacht sähen die Strukturen also so aus wie in den Abbildungen~\ref{fig:un
 Die Auffassung, Satzglieder seien die unmittelbaren Konstituenten des Satzes, bringt einige Probleme mit sich.
 Später (Kapitel~\ref{sec:phrasen} und \ref{sec:saetze}) werden wir aus gutem Grund Strukturen annehmen, die anders aussehen, und in denen Satzglieder nicht automatisch unmittelbare Konstituenten des Satzes sind.
 Auf jeden Fall ist aber die Erkenntnis korrekt, dass Nicht-Satzglieder normalerweise strukturell zu tief eingebettet sind, um \zB vorangestellt (oder erfragt) werden zu können.
-Wir definieren die Satzglieder also nicht als unmittelbare Konstituenten des Satzes, sondern sind etwas vorsichtiger.
+Wir definieren die Satzglieder also nicht als unmittelbare Konstituenten des Satzes, sondern sind etwas vorsichtiger, s.\ Definition~\ref{def:satzglied}.
 
-\Definition{Satzglied}{
-\label{def:satzglied}
-Ein Satzglied ist eine Konstituente im Satz, die vorfeldfähig ist.
+\Definition{Satzglied}{\label{def:satzglied}%
+Ein \textit{Satzglied} ist eine Konstituente im Satz, die vorfeldfähig ist.
 \index{Satzglied}
 }
 
@@ -506,10 +504,10 @@ Auf S.~\pageref{abs:satzgliedfail} gibt es dafür das Beispiel (\ref{ex:prd91011
 Vgl.\ auch Übung~\ref{u103}.
 Der Begriff wurde hier vor allem wegen seiner Relevanz in der Didaktik aufgenommen.
 Eine weitere besondere Art von Konstituenten brauchen wir übrigens nicht erst zu testen, weil sie als trivial gegeben angesehen werden kann: die Wortform (vgl.\ schon Abschnitt~\ref{sec:definitionsproblemewort}).
+Die Wortform als minimale syntaktische Einheit wird in Definition~\ref{def:atomarekonstituente} eingeführt.
 
-\Definition{Atomare syntaktische Konstituenten}{
-\label{satz:atomarekonstituente}
-Die atomaren syntaktischen Konstituenten (die kleinsten nicht weiter analysierbaren Einheiten in der Syntax) sind die syntaktischen Wörter.
+\Definition{Atomare syntaktische Konstituenten}{\label{def:atomarekonstituente}%
+Die \textit{atomaren syntaktischen Konstituenten} (die kleinsten nicht weiter analysierbaren Einheiten in der Syntax) sind die syntaktischen Wörter.
 \index{Konstituente!atomar}
 }
 
@@ -547,10 +545,10 @@ Dieser Bedeutungsunterschied kann nun auf einen syntaktischen zurückgeführt we
 Im ersten Fall bildet \textit{den Außerirdischen mit dem Teleskop} keine Konstituente, sondern [\textit{den Außerirdischen}] und [\textit{mit dem Teleskop}] sind separate Satzglieder.
 Im zweiten Fall ist [\textit{den Außerirdischen mit dem Teleskop}] als Ganzes ein Satzglied, das [\textit{mit dem Teleskop}] als Teilkonstituente enthält.
 Solche strukturellen Ambiguitäten kommen häufig vor, und alle möglichen Analysen sind aus Sicht der Grammatik jeweils gleichberechtigt, wenn vielleicht auch eine aus rein inhaltlichen Gründen als die naheliegende erscheint und oft die alternativen Analysen deswegen übersehen werden.
+Es wird Definition~\ref{def:strambi} gegeben.
 
-\Definition{Strukturelle Ambiguität}{
-\label{def:strambi}
-Strukturelle Ambiguität liegt dann vor, wenn ein Satz mehrere mögliche Konstituentenanalysen hat.
+\Definition{Strukturelle Ambiguität}{\label{def:strambi}%
+\textit{Strukturelle Ambiguität} liegt dann vor, wenn ein Satz mehrere mögliche Konstituentenanalysen hat.
 Oft hat dies (wegen des Kompositionalitätsprinzips) auch eine Doppeldeutigkeit in der Bedeutung zur Folge.
 \index{Ambiguität}
 }
@@ -685,12 +683,12 @@ Damit kann der Baum in Abbildung~\ref{fig:vnflach} als Analyse für \textit{ein 
     \K{Artikel}\B{d} & \K{A}\B{d} & \K{A}\B{d} & \K{\textbf{N}}\B{d} \\
     \K{\textit{ein}} & \K{\textit{leckerer}} & \K{\textit{geräucherter}} & \K{\textit{Tofu}} \\
   }
-  \caption{Nominalphrase (NP)}
+  \caption{Nominalphrase (NP), vorläufige Analyse}
   \label{fig:vnflach}
 \end{figure}
 
-Schließlich werden in Strukturschemata Rektionsbeziehungen durch Pfeile angezeigt, und zwar durch einen durchgehenden Pfeil wie in (\ref{ex:konst1999a}) für obligatorische Rektion von Y durch X und eine gestrichelten Pfeil wie in (\ref{ex:konst1999b}) für mögliche Rektion von Y durch X.
-Im vorläufigen Phrasenschema für die Präpositionalphrase in Abbildung~\ref{fig:strschembsprek} zeigt der Pfeil \zB an, dass der P-Kopf die NP obligatorisch regiert.
+Schließlich werden in Strukturschemata Rektionsbeziehungen durch Pfeile angezeigt, und zwar durch einen durchgehenden Pfeil wie in (\ref{ex:konst1999a}) für obligatorische Rektion von Y durch X und eine gestrichelten Pfeil wie in (\ref{ex:konst1999b}) für optionale Rektion von Y durch X.
+Im vorläufigen Phrasenschema für die Präpositionalphrase in Abbildung~\ref{fig:strschembsprek} zeigt der Pfeil also \zB an, dass der P-Kopf die NP obligatorisch regiert.
 Das vollständige Schema wird in Abschnitt~\ref{sec:prpgr} eingeführt.
 
 \begin{exe}
@@ -753,12 +751,11 @@ Das Adjektiv \textit{supermassive} füllt mit Sicherheit keine Valenzstelle von 
 In einem Satz, in dem kein passendes Substantiv vorkommt, wie in (\ref{ex:depillu2b}), kann es nicht stehen, was zur Ungrammatikalität von (\ref{ex:depillu2c}) führt.
 Ob es sich um Ergänzungen oder Angaben handelt, ist also aus diesem Blickwinkel egal:
 Fast alle syntaktischen Einheiten in einem Satz hängen von einer anderen Einheit im selben Satz ab, können also nur auftreten, wenn diese andere Einheit auch auftritt.
-Diese Relation nennt man auch \textit{Dependenz}.
+Diese Relation nennt man auch \textit{Dependenz}, s.\ Definition~\ref{def:dependenz}.
 
 
-\Definition{Dependenz}{
-\label{def:dependenz}
-Eine Konstituente A ist von einer Konstituente B im selben Satz abhängig (dependent), wenn die Anwesenheit von B eine Bedingung für die Anwesenheit und\slash oder die Form von A ist.
+\Definition{Dependenz}{\label{def:dependenz}%
+Eine Konstituente A ist von einer Konstituente B im selben Satz \textit{abhängig} (\textit{dependent}), wenn die Anwesenheit von B eine Bedingung für die Anwesenheit und\slash oder die Form von A ist.
 Dependenz ist nie zirkulär, keine Konstituente ist also von sich selber direkt oder indirekt abhängig.
 \index{Dependenz}
 }
@@ -767,12 +764,11 @@ Als Faustregel kann gelten, dass Ergänzungen zu dem Wort dependent sind, dessen
 Außerdem sind alle Angaben zu den Wörtern dependent, welche sie modifizieren, so wie \textit{supermassive} zu \textit{Löchern} in (\ref{ex:depillu2a}), wobei im nominalen Bereich im Deutschen dann Kongruenzrelationen bestehen.
 
 Jetzt können wir die \textit{Phrase}, die einfach nur ein besonderer Typ von syntaktischer Konstituente ist, genauer definieren.
-Der Begriff des \textit{Kopfes} wird zusammen mit dem der \textit{Phrase} definiert, da Phrasen einen Kopf haben.
+Der Begriff des \textit{Kopfes} wird zusammen mit dem der \textit{Phrase} in Definition~\ref{def:phrase} definiert, da Phrasen einen Kopf haben.
 
 
-\Definition{Phrase und Kopf}{
-\label{def:phrase}
-Eine Phrase ist eine syntaktische Konstituente, in der genau ein Wort der Kopf ist.
+\Definition{Phrase und Kopf}{\label{def:phrase}%
+Eine \textit{Phrase} ist eine syntaktische Konstituente, in der genau ein Wort der \textit{Kopf} ist.
 Innerhalb der Phrase sind alle anderen Wörter und Phrasen zum Kopf dependent.
 Die grammatischen Merkmale der Phrase werden durch die Merkmale des Kopfes bestimmt.
 \index{Kopf!Phrase}
@@ -833,10 +829,9 @@ Es zeigt sich damit auch, dass Bezeichnungen wie \textit{Wortart} oder \textit{W
 Wir bleiben aus Bequemlichkeit bei der Bezeichnung \textit{Wortklasse}.
 
 Natürlich muss nicht nur der Wert des Merkmals \textsc{Klasse} vom Kopf zur Phrase kopiert werden, sondern dies muss auch mit allen anderen für die weitere Strukturbildung nötigen Merkmalen geschehen, vor allem Kasus- und Kongruenzmerkmale.
-Alle zusammen nennt man die entsprechenden Merkmale auch \textit{Kopf-Merkmale}, und das entsprechende Prinzip, das hier sehr informell angegeben wird, ist das \textit{Kopf-Merkmal-Prinzip}.
+Alle zusammen nennt man die entsprechenden Merkmale auch \textit{Kopf-Merkmale}, und das entsprechende Prinzip, das hier sehr informell angegeben wird, ist das \textit{Kopf-Merkmal-Prinzip}, s.\ Satz~\ref{satz:hfp}.
 
-\Satz{Kopf-Merkmal-Prinzip}{
-\label{satz:hfp}
+\Satz{Kopf-Merkmal-Prinzip}{\label{satz:hfp}%
 Die Werte der Kopf-Merkmale des Kopfes und der Phrase, die er bildet, sind immer identisch.
 \index{Kopf-Merkmal-Prinzip}
 }
@@ -850,11 +845,14 @@ Auch hierzu (besonders im Fall der Artikelwörter oder \textit{Determinierer}) h
 Das kann man im entsprechenden theoretischen Rahmen durchaus so machen, hier wird aber Definition~\ref{def:funktionswort} zugrundegelegt.
 Es ergibt sich eine Ähnlichkeit zwischen Funktionswörtern in der Syntax und Affixen in der Morphologie (vgl.\ Definition~\ref{def:affix} auf S.~\pageref{def:affix}).
 
-\Definition{Funktionswort}{%
-\label{def:funktionswort}\index{Funktionswort}\index{Partikel}\index{Artikelwort}\index{Konjunktion}%
-Ein Funktionswort hat keinen Kopfstatus, bildet keine Phrasen und ist nicht vorfeldfähig.
-Es ist damit \textit{abhängig} in dem Sinn, dass es nicht alleine auftreten kann und keine Rektion bzw.\ Valenz hat.
+\Definition{Funktionswort}{\label{def:funktionswort}%
+Ein \textit{Funktionswort} hat keinen Kopfstatus, bildet keine Phrasen und ist nicht vorfeldfähig.
+Es ist damit abhängig (unselbständig) in dem Sinn, dass es nicht alleine auftreten kann und keine Rektion bzw.\ Valenz hat.
 Als Funktionswörter fassen wir Artikelwörter, Konjunktionen und sonstige Partikeln auf.
+\index{Funktionswort}
+\index{Partikel}
+\index{Artikelwort}
+\index{Konjunktion}
 }
 
 Außerdem wird in Kapitel~\ref{sec:saetze} eine Analyse von unabhängigen Sätzen vertreten, bei der der Satz selber zwar einen eigenen Phrasentyp (\zB Symbol S), aber keinen Kopf hat.
@@ -863,7 +861,7 @@ In Kapitel~\ref{sec:phrasen} geht es jetzt aber zunächst einmal um den Aufbau d
 
 
 \Zusammenfassung{
-Eine Phrase hat typischerweise einen Kopf, der ihre wesentlichen Merkmale bestimmt, die Kopf-Merkmale.
+Eine Phrase hat typischerweise einen Kopf, der ihre wesentlichen Merkmale bestimmt: die Kopf-Merkmale.
 Innerhalb einer Phrase sind alle Konstituenten direkt oder indirekt vom Kopf abhängig (dependent).
 Funktionswörter sind prinzipiell abhängige Wörter, die keine eigenen Phrasen bilden.
 Syntaxbäume müssen gewissen Regeln entsprechen, \zB dass sie nur einen Wurzelknoten haben.
