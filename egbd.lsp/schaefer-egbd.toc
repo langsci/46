@@ -266,7 +266,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.1.3}Person}{269}{subsection.8.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.4}Genus}{271}{subsection.8.1.4}
+\contentsline {subsection}{\numberline {8.1.4}Genus}{272}{subsection.8.1.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.1.5}Zusammenfassung}{272}{subsection.8.1.5}
 \defcounter {refsection}{0}\relax 
@@ -280,61 +280,61 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.2.4}Schwache Substantive}{281}{subsection.8.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.2.5}Revidiertes Klassensystem}{284}{subsection.8.2.5}
+\contentsline {subsection}{\numberline {8.2.5}Revidiertes Klassensystem}{283}{subsection.8.2.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {8.3}Artikel und Pronomina}{285}{section.8.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.3.1}Gemeinsamkeiten und Unterschiede}{285}{subsection.8.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.2}Übersicht über die Flexionsmuster}{290}{subsection.8.3.2}
+\contentsline {subsection}{\numberline {8.3.2}Übersicht über die Flexionsmuster}{289}{subsection.8.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.3}Pronomina und definite Artikel}{291}{subsection.8.3.3}
+\contentsline {subsection}{\numberline {8.3.3}Pronomina und definite Artikel}{290}{subsection.8.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.3.4}Indefinite Artikel und Possessivartikel}{295}{subsection.8.3.4}
+\contentsline {subsection}{\numberline {8.3.4}Indefinite Artikel und Possessivartikel}{294}{subsection.8.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.4}Adjektive}{296}{section.8.4}
+\contentsline {section}{\numberline {8.4}Adjektive}{295}{section.8.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.4.1}Klassifikation}{296}{subsection.8.4.1}
+\contentsline {subsection}{\numberline {8.4.1}Klassifikation}{295}{subsection.8.4.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.4.2}Flexion}{297}{subsection.8.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.4.3}Komparation}{302}{subsection.8.4.3}
+\contentsline {subsection}{\numberline {8.4.3}Komparation}{301}{subsection.8.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}Verbalflexion}{309}{chapter.9}
+\contentsline {chapter}{\numberline {9}Verbalflexion}{307}{chapter.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.1}Kategorien}{309}{section.9.1}
+\contentsline {section}{\numberline {9.1}Kategorien}{307}{section.9.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.1}Person und Numerus}{309}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.1}Person und Numerus}{307}{subsection.9.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.2}Tempus}{310}{subsection.9.1.2}
+\contentsline {subsection}{\numberline {9.1.2}Tempus}{308}{subsection.9.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.3}Tempusformen}{316}{subsection.9.1.3}
+\contentsline {subsection}{\numberline {9.1.3}Tempusformen}{314}{subsection.9.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.4}Modus}{318}{subsection.9.1.4}
+\contentsline {subsection}{\numberline {9.1.4}Modus}{316}{subsection.9.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.5}Finitheit und Infinitheit}{320}{subsection.9.1.5}
+\contentsline {subsection}{\numberline {9.1.5}Finitheit und Infinitheit}{318}{subsection.9.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.6}Genus verbi}{322}{subsection.9.1.6}
+\contentsline {subsection}{\numberline {9.1.6}Genus verbi}{320}{subsection.9.1.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1.7}Zusammenfassung}{323}{subsection.9.1.7}
+\contentsline {subsection}{\numberline {9.1.7}Zusammenfassung}{321}{subsection.9.1.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.2}Flexion}{324}{section.9.2}
+\contentsline {section}{\numberline {9.2}Flexion}{322}{section.9.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.1}Unterklassen}{324}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.1}Unterklassen}{322}{subsection.9.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.2}Tempus, Numerus und Person}{328}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.2}Tempus, Numerus und Person}{326}{subsection.9.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.3}Konjunktivflexion}{330}{subsection.9.2.3}
+\contentsline {subsection}{\numberline {9.2.3}Konjunktivflexion}{329}{subsection.9.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.4}Zusammenfassung}{332}{subsection.9.2.4}
+\contentsline {subsection}{\numberline {9.2.4}Zusammenfassung}{330}{subsection.9.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.5}Infinite Formen}{334}{subsection.9.2.5}
+\contentsline {subsection}{\numberline {9.2.5}Infinite Formen}{332}{subsection.9.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.6}Formen des Imperativs}{335}{subsection.9.2.6}
+\contentsline {subsection}{\numberline {9.2.6}Formen des Imperativs}{334}{subsection.9.2.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.7}Kleine Verbklassen}{337}{subsection.9.2.7}
+\contentsline {subsection}{\numberline {9.2.7}Kleine Verbklassen}{335}{subsection.9.2.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{\numberline {IV}Satz und Satzglied}{347}{part.4}
+\contentsline {part}{\numberline {IV}Satz und Satzglied}{345}{part.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {10}Konstituentenstruktur}{349}{chapter.10}
 \defcounter {refsection}{0}\relax 
@@ -520,8 +520,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Lösungen zu den Übungen}{566}{section*.41}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{615}{section*.2}
+\contentsline {chapter}{Bibliographie}{615}{section*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{615}{chapter*.3}
+\contentsline {chapter}{\nonumberline Literatur}{615}{chapter*.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{622}{section*.4}
+\contentsline {chapter}{Index}{618}{section*.10}
