@@ -422,9 +422,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {13}Relationen und Prädikate}{453}{chapter.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.1}Semantische Rollen}{454}{section.13.1}
+\contentsline {section}{\numberline {13.1}Semantische Rollen}{453}{section.13.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.1}Allgemeine Einführung}{454}{subsection.13.1.1}
+\contentsline {subsection}{\numberline {13.1.1}Allgemeine Einführung}{453}{subsection.13.1.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {13.1.2}Semantische Rollen und Valenz}{457}{subsection.13.1.2}
 \defcounter {refsection}{0}\relax 
@@ -438,13 +438,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {13.3.1}Subjekte als Nominativ-Ergänzungen}{463}{subsection.13.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.3.2}Arten von \textit {es} im Nominativ}{467}{subsection.13.3.2}
+\contentsline {subsection}{\numberline {13.3.2}Arten von \textit {es} im Nominativ}{466}{subsection.13.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {13.4}Passiv}{471}{section.13.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {13.4.1}\textit {werden}-Passiv und Verbklassen}{471}{subsection.13.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.4.2}\textit {bekommen}-Passiv}{475}{subsection.13.4.2}
+\contentsline {subsection}{\numberline {13.4.2}\textit {bekommen}-Passiv}{474}{subsection.13.4.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {13.5}Objekte, Ergänzungen und Angaben}{477}{section.13.5}
 \defcounter {refsection}{0}\relax 
@@ -454,19 +454,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {13.5.3}PP-Ergänzungen und PP-Angaben}{482}{subsection.13.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.6}Analytische Tempora}{483}{section.13.6}
+\contentsline {section}{\numberline {13.6}Bindung}{483}{section.13.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.7}Modalverben und Halbmodalverben}{488}{section.13.7}
+\contentsline {section}{\numberline {13.7}Analytische Tempora}{487}{section.13.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.1}Ersatzinfinitiv und Oberfeldumstellung}{488}{subsection.13.7.1}
+\contentsline {section}{\numberline {13.8}Modalverben und Halbmodalverben}{491}{section.13.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.2}Kohärenz}{489}{subsection.13.7.2}
+\contentsline {subsection}{\numberline {13.8.1}Ersatzinfinitiv und Oberfeldumstellung}{491}{subsection.13.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.7.3}Modalverben und Halbmodalverben}{492}{subsection.13.7.3}
+\contentsline {subsection}{\numberline {13.8.2}Kohärenz}{493}{subsection.13.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.8}Infinitivkontrolle}{495}{section.13.8}
+\contentsline {subsection}{\numberline {13.8.3}Modalverben und Halbmodalverben}{496}{subsection.13.8.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.9}Bindung}{498}{section.13.9}
+\contentsline {section}{\numberline {13.9}Infinitivkontrolle}{499}{section.13.9}
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{\numberline {V}Sprache und Schrift}{509}{part.5}
 \defcounter {refsection}{0}\relax 
