@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  28 AUG 2016 22:07
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  28 AUG 2016 23:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4798,83 +4798,83 @@ chapter 14.
 
 
 ] [512] [513] [514] [515] [516] [517]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 176--177
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 171--172
 [][]
  []
 
 [518] [519] [520]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 293--294
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 288--289
 [][][][][][]
  []
 
 [521] [522]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 353--354
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 348--349
 [][]
  []
 
-[523]
-Overfull \hbox (3.1529pt too wide) in paragraph at lines 369--376
+
+Overfull \hbox (3.1529pt too wide) in paragraph at lines 364--370
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 von Vokalen. In Abschnitt []4.1.4[] wurd
 e festgestellt, dass zugrundeliegend das Merk-
  []
 
+[523]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 375--376
+[][][][][][]
+ []
+
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 382--383
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 381--382
 [][][][][][]
  []
 
 [524]
+Overfull \vbox (3.7402pt too high) detected at line 431
+ []
+
+
+Overfull \vbox (4.9668pt too high) detected at line 431
+ []
+
+
+Overfull \vbox (4.9668pt too high) detected at line 431
+ []
+
+[525]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 389--390
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 474--475
 [][][][][][]
  []
 
-
-Overfull \vbox (3.7402pt too high) detected at line 440
- []
-
-
-Overfull \vbox (4.9668pt too high) detected at line 440
- []
-
-
-Overfull \vbox (4.9668pt too high) detected at line 440
- []
-
-[525] [526]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 484--485
-[][][][][][]
- []
-
-[527] <xymatrix 5x5 1020> <xymatrix 6x5 1154> <xymatrix 6x5 1168> [528]
-[529] [530] [531] [532]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 658--659
+[526] [527] <xymatrix 5x5 1020> <xymatrix 6x5 1154> <xymatrix 6x5 1168>
+[528] [529] [530] [531]
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 650--651
 [][]
  []
 
-[533]
-Underfull \hbox (badness 1642) in paragraph at lines 703--703
+[532] [533]
+Underfull \hbox (badness 1642) in paragraph at lines 695--695
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Schreiber machen kreativen Gebrauch von 
 den Möglichkeiten des
  []
 
 
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 703--704
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 695--696
 [][]
  []
 
-[534] [535] [536]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 770--771
+[534] [535]
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 762--763
 [][]
  []
 
-[537] [538
+[536] [537] [538
 
 ]) [539]
 \openout2 = `chapters/andereschrift.aux'.
@@ -5134,7 +5134,7 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 Here is how much of TeX's memory you used:
  55822 strings out of 494776
  1001471 string characters out of 6165553
- 1636625 words of memory out of 5000000
+ 1636628 words of memory out of 5000000
  58098 multiletter control sequences out of 15000+600000
  22710 words of font info for 161 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
