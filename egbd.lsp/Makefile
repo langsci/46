@@ -39,4 +39,4 @@ view:
 	open $(FILEN).pdf &
 
 edit:
-	mvim -c ':set spell spelllang=de' chapters/*.tex schaefer-egbd.tex
+	mvim -c ':set spell spelllang=de' -c ':nnoremap <F15> ]s' -c ':nnoremap <F14> [s' chapters/*.tex schaefer-egbd.tex
