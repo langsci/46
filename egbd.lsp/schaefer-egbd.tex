@@ -1,22 +1,22 @@
-% REMEMBER:
-% \enlargethispage{1\baselineskip}
-
 \documentclass[number=2
-            ,series=tbls,
-            ,isbn=978-3-944675-53-4,
-            ,url=http://langsci-press.org/catalog/book/46,
-	        ,output=long
-	        %,blackandwhite
- 		    %,smallfont
-  	        %,draftmode  
-			,biblatex
-		  ]{LSP/langsci}    
+  ,series=tbls
+  ,isbn=978-3-944675-53-4
+  ,url=http://langsci-press.org/catalog/book/46
+  ,output=long
+  %,blackandwhite
+  %,smallfont
+  %,draftmode  
+  ,biblatex
+]{LSP/langsci}    
 
 \usepackage{localmetadata}
 \usepackage{localpackages}
 \usepackage{localhyphenation}
 \usepackage{localcommands}
-\usepackage{authorindex}
+
+\usepackage{makeidx}
+
+%\usepackage{showidx}
 
 \usepackage[firstpage]{draftwatermark}
 \SetWatermarkFontSize{32pt}
@@ -24,6 +24,8 @@
 \SetWatermarkLightness{0.2}
 
 \bibliography{localbibliography}
+
+\makeindex
 
 %\includeonly{chapters/einleitung}
 %\includeonly{chapters/grammatik}
@@ -96,17 +98,19 @@
 
 \backmatter
 
-\phantomsection
-\addcontentsline{toc}{chapter}{Bibliographie}
+%\phantomsection
+%\addcontentsline{toc}{chapter}{Bibliographie}
 \begin{sloppypar}
   \printbibliography
 \end{sloppypar}
+
 \clearpage
    
-\phantomsection
 \input{indices}
-\addcontentsline{toc}{chapter}{Index}
-\ohead{Index} 
+
+%\phantomsection
+%\addcontentsline{toc}{chapter}{Index}
+%\ohead{Index} 
 \begin{flushleft}
   \printindex
 \end{flushleft}

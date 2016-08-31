@@ -23,10 +23,7 @@ all:
 	-$(LX) $(TEXFLAGS) $(PREFLAGS) $(FILEN)
 	-$(BX) $(FILEN)
 	-$(LX) $(TEXFLAGS) $(PREFLAGS) $(FILEN)
-	gsed -i s/.*\\emph.*// schaefer-egbd.adx #remove titles which biblatex puts into the name index
-	makeindex -o schaefer-egbd.and schaefer-egbd.adx
-	makeindex -o schaefer-egbd.lnd schaefer-egbd.ldx
-	makeindex -o schaefer-egbd.snd schaefer-egbd.sdx
+	makeindex schaefer-egbd.idx
 	-$(LX) $(TEXFLAGS) $(PREFLAGS) $(FILEN)
 	printf "\033c"
 	@echo
@@ -39,4 +36,5 @@ view:
 	open $(FILEN).pdf &
 
 edit:
-	mvim -c ':set spell spelllang=de' -c ':nnoremap <F15> ]s' -c ':nnoremap <F14> [s' chapters/*.tex schaefer-egbd.tex
+	mvim -c ':set spell spelllang=de' -c ':nnoremap <F12> ]s' -c ':nnoremap <F11> [s' -c ':nnoremap <F10> zg' chapters/*.tex schaefer-egbd.tex
+#	mvim -c ':set spell spelllang=de' -c ':nnoremap <F15> ]s' -c ':nnoremap <F14> [s' chapters/*.tex schaefer-egbd.tex
