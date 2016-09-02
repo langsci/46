@@ -134,7 +134,7 @@ Betrachten wir die deutschen Beispiele in (\ref{ex:morph7964}) und (\ref{ex:morp
   \end{xlist}
 \end{exe}
 
-\index{Präposition!Wechsel--}\index{Akkusativ}\index{Dativ}
+\index{Pr{\"a}position!Wechsel--}\index{Akkusativ}\index{Dativ}
 
 Präpositionen wie \textit{in} treten im Deutschen mit zwei verschiedenen Kasus auf (Akkusativ und Dativ) und werden daher auch \textit{Wechselpräpositionen} genannt.
 Ob ein Ortswechsel (\textit{in den Wald}) oder ein eher statischer Ort (\textit{im Wald}) beschrieben wird, hängt dabei vom Kasus der folgenden Nomina ab.
@@ -334,39 +334,76 @@ Die Paare von nicht umgelautetem und umgelautetem Vokal sind die in (\ref{ex:mor
   \end{xlist}
 \end{exe}
 
-Die Auflösung erfolgt jetzt, indem die nicht umgelauteten und die zugehörigen umgelauteten einfachen Vokale im (phonologischen) Vokalviereck dargestellt werden (vgl.\ Abbildung~\ref{fig:vokalviereckmitgespannt} auf S.~\pageref{fig:vokalviereckmitgespannt}).\index{Vokalviereck}
-
-\begin{table}[!htbp]
+\begin{figure}[!htpb]
   \centering
-  \begin{tabular}{cp{2mm}p{2mm}cp{5mm}cp{5mm}cp{5mm}cp{5mm}cp{2mm}}
-   \lsptoprule
-   \multicolumn{2}{c}{} & \multicolumn{5}{c}{\textbf{vorne}} & \textbf{zentral} & \multicolumn{5}{c}{\textbf{hinten}} \\
-   &&& && && && && & \\
-   \multirow{3}{*}{\textbf{hoch}} &&& &&   &&   &&   &&   &\\
-   &&& \Dim \rnode{Xy}{y} &&  & &   & &   && \Dim \rnode{Xu}{u} &\\
-   &&& &&  \rnode{XY}{\textipa{Y}} &&   &&  \rnode{XU}{\textipa{U}} && &\\
-   &&& &&   &&   &&   && &\\
-   \multirow{3}{*}{\textbf{mittel}} &&&  && && &&   && \Dim \rnode{Xo}{o} &\\
-   &&& \Dim \rnode{Xoe}{\textipa{\o}} &&  \rnode{XOE}{\textipa{\oe}} && &&   &&   &\\
-   &&& \Dim \rnode{XE}{\textipa{E}} && \rnode{XEugs}{\textipa{\u{E}}} &&  &&   && \rnode{XO}{\textipa{O}}  &\\
-   \multirow{5}{*}{\textbf{tief}} &&&  &&   &&   &&   &&   &\\
-   &&&   &&   &  &  \rnode{Xaugs}{\u{a}} & &   &&   &\\
-   &&&   &&   &&   &&   &&   &\\
-   &&&   &&   &&\Dim \rnode{Xa}{a} &&   &&   &\\
-   &&& && && && && & \\
-  \lspbottomrule
-  \end{tabular}
-  \caption{Umlaut im phonologischen Vokalviereck}
-  \label{tab:umlaut}
-  \ncline[nodesep=3pt]{-}{Xu}{Xy}
-  \ncline[nodesep=3pt]{-}{XU}{XY}
-  \nccurve[nodesep=3pt, angleA=-180, angleB=30]{-}{Xo}{Xoe}
-  \ncline[nodesep=3pt]{-}{XO}{XOE}
-  \ncline[nodesep=3pt]{-}{Xa}{XE}
-  \ncline[nodesep=3pt]{-}{Xaugs}{XEugs}
-\end{table}
+  \begin{tikzpicture}[scale=3.5,baseline=default]
+  \large
+  \tikzset{
+  vowel/.style={fill=white, anchor=mid, text depth=0ex, text height=1ex},
+  vowelgespannt/.style={circle,fill=gray!30, anchor=mid, text depth=0ex, text height=1ex,minimum size=4ex},
+  dot/.style={circle,fill=black,minimum size=0.4ex,inner sep=0pt,outer sep=-1pt},
+  }
+  \coordinate (hf) at (0,2); % high front
+  \coordinate (hb) at (2,2); % high back
+  \coordinate (lf) at (1,0); % low front
+  \coordinate (lb) at (2,0); % low back
+  \def\V(#1,#2){barycentric cs:hf={(3-#1)*(2-#2)},hb={(3-#1)*#2},lf={#1*(2-#2)},lb={#1*#2}}
 
-An dieser Darstellung ist leicht zu erkennen, dass die wesentliche Merkmalsänderung die ist, dass alle umgelauteten Vokale [\textsc{Lage}: \textit{vorne}] sind.
+  % Draw the chart key (vorne -- hinten)
+  \draw [{Latex[round]}-] (\V (-.25,0)) -- (\V (-.25,.5)) node[above left] {\footnotesize vorne};
+  \draw [-{Latex[round]}] (\V (-.25,1.5)) -- (\V (-.25,2)) node[above left] {\footnotesize hinten};
+  \path (\V (-.25,1)) node[above] {\footnotesize zentral};
+
+  % hoch--tief
+  \draw [{Latex[round]}-] (\V (0,-.25)) -- +(270:.5cm) node[above right,rotate=90] (vokaltrapez1) {\footnotesize hoch};
+  \draw [{Latex[round]}-] (\V (3,-2.5)) -- +(270:-.5cm) node[above left,rotate=90] (vokaltrapez2) {\footnotesize tief};
+  \path (\V (1.5,-1)) node[above,rotate=90] {\footnotesize mittel};
+
+  % Draw the horizontal lines first.
+  \draw [gray] (\V(0,0)) -- (\V(0,2));
+%  \draw [gray] (\V(1,0)) -- (\V(1,2));
+%  \draw [gray] (\V(2,0)) -- (\V(2,2));
+  \draw [gray] (\V(3,0)) -- (\V(3,2));
+
+  % Draw the vertical lines.
+  \draw [gray] (\V(0,0)) -- (\V(3,0));
+%  \draw [gray] (\V(0,1)) -- (\V(3,1));
+  \draw [gray] (\V(0,2)) -- (\V(3,2));
+
+  \path (\V (0,2))	node[vowelgespannt]	 (u) 	{u};
+  \path (\V(0,0))   node[vowelgespannt]   (y)   {y};
+
+  \path (\V (0.5,1.5))	node[vowel]	 (uu) 	{ʊ};
+  \path (\V(0.5,0.5))   node[vowel]   (yy)   {ʏ};
+  
+  \path (\V (1,2))	node[vowelgespannt]	 (o) 	{o};
+  \path (\V(1.25,0))   node[vowelgespannt]   (oe)   {ø};
+
+  \path (\V(3,1))	node[vowelgespannt]	(a)  	{a};
+  \path (\V(2,0))   node[vowelgespannt]   (ee)   {ɛ};
+ 
+  \path (\V(2.5,1))   node[vowel]   (aa)  {ă};
+  \path (\V(1.65,0.5))   node[vowel]   (eee)   {ɛ̆};
+
+  \path (\V (1.5,1.4))	node[vowel]	(oo)  	{ɔ};
+  \path (\V(1.4,0.5))   node[vowel]   (oee)   {œ};
+
+  \path (u) edge [-{Latex[round]},bend left=10] (y);
+  \path (uu) edge [-{Latex[round]},bend left=10] (yy);
+  \path (o) edge [-{Latex[round]},bend right=10] (oe);
+  \path (oo) edge [-{Latex[round]},bend right=5] (oee);
+  \path (aa) edge [-{Latex[round]},bend right=10] (eee);
+  \path (a) edge [-{Latex[round]},bend left=10] (ee);
+
+  \end{tikzpicture}
+  \caption{Umlaut im phonologischen Vokaltrapez}
+  \label{fig:umlaut}
+  \index{Vokaltrapez}
+\end{figure}
+
+Die Auflösung erfolgt jetzt, indem die nicht umgelauteten und die zugehörigen umgelauteten einfachen Vokale in Abbildung~\ref{fig:umlaut} im (phonologischen) Vokaltrapez dargestellt werden (vgl.\ auch Abbildung~\ref{fig:vokalviereckmitgespannt} auf S.~\pageref{fig:vokalviereckmitgespannt}).
+An dieser Darstellung ist leicht zu erkennen, dass alle umgelauteten Vokale [\textsc{Lage}: \textit{vorne}] sind.
+Alle anderen Merkmale (einschließlich \textsc{Gespannt}) sind bei den nicht-umge\-laute\-ten und den zugehörigen umgelauteten Vokalen gleich spezifiziert.
 Man spricht daher auch von \textit{Frontierung}.
 Der Umlaut lässt sich also als \textit{morphologisch bedingte phonologische Regularität} beschreiben.
 \textit{Regularität} bedeutet hier, dass zu jedem umlautfähigen Vokal immer eindeutig bestimmbar ist, was der zugehörige Umlautvokal ist.
@@ -389,10 +426,10 @@ In Kapitel~\ref{sec:verben} (besonders Abschnitt~\ref{sec:vunterklass}) wird dah
 \begin{exe}
   \ex\label{ex:morph8827}
   \begin{xlist}
-    \ex{w\textbf{e}rb-e, w\textbf{a}rb, ge-w\textbf{o}rb-en}
-    \ex{schw\textbf{i}ng-e, schw\textbf{a}ng, ge-schw\textbf{u}ng-en}
-    \ex{schw\textbf{i}mm-e, schw\textbf{a}mm, ge-schw\textbf{o}mm-en}
-    \ex{l\textbf{au}f-e, l\textbf{ie}f, ge-l\textbf{au}f-en}
+    \ex{werb-e, warb, ge-worb-en}
+    \ex{schwing-e, schwang, ge-schwung-en}
+    \ex{schwimm-e, schwamm, ge-schwomm-en}
+    \ex{lauf-e, lief, ge-lauf-en}
   \end{xlist}
 \end{exe}
 
@@ -456,7 +493,7 @@ Ein \textit{Affix} ist ein Morph mit einer nicht-lexikalischen Markierungsfunkti
 \index{Affix}
 }
 
-\index{Präfix}
+\index{Pr{\"a}fix}
 \index{Suffix}
 \index{Zirkumfix}
 

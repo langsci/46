@@ -76,7 +76,7 @@ Um den prinzipiellen hierarchischen Aufbau syntaktischer Struktur geht es jetzt 
 In Abschnitt~\ref{sec:satzglieder} werden einige Tests beschrieben, die helfen können, plausible syntaktische Strukturen zu ermitteln.
 In Abschnitt~\ref{sec:topokons} wird überlegt, wie man die Reihenfolge von Teilkonstituenten in größeren Konstituenten und die hierarchische Struktur beschreiben kann.
 
-\index{Grammatikalität}
+\index{Grammatikalit{\"a}t}
 
 Eine Grammatik ist gemäß Definition~\ref{def:grammatik} (S.~\pageref{def:grammatik}) ein System von Regularitäten, nach denen einfache sprachliche Einheiten zu komplexen Einheiten (Strukturen) zusammengesetzt werden.
 Die syntaktische Komponente der Grammatik muss also spezifizieren, wie Sätze aus Wortformen (die in der Syntax die einfachsten Einheiten sind) aufgebaut werden, vgl.\ Definition~\ref{def:syntax}.
@@ -365,9 +365,9 @@ Dass diese Tests im Deutschen funktionieren, illustriert im Übrigen die enorm f
 \begin{exe}
   \ex\label{ex:syn0815}
   \begin{xlist}
-  	\ex{\label{ex:syn0815a} Gestern hat [Pandelela] [beim Turmspringen] [die Goldmedaille] gewonnen.}
-  	\ex{\label{ex:syn0815b} Gestern hat [beim Turmspringen] [Pandelela] [die Goldmedaille] gewonnen.}
-  	\ex{\label{ex:syn0815c} Gestern hat [beim Turmspringen] [die Goldmedaille] [Pandelela] gewonnen.}
+  	\ex{\label{ex:syn0815a} Gestern hat [Pandelela] [beim Turmspringen] [die Goldmedaille] \\gewonnen.}
+  	\ex{\label{ex:syn0815b} Gestern hat [beim Turmspringen] [Pandelela] [die Goldmedaille] \\gewonnen.}
+  	\ex{\label{ex:syn0815c} Gestern hat [beim Turmspringen] [die Goldmedaille] [Pandelela] \\gewonnen.}
   \end{xlist}
 \end{exe}
 
@@ -389,11 +389,11 @@ Daher klammern wir immer \zB [[A] \textit{und} [B]].
       \ex{\label{ex:syn4444b} Wir [essen einen Kuchen].\\
         \KTArr{KoorTest} Wir [[essen einen Kuchen] und [lesen ein Buch]].}
       \ex{\label{ex:syn4444c} Sarah hat versucht, [einen Kuchen zu backen].\\
-        \KTArr{KoorTest} Sarah hat versucht, [[einen Kuchen zu backen] und [heimlich das Eis aufzuessen]].}
+        \KTArr{KoorTest} Sarah hat versucht, [[einen Kuchen zu backen] und \\{}[heimlich das Eis aufzuessen]].}
       \ex{\label{ex:syn4444d} Wir sehen, [dass die Sonne scheint].\\
-        \KTArr{KoorTest} Wir sehen, [[dass die Sonne scheint] und [wer alles seinen Rasen mäht]].}
+        \KTArr{KoorTest} Wir sehen, [[dass die Sonne scheint] und \\{}[wer alles seinen Rasen mäht]].}
       \ex{\label{ex:syn4444e} Wir sehen, dass [die Sonne scheint].\\
-        \KTArr{KoorTest} Wir sehen, dass [[die Sonne scheint] und [Mausi den Rasen mäht]].}
+        \KTArr{KoorTest} Wir sehen, dass [[die Sonne scheint] und \\{}[Mausi den Rasen mäht]].}
     \end{xlist}
   \end{xlist}
 \end{exe}
@@ -421,8 +421,8 @@ In (\ref{ex:syn9521}) ist genau so ein Fall illustriert.
 \begin{exe}
   \ex{\label{ex:syn9521} Sie isst [einen leckeren großen Kuchen].}
   \begin{xlist}
-    \ex{\label{ex:syn9521a} \KTArr{KoorTest} Sie isst [[einen leckeren großen Kuchen] und [eine Orange]].}
-    \ex{\label{ex:syn9521b} \KTArr{KoorTest} \Ast Sie isst [[einen leckeren großen Kuchen] und [geht später joggen]].}
+    \ex{\label{ex:syn9521a} \KTArr{KoorTest} Sie isst [[einen leckeren großen Kuchen] und \\{}[eine Orange]].}
+    \ex{\label{ex:syn9521b} \KTArr{KoorTest} \Ast Sie isst [[einen leckeren großen Kuchen] und \\{}[geht später joggen]].}
   \end{xlist}
 \end{exe}
 
@@ -450,13 +450,13 @@ Die Sätze in (\ref{ex:syn5555}) und (\ref{ex:syn5556}) illustrieren das Phänom
   \begin{xlist}
     \ex{\label{ex:syn5555a} Sarah riecht den Kuchen [mit ihrer Nase].\\
       \KTArr{VfTest} [Mit ihrer Nase] riecht Sarah den Kuchen.}
-    \ex{\label{ex:syn5555b} \KTArr{KoorTest} Sarah riecht den Kuchen [[mit ihrer Nase] und [trotz des Durchzugs]].}
+    \ex{\label{ex:syn5555b} \KTArr{KoorTest} Sarah riecht den Kuchen [[mit ihrer Nase] und \\{}[trotz des Durchzugs]].}
   \end{xlist}
   \ex\label{ex:syn5556}
   \begin{xlist}
     \ex{\label{ex:syn5556a} Sarah riecht den Kuchen [mit der Sahne].\\
       \KTArr{VfTest} \Ast [Mit der Sahne] riecht Sarah den Kuchen.}
-    \ex{\label{ex:syn5556b} \KTArr{KoorTest} Sarah riecht den Kuchen [[mit der Sahne] und [mit den leckeren Rosinen]].}
+    \ex{\label{ex:syn5556b} \KTArr{KoorTest} Sarah riecht den Kuchen [[mit der Sahne] und \\{}[mit den leckeren Rosinen]].}
   \end{xlist}
 \end{exe}
 \end{sloppypar}
@@ -550,7 +550,7 @@ Es wird Definition~\ref{def:strambi} gegeben.
 \Definition{Strukturelle Ambiguität}{\label{def:strambi}%
 \textit{Strukturelle Ambiguität} liegt dann vor, wenn ein Satz mehrere mögliche Konstituentenanalysen hat.
 Oft hat dies (wegen des Kompositionalitätsprinzips) auch eine Doppeldeutigkeit in der Bedeutung zur Folge.
-\index{Ambiguität}
+\index{Ambiguit{\"a}t}
 }
 
 Im nächsten Abschnitt wird abschließend die Art und Weise vorgestellt, mit der in den folgenden Kapiteln die deskriptiven Generalisierungen über die Konstituentenstrukturen des Deutschen notiert werden.
