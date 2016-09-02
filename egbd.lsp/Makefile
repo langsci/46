@@ -23,7 +23,8 @@ all:
 	-$(LX) $(TEXFLAGS) $(PREFLAGS) $(FILEN)
 	-$(BX) $(FILEN)
 	-$(LX) $(TEXFLAGS) $(PREFLAGS) $(FILEN)
-	makeindex schaefer-egbd.idx
+#	makeindex schaefer-egbd.idx
+	texindy --german schaefer-egbd.idx
 	-$(LX) $(TEXFLAGS) $(PREFLAGS) $(FILEN)
 	printf "\033c"
 	@echo
