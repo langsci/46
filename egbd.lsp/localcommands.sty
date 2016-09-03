@@ -226,9 +226,10 @@
     \node [right=of Wort.east, text width=3.5cm, align=left] (Filter) {#5};
     \node [above right=\baselineskip and 1cm of Filter.east] (Ja) {#6};
     \node [below right=\baselineskip and 1cm of Filter.east] (Nein) {#7}; 
-    \draw (Wort)--(Filter); 
-    \path (Filter.east) edge node [above,sloped] {Ja} (Ja.west);
-    \path (Filter.east) edge node [below,sloped] {Nein} (Nein.west);
+    %\draw (Wort)--(Filter);
+    \path (Wort) edge [-{Latex[round]}] (Filter);
+    \path (Filter.east) edge [-{Latex[round]}] node [above,sloped] {Ja} (Ja.west);
+    \path (Filter.east) edge [-{Latex[round]}] node [below,sloped] {Nein} (Nein.west);
   \end{tikzpicture}\vspace{#1}%
   }{law}
 }

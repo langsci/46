@@ -34,7 +34,7 @@ all:
 
 
 view:
-	open $(FILEN).pdf &
+	/Applications/Skim.app/Contents/MacOS/Skim $(FILEN).pdf & 
 
 edit:
 #	mvim -c ':set spell spelllang=de' -c ':nnoremap <F12> ]s' -c ':nnoremap <F11> [s' -c ':nnoremap <F10> zg' chapters/*.tex schaefer-egbd.tex local*.sty
