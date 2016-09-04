@@ -2,7 +2,9 @@
 \defcounter {refsection}{0}\relax 
 \select@language {ngerman}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{Vorbemerkungen}{1}{Item.2}
+\contentsline {part}{Vorbemerkungen zur ersten Auflage}{1}{Item.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{Vorbemerkungen zur zweiten Auflage}{5}{section*.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{\numberline {I}Sprache und Sprachsystem}{11}{part.1}
 \defcounter {refsection}{0}\relax 
@@ -400,31 +402,31 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {12.2.2}Das Feldermodell}{420}{subsection.12.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.2.3}Eingebettete Nebensätze und der LSK-Test}{426}{subsection.12.2.3}
+\contentsline {subsection}{\numberline {12.2.3}Eingebettete Nebensätze und der LSK-Test}{425}{subsection.12.2.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {12.3}Schemata für Sätze}{428}{section.12.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {12.3.1}Verb-Zweit-Sätze}{428}{subsection.12.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.3.2}Verb-Erst-Sätze}{431}{subsection.12.3.2}
+\contentsline {subsection}{\numberline {12.3.2}Verb-Erst-Sätze}{432}{subsection.12.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.3.3}Syntax der Partikelverben}{434}{subsection.12.3.3}
+\contentsline {subsection}{\numberline {12.3.3}Syntax der Partikelverben}{433}{subsection.12.3.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {12.3.4}Kopulasätze}{434}{subsection.12.3.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {12.4}Nebensätze}{436}{section.12.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.4.1}Relativsätze}{437}{subsection.12.4.1}
+\contentsline {subsection}{\numberline {12.4.1}Relativsätze}{436}{subsection.12.4.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {12.4.2}Komplementsätze}{442}{subsection.12.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {12.4.3}Adverbialsätze}{445}{subsection.12.4.3}
+\contentsline {subsection}{\numberline {12.4.3}Adverbialsätze}{444}{subsection.12.4.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {13}Relationen und Prädikate}{451}{chapter.13}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {13.1}Semantische Rollen}{451}{section.13.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.1.1}Allgemeine Einführung}{451}{subsection.13.1.1}
+\contentsline {subsection}{\numberline {13.1.1}Verbsemantik und Rollen}{451}{subsection.13.1.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {13.1.2}Semantische Rollen und Valenz}{455}{subsection.13.1.2}
 \defcounter {refsection}{0}\relax 
