@@ -128,7 +128,7 @@
 
 % NEW Vertiefung (non-floating)
 
-\newcommand{\tblsthickline}{{\color{gray}\rule{\textwidth}{1.5mm}}}
+%\newcommand{\tblsthickline}{{\color{gray}\rule{\textwidth}{1.5mm}}}
 
 \newenvironment{Sandwich}[1]
   {
@@ -175,8 +175,6 @@
 }
 
 
-
-% Basic framed box
 \newcommand{\hfb}[3][] % {headline}{color}{text}{icon}
 {%
   \setlength{\fboxsep}{5mm}
@@ -210,7 +208,8 @@
 
 
 \newcommand{\Zusammenfassung}[1]{
-  \hfb[Zusammenfassung von Abschnitt~\thesection]{lsYellow}{#1}
+  \tblsfr[\lsSeriesColor]{book}{Zusammenfassung von Abschnitt~\thesection}{#1}
+%  \hfb[Zusammenfassung von Abschnitt~\thesection]{lsYellow}{#1}
 }
 
 
