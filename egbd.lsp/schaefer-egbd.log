@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  5 SEP 2016 14:53
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  5 SEP 2016 15:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -739,7 +739,7 @@ File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
 ))
 Package scrkbase Info: You've told me to redefine the font selection of the
 (scrkbase)             element `sectioning' that is an alias of element
-(scrkbase)             `disposition' on input line 300.
+(scrkbase)             `disposition' on input line 303.
 
 (/opt/local/share/texmf-texlive/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
@@ -1423,7 +1423,7 @@ Class scrbook Warning: Change of `\@footnotemark' detected!
 (scrbook)              Use of `footnotes=multiple' may break
 (scrbook)              another package!
 (scrbook)              Maybe you should remove the usage of
-(scrbook)              option `footnotes=multiple' on input line 1132.
+(scrbook)              option `footnotes=multiple' on input line 1138.
 
 (/opt/local/share/texmf-texlive/tex/latex/rotating/rotating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
@@ -1433,7 +1433,7 @@ Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 \rot@float@box=\box55
 \rot@mess@toks=\toks43
 )
-Package hyperref Info: Option `unicode' set `true' on input line 1294.
+Package hyperref Info: Option `unicode' set `true' on input line 1300.
 
 (/opt/local/share/texmf-texlive/tex/latex/authorindex/authorindex.sty
 Package: authorindex 2005/03/22 make index of authors cited in a work
@@ -1918,8 +1918,7 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 )
 (/opt/local/share/texmf-texlive/tex/latex/cancel/cancel.sty
 Package: cancel 2013/04/12 v2.2 Cancel math terms
-)
-(/Users/user/Library/texmf/tex/latex/linguist/xylingpdf.sty
+) (./xylingpdf.sty
 (/opt/local/share/texmf-texlive/tex/generic/xypic/xy.sty
 (/opt/local/share/texmf-texlive/tex/generic/xypic/xy.tex Bootstrap'ing:
 catcodes, docmode,
@@ -2601,6 +2600,12 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 . 
 . Arimo_B.ttf scale = 0.9564119235264212.
 .................................................
+
+Overfull \hbox (14.36201pt too wide) in paragraph at lines 58--58
+\EU1/LinLibertine_R_B.otf(0)/bx/n/10.95 Roland Schäfer \EU1/LinLibertine_R_B.ot
+f(0)/m/n/10.95 studierte Sprachwissenschaft und Japanologie an der Philipps-
+ []
+
 
 Overfull \hbox (22.27785pt too wide) in paragraph at lines 58--58
 [][][][][][][] 
@@ -6109,10 +6114,10 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 57546 strings out of 494776
- 1039154 string characters out of 6165553
- 1694945 words of memory out of 5000000
- 59809 multiletter control sequences out of 15000+600000
+ 57548 strings out of 494776
+ 1039059 string characters out of 6165553
+ 1694988 words of memory out of 5000000
+ 59812 multiletter control sequences out of 15000+600000
  21051 words of font info for 155 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
  98i,27n,107p,10449b,5507s stack positions out of 5000i,500n,10000p,200000b,80000s
