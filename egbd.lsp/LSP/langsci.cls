@@ -10,7 +10,10 @@
 \newcommand{\lsISBNdigital}{000-0-000000-00-0}
 \newcommand{\lsISBNhardcover}{000-0-000000-00-0}
 \newcommand{\lsISBNsoftcover}{000-0-000000-00-0}
+\newcommand{\lsISBNsoftcoverus}{000-0-000000-00-0}
 \newcommand{\lsURL}{http://langsci-press.org/catalog}
+\newcommand{\lsBookDOI}{??}
+\newcommand{\lsChapterDOI}{??}
 \newcommand{\lsSeries}{eotms}
 \newcommand{\lsSpineBreadth}{20mm}
 \newcommand{\lsOutput}{long}
@@ -637,16 +640,14 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 	\lsBackBody
 	\end{textblock}
 
-	\begin{textblock}{40}(105,200)
-	\lsBackBodyFont\sffamily
-	\colorbox{white}{%
-	\begin{pspicture}(0,0)(4.1,1in)
-	\psbarcode[transx=0.4,transy=0.3]{\lsISBN}{includetext height=0.7}{isbn}
-	\end{pspicture}
-	%\EANisbn%			% remove this?
-	%{\EAN \lsISBN }  	% bar code without isbn line
-	}%	
-	\end{textblock}}
+  \begin{textblock}{40}(105,200)
+    \lsBackBodyFont\sffamily
+    \colorbox{white}{%
+    \begin{pspicture}(0,0)(4.1,1in)
+    \psbarcode[transx=0.4,transy=0.3]{\lsISBNdigital}{includetext height=0.7}{isbn}
+    \end{pspicture}
+    }%  
+  \end{textblock}}
 
 \newcommand{\lsSpine}{			% Book spine
 	\renewcommand{\newlineSpine}{\\}
@@ -1039,16 +1040,21 @@ http://creativecommons.org/licenses/by/4.0/
 Published under the Creative Commons Attribution-NoDerivatives 4.0 Licence (CC BY-ND 4.0):
 http://creativecommons.org/licenses/by-nd/4.0/ 
 \fi
- 
+\bigskip
 \begin{tabular}{@{}l@{~}l}
-ISBN: & \lsISBN~(Digital) \\
-      &	\lsISBNhardcover~(Hardcover)\\
+ISBN: & \lsISBNdigital~(Digital) \\
+      & \lsISBNhardcover~(Hardcover)\\
       & \lsISBNsoftcover~(Softcover)\\
+      & \lsISBNsoftcoverus~(Softcover US)\\
 \end{tabular}
 
-\IfStrEq{\lsISSN}{??}		% \IfStrEq from xstring
-	{}
-	{ISSN: \lsISSN}
+\IfStrEq{\lsISSN}{??}   % \IfStrEq from xstring
+  {}
+  {ISSN: \lsISSN}
+
+\IfStrEq{\lsBookDOI}{??}    % \IfStrEq from xstring
+  {}
+  {\doi{\lsBookDOI}}
 
 \bigskip
  
