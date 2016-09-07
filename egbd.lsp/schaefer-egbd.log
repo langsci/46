@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  5 SEP 2016 15:10
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  7 SEP 2016 11:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2843,11 +2843,9 @@ LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/bx/n' will be
 (Font)              scaled to size 8.93295pt on input line 390.
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/bx/n' will be
 (Font)              scaled to size 11.74745pt on input line 390.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [25]
+ [25]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 405--406
 [][][][][][]
  []
@@ -2886,12 +2884,22 @@ n und Regionen.[] Man könnte z.B. Kor-
 
 [36]
 Package mdframed Info: mdframed works in twoside mode on input line 687.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" >) [37]
+
+Overfull \hbox (3.02855pt too wide) in paragraph at lines 687--687
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 nur historisch gewachsene grammatische K
+onventionen innerhalb von Spre-
+ []
+
+
+Overfull \hbox (11.48506pt too wide) in paragraph at lines 687--687
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 chergemeinschaften. Die Konventionen erl
+auben durchaus Variation, z.B. zwi-
+ []
+
+) [37]
 \openout2 = `chapters/grundbegriffe.aux'.
 
-
-(./chapters/grundbegriffe.tex [38
+ (./chapters/grundbegriffe.tex [38
 
 
 
@@ -2913,11 +2921,15 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 64--65
 
 [40]
 Package mdframed Info: mdframed works in twoside mode on input line 94.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [41]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
 
-<use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.28387pt too wide) in paragraph at lines 94--94
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 andere Betrachtungsgegenstände – über Me
+rkmale und ihre Werte beschrie-
+ []
+
+[41]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 116--117
 [][][][][][]
  []
@@ -2956,20 +2968,21 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 301--302
 [][][][][][]
  []
 
-[47] [48] [49]
+[47] [48]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 382--383
 [][][][][][]
  []
 
-[50]
+[49]
 Underfull \hbox (badness 10000) in paragraph at lines 408--410
 
  []
 
+[50]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 422--423
 [][][][][][]
  []
@@ -3004,11 +3017,9 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 582--583
 
 [55]
 Package mdframed Info: mdframed works in twoside mode on input line 603.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [56] [57] [58]
+ [56] [57] [58]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 704--705
 [][][][][][]
  []
@@ -3029,8 +3040,7 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 908--909
 
 [64]
 Package mdframed Info: mdframed works in twoside mode on input line 951.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [65] [66]) [67
+ [65] [66]) [67
 
 
 ] [68
@@ -3067,11 +3077,9 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 146--147
 
 [75]
 Package mdframed Info: mdframed works in twoside mode on input line 158.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [76]
+ [76]
 File: figures/ueberblick.eps Graphic file (type eps)
- <figures/ueberblick.eps>
-[77]
+ <figures/ueberblick.eps> [77]
 Overfull \hbox (1.60893pt too wide) in paragraph at lines 218--226
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 nicht, wenn Luft hindurchströmt. \U/pzd/
 m/n/10.95 Ù \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Sprechen Sie Wörter mit viel
@@ -3083,8 +3091,12 @@ en \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 h\EU1/LinLibertine_R_B.otf(0)/m/n/10
 File: figures/mundraum.eps Graphic file (type eps)
  <figures/mundraum.eps> [79]
 Package mdframed Info: mdframed works in twoside mode on input line 273.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" >
+
+Overfull \hbox (11.44276pt too wide) in paragraph at lines 273--273
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 den Stimmton produziert, für die grundle
+genden Mechanismen bei der Sprach-
+ []
+
 [80]
 Overfull \hbox (3.47597pt too wide) in paragraph at lines 288--289
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 die \EU1/LinLibertine_R_B.otf(0)/m/it/
@@ -3159,40 +3171,30 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 443--444
 [][][][][][]
  []
 
-[87]
+[87] <xymatrix 6x3 808>
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 468--469
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 479--480
 [][][][][][]
  []
 
 [88]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 477--478
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 488--489
 [][][][][][]
  []
 
-<xymatrix 6x3 808>
-Package mdframed Info: mdframed works in twoside mode on input line 498.
-
-Overfull \hbox (2.66998pt too wide) in paragraph at lines 498--498
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Die Artikulationsart beschreibt die Ar
-t, in der die Sprechorgane die Sprach-
- []
-
 [89]
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" >
+Package mdframed Info: mdframed works in twoside mode on input line 497.
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 511--512
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 510--511
 [][][][][][]
  []
 
 [90] [91] [92] [93] [94] [95]
-Overfull \hbox (1.64633pt too wide) in paragraph at lines 763--771
+Overfull \hbox (1.64633pt too wide) in paragraph at lines 762--770
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Vokale sind gewöhnlicherweise bezüglic
 h ihres Artikulationsorts schwerer ein-
  []
@@ -3200,40 +3202,23 @@ h ihres Artikulationsorts schwerer ein-
 [96]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 787--788
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 786--787
 [][][][][][]
  []
 
 [97] [98]
-Package mdframed Info: mdframed works in twoside mode on input line 838.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [99]
-Package mdframed Info: mdframed works in twoside mode on input line 888.
+Package mdframed Info: mdframed works in twoside mode on input line 837.
+ [99]
+Package mdframed Info: mdframed works in twoside mode on input line 887.
+ [100] [101] [102] [103] [104]
+Package mdframed Info: mdframed works in twoside mode on input line 1150.
+ [105] [106] [107
 
-
-Package mdframed Warning: You got a bad break
-(mdframed)                because the last box will be empty
-(mdframed)                you have to change it manually
-(mdframed)                by changing the text, the space
-(mdframed)                or something else on input line 888.
-
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-<use  "langsci/graphics/tbls-book.pdf" > [100] [101] [102] [103] [104]
-Package mdframed Info: mdframed works in twoside mode on input line 1151.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/tbls-book.pdf" > [105] [106
-
-]) [107]
+]) [108]
 \openout2 = `chapters/phonologie.aux'.
 
 
-(./chapters/phonologie.tex [108
-
-
-
-
-]
+(./chapters/phonologie.tex
 chapter 4.
 
 Overfull \hbox (1.55147pt too wide) in paragraph at lines 5--13
@@ -3241,7 +3226,12 @@ Overfull \hbox (1.55147pt too wide) in paragraph at lines 5--13
 ulatorische Phonetik lieferte die Beschrei-
  []
 
-[109]
+[109
+
+
+
+
+]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 35--36
@@ -3325,25 +3315,16 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 532--533
 
 Package mdframed Info: mdframed works in twoside mode on input line 539.
 
-Overfull \hbox (2.86884pt too wide) in paragraph at lines 539--539
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 werten beobachten. Um solche Phänomene a
-däquat zu beschreiben, nimmt
- []
-
-
-Overfull \hbox (2.86342pt too wide) in paragraph at lines 539--539
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 man abstraktere zugrundeliegende Formen 
-an, die an phonologische Struk-
+Overfull \hbox (5.24596pt too wide) in paragraph at lines 539--539
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Dabei werden vor allem ihre Verteilung u
+nd ihre Merkmale betrachtet. Wenn
  []
 
 Package mdframed Info: Not enough space on this page on input line 539.
 [123]
 Package mdframed Info: Not enough space on this page on input line 539.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" >
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 569--570
 [][][][][][]
  []
@@ -3474,11 +3455,9 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 1526--1527
 [152]
 Package mdframed Info: mdframed works in twoside mode on input line 1534.
 Package mdframed Info: Not enough space on this page on input line 1534.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [153]
+ [153]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 1580--1581
 [][][][][][]
  []
@@ -3536,11 +3515,9 @@ Overfull \hbox (4.34055pt too wide) in paragraph at lines 1829--1832
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 1839.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-<use  "langsci/graphics/tbls-book.pdf" > [162]
+[162]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 1857--1858
 [][][][][][]
  []
@@ -3618,11 +3595,9 @@ Package mdframed Info: mdframed works in twoside mode on input line 201.
 Package mdframed Info: Not enough space on this page on input line 201.
  [179]
 Package mdframed Info: Not enough space on this page on input line 201.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [180] [181] [182]
+ [180] [181] [182]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/bulb.pdf" >
+ <use  "langsci/graphics/bulb.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 336--337
 [][][][][][]
  []
@@ -3647,11 +3622,15 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 432--433
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 443.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-<use  "langsci/graphics/tbls-book.pdf" > [186] [187]
-File: langsci/graphics/law.pdf Graphic file (type QTm)
 
-<use  "langsci/graphics/law.pdf" >
+Overfull \hbox (0.7665pt too wide) in paragraph at lines 443--443
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Für den praktischen Gebrauch ist es sc
+hwierig, Wortklassen als Bedeutungs-
+ []
+
+[186] [187]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 478--479
 [][][][][][]
  []
@@ -3766,15 +3745,13 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 774--775
 
 <xymatrix 14x13 2672>
 Package mdframed Info: mdframed works in twoside mode on input line 818.
- [198]
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [199]
-[200] [201
+ [198] [199] [200] [201
 
 ] [202]) [203]
 \openout2 = `chapters/morphologie.aux'.
 
- (./chapters/morphologie.tex [204
+
+(./chapters/morphologie.tex [204
 
 
 
@@ -3824,445 +3801,22 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 448--449
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 460.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-<use  "langsci/graphics/tbls-book.pdf" > [216]
+[216]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 497--498
 [][][][][][]
  []
 
-[217] <xymatrix 4x4 534> <xymatrix 4x4 534> [218]
+[217] [218] <xymatrix 4x4 534> <xymatrix 4x4 534> [219]
 Package mdframed Info: mdframed works in twoside mode on input line 563.
 
-Overfull \hbox (16.02896pt too wide) in paragraph at lines 563--563
+Overfull \hbox (9.12866pt too wide) in paragraph at lines 563--563
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Affixe sind unselbständige Morphe, die
  typischerweise eine nicht-lexikalische
  []
 
 
-Overfull \vbox (3.92934pt too high) detected at line 563
- []
-
-Package mdframed Info: Box was splittet wrong
- starting loop to iterate the splitting point
-(mdframed)              on input line 563.
-
-Overfull \vbox (4.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (5.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (6.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (7.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (8.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (9.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (10.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (11.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (12.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (13.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (14.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (15.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (16.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (17.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (18.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (19.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (20.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (21.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (22.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (23.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (24.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (25.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (26.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (27.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (28.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (29.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (30.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (31.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (32.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (33.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (34.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (35.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (36.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (37.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (38.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (39.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (40.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (41.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (42.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (43.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (44.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (45.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (46.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (47.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (48.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (49.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (50.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (51.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (52.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (53.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (54.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (55.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (56.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (57.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (58.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (59.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (60.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (61.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (62.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (63.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (64.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (65.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (66.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (67.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (68.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (69.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (70.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (71.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (72.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (73.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (74.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (75.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (76.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (77.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (78.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (79.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (80.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (81.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (82.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (83.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (84.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (85.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (86.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (87.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (88.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (89.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (90.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (91.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (92.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (93.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (94.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (95.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (96.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (97.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (98.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (99.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (100.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (101.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (102.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (103.92934pt too high) detected at line 563
- []
-
-
-Overfull \vbox (104.92934pt too high) detected at line 563
- []
-
-
-Package mdframed Warning: correct box splittet fails
- It seems you are using a non splittable contents
-(mdframed)                 on input line 563.
-
-Package mdframed Info: You first box width is to small
- mdframed fixed it
-(mdframed)              on input line 563.
-[219]
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" >
 Overfull \hbox (1.36977pt too wide) in paragraph at lines 578--579
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 den gemäß der Position im Paradigma bei 
 den konkret vorkommenden Wort-
@@ -4288,32 +3842,30 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 666--667
 [][][][][][]
  []
 
+[223]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 675--676
 [][][][][][]
  []
 
-[223] [224]
+[224]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 699--700
 [][][][][][]
  []
 
-[225]
+[225] [226]
 Package mdframed Info: mdframed works in twoside mode on input line 753.
- [226]
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" >
+ [227]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 797--798
 [][][][][][]
  []
 
-[227] [228] [229] <xymatrix 7x3 890> [230] [231] [232] [233
+[228] [229] <xymatrix 7x3 890> [230] [231] [232] [233
 
 ]) [234]
 \openout2 = `chapters/wortbildung.aux'.
@@ -4383,35 +3935,16 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 281--282
 
 [243] <xymatrix 4x4 534> [244]
 Package mdframed Info: mdframed works in twoside mode on input line 358.
-
-
-Package mdframed Warning: You got a bad break
-(mdframed)                because the last box will be empty
-(mdframed)                you have to change it manually
-(mdframed)                by changing the text, the space
-(mdframed)                or something else on input line 358.
-
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-<use  "langsci/graphics/tbls-book.pdf" > [245]
+ [245] [246]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 394--395
 [][][][][][]
  []
 
-[246] [247] [248] <xymatrix 1x3 160> [249] <xymatrix 4x6 822>
+[247] [248] [249] <xymatrix 1x3 160> <xymatrix 4x6 822>
 Package mdframed Info: mdframed works in twoside mode on input line 531.
-
-
-Package mdframed Warning: You got a bad break
-(mdframed)                because the last box will be empty
-(mdframed)                you have to change it manually
-(mdframed)                by changing the text, the space
-(mdframed)                or something else on input line 531.
-
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-<use  "langsci/graphics/tbls-book.pdf" > [250] [251]
+ [250] [251]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 
 <use  "langsci/graphics/law.pdf" >
@@ -4427,9 +3960,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 Package mdframed Info: mdframed works in twoside mode on input line 836.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" >
-[258]
+ [258]
 Overfull \hbox (1.06602pt too wide) in paragraph at lines 866--873
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 intransparenten Fällen eben gerade nicht
  produktiv Verben wie *\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 zeiten \EU1/LinL
@@ -4483,12 +4014,10 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 394--395
 
 [272] [273] [274]
 Package mdframed Info: mdframed works in twoside mode on input line 488.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [275] <xymatrix
-10x3 1064> [276] <xymatrix 5x4 580> [277] [278] [279]
+ <xymatrix 10x3 1064> [275] [276] <xymatrix 5x4 580> [277]
+[278] [279]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/bulb.pdf" >
+ <use  "langsci/graphics/bulb.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 688--689
 [][][][][][]
  []
@@ -4515,24 +4044,22 @@ omade, Pole, Rumäne, Schwede, Tsche-
 [284] [285] <xymatrix 5x3 516> [286]
 Package mdframed Info: mdframed works in twoside mode on input line 924.
 Package mdframed Info: Not enough space on this page on input line 924.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" >
-[287]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 950--951
 [][][][][][]
  []
 
-[288]
+[287]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 1014--1015
 [][][][][][]
  []
 
+[288]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 1019--1020
 [][][][][][]
  []
@@ -4556,16 +4083,9 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 1117--1118
 [][][][][][]
  []
 
-[292] <xymatrix 5x4 524> [293] [294] [295] [296]
+<xymatrix 5x4 524> [292] [293] [294] [295] [296]
 Package mdframed Info: mdframed works in twoside mode on input line 1294.
-
-Overfull \hbox (1.11049pt too wide) in paragraph at lines 1294--1294
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Artikel und Pronomina müssen lexikalis
-ch genau dann unterschieden wer-
- []
-
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-<use  "langsci/graphics/tbls-book.pdf" > [297] [298] [299] [300]
+ [297] [298] [299]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
 
 <use  "langsci/graphics/bulb.pdf" >
@@ -4573,24 +4093,30 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 1485--1486
 [][][][][][]
  []
 
-[301]
+[300]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 1494--1495
 [][][][][][]
  []
 
-[302]
+[301]
 Overfull \hbox (4.34735pt too wide) in paragraph at lines 1517--1519
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Kommen wir abschließend zur Bewertung 
 der eigentlichen adjektivalen (schwa-
  []
 
-[303] <xymatrix 3x3 334> [304] [305] [306]
+[302] <xymatrix 3x3 334> [303] [304] [305]
 Package mdframed Info: mdframed works in twoside mode on input line 1721.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
 
-<use  "langsci/graphics/tbls-book.pdf" > [307] [308]
+
+Package mdframed Warning: You got a bad break
+(mdframed)                because the last box will be empty
+(mdframed)                you have to change it manually
+(mdframed)                by changing the text, the space
+(mdframed)                or something else on input line 1721.
+
+[306] [307]
 Underfull \hbox (badness 2126) in paragraph at lines 1730--1730
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Die Beispiele sind dem DeReKo (W-Öffentl
 ich/W) entnommen. Siglen: A10/JAN.00664,
@@ -4608,19 +4134,19 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `LinLibertine_R_B.otf' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-[309
+[308
 
-]) [310]
+]) [309]
 \openout2 = `chapters/verben.aux'.
 
- (./chapters/verben.tex
+ (./chapters/verben.tex [310
+
+
+
+
+]
 chapter 9.
-[311
-
-
-
-
-] [312]
+[311] [312]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 107--108
@@ -4655,8 +4181,7 @@ Overfull \hbox (0.16264pt too wide) in paragraph at lines 547--548
 
 [325]
 Package mdframed Info: mdframed works in twoside mode on input line 584.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [326]
+ [326]
 Overfull \hbox (0.73389pt too wide) in paragraph at lines 633--639
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 rerseits ein Passiv (\EU1/LinLibertine_R
 _B.otf(0)/m/it/10.95 wird gegessen\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ) anal
@@ -4696,9 +4221,7 @@ Package mdframed Info: mdframed works in twoside mode on input line 1317.
 Package mdframed Info: Not enough space on this page on input line 1317.
  [343]
 Package mdframed Info: Not enough space on this page on input line 1317.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/tbls-book.pdf" > [344]
+ [344]
 Underfull \hbox (badness 3942) in paragraph at lines 1342--1342
 \EU1/LinLibertine_R_B.otf(1)/m/n/9 JUL.00395, RHZ09/MAR.15300, BVZ09/MAI.01348,
  RHZ09/JUN.22699, BRZ09/MAR.11529,
@@ -4743,9 +4266,7 @@ Underfull \hbox (badness 1803) in paragraph at lines 153--153
 
 [357] [358] <xymatrix 3x2 234> <xymatrix 7x3 474> [359]
 Package mdframed Info: mdframed works in twoside mode on input line 256.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/tbls-book.pdf" > [360] [361]
+ [360] [361]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 
 <use  "langsci/graphics/law.pdf" >
@@ -4753,14 +4274,13 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 291--292
 [][][][][][]
  []
 
-[362]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
+<use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 322--323
 [][][][][][]
  []
 
-[363]
+[362] [363]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 375--376
@@ -4803,14 +4323,11 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 554--555
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 564.
-[369]
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > <xymatrix 3x2 168> [370]
-<xymatrix 4x3 382> <xymatrix 3x2 168> <xymatrix 7x3 532> [371] <xymatrix 4x3
-592> [372] <xymatrix 4x1 92> <xymatrix 4x1 92> <xymatrix 4x1 92> [373]
+[369] <xymatrix 3x2 168> [370] <xymatrix 4x3 382> <xymatrix 3x2 168> <xymatrix
+7x3 532> [371] <xymatrix 4x3 592> [372] <xymatrix 4x1 92> <xymatrix 4x1 92>
+<xymatrix 4x1 92> [373]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 761--762
 [][][][][][]
  []
@@ -4843,8 +4360,7 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 857--858
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 869.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-<use  "langsci/graphics/tbls-book.pdf" > [378] [379]
+[378] [379]
 Underfull \hbox (badness 6876) in paragraph at lines 878--878
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: A09/DEZ.023
 19, BRZ09/SEP.15424, HMP08/FEB.00096,
@@ -4889,11 +4405,9 @@ ta hier nicht detailliert formuliert wer-
 
 [385]
 Package mdframed Info: mdframed works in twoside mode on input line 127.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [386]
+ [386]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 143--144
 [][][][][][]
  []
@@ -4909,12 +4423,9 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 153--154
 <xymatrix 9x3 643> [393] <xymatrix 7x3 474> <xymatrix 6x3 478> <xymatrix 9x4
 732> [394] [395] <xymatrix 10x3 787> [396] <xymatrix 3x3 316> [397]
 Package mdframed Info: mdframed works in twoside mode on input line 628.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/tbls-book.pdf" >
 File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-<xymatrix 4x1 92>
+
+<use  "langsci/graphics/law.pdf" > <xymatrix 4x1 92>
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 645--646
 [][][][][][]
  []
@@ -4922,12 +4433,9 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 645--646
 [398] [399] <xymatrix 6x3 481> <xymatrix 4x3 337> <xymatrix 8x3 658> [400]
 Package mdframed Info: mdframed works in twoside mode on input line 743.
 Package mdframed Info: Not enough space on this page on input line 743.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/tbls-book.pdf" >
 File: langsci/graphics/law.pdf Graphic file (type QTm)
- <use  "langsci/graphics/law.pdf" >
-<xymatrix 4x1 92>
+
+<use  "langsci/graphics/law.pdf" > <xymatrix 4x1 92>
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 755--756
 [][][][][][]
  []
@@ -4936,453 +4444,28 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 755--756
 3x4 518> <xymatrix 2x4 374> [403]
 Package mdframed Info: mdframed works in twoside mode on input line 860.
 Package mdframed Info: Not enough space on this page on input line 860.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" >
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 870--871
 [][][][][][]
  []
 
 [404] <xymatrix 4x3 328>
 Package mdframed Info: mdframed works in twoside mode on input line 901.
-
-Overfull \vbox (10.52461pt too high) detected at line 901
- []
-
-Package mdframed Info: Box was splittet wrong
- starting loop to iterate the splitting point
-(mdframed)              on input line 901.
-
-Overfull \vbox (11.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (12.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (13.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (14.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (15.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (16.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (17.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (18.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (19.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (20.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (21.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (22.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (23.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (24.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (25.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (26.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (27.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (28.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (29.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (30.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (31.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (32.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (33.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (34.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (35.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (36.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (37.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (38.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (39.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (40.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (41.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (42.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (43.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (44.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (45.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (46.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (47.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (48.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (49.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (50.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (51.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (52.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (53.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (54.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (55.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (56.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (57.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (58.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (59.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (60.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (61.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (62.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (63.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (64.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (65.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (66.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (67.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (68.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (69.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (70.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (71.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (72.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (73.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (74.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (75.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (76.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (77.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (78.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (79.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (80.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (81.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (82.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (83.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (84.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (85.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (86.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (87.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (88.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (89.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (90.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (91.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (92.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (93.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (94.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (95.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (96.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (97.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (98.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (99.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (100.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (101.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (102.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (103.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (104.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (105.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (106.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (107.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (108.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (109.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (110.52461pt too high) detected at line 901
- []
-
-
-Overfull \vbox (111.52461pt too high) detected at line 901
- []
-
-
-Package mdframed Warning: correct box splittet fails
- It seems you are using a non splittable contents
-(mdframed)                 on input line 901.
-
-Package mdframed Info: You first box width is to small
- mdframed fixed it
-(mdframed)              on input line 901.
-[405]
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" >
+ [405]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" > <xymatrix 4x1 92>
+ <use  "langsci/graphics/law.pdf" > <xymatrix
+4x1 92>
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 911--912
 [][][][][][]
  []
 
 <xymatrix 4x3 321> [406]
 Package mdframed Info: mdframed works in twoside mode on input line 966.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [407]
+ [407]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" > <xymatrix 4x1 92>
+ <use  "langsci/graphics/law.pdf" > <xymatrix
+4x1 92>
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 1002--1003
 [][][][][][]
  []
@@ -5395,37 +4478,35 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 1082--1083
 [][][][][][]
  []
 
-[410] [411]
+[410]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" > <xymatrix 4x1 92>
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 1120--1121
 [][][][][][]
  []
 
-<xymatrix 1x2 90> <xymatrix 4x3 403> <xymatrix 4x3 403> <xymatrix 7x4 708>
+[411] <xymatrix 1x2 90> <xymatrix 4x3 403> <xymatrix 4x3 403> <xymatrix 7x4
+708>
 Overfull \hbox (1.03319pt too wide) in paragraph at lines 1172--1179
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Gibt man den Verben im normalen Verbko
 mplex die Indexnummern von rechts
  []
 
-[412] [413] <xymatrix 11x7 1210>
+[412] <xymatrix 11x7 1210> [413]
 Package mdframed Info: mdframed works in twoside mode on input line 1214.
+Package mdframed Info: Not enough space on this page on input line 1214.
  [414]
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/tbls-book.pdf" >
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 1238--1239
 [][][][][][]
  []
 
-[415] <xymatrix 8x2 706> [416] <xymatrix 8x3 928> <xymatrix 8x4 1118> [417]
-<xymatrix 8x4 1244> <xymatrix 8x5 1446> [418] <xymatrix 8x6 1620>
+<xymatrix 8x2 706> [415] <xymatrix 8x3 928> <xymatrix 8x4 1118> <xymatrix 8x4
+1244> [416] <xymatrix 8x5 1446> <xymatrix 8x6 1620> [417] [418]
 Package mdframed Info: mdframed works in twoside mode on input line 1366.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/tbls-book.pdf" > [419]
+Package mdframed Info: Not enough space on this page on input line 1366.
+ [419]
 Underfull \hbox (badness 1708) in paragraph at lines 1375--1375
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Siglen der Belege im DeReKo: NON09/OKT.1
 0157, A00/SEP.61566, A00/OKT.71958, A00/
@@ -5470,11 +4551,10 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 59--60
 
 [424]
 Package mdframed Info: mdframed works in twoside mode on input line 90.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [425] [426] <xymatrix 15x4
-1098> [427] <xymatrix 11x4 1039> [428]
+ [425] [426] <xymatrix 15x4 1098> [427] <xymatrix 11x4 1039> [428]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
+
+<use  "langsci/graphics/bulb.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 238--239
 [][][][][][]
  []
@@ -5491,9 +4571,7 @@ t-
 [431] [432] [433] [434] [435]
 Package mdframed Info: mdframed works in twoside mode on input line 624.
 Package mdframed Info: Not enough space on this page on input line 624.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [436]
-<xymatrix 12x6 1097> <xymatrix 11x5 1225> [437] [438]
+ [436] <xymatrix 12x6 1097> <xymatrix 11x5 1225>
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 
 <use  "langsci/graphics/law.pdf" >
@@ -5501,7 +4579,7 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 697--698
 [][][][][][]
  []
 
-<xymatrix 12x5 1138> [439] <xymatrix 11x5 1225>
+[437] [438] <xymatrix 12x5 1138> <xymatrix 11x5 1225>
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 
 <use  "langsci/graphics/law.pdf" >
@@ -5509,15 +4587,12 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 760--761
 [][][][][][]
  []
 
-[440] <xymatrix 10x5 1080> [441] <xymatrix 11x5 1221> [442] <xymatrix 9x6 966>
+[439] [440] <xymatrix 10x5 1080> [441] <xymatrix 11x5 1221> [442] <xymatrix
+9x6 966>
 Package mdframed Info: mdframed works in twoside mode on input line 892.
-
-[443]
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [444]
+ [443] [444]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 946--947
 [][][][][][]
  []
@@ -5537,30 +4612,27 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 1302--1303
 [][][][][][]
  []
 
-[453]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
+<use  "langsci/graphics/bulb.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 1336--1337
 [][][][][][]
  []
 
-[454]
+[453]
 Package mdframed Info: mdframed works in twoside mode on input line 1360.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [455] [456
+ [454] [455
 
-] [457]) [458]
+] [456]) [457]
 \openout2 = `chapters/relationen.aux'.
 
-
-(./chapters/relationen.tex
-chapter 13.
-[459
+ (./chapters/relationen.tex [458
 
 
 
 
 ]
+chapter 13.
+[459]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 41--42
@@ -5589,22 +4661,19 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 114--115
 
 [462] [463]
 Package mdframed Info: mdframed works in twoside mode on input line 167.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [464] [465] [466] [467]
+ [464] [465] [466] [467]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 315--316
 [][][][][][]
  []
 
 [468]
 Package mdframed Info: mdframed works in twoside mode on input line 324.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [469]
+Package mdframed Info: Not enough space on this page on input line 324.
+ [469]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 401--402
 [][][][][][]
  []
@@ -5612,9 +4681,7 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 401--402
 [470] [471] [472] [473] [474] [475] <xymatrix 5x4 546> [476]
 Package mdframed Info: mdframed works in twoside mode on input line 674.
 Package mdframed Info: Not enough space on this page on input line 674.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/tbls-book.pdf" > [477] [478]
+ [477] [478]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
 
 <use  "langsci/graphics/bulb.pdf" >
@@ -5634,16 +4701,14 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 862--863
 
 [481] [482]
 Package mdframed Info: mdframed works in twoside mode on input line 935.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [483]
+Package mdframed Info: Not enough space on this page on input line 935.
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 955--956
 [][][][][][]
  []
 
-[484]
+[483] [484]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 1006--1007
@@ -5664,25 +4729,23 @@ U1/LinLibertine_R_B.otf(0)/m/it/10.95 zu laut \EU1/LinLibertine_R_B.otf(0)/m/n/
 10.95 ([]55a[]) oder eine anderweitige Kenn-
  []
 
-[488] [489]
+[488]
 Package mdframed Info: mdframed works in twoside mode on input line 1182.
 
-Overfull \hbox (9.6962pt too wide) in paragraph at lines 1182--1182
+Overfull \hbox (2.7959pt too wide) in paragraph at lines 1182--1182
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Dative, mit denen ein \EU1/LinLibertin
 e_R_B.otf(0)/m/it/10.95 bekommen\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 -Passiv 
 gebildet werden können (einschließ-
  []
 
-Package mdframed Info: Not enough space on this page on input line 1182.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-<use  "langsci/graphics/tbls-book.pdf" >
+
 Overfull \hbox (2.51048pt too wide) in paragraph at lines 1188--1195
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Angaben von Verben besprochen, nämlich d
 ie sogenannte \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Bindung\EU1/LinLibertine_
 R_B.otf(0)/m/n/10.95 . Die Bindungs-
  []
 
-[490]
+[489] [490]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 1228--1229
@@ -5698,11 +4761,15 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 1278--1279
 
 [492]
 Package mdframed Info: mdframed works in twoside mode on input line 1283.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [493] [494]
-File: langsci/graphics/bulb.pdf Graphic file (type QTm)
 
-<use  "langsci/graphics/bulb.pdf" >
+Overfull \hbox (5.84271pt too wide) in paragraph at lines 1283--1283
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 möglichkeiten von normalen Pronomina und
+ Reflexivpronomina in bestimm-
+ []
+
+[493] [494]
+File: langsci/graphics/bulb.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/bulb.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 1356--1357
 [][][][][][]
  []
@@ -5710,17 +4777,16 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 1356--1357
 [495] <xymatrix 4x6 922> [496] [497]
 Package mdframed Info: mdframed works in twoside mode on input line 1446.
 Package mdframed Info: Not enough space on this page on input line 1446.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" >
-<xymatrix 3x4 554> [498]
+ <xymatrix 3x4 554>
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
+
+<use  "langsci/graphics/bulb.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 1499--1500
 [][][][][][]
  []
 
-[499] <xymatrix 4x4 375> <xymatrix 3x4 371> <xymatrix 6x5 701> <xymatrix 6x5
-713> [500] [501]
+[498] [499] <xymatrix 4x4 375> <xymatrix 3x4 371> <xymatrix 6x5 701> <xymatrix
+6x5 713> [500] [501]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 1600--1601
@@ -5730,22 +4796,19 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 1600--1601
 [502] [503] [504] [505]
 Package mdframed Info: mdframed works in twoside mode on input line 1729.
 Package mdframed Info: Not enough space on this page on input line 1729.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [506]
+ [506]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 1794--1795
 [][][][][][]
  []
 
 [507] [508]
 Package mdframed Info: mdframed works in twoside mode on input line 1853.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [509] [510
+Package mdframed Info: Not enough space on this page on input line 1853.
+ [509] [510
 
-] [511] [512]
-[513] [514
+] [511] [512] [513] [514
 
 
 ]) [515] [516
@@ -5768,9 +4831,7 @@ chapter 14.
 
 ] [520] [521] [522] [523] [524] [525]
 Package mdframed Info: mdframed works in twoside mode on input line 171.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/tbls-book.pdf" > [526] [527] [528]
+ [526] [527] [528]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
 
 <use  "langsci/graphics/bulb.pdf" >
@@ -5780,8 +4841,7 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 288--289
 
 [529] [530]
 Package mdframed Info: mdframed works in twoside mode on input line 348.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [531]
+ [531]
 Overfull \hbox (3.1529pt too wide) in paragraph at lines 364--370
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 von Vokalen. In Abschnitt []4.1.4[] wurd
 e festgestellt, dass zugrundeliegend das Merk-
@@ -5819,24 +4879,13 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 478--479
  []
 
 [535] <xymatrix 5x5 1020> <xymatrix 6x5 1154> <xymatrix 6x5 1168> [536]
-[537] [538] [539] [540]
+[537] [538] [539]
 Package mdframed Info: mdframed works in twoside mode on input line 656.
-Package mdframed Info: Not enough space on this page on input line 656.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [541]
+ [540] [541]
 Package mdframed Info: mdframed works in twoside mode on input line 701.
-
-Overfull \hbox (0.22351pt too wide) in paragraph at lines 701--701
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Schreiber machen kreativen Gebrauch vo
-n den Möglichkeiten des Schreib-
- []
-
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-<use  "langsci/graphics/tbls-book.pdf" > [542] [543] [544]
+ [542] [543]
 Package mdframed Info: mdframed works in twoside mode on input line 768.
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/tbls-book.pdf" > [545] [546
+ [544] [545] [546
 
 ]) [547]
 \openout2 = `chapters/andereschrift.aux'.
@@ -5892,34 +4941,14 @@ ung weitgehend als Silbengelenkschrei-
 [561] [562]
 Package mdframed Info: mdframed works in twoside mode on input line 432.
 
-Overfull \hbox (0.656pt too wide) in paragraph at lines 432--432
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Spatien trennen syntaktische Wörter. M
-orphosyntaktische Univerbierung
- []
-
-
-Overfull \hbox (25.82558pt too wide) in paragraph at lines 432--432
+Overfull \hbox (18.92528pt too wide) in paragraph at lines 432--432
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Schreibung nicht markiert, außer im Fall
  der positionsunabhängigen Substantiv-
  []
 
-
-Overfull \hbox (0.53923pt too wide) in paragraph at lines 432--432
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 mit spezifischen grammatischen Eigenscha
-ften. Klitisierung wird im Deut-
- []
-
-
-Overfull \hbox (23.02509pt too wide) in paragraph at lines 432--432
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 stantschreibungen sichern die Wiedererke
-nnbarkeit von Stämmen bei Flexions-
- []
-
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
-<use  "langsci/graphics/tbls-book.pdf" > [563]
+[563]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 469--470
 [][][][][][]
  []
@@ -5940,21 +4969,12 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 659--660
 
 [569]
 Package mdframed Info: mdframed works in twoside mode on input line 701.
-
-Overfull \hbox (3.6226pt too wide) in paragraph at lines 701--701
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 nen durch parenthetische Phrasen gebilde
-t werden (Gedankenstrich, Klam-
- []
-
-[570]
-File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
- <use  "langsci/graphics/tbls-book.pdf" > [571] [572
+ [570] [571] [572
 
 ] [573] [574
 
 
-])
-[575]
+]) [575]
 \openout2 = `chapters/loesungen.aux'.
 
  (./chapters/loesungen.tex [576
@@ -5962,7 +4982,8 @@ File: langsci/graphics/tbls-book.pdf Graphic file (type QTm)
 
 
 
-] [577] [578] [579
+]
+[577] [578] [579
 
 ] [580] [581] [582]
 Underfull \hbox (badness 2277) in paragraph at lines 304--308
@@ -6114,10 +5135,10 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 57548 strings out of 494776
- 1039059 string characters out of 6165553
- 1694988 words of memory out of 5000000
- 59812 multiletter control sequences out of 15000+600000
+ 57550 strings out of 494776
+ 1039095 string characters out of 6165553
+ 1695040 words of memory out of 5000000
+ 59815 multiletter control sequences out of 15000+600000
  21051 words of font info for 155 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
  98i,27n,107p,10449b,5507s stack positions out of 5000i,500n,10000p,200000b,80000s
