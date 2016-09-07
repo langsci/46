@@ -79,6 +79,9 @@
 \newcommand{\TuEnd}{}
 \newcommand{\Folgt}{\ding{217}}
 
+\newcommand\circlearound[1]{\tikz[baseline]\node[draw,shape=circle,anchor=base] {#1} ;}
+
+
 % xyling
 \newcommand{\QQw}[1][-]{\POS[]+(-4,-1)-(4,4);\POS[]+(0,-1)+(8,4)**\frm{#1}}
 \newcommand{\QQww}[1][-]{\POS[]+(-6,-1)-(6,4);\POS[]+(0,-1)+(12,4)**\frm{#1}}
@@ -128,7 +131,7 @@
 
 % NEW Vertiefung (non-floating)
 
-%\newcommand{\tblsthickline}{{\color{gray}\rule{\textwidth}{1.5mm}}}
+\newcommand{\tblsthickline}{{\color{gray}\rule{\textwidth}{1.5mm}}}
 
 \newenvironment{Sandwich}[1]
   {
@@ -208,9 +211,7 @@
 
 
 \newcommand{\Zusammenfassung}[1]{
-%  \vspace{\baselineskip}
-  \tblsfd{\lsSeriesColor}{0.8}{Zusammenfassung von Abschnitt~\thesection}{#1}
-%  \hfb[Zusammenfassung von Abschnitt~\thesection]{lsYellow}{#1}
+  \hfb[Zusammenfassung von Abschnitt~\thesection]{lsYellow}{#1}
 }
 
 

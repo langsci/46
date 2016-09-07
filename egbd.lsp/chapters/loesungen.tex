@@ -128,13 +128,14 @@ Es kann vor oder nach dem \textipa{[s]} silbifiziert werden.
   \begin{tabular}{ccccccccc}
     V & \rnode{EX01V1}{} &  & \rnode{EX01V3}{\textipa{I}} & \rnode{EX01V4}{} & \rnode{EX01V5}{} & \rnode{EX01V6}{\textipa{@}} & \rnode{EX01V7}{} \\
     L & \rnode{EX01A1}{} & \rnode{EX01F2}{\textipa{K}} & \rnode{EX01A3}{} & \rnode{EX01A4}{} & \rnode{EX01A5}{} & \rnode{EX01A6}{} & \rnode{EX01A7}{} \\
-    N & \rnode{EX01N1}{} & \rnode{EX01N2}{} & \rnode{EX01N3}{} & \rnode{EX01N4}{\textipa{N}} & \rnode{EX01N5}{} & \rnode{EX01N6}{} & \rnode{EX01N7}{\textipa{n}} \\
+    N & \rnode{EX01N1}{} & \rnode{EX01N2}{} & \rnode{EX01N3}{} & \rnode{EX01N4}{\circlearound{\textipa{N}}} & \rnode{EX01N5}{} & \rnode{EX01N6}{} & \rnode{EX01N7}{\textipa{n}} \\
     F & \rnode{EX01F1}{\textipa{v}} &  & \rnode{EX01F3}{} & \rnode{EX01F4}{} & \rnode{EX01F5}{} & \rnode{EX01F6}{} & \rnode{EX01F7}{} \\
     P & \rnode{EX01P1}{} & \rnode{EX01P2}{} & \rnode{EX01P3}{} & \rnode{EX01P4}{} & \rnode{EX01P5}{} & \rnode{EX01P6}{} & \rnode{EX01P7}{} \\
   \end{tabular}
   \ncline[nodesep=3pt]{->}{EX01F1}{EX01F2}
   \ncline[nodesep=3pt]{->}{EX01F2}{EX01V3}
   \ncline[nodesep=3pt]{->}{EX01V3}{EX01N4}
+  \ncline[nodesep=3pt]{->}{EX01N4}{EX01V6}
   \ncline[nodesep=3pt]{->}{EX01V6}{EX01N7}
 
   \item
@@ -208,24 +209,26 @@ Es kann vor oder nach dem \textipa{[s]} silbifiziert werden.
     V & \rnode{EX07V1}{} & \rnode{EX07V2}{\textipa{u:}} & \rnode{EX07V3}{} & \rnode{EX07V4}{} & \rnode{EX07V5}{\textipa{E}} & \rnode{EX07V6}{} & \rnode{EX07V7}{} & \rnode{EX07V8}{} & \rnode{EX07V9}{\textipa{I}} & \rnode{EX07V10}{} & \rnode{EX07V11}{} & \rnode{EX07V12}{\textipa{@}} \\
     L & \rnode{EX07A1}{} & \rnode{EX07A2}{} & \rnode{EX07A3}{} & \rnode{EX07A4}{} & \rnode{EX07A5}{} & \rnode{EX07A6}{} & \rnode{EX07A7}{} & \rnode{EX07A8}{\textipa{l}} & \rnode{EX07A9}{} & \rnode{EX07A10}{} & \rnode{EX07A11}{} & \rnode{EX07A12}{} \\
     N & \rnode{EX07N1}{} & \rnode{EX07N2}{} & \rnode{EX07N3}{} & \rnode{EX07N4}{} & \rnode{EX07N5}{} & \rnode{EX07N6}{} & \rnode{EX07N7}{} & \rnode{EX07N8}{} & \rnode{EX07N9}{} & \rnode{EX07N10}{} & \rnode{EX07N11}{} & \rnode{EX07N12}{} \\
-    F & \rnode{EX07F1}{} & \rnode{EX07F2}{} & \rnode{EX07F3}{} & \rnode{EX07F4}{\textipa{z}} & \rnode{EX07F5}{} & \rnode{EX07F6}{} & \rnode{EX07F7}{} & \rnode{EX07F8}{} & \rnode{EX07F9}{} & \rnode{EX07F10}{} & \rnode{EX07F11}{\textipa{\c{c}}} & \rnode{EX07F12}{} \\
+    F & \rnode{EX07F1}{} & \rnode{EX07F2}{} & \rnode{EX07F3}{} & \rnode{EX07F4}{\textipa{z}} & \rnode{EX07F5}{} & \rnode{EX07F6}{} & \rnode{EX07F7}{} & \rnode{EX07F8}{} & \rnode{EX07F9}{} & \rnode{EX07F10}{} & \rnode{EX07F11}{\circlearound{\textipa{\c{c}}}} & \rnode{EX07F12}{} \\
     P & \rnode{EX07P1}{\textipa{\t{ts}}} & \rnode{EX07P2}{} & \rnode{EX07P3}{} & \rnode{EX07P4}{} & \rnode{EX07P5}{} & \rnode{EX07P6}{\textipa{\t{ts}}} & \rnode{EX07P7}{} & \rnode{EX07P8}{} & \rnode{EX07P9}{} & \rnode{EX07P10}{} & \rnode{EX07P11}{} & \rnode{EX07P12}{} \\
   \end{tabular}
   \ncline[nodesep=3pt]{->}{EX07P1}{EX07V2}
   \ncline[nodesep=3pt]{->}{EX07F4}{EX07V5}
   \ncline[nodesep=3pt]{->}{EX07V5}{EX07P6}
   \ncline[nodesep=3pt]{->}{EX07A8}{EX07V9}
+  \ncline[nodesep=3pt]{->}{EX07V9}{EX07F11}
   \ncline[nodesep=3pt]{->}{EX07F11}{EX07V12}
 
   \item
   \begin{tabular}{ccccccc}
     V & \rnode{EX08V1}{} & \rnode{EX08V2}{\textipa{a}} & \rnode{EX08V3}{} & \rnode{EX08V4}{} & \rnode{EX08V5}{\textipa{5}} & \rnode{EX08V6}{} \\
     L & \rnode{EX08A1}{} & \rnode{EX08A2}{} & \rnode{EX08A3}{} & \rnode{EX08A4}{} & \rnode{EX08A5}{} & \rnode{EX08A6}{} \\
-    N & \rnode{EX08N1}{} & \rnode{EX08N2}{} & \rnode{EX08N3}{} & \rnode{EX08N4}{\textipa{m}} & \rnode{EX08N5}{} & \rnode{EX08N6}{} \\
+    N & \rnode{EX08N1}{} & \rnode{EX08N2}{} & \rnode{EX08N3}{} & \rnode{EX08N4}{\circlearound{\textipa{m}}} & \rnode{EX08N5}{} & \rnode{EX08N6}{} \\
     F & \rnode{EX08F1}{\textipa{h}} & \rnode{EX08F2}{} & \rnode{EX08F3}{} & \rnode{EX08F4}{} & \rnode{EX08F5}{} & \rnode{EX08F6}{} \\
     P & \rnode{EX08P1}{} & \rnode{EX08P2}{} & \rnode{EX08P3}{} & \rnode{EX08P4}{} & \rnode{EX08P5}{} & \rnode{EX08P6}{} \\
   \end{tabular}
   \ncline[nodesep=3pt]{->}{EX08F1}{EX08V2}
+  \ncline[nodesep=3pt]{->}{EX08V2}{EX08N4}
   \ncline[nodesep=3pt]{->}{EX08N4}{EX08V5}
 
   \item
@@ -242,13 +245,14 @@ Es kann vor oder nach dem \textipa{[s]} silbifiziert werden.
   \ncline[nodesep=3pt]{->}{EX09aP6}{EX09aV7}
 
   \item
-  \begin{tabular}{ccccccc}
-    V & \rnode{EX10V1}{\textipa{i:}} & \rnode{EX10V2}{} & \rnode{EX10V3}{} & \rnode{EX10V4}{} & \rnode{EX10V5}{\textipa{u:}} & \rnode{EX10V6}{} \\
-    L & \rnode{EX10A1}{} & \rnode{EX10A2}{} & \rnode{EX10A3}{} & \rnode{EX10A4}{\textipa{l}} & \rnode{EX10A5}{} & \rnode{EX10A6}{} \\
-    N & \rnode{EX10N1}{} & \rnode{EX10N2}{} & \rnode{EX10N3}{} & \rnode{EX10N4}{} & \rnode{EX10N5}{} & \rnode{EX10N6}{} \\
-    F & \rnode{EX10F1}{} & \rnode{EX10F2}{} & \rnode{EX10F3}{} & \rnode{EX10F4}{} & \rnode{EX10F5}{} & \rnode{EX10F6}{} \\
-    P & \rnode{EX10P1}{} & \rnode{EX10P2}{} & \rnode{EX10P3}{\textipa{g}} & \rnode{EX10P4}{} & \rnode{EX10P5}{} & \rnode{EX10P6}{} \\
+  \begin{tabular}{cccccccc}
+    V & \rnode{EX10V0}{} & \rnode{EX10V1}{\textipa{i:}} & \rnode{EX10V2}{} & \rnode{EX10V3}{} & \rnode{EX10V4}{} & \rnode{EX10V5}{\textipa{u:}} & \rnode{EX10V6}{} \\
+    L & \rnode{EX10A0}{} & \rnode{EX10A1}{} & \rnode{EX10A2}{} & \rnode{EX10A3}{} & \rnode{EX10A4}{\textipa{l}} & \rnode{EX10A5}{} & \rnode{EX10A6}{} \\
+    N & \rnode{EX10N0}{} & \rnode{EX10N1}{} & \rnode{EX10N2}{} & \rnode{EX10N3}{} & \rnode{EX10N4}{} & \rnode{EX10N5}{} & \rnode{EX10N6}{} \\
+    F & \rnode{EX10F0}{} & \rnode{EX10F1}{} & \rnode{EX10F2}{} & \rnode{EX10F3}{} & \rnode{EX10F4}{} & \rnode{EX10F5}{} & \rnode{EX10F6}{} \\
+    P & \rnode{EX10P0}{\textipa{P}} & \rnode{EX10P1}{} & \rnode{EX10P2}{} & \rnode{EX10P3}{\textipa{g}} & \rnode{EX10P4}{} & \rnode{EX10P5}{} & \rnode{EX10P6}{} \\
   \end{tabular}
+  \ncline[nodesep=3pt]{->}{EX10P0}{EX10V1}
   \ncline[nodesep=3pt]{->}{EX10P3}{EX10A4}
   \ncline[nodesep=3pt]{->}{EX10A4}{EX10V5}
 
@@ -271,20 +275,20 @@ Es kann vor oder nach dem \textipa{[s]} silbifiziert werden.
 \Loesung{u45}
 
 \begin{enumerate}\Lf
-  \item \Akz fre.ches
-  \item \Akz Kling.el
-  \item \Akz O.pa
-  \item nach.\Akz dem
-  \item \Akz Au.to
-  \item \Akz Au.to.rei.fen
-  \item Be.\Akz en.di.gung
-  \item Me.\Akz lo.ne
-  \item \Akz röt.lich
-  \item \Akz Röt.lich.keit
-  \item Pö.be.\Akz lei
-  \item res.pek.\Akz ta.bel
-  \item \Akz Schul.ent.wick.lungs.plan\\
-    oder Schul.ent.\Akz wick.lungs.plan (mit Bedeutungsunterschied)
+  \item \Akz freches
+  \item \Akz Klingel
+  \item \Akz Opa
+  \item nach\Akz dem
+  \item \Akz Auto
+  \item \Akz Autoreifen
+  \item Be\Akz endigung
+  \item Me\Akz lone
+  \item \Akz rötlich
+  \item \Akz Rötlichkeit
+  \item Pöbe\Akz lei
+  \item respek\Akz tabel
+  \item \Akz Schulentwicklungsplan\\
+    oder Schulent\Akz wicklungsplan (mit Bedeutungsunterschied)
 \end{enumerate}
 
 \Loesung{u47}

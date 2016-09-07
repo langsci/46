@@ -531,7 +531,7 @@ Nach gespanntem Vokal folgt \textipa{[5]}, nach ungespanntem folgt \textipa{[@]}
 Schwa und /\textipa{K}/ werden zusammen durch \textipa{[5]} substituiert.
 }
 
-\Zusammenfassung{
+\Zusammenfassung{%
 In der Phonologie ist der Status der Segmente im Gesamtsystem relevant.
 Dabei werden vor allem ihre Verteilung und ihre Merkmale betrachtet.
 Wenn man alle Formen eines Worts berücksichtigt, kann man umgebungsabhängige bzw.\ positionsabhängige Änderungen von Merkmalswerten beobachten.
@@ -1126,14 +1126,14 @@ Es ist \textit{extrasilbisch}.
   \centering
   \Tree[3]{
      \K{\small\textbf{extrasilbisch}} & \K{\small\textbf{Anfangsrand}} && \K{\small\textbf{Kern}} \\
-     \K{\textipa{S}}\R[--]{r} & \K{p, t}\R{ddddrr}^{\text{Plosiv}}              &&           \\
-     & \K{b, d, k, g}\Rxx{7.5}{9.75}{r}                &&           \\
+     \K{\textipa{S}}\R[--]{r} & \K{p\ t}\R{ddddrr}^{\text{Plosiv}}              &&           \\
+     & \K{b\ d\ k\ g\ (\textipa{P})}\Rxx{9.5}{9.75}{r}                &&           \\
      \K{\textipa{S}}\R[--]{r} & \K{v}\R{ddrr}_{\text{Frikativ}}             &&           \\
-     & \K{f, \textipa{S}, h, z, \textipa{J}}\Rxxx{8.5}{9}{7.6}{ur}           &&           \\
+     & \K{f\ \textipa{S}\ h\ z\ \textipa{J}}\Rxxx{8.5}{9}{7.6}{ur}           &&           \\
      &          && \K{~~~Vokal} \\
-     \K{\textipa{S}}\R[--]{r} & \K{~~m, n}\Rxx{6}{3.7}{urr}_{\text{Nasal}}  &&           \\
+     \K{\textipa{S}}\R[--]{r} & \K{~~m\ n}\Rxx{6}{3.7}{urr}_{\text{Nasal}}  &&           \\
      &                                         &&           \\
-     \K{\textipa{S}}\R[--]{r} & \K{l, \textipa{K}}\R{uuurr}_{\text{Liquid}}         &&           \\
+     \K{\textipa{S}}\R[--]{r} & \K{l\ \textipa{K}}\R{uuurr}_{\text{Liquid}}         &&           \\
   }
   \caption{Struktur des simplexen Anfangsrands}
   \label{fig:anfangsrandsimplex}
@@ -1148,10 +1148,11 @@ Für jede mögliche Besetzung des Anfangsrands gibt es genau einen Weg durch die
 Man beginnt mit dem Vokal im Kern.
 Die von dort nach links weisenden Äste zeigen Besetzungsmöglichkeiten für das erste Segment im Anfangsrand links vom Vokal.
 Von diesen weisen ggf.\ weitere Äste nach links, die die Möglichkeiten für weiter links stehende Segmente anzeigen, und zwar abhängig von dem bereits eingeschlagenen Weg.
-Die in Gruppen angeordneten, mit Komma getrennten Segmente stellen jeweils verschiedene Möglichkeiten der Besetzung dar.
+Die in Gruppen angeordneten Segmente stellen jeweils verschiedene Möglichkeiten der Besetzung dar.
 In Abbildung~\ref{fig:anfangsrandsimplex} kann man vor dem Vokal zum Beispiel einen Plosiv einsetzen (oberer Ast).
 Es kommen \textipa{[p]} oder \textipa{[t]} infrage (obere Verästelung des obersten Asts), vor dem noch ein \textipa{[S]} stehen kann.
 Vor \textipa{[b]}, \textipa{[d]}, \textipa{[k]} und \textipa{[g]} (untere Verästelung des oberen Asts) kann allerdings kein \textipa{[S]} stehen.
+Der Glottalplosiv \textipa{[P]} ist eingeklammert, um seinen Sonderstatus als nicht zugrundeliegendes Segment zu markieren.
 
 Es wird sofort deutlich, dass die Kombinationsmöglichkeiten sehr stark auf die Verbindung von Plosiven oder den labiodentalen Frikativen [f] und [v] mit folgendem Liquid eingeschränkt sind.
 Zwischen den beiden Liquiden an zweiter Stelle gibt es im Wesentlichen zwei minimale Unterschiede.
@@ -1171,12 +1172,12 @@ Extrasilbisch tritt ggf.\ \textipa{[S]} vor den Anfangsrand.\index{Silbe!Anfangs
   \Tree[3]{
      \K{\small\textbf{extrasilbisch}} & \K{\small\textbf{Anfangsrand}}\Below{\small\textbf{erste Pos.}} & \K{\small\textbf{Anfangsrand}}\Below{\small\textbf{zweite Pos.}} && \K{\small\textbf{Kern}} \\
      & \K{k}\R{r}^{\text{Plosiv}} & \K{v}\R{dddrr}^{\text{Frikativ}} &&  \\
-     & \K{k, g}\Rxx{5}{3.7}{r}^{\text{Plosiv}} & \K{n}\R{ddrr}_{\text{Nasal}} &&  \\
-     \K{\textipa{S}}\R[--]{r} & \K{p, t}\R{dr}^{\text{Plosiv}} &&&  \\
-     & \K{b, d, k, g}\Rxxx{7}{10.25}{8.25}{ur} & \K{\textipa{K}}\Rxxx{3.7}{3}{-2.25}{ddr} && \K{~~~Vokal} \\
-     & \K{f, v}\R{ur}_{\text{Frikativ}} &&&  \\
+     & \K{k\ g}\Rxx{5}{3.7}{r}^{\text{Plosiv}} & \K{n}\R{ddrr}_{\text{Nasal}} &&  \\
+     \K{\textipa{S}}\R[--]{r} & \K{p\ t}\R{dr}^{\text{Plosiv}} &&&  \\
+     & \K{b\ d\ k\ g}\Rxxx{7}{10.25}{8.25}{ur} & \K{\textipa{K}}\Rxxx{3.7}{3}{-2.25}{ddr} && \K{~~~Vokal} \\
+     & \K{f\ v}\R{ur}_{\text{Frikativ}} &&&  \\
      \K{\textipa{S}}\R[--]{r} & \K{p}\R{dr}^{\text{Plosiv}} &&&  \\
-     & \K{b, k, g}\Rxxx{7}{10.25}{8.25}{ur} & \K{l}\R{uuurr}_{\text{Liquid}} &&  \\
+     & \K{b\ k\ g}\Rxxx{7}{10.25}{8.25}{ur} & \K{l}\R{uuurr}_{\text{Liquid}} &&  \\
      & \K{f}\R{ur}_{\text{Frikativ}} &&&  \\
   }
   \caption{Struktur des duplexen Anfangsrands}
@@ -1193,12 +1194,12 @@ Es ergibt sich Abbildung~\ref{fig:endranduplex}, die den duplexen Endrand ohne e
   \Tree[3]{
   \K{\textbf{Kern}} && \K{\textbf{Endrand}}\Below{\textbf{erste Pos.}} & \K{\textbf{Endrand}}\Below{\textbf{zweite Pos.}} \\
                &&             & \K{k (g)} \\
-               && \K{n}\Rxx{3.7}{5}{r}_{\text{Frikativ}}\Rxx{3.7}{5}{ur}^{\text{Plosiv}} & \K{f, \textipa{S}} \\
+               && \K{n}\Rxx{3.7}{5}{r}_{\text{Frikativ}}\Rxx{3.7}{5}{ur}^{\text{Plosiv}} & \K{f\ \textipa{S}} \\
                & \K{}\Rxxxx{5}{1.75}{3.7}{1.2}{r} & \K{m}\R{r}^{\text{Plosiv}}\R{dr}_{\text{Frikativ}} & \K{p} \\
   \K{Vokal~~~}\R{uurr}^{\text{Nasal}}\R{ddrr}_{\text{Liquid}} &&& \K{\textipa{S}} \\
-               &&             & \K{p, k} \\
-               && \K{\textipa{K}, l}\Rxx{3.7}{5.5}{r}^{\text{~~~~~~~Frikativ}}\Rxx{3.7}{4.5}{ur}^{\text{Plosiv}}\R{dr}_{\text{Nasal}} & \K{f, \textipa{S}, \textipa{\c{c}}} \\
-               &&             & \K{m, n} \\
+               &&             & \K{p\ k} \\
+               && \K{\textipa{K}\ l}\Rxx{3.7}{5.5}{r}^{\text{~~~~~~~Frikativ}}\Rxx{3.7}{4.5}{ur}^{\text{Plosiv}}\R{dr}_{\text{Nasal}} & \K{f\ \textipa{S}\ \textipa{\c{c}}} \\
+               &&             & \K{m\ n} \\
   }
   \caption{Struktur des duplexen Endrands}
   \label{fig:endranduplex}
@@ -1315,6 +1316,7 @@ Der Endrand ist maximal duplex.
 Die präferierte Besetzung des duplexen Endrands ist die aus einem inneren Liquid und einem äußeren Obstruenten.
 Bereits weniger präferiert wird er mit einem Nasal und einem homorganen Plosiv besetzt. 
 Extrasilbisch treten die alveolaren Obstruenten [s] und [t] hinter den Endrand.}
+
 
 \subsection{Einsilbler und Zweisilbler}
 
@@ -1525,7 +1527,21 @@ Das Prinzip, das in (\ref{ex:phol200469}) aus den möglichen die richtigen Silbi
 Die Silbifizierung von Mehrsilblern erfolgt so, dass an Grenzen zwischen zwei Silben die Anzahl der Segmente im Anfangsrand der zweiten Silbe so groß wie möglich ist.
 Dabei werden die Strukturbedingungen des Anfangs- und Endrands eingehalten.}
 
-\Zusammenfassung{
+
+\begin{Vertiefung}{Zugrundeliegende Formen und Silbenstruktur}
+  
+\index{zugrundeliegende Form}
+
+\noindent Mit den hier vorgeschlagenen Analysen der Silbenstruktur stehen wir in gewisser Hinsicht zwischen den zugrundeliegenden Formen und den phonetischen Realisierungen der Wörter.
+Einige Aspekte der Silbenphonologie beziehen wir auf die zugrundeliegende Form, andere auf die phonetische Realisierung.
+Die Silbenstruktur wird definitiv erst in der phonetischen Realisierung festgelegt 
+
+%\KaputT 
+
+\end{Vertiefung}
+
+
+\Zusammenfassung{%
 Wörter bestehen phonotaktisch betrachtet aus einer oder mehreren Silben, die jede mindestens einen vokalischen Kern haben.
 Vor und nach dem Kern können Konsonanten im Anfangsrand und Endrand stehen, wobei die Sonorität zu den Rändern abfällt.
 Die Ränder bestehen jeweils aus maximal zwei Segmenten.
@@ -1833,7 +1849,7 @@ Für alle Ebenen dieser Analyse wurde unabhängig argumentiert, und es handelt s
 \end{figure}
 
 
-\Zusammenfassung{
+\Zusammenfassung{%
 In (fast) jedem Wort ist eine Silbe besonders prominent, indem sie den Wortakzent trägt.
 Im Deutschen ist typischerweise die erste Stammsilbe betont, und es ergibt sich ein Wechsel aus betonten und unbetonten Silben (trochäischer Fuß).
 }
@@ -1918,6 +1934,7 @@ Zusatzaufgabe: Versuchen Sie, den Umlaut /\textipa{\t{aO}}/ -- /\textipa{\t{O\oe
 \end{enumerate}
 
 \Uebung \label{u44} Transkribieren Sie diese Wörter, finden Sie die Silbengrenzen (Silbifizierung) und zeichnen Sie eine Sonoritätskurve wie in Abbildung~\ref{fig:sonhiersstrolchst} (S.~\pageref{fig:sonhiersstrolchst}).
+Markieren Sie dabei in mehrsilbigen Wörtern die Silbengrenzen und Silbengelenke eindeutig (\zB Absetzen des Strichs für normale Silbengrenzen, Einkreisen des Segments für Silbengelenke).
 
 \begin{enumerate}\Lf
   \item Strumpf
