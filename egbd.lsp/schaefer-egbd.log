@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  7 SEP 2016 19:51
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  7 SEP 2016 21:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2586,24 +2586,314 @@ LaTeX Font Info:    Font shape `EU1/LinLibertine_R_B.otf(0)/m/sl' in size <10.9
  [11] [12
 
 
+] [10
+
+
+
 ]
+part I.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 68.
+[11] [12] [66
 
-! LaTeX Error: No counter 'mdf@globalstyle@cnt' defined.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.66 \include{chapters/einleitung}
-                                  
-? X
- 
+
+
+]
+part II.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 73.
+[67] [68] [168
+
+
+
+
+]
+part III.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 78.
+[169] [170]
+\openout2 = `chapters/verben.aux'.
+
+ (./chapters/verben.tex
+chapter 9.
+
+Class scrbook Warning: \float@addtolists detected!
+(scrbook)              Implementation of \float@addtolist became
+(scrbook)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrbook)              has been replaced by several more flexible
+(scrbook)              features of package `tocbasic`.
+(scrbook)              Since Version 3.12 support for deprecated
+(scrbook)              \float@addtolist interface has been
+(scrbook)              restricted to only some of the KOMA-Script
+(scrbook)              features and been removed from others.
+(scrbook)              Loading of package `scrhack' may help to
+(scrbook)              avoid this warning, if you are using a
+(scrbook)              a package that still implements the
+(scrbook)              deprecated \float@addtolist interface .
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'LinLibertine_R_B.otf(1)' created for font
+. 'LinLibertine_R_B.otf' with options
+. [Ligatures=TeX,Ligatures={TeX,Common},Path=./LSP/lsp-fonts/,PunctuationSpace=
+0,Numbers={Proportional},BoldFont
+. = LinLibertine_RZ_B.otf,ItalicFont = LinLibertine_RI_B.otf,BoldItalicFont =
+. LinLibertine_RZI_B.otf,Numbers=Lining].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[./LSP/lsp-fonts/LinLibertine_R_B]/OT:script=latn;language=DFLT;mapping=t
+ex-text;mapping=tex-text;+liga;+pnum;+lnum;"
+. - 'small caps'  (m/sc) with NFSS spec.:
+. <->"[./LSP/lsp-fonts/LinLibertine_R_B]/OT:script=latn;language=DFLT;mapping=t
+ex-text;mapping=tex-text;+liga;+pnum;+lnum;+smcp;"
+. and font adjustment code:
+. \fontdimen 7\font =0\fontdimen 7\font - 'bold' (bx/n) with NFSS spec.:
+. <->"[./LSP/lsp-fonts/LinLibertine_RZ_B]/OT:script=latn;language=DFLT;mapping=
+tex-text;mapping=tex-text;+liga;+pnum;+lnum;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.:
+. <->"[./LSP/lsp-fonts/LinLibertine_RZ_B]/OT:script=latn;language=DFLT;mapping=
+tex-text;mapping=tex-text;+liga;+pnum;+lnum;+smcp;"
+. and font adjustment code:
+. \fontdimen 7\font =0\fontdimen 7\font - 'italic' (m/it) with NFSS spec.:
+. <->"[./LSP/lsp-fonts/LinLibertine_RI_B]/OT:script=latn;language=DFLT;mapping=
+tex-text;mapping=tex-text;+liga;+pnum;+lnum;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. <->"[./LSP/lsp-fonts/LinLibertine_RI_B]/OT:script=latn;language=DFLT;mapping=
+tex-text;mapping=tex-text;+liga;+pnum;+lnum;+smcp;"
+. and font adjustment code:
+. \fontdimen 7\font =0\fontdimen 7\font - 'bold italic' (bx/it) with NFSS
+. spec.:
+. <->"[./LSP/lsp-fonts/LinLibertine_RZI_B]/OT:script=latn;language=DFLT;mapping
+=tex-text;mapping=tex-text;+liga;+pnum;+lnum;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+. and font adjustment code:
+. \fontdimen 7\font =0\fontdimen 7\font 
+.................................................
+[303
+
+
+
+
+
+
+
+] [304]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/bx/n' will be
+(Font)              scaled to size 9.78955pt on input line 109.
+
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 109--110
+[][][][][][]
+ []
+
+[305] [306] [307] [308]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 281--282
+[][][][][][]
+ []
+
+[309] [310] [311] [312]
+File: langsci/graphics/law.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/law.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 431--432
+[][][][][][]
+ []
+
+File: langsci/graphics/bulb.pdf Graphic file (type QTm)
+<use  "langsci/graphics/bulb.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 437--438
+[][][][][][]
+ []
+
+[313] [314] [315]
+Overfull \hbox (0.16264pt too wide) in paragraph at lines 551--552
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Der eine Späher wird mitten unter die 
+(feindlichen) Feinde geschickt. (Ovid,
+ []
+
+[316]
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 588--589
+[][]
+ []
+
+[317] [318]
+Overfull \hbox (0.73389pt too wide) in paragraph at lines 637--643
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 rerseits ein Passiv (\EU1/LinLibertine_R
+_B.otf(0)/m/it/10.95 wird gegessen\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ) anal
+ytisch gebildet (s. Abschnitte []9.1.3[] und []9.1.6[]),
+ []
+
+
+Overfull \hbox (5.55771pt too wide) in paragraph at lines 653--662
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Merkmale zusammenfasst. Einige Verben fa
+llen dabei in mehrere Klassen (z.B. \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 sei
+n
+ []
+
+[319]
+Overfull \hbox (4.76709pt too wide) in paragraph at lines 708--714
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 stufe in der zweiten und dritten Person 
+Singular Präsens Indikativ (\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 breche\EU1/
+LinLibertine_R_B.otf(0)/m/n/10.95 –\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 bric
+hst\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 –
+ []
+
+[320]
+File: langsci/graphics/bulb.pdf Graphic file (type QTm)
+ <use  "langsci/graphics/bulb.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 722--723
+[][][][][][]
+ []
+
+[321] [322] [323] [324] [325] [326] [327]
+Overfull \hbox (2.1729pt too wide) in paragraph at lines 1062--1065
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Der Infinitiv ist durch \EU1/LinLibert
+ine_R_B.otf(0)/m/it/10.95 -en \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 am Präsens
+stamm gekennzeichnet, das Partizip durch
+ []
+
+[328] [329] [330] [331] [332] [333] [334]
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1332--1333
+[][]
+ []
+
+[335]
+Underfull \hbox (badness 3942) in paragraph at lines 1357--1357
+\EU1/LinLibertine_R_B.otf(1)/m/n/9 JUL.00395, RHZ09/MAR.15300, BVZ09/MAI.01348,
+ RHZ09/JUN.22699, BRZ09/MAR.11529,
+ []
+
+[336
+
+]
+LaTeX Font Info:    Try loading font information for OT1+LinLibertine_R_B.otf(0
+) on input line 1389.
+LaTeX Font Info:    No file OT1LinLibertine_R_B.otf(0).fd. on input line 1389.
+
+
+LaTeX Font Warning: Font shape `OT1/LinLibertine_R_B.otf(0)/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead
+(Font)              for symbol `grqq' on input line 1389.
+
+[337] [338] [339
+
+
+]) [340]
+part IV.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 86.
+[341
+
+
+
+] [342] [502
+
+
+
+
+
+
+]
+part V.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 93.
+[503] [504]
+chapter without number
+
+Underfull \hbox (badness 1577) in paragraph at lines 106--106
+[][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Coulmas, Florian. 1989. \EU1/LinLibe
+rtine_R_B.otf(0)/m/it/10.95 The Writing Systems of the World\EU1/LinLibertine_R
+_B.otf(0)/m/n/10.95 . Oxford: Wiley-
+ []
+
+[609
+
+
+
+
+
+
+
+
+] [610]
+Underfull \hbox (badness 2409) in paragraph at lines 106--106
+[][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Fabricius-Hansen, Cathrine. 2000. Di
+e Geheimnisse der deutschen würde-
+ []
+
+[611]
+Underfull \hbox (badness 1303) in paragraph at lines 106--106
+[][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Leirbukt, Oddleif. 2013. \EU1/LinLib
+ertine_R_B.otf(0)/m/it/10.95 Untersuchungen zum bekommen-Passiv im heutigen
+ []
+
+[612]
+Underfull \hbox (badness 1466) in paragraph at lines 106--106
+[][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Nübling, Damaris & Renata Szczepania
+k. 2009. Religion+s+freiheit, Stabili-
+ []
+
+[613]
+Underfull \hbox (badness 1342) in paragraph at lines 106--106
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 na Kümmerling-Meibauer, Jörg Meibauer, M
+onika Rothweiler & Monika
+ []
+
+[614] [615] (./indices.tex) (./schaefer-egbd.ind [616
+
+]
+chapter without number
+[617
+
+
+
+
+
+] [618] [619] [620] [621] [622] [623] [624] [625
+
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
+ (./schaefer-egbd.aux
+(./chapters/einleitung.aux) (./chapters/grammatik.aux)
+(./chapters/grundbegriffe.aux) (./chapters/phonetik.aux)
+(./chapters/phonologie.aux) (./chapters/wortklassen.aux)
+(./chapters/morphologie.aux) (./chapters/wortbildung.aux)
+(./chapters/nomina.aux) (./chapters/verben.aux)
+(./chapters/konstituentenstruktur.aux) (./chapters/phrasen.aux)
+(./chapters/saetze.aux) (./chapters/relationen.aux) (./chapters/phonschrift.aux
+) (./chapters/andereschrift.aux) (./chapters/loesungen.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 119.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 119.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.28pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
+\openout1 = `schaefer-egbd.run.xml'.
+
+ ) 
 Here is how much of TeX's memory you used:
- 54711 strings out of 494776
- 979725 string characters out of 6165553
- 1517931 words of memory out of 5000000
- 57122 multiletter control sequences out of 15000+600000
- 18477 words of font info for 116 fonts, out of 8000000 for 9000
+ 55331 strings out of 494776
+ 996452 string characters out of 6165553
+ 1566568 words of memory out of 5000000
+ 57675 multiletter control sequences out of 15000+600000
+ 19568 words of font info for 132 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
- 70i,13n,107p,10449b,4955s stack positions out of 5000i,500n,10000p,200000b,80000s
-Output written on schaefer-egbd.xdv (16 pages, 296368 bytes).
+ 70i,13n,107p,10449b,5511s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on schaefer-egbd.pdf (85 pages).

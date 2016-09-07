@@ -20,8 +20,17 @@
 
 % Feinsatz 
 
+\newcommand{\Stretch}[1][1]{\vspace{#1\baselineskip}}
+\newcommand{\Unstretch}[1][0.5]{\vspace{-#1\baselineskip}}
+\newcommand{\Hardstretch}[1][1]{\vspace*{#1\baselineskip}}
 \newcommand{\Enl}[1][1]{\enlargethispage{#1\baselineskip}}
 \newcommand{\Np}{\newpage}
+
+% Uncomment to switch off
+%\renewcommand{\Stretch}[1][1]{}
+%\renewcommand{\Enl}[1][1]{}
+%\renewcommand{\Np}{}
+
 
 % all sorts of shortcuts
 \newcommand{\HStrut}[1]{\rule{0pt}{#1pt}}
@@ -79,8 +88,7 @@
 \newcommand{\TuEnd}{}
 \newcommand{\Folgt}{\ding{217}}
 
-\newcommand\circlearound[1]{\tikz[baseline]\node[draw,shape=circle,anchor=base] {#1} ;}
-
+\newcommand*\circlearound[1]{\tikz[baseline=(char.base)]{\node[shape=circle,draw,inner sep=2pt] (char) {#1};}}
 
 % xyling
 \newcommand{\QQw}[1][-]{\POS[]+(-4,-1)-(4,4);\POS[]+(0,-1)+(8,4)**\frm{#1}}
@@ -136,9 +144,9 @@
 \newenvironment{Sandwich}[1]
   {
     \par\vspace{5mm}\noindent\tblsthickline
-    {\par\vspace{5mm}\noindent\sffamily\large\bfseries#1\vspace{5mm}}
+    {\par\vspace{3mm}\noindent\sffamily\large\bfseries#1\vspace{4mm}}
   }
-  {\par\vspace{5mm}\noindent\tblsthickline\par\vspace{5mm}}
+  {\par\vspace{3mm}\noindent\tblsthickline\par\vspace{5mm}}
 
 
 \newenvironment{Vertiefung}[1]
@@ -170,7 +178,8 @@
         \includegraphics[width=10mm]{langsci/graphics/#4}%
       }
     \end{flushleft}
-    \sffamily\large \textbf{#1}\\[5mm]
+    \vspace{-1mm}
+    \sffamily\large \textbf{#1}\\[3mm]
     \rmfamily\normalsize #3 \hfill
   \end{minipage}
   }
@@ -178,6 +187,8 @@
 }
 
 
+
+% Basic framed box
 \newcommand{\hfb}[3][] % {headline}{color}{text}{icon}
 {%
   \setlength{\fboxsep}{5mm}
@@ -186,7 +197,7 @@
   \noindent\color{#2}\fbox{
   \begin{minipage}[h]{\textwidth-1.15cm-1.6mm}
     \color{black}
-    \sffamily\large \textbf{#1}\\[5mm]
+    \sffamily\large \textbf{#1}\\[4mm]
     \rmfamily\normalsize #3 \hfill
   \end{minipage}
   }
