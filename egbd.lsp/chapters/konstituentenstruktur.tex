@@ -162,6 +162,8 @@ Siglen der Belege: RHZ09/JAN.17891, WPD/VVV.02704 AHZ, RHZ08/MAI.22154, M07/FEB.
   \end{xlist}
 \end{exe}
 
+\Enl
+
 Der Bauplan erklärt also gerade einmal die Strukturen für 24 Wortformen aus einem Korpus von einer Milliarde Wortformen.
 Bei dieser Erfolgsquote bräuchte man $10^9\div24\approx41,7\cdot10^6$ (über 40 Millionen) Satzschemata, um die Grammatik zu spezifizieren, die allen Sätzen im Korpus eine Struktur zuweist.%
 \footnote{Dieses Rechenbeispiel ist methodisch sehr naiv und dient vor allem der Illustration und der argumentativen Zuspitzung.
@@ -247,6 +249,8 @@ Eine klare Begrenzung der Rekursion für den Menschen ist normalerweise ganz ein
 Inwiefern uns jetzt die Feststellung, dass aber \textit{im Prinzip} doch unendlich viele Sätze möglich wären, weiterbringt, ist fraglich.
 Wir bleiben hier bescheiden und stellen fest, dass eingeschränkt rekursive Strukturen vorkommen (\zB NPs in NPs), und dass das syntaktische System offensichtlich so gebaut ist, dass wir ständig auf ziemlich viele Sätze treffen, die wir vorher noch nie gehört haben.
 
+\Stretch[0.5]
+
 \Zusammenfassung{%
 Die Syntax (als wissenschaftliche Disziplin) versucht, mit so wenig wie möglich Generalisierungen alle Sätze einer Sprache zu beschreiben.
 Wenn eine Syntax eine gegebene Folge von Wörtern auf Basis ihrer Generalisierungen als Satz beschreiben kann, gilt der Satz relativ zu dieser Syntax als grammatisch.
@@ -262,35 +266,40 @@ Man beschreibt zunächst die Struktur kleinerer Konstituenten, aus denen dann gr
 
 \index{Konstituententest}
 
-In Abschnitt~\ref{sec:syntaktischestruktur} wurde von der hierarchischen Struktur in der Syntax und auf allen anderen Ebenen gesprochen, ohne dass gezeigt wurde, wie diese syntaktischen Strukturen empirisch ermittelt werden können.
-Um herauszufinden, was eine Konstituente in einer syntaktischen Struktur ist und was nicht, gibt es eine Reihe von Tests, die man auf sprachliches Material anwenden kann.
-
-Ein Warnhinweis ist vor der Aufzählung der Tests notwendig, denn leider funktionieren nicht alle Tests immer so, wie man sich das wünschen würde.
-Teilweise identifizieren sie Wortgruppen als Konstituenten, die man eigentlich nicht als Konstituenten betrachten möchte.
-Andererseits gibt es Fälle, in denen etwas, das gemeinhin als Konstituente betrachtet wird, nur von wenigen Tests oder sogar keinem von ihnen als Konstituente identifiziert wird.
-Dies ist allerdings überhaupt kein Problem, da die Tests nur als heuristisches Verfahren eine Rolle spielen.
-Wenn sich im Laufe der darauf aufbauenden Theoriebildung (also der Formulierung einer Syntax innerhalb einer deskriptiven Grammatik oder Grammatiktheorie) herausstellt, dass es günstiger ist, in einigen Fällen die Ergebnisse der Tests nicht ernstzunehmen, ist dies unproblematisch.
-Gerade wenn eine Grammatik formal ausgearbeitet ist, kann sie jederzeit daran gemessen werden, ob sie die richtigen Sätze als grammatisch oder ungrammatisch klassifiziert (vgl.\ Definition~\ref{def:syntax} auf S.~\pageref{def:syntax}).
-Dies zeigt, dass Konstituentenstrukturen Konstrukte unserer Theorie sind, nicht etwa direkt beobachtbare Objekte.
+In Abschnitt~\ref{sec:syntaktischestruktur} wurde von der komplexen hierarchischen Struktur in der Syntax gesprochen, ohne dass gezeigt wurde, nach welchen Methoden Syntaktiker sich auf ganz konkrete Strukturen zu einigen versuchen.
+Um herauszufinden, was eventuell als eine syntaktische Konstituente behandelt werden sollte, gibt es eine Reihe von Tests, die hier jetzt besprochen werden.
+Ein Warnhinweis ist vor der Einführung dieser Tests dringend erforderlich:
+Die Tests funktionieren nicht immer so, wie Syntaktiker es sich wünschen.
+Teilweise identifizieren sie Wortgruppen als Konstituenten, die dann doch nicht als Konstituenten betrachtet werden.
+Andererseits gibt es Fälle, in denen etwas, das gemeinhin als Konstituente betrachtet wird, nur von wenigen Tests oder sogar keinem als Konstituente identifiziert wird.
+Die Tests sind also nur als heuristisches Verfahren anzusehen.
+Wenn sich im Laufe der Theoriebildung (im Sinne der Formulierung bzw.\ Formalisierung einer Syntax) herausstellt, dass es günstiger ist, in einigen Fällen die Ergebnisse der Tests nicht ernstzunehmen, ist dies unproblematisch.
+Gerade wenn eine Grammatik formal ausgearbeitet ist, kann sie jederzeit einfach daran gemessen werden, ob sie Sätze korrekt als grammatisch oder ungrammatisch klassifiziert (vgl.\ Definition~\ref{def:syntax} auf S.~\pageref{def:syntax}).
+Die Konstituentenstrukturen selbst sind Konstrukte unserer Theorie und nicht direkt beobachtbare Objekte.
 
 \subsection{Konstituententests}
 
 \label{sec:konstituententestsimeinzelnen}
 
-Im Folgenden werden einige wichtige Tests besprochen und auch Probleme erwähnt, die mit ihnen einhergehen.
-Wie schon in früheren Kapiteln werden eckige Klammern benutzt, um Konstituenten als solche zu kennzeichnen.
-Die Tests beinhalten alle eine Umformung des ursprünglichen Materials (entweder eine Hinzufügung, eine Umstellung oder einen Austausch).
+Im Folgenden werden drei wichtige Konstituententests besprochen.
+Die Tests beinhalten alle eine Umformung des ursprünglichen Materials (Hinzufügung, Umstellung, Austausch).
 Die Testanwendung markieren wir mit \KTArr{Name\ des\ Tests}.
 Davor steht der Ausgangssatz und dahinter der umgeformte Satz.
-Die Umformung muss ein grammatischer Satz sein, und in einigen Fällen muss die Bedeutung auf eine bestimmte Art erhalten bleiben.
-Besondere Bedingungen werden jeweils zu den Tests erklärt.
-Wenn ein Test fehlschlägt, dann steht hinter dem Pfeil ein Asterisk~\Ast.
+Die Umformung muss grammatisch sein, und in den meisten Fällen muss die Bedeutung erhalten bleiben.
+Wenn ein Test fehlschlägt, steht hinter dem Pfeil ein Asterisk~\Ast.
+Wir beginnen mit dem \textit{Pronominalisierungstest} (Definition~\ref{def:prontest}).
 
+\Enl[2]
+
+\Definition{Pronominalisierungstest (PronTest)}{\label{def:prontest}%
+Wenn eine Kette von Wörtern in einem Satz durch einen Pronominalausdruck ersetzt werden kann, dann ist sie eine Konstituente.
 \index{Pronominalisierungstest}
+}
 
-\KTest{Pronominalisierungstest (PronTest)}{Wenn eine Kette von Wörtern in einem Satz durch einen Pronominalausdruck ersetzt werden kann, dann ist sie eine Konstituente.}
+\Np
 
 Beim Pronominalisierungstest sind der Ausgangssatz und der Satz mit der Ersetzung (der Testsatz) nicht bedeutungsgleich, denn durch die Ersetzung ist der Testsatz normalerweise nicht mehr situationsunabhängig eindeutig zu interpretieren.
+Beispiele folgen in (\ref{ex:syn1111}).
 
 \begin{exe}
   \ex\label{ex:syn1111}
@@ -318,8 +327,14 @@ Diese Wörter sind hier mit \textit{Pronominalausdruck} gemeint.
   \ex{\label{ex:syn1113} Er liest den Text [auf eine Art, die ich nicht ausstehen kann].\\\KTArr{PronTest} Er liest den Text [so].}
 \end{exe}
 
+Als nächstes folgt der \textit{Vorfeldtest} in Definition~\ref{def:vftest}.
+
+\Stretch[0.5]
+
+\Definition{Vorfeldtest (VfTest)}{\label{def:vftest}%
+Wenn eine Kette von Wörtern in einem Satz vorfeldfähig ist, dann ist sie eine Konstituente.
 \index{Vorfeldtest}
-\KTest{Vorfeldtest (VfTest)}{Wenn eine Kette von Wörtern in einem Satz vorfeldfähig ist, dann ist sie eine Konstituente.}
+}
 
 Dieser Test bezieht sich auf die Definition von Vorfeldfähigkeit (Definition~\ref{def:vorfeldfaehig} auf S.~\pageref{def:vorfeldfaehig}).
 Dort wurde die Vorfeldfähigkeit einzelner Wörter benutzt, um Adverben und Partikeln definitorisch voneinander zu trennen.
@@ -371,30 +386,33 @@ Dass diese Tests im Deutschen funktionieren, illustriert im Übrigen die enorm f
   \end{xlist}
 \end{exe}
 
-\index{Koordinationstest}
-\KTest{Koordinationstest (KoorTest)}{Wenn eine Kette von Wörtern in einem Satz mit einer anderen Kette von Wörtern und einer Konjunktion (\zB \textit{und}, \textit{oder}) verbunden werden kann, dann ist sie eine Konstituente.}
+Als dritten und letzten Test betrachten wir den \textit{Koordinationstest} in Definition~\ref{def:koortest}.
 
-Der Name des Tests kommt daher, dass man Strukturen, die das Muster [A Konjunktion B] haben, \textit{Koordinationen} oder \textit{Koordinationsstrukturen} nennt.
+\Definition{Koordinationstest (KoorTest)}{\label{def:koortest}%
+Wenn eine Kette von Wörtern in einem Satz mit einer anderen Kette von Wörtern und einer Konjunktion (\zB \textit{und}, \textit{oder}) verbunden werden kann, dann ist sie eine Konstituente.
+\index{Koordinationstest}
+}
+
+Der Name des Koordinationstests kommt daher, dass man Strukturen, die das Muster [A Konjunktion B] haben, \textit{Koordinationen} oder \textit{Koordinationsstrukturen} nennt.
 Da man bei diesem Test Material hinzufügen muss, muss sich zwangsläufig die Bedeutung ändern.
 Dieser Test ermittelt erfolgreich alles als Konstituente, was man normalerweise auch als eine solche auffasst.
 Außerdem zeigt er gleichzeitig, dass die Wortkette, die man hinzufügt, ebenfalls eine Konstituente ist, und dass die gesamte Koordinationsstruktur auch eine Konstituente ist.
 Daher klammern wir immer \zB [[A] \textit{und} [B]].
+In (\ref{ex:syn4444}) finden sich Beispiele.
 
 \begin{exe}
   \ex\label{ex:syn4444}
   \begin{xlist}
-    \begin{xlist}
-      \ex{\label{ex:syn4444a} Wir essen [einen Kuchen].\\
-        \KTArr{KoorTest} Wir essen [[einen Kuchen] und [ein Eis]].}
-      \ex{\label{ex:syn4444b} Wir [essen einen Kuchen].\\
-        \KTArr{KoorTest} Wir [[essen einen Kuchen] und [lesen ein Buch]].}
-      \ex{\label{ex:syn4444c} Sarah hat versucht, [einen Kuchen zu backen].\\
-        \KTArr{KoorTest} Sarah hat versucht, [[einen Kuchen zu backen] und \\{}[heimlich das Eis aufzuessen]].}
-      \ex{\label{ex:syn4444d} Wir sehen, [dass die Sonne scheint].\\
-        \KTArr{KoorTest} Wir sehen, [[dass die Sonne scheint] und \\{}[wer alles seinen Rasen mäht]].}
-      \ex{\label{ex:syn4444e} Wir sehen, dass [die Sonne scheint].\\
-        \KTArr{KoorTest} Wir sehen, dass [[die Sonne scheint] und \\{}[Mausi den Rasen mäht]].}
-    \end{xlist}
+    \ex{\label{ex:syn4444a} Wir essen [einen Kuchen].\\
+      \KTArr{KoorTest} Wir essen [[einen Kuchen] und [ein Eis]].}
+    \ex{\label{ex:syn4444b} Wir [essen einen Kuchen].\\
+      \KTArr{KoorTest} Wir [[essen einen Kuchen] und [lesen ein Buch]].}
+    \ex{\label{ex:syn4444c} Sarah hat versucht, [einen Kuchen zu backen].\\
+      \KTArr{KoorTest} Sarah hat versucht, [[einen Kuchen zu backen] und \\{}[heimlich das Eis aufzuessen]].}
+    \ex{\label{ex:syn4444d} Wir sehen, [dass die Sonne scheint].\\
+      \KTArr{KoorTest} Wir sehen, [[dass die Sonne scheint] und \\{}[wer alles seinen Rasen mäht]].}
+    \ex{\label{ex:syn4444e} Wir sehen, dass [die Sonne scheint].\\
+      \KTArr{KoorTest} Wir sehen, dass [[die Sonne scheint] und \\{}[Mausi den Rasen mäht]].}
   \end{xlist}
 \end{exe}
 
@@ -406,7 +424,7 @@ So ist \zB (\ref{ex:syn4445}) ein Beispiel, in dem der Test erfolgreich ist, es 
 \begin{sloppypar}
 \begin{exe}
   \ex{\label{ex:syn4445} Der Kellner notiert, dass [meine Kollegin einen Salat] möchte.\\
-    \KTArr{KoorTest} Der Kellner notiert, dass [[meine Kollegin einen Salat] und [mein Kollege einen Sojaburger]] möchte.}
+    \KTArr{KoorTest} Der Kellner notiert, dass [[meine Kollegin einen Salat] und\\{}[mein Kollege einen Sojaburger]] möchte.}
 \end{exe}
 \end{sloppypar}
 
@@ -494,10 +512,14 @@ Später (Kapitel~\ref{sec:phrasen} und~\ref{sec:saetze}) werden wir aus gutem Gr
 Auf jeden Fall ist aber die Erkenntnis korrekt, dass Nicht-Satzglieder normalerweise strukturell zu tief eingebettet sind, um \zB vorangestellt (oder erfragt) werden zu können.
 Wir definieren die Satzglieder also nicht als unmittelbare Konstituenten des Satzes, sondern sind etwas vorsichtiger, s.\ Definition~\ref{def:satzglied}.
 
+\Stretch[0.5]
+
 \Definition{Satzglied}{\label{def:satzglied}%
 Ein \textit{Satzglied} ist eine Konstituente im Satz, die vorfeldfähig ist.
 \index{Satzglied}
 }
+
+\Stretch[0.5]
 
 Die Definition ist nicht ganz wasserdicht, weil auch Material ins Vorfeld gestellt werden kann, das traditionell nicht als Satzglied angesehen wird.
 Auf S.~\pageref{abs:satzgliedfail} gibt es dafür das Beispiel (\ref{ex:prd91011}) und eine kurze Diskussion.
@@ -505,6 +527,8 @@ Vgl.\ auch Übung~\ref{u103}.
 Der Begriff wurde hier vor allem wegen seiner Relevanz in der Didaktik aufgenommen.
 Eine weitere besondere Art von Konstituenten brauchen wir übrigens nicht erst zu testen, weil sie als trivial gegeben angesehen werden kann: die Wortform (vgl.\ schon Abschnitt~\ref{sec:definitionsproblemewort}).
 Die Wortform als minimale syntaktische Einheit wird in Definition~\ref{def:atomarekonstituente} eingeführt.
+
+\Np
 
 \Definition{Atomare syntaktische Konstituenten}{\label{def:atomarekonstituente}%
 Die \textit{atomaren syntaktischen Konstituenten} (die kleinsten nicht weiter analysierbaren Einheiten in der Syntax) sind die syntaktischen Wörter.
@@ -521,6 +545,8 @@ Wir verwenden hier keinen rigiden Formalismus, sondern machen uns nur möglichst
 Mit der Annahme, dass in der Syntax hierarchische Konstituentenstrukturen aufgebaut werden, lassen sich einige interessante Phänomene erklären.
 Einem davon, sogenannten \textit{strukturellen Ambiguitäten}, wenden wir uns im nächsten Abschnitt zu.
 
+\Stretch[0.5]
+
 \subsection{Strukturelle Ambiguität}
 
 Nehmen wir einen Satz wie (\ref{ex:strambi}).
@@ -533,6 +559,8 @@ Dieser Satz hat zwei mögliche Lesarten.
 Einerseits kann das Teleskop das Werkzeug sein, dass Scully benutzt, um den Außerirdischen sehen zu können.
 Andererseits beschreibt der Satz auch eine Situation, in der der Außerirdische ein Teleskop dabei hat und Scully ihn ohne Hilfsmittel sieht.
 Dieser Bedeutungsunterschied kann nun auf einen syntaktischen zurückgeführt werden, die Analysen sind in (\ref{ex:strambiana}) gegeben.
+
+\Np
 
 \begin{exe}
   \ex\label{ex:strambiana}
@@ -555,6 +583,7 @@ Oft hat dies (wegen des Kompositionalitätsprinzips) auch eine Doppeldeutigkeit 
 
 Im nächsten Abschnitt wird abschließend die Art und Weise vorgestellt, mit der in den folgenden Kapiteln die deskriptiven Generalisierungen über die Konstituentenstrukturen des Deutschen notiert werden.
 
+\Stretch[0.5]
 
 \Zusammenfassung{%
 Die Konstituententests sind eine Heuristik, mit deren Hilfe man sich einer zielführenden Konstituentenanalyse annähern kann.
@@ -753,6 +782,7 @@ Ob es sich um Ergänzungen oder Angaben handelt, ist also aus diesem Blickwinkel
 Fast alle syntaktischen Einheiten in einem Satz hängen von einer anderen Einheit im selben Satz ab, können also nur auftreten, wenn diese andere Einheit auch auftritt.
 Diese Relation nennt man auch \textit{Dependenz}, s.\ Definition~\ref{def:dependenz}.
 
+\Stretch[0.5]
 
 \Definition{Dependenz}{\label{def:dependenz}%
 Eine Konstituente A ist von einer Konstituente B im selben Satz \textit{abhängig} (\textit{dependent}), wenn die Anwesenheit von B eine Bedingung für die Anwesenheit und\slash oder die Form von A ist.
@@ -760,12 +790,15 @@ Dependenz ist nie zirkulär, keine Konstituente ist also von sich selber direkt 
 \index{Dependenz}
 }
 
+\Stretch[0.5]
+
 Als Faustregel kann gelten, dass Ergänzungen zu dem Wort dependent sind, dessen Valenzstelle sie saturieren, so wie \textit{des Absturzes} zu \textit{gedenken} in (\ref{ex:depillu1a}).
 Außerdem sind alle Angaben zu den Wörtern dependent, welche sie modifizieren, so wie \textit{supermassive} zu \textit{Löchern} in (\ref{ex:depillu2a}), wobei im nominalen Bereich im Deutschen dann Kongruenzrelationen bestehen.
 
 Jetzt können wir die \textit{Phrase}, die einfach nur ein besonderer Typ von syntaktischer Konstituente ist, genauer definieren.
 Der Begriff des \textit{Kopfes} wird zusammen mit dem der \textit{Phrase} in Definition~\ref{def:phrase} definiert, da Phrasen einen Kopf haben.
 
+\Np
 
 \Definition{Phrase und Kopf}{\label{def:phrase}%
 Eine \textit{Phrase} ist eine syntaktische Konstituente, in der genau ein Wort der \textit{Kopf} ist.
@@ -788,7 +821,7 @@ Die grammatischen Eigenschaften der gesamten Phrase werden hingegen vom Kopf, al
 Aus genau diesem Grund benennen wir eine Phrase auch immer nach der Klasse des Kopfes:
 Phrasen mit einem Adjektiv (A) als Kopf heißen \textit{Adjektivphrasen} (AP), Phrasen mit einem Verb (V) als Kopf heißen \textit{Verbphrasen} (VP) usw., vgl.\ Tabelle~\ref{tab:phrasennamen}.
 Phrasen mit einem Substantiv oder Pronomen als Kopf heißen \textit{Nominalphrasen} (NP), weil sie sich gleich verhalten und es daher günstiger ist, nicht getrennt von \textit{Substantivphrasen} und \textit{Pronominalphrasen} zu sprechen. 
-Der Kopf einer Phrase ist innerhalb dieser Phrase typischerweise (aber mit Ausnahmen) nicht weglassbar.\label{abs:kopfnichtweglassbar}
+Der Kopf einer Phrase ist innerhalb dieser Phrase typischerweise nicht weglassbar.\label{abs:kopfnichtweglassbar}
 
 \begin{table}[!htbp]
   \resizebox{\textwidth}{!}{
@@ -812,6 +845,11 @@ Der Kopf einer Phrase ist innerhalb dieser Phrase typischerweise (aber mit Ausna
 Wenn wir Wörter und alle anderen Einheiten (auch Phrasen) im Rahmen der Grammatik wieder als eine Menge von Merkmalen und Werten definieren, können ganz allgemeine Prinzipien des Phrasenaufbaus auch anhand von Merkmalen definiert werden.
 Was Tabelle~\ref{tab:phrasennamen} eigentlich illustriert, ist die Merkmalsübereinstimmung zwischen der Phrase und ihrem Kopf.
 Abbildung~\ref{fig:hfp} zeigt schematisch, was gemeint ist.
+In einer AP \textit{sehr schön} hat der Kopf \textit{schön} den Wert \textit{adj} für \textsc{Klasse}, weil er ein Adjektiv ist.
+Beim Aufbau der Phrase muss jetzt einfach nur eine Regel oder ein Schema zum Einsatz kommen, das den Wert des \textsc{Klasse}-Merkmals der Phrase mit dem des Kopfes gleichsetzt.
+Der \textsc{Klasse}-Wert des Nicht-Kopfes (hier \textit{ptkl}) ist völlig unwesentlich, wenn wir einmal auf der AP-Ebene angekommen sind.
+Es zeigt sich damit auch, dass Bezeichnungen wie \textit{Wortart} oder \textit{Wortklasse} eigentlich zu kurz gegriffen sind, weil es nicht um Wörter, sondern ganz allgemein um Klassen syntaktischer Einheiten geht.
+Wir bleiben aus Bequemlichkeit bei der Bezeichnung \textit{Wortklasse}.
 
 \begin{figure}[!htbp]
   \centering
@@ -823,22 +861,16 @@ Abbildung~\ref{fig:hfp} zeigt schematisch, was gemeint ist.
   \label{fig:hfp}
 \end{figure}
 
-In einer AP \textit{sehr schön} hat der Kopf \textit{schön} den Wert \textit{adj} für \textsc{Klasse}, weil er ein Adjektiv ist.
-Beim Aufbau der Phrase muss jetzt einfach nur eine Regel oder ein Schema zum Einsatz kommen, das den Wert des \textsc{Klasse}-Merkmals der Phrase mit dem des Kopfes gleichsetzt.
-Der \textsc{Klasse}-Wert des Nicht-Kopfes (hier \textit{ptkl}) ist völlig unwesentlich, wenn wir einmal auf der AP-Ebene angekommen sind.
-Es zeigt sich damit auch, dass Bezeichnungen wie \textit{Wortart} oder \textit{Wortklasse} eigentlich zu kurz gegriffen sind, weil es nicht um Wörter, sondern ganz allgemein um syntaktische Klassen geht.
-Wir bleiben aus Bequemlichkeit bei der Bezeichnung \textit{Wortklasse}.
+\Enl
 
-Natürlich muss nicht nur der Wert des Merkmals \textsc{Klasse} vom Kopf zur Phrase kopiert werden, sondern dies muss auch mit allen anderen für die weitere Strukturbildung nötigen Merkmalen geschehen, vor allem Kasus- und Kongruenzmerkmale.
-Alle zusammen nennt man die entsprechenden Merkmale auch \textit{Kopf-Merkmale}, und das entsprechende Prinzip, das hier sehr informell angegeben wird, ist das \textit{Kopf-Merkmal-Prinzip}, s.\ Satz~\ref{satz:hfp}.
+Es muss aber nicht nur die Wortklasse vom Kopf zur Phrase kopiert werden, sondern auch alle anderen für die weitere Strukturbildung relevanten Merkmale, \zB Kasus- und Kongruenzmerkmale.
+Diese Merkmale nennt man \textit{Kopf-Merkmale}.
+Das entsprechende \textit{Kopf-Merkmal-Prinzip} wird in Definition~\ref{def:hfp} angegeben.
 
-\Satz{Kopf-Merkmal-Prinzip}{\label{satz:hfp}%
+\Definition{Kopf-Merkmal-Prinzip}{\label{def:hfp}%
 Die Werte der Kopf-Merkmale des Kopfes und der Phrase, die er bildet, sind immer identisch.
 \index{Kopf!Kopf-Merkmal-Prinzip}
 }
-
-Bei der konkreten Formulierung der Phrasenschemata in den Kapiteln~\ref{sec:phrasen} und~\ref{sec:saetze} ignorieren wir, wie man dieses Prinzip formal umsetzen würde.
-Die weiterführende Literatur bietet dafür formaler ausgerichtete Werke, in denen vollständige syntaktische Theorien einschließlich genauer Formulierungen des Kopf"=Merkmals"=Prinzips entwickelt werden.
 
 Es bleibt anzumerken, dass wir hier davon ausgehen, dass einige \textit{Funktionswörter} wie Partikeln (s.\ Abschnitt~\ref{sec:adverbenpartikelnwortklassen}) oder Artikelwörter (s.\ Definition~\ref{def:artikelwort} auf S.~\pageref{def:artikelwort}) keine eigenen Phrasen bilden können und direkt in größere Einheiten eingesetzt werden müssen.
 Eine Partikel oder ein Artikelwort sind also niemals Köpfe.
@@ -856,10 +888,11 @@ Als Funktionswörter fassen wir Artikelwörter, Konjunktionen und sonstige Parti
 \index{Konjunktion}
 }
 
+\Enl[2]
+
 Außerdem wird in Kapitel~\ref{sec:saetze} eine Analyse von unabhängigen Sätzen vertreten, bei der der Satz selber zwar einen eigenen Phrasentyp (\zB Symbol S), aber keinen Kopf hat.
 Die Gründe dafür liegen in der besonderen Art, wie im Deutschen unabhängige Sätze gebildet werden.
 In Kapitel~\ref{sec:phrasen} geht es jetzt aber zunächst einmal um den Aufbau der kleineren Einheiten, also im Prinzip der Phrasen, die in Tabelle~\ref{tab:phrasennamen} genannt sind.
-
 
 \Zusammenfassung{%
 Eine Phrase hat typischerweise einen Kopf, der ihre wesentlichen Merkmale bestimmt: die Kopf-Merkmale.

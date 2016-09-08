@@ -47,6 +47,7 @@ Mit einer Näherungsweise vollständigen Klammerung ergäbe sich die recht unüb
   \end{xlist}
 \end{exe}
 
+\Stretch
 
 \section{Koordination}
 
@@ -62,10 +63,12 @@ Wir benutzen die Variable $\kappa$ hier stellvertretend für Kategoriensymbole w
 Für die Konjunktion wird keine konkrete Wortformen wie \textit{und} explizit im Schema genannt, sondern das Wortklassensymbol Konj.
 Es kann also irgendeine Konjunktion eingesetzt werden.
 
+\Np
+
 \Phrasenschema{Koordination}{\label{str:koor}
     $\kappa$\strschemspace:\strschemspace$\kappa$\strschemspace(Konj)\strschemspace$\kappa$ }
 
-Das Schema biete damit Analysen der Koordinationen in (\ref{ex:grp2357}) an, vgl.\ die Abbildungen~\ref{fig:koorsubst} bis~\ref{fig:koorpraep}.
+Das Schema bietet damit Analysen der Koordinationen in (\ref{ex:grp2357}) an, vgl.\ die Abbildungen~\ref{fig:koorsubst} bis~\ref{fig:koorpraep}.
 Die koordinierten Teilstrukturen werden an dieser Stelle dabei jeweils nicht weiter analysiert und mit einem Dreieck abgekürzt.%
 \footnote{Das Symbol S für \textit{Satz} wird in Kapitel~\ref{sec:saetze} eingeführt.}
 
@@ -134,7 +137,9 @@ Koordinationsstrukturen haben in unserer Analyse keinen Kopf, sondern sie verbin
 \subsection{Die Struktur der NP}
 
 Das Phrasenschema für die NP, wie es jetzt hier vorgestellt wird, unterscheidet sich deutlich von den bisher definierten provisorischen NPs (vor allem Definition~\ref{def:vollstaendigesnominal} auf S.~\pageref{def:vollstaendigesnominal} und Abbildung~\ref{fig:strschembsp} auf S.~\pageref{fig:strschembsp}), weil es der Versuch ist, alle möglichen NPs in einem Schema zu beschreiben.
-Zunächst folgt die Definition des \textit{Attributbegriffs} in Definition~\ref{def:attribut}, den wir im weiteren Verlauf benötigen.
+Zunächst folgt die Definition des \textit{Attributbegriffs} (Definition~\ref{def:attribut}), den wir im weiteren Verlauf benötigen.
+
+\Np
 
 \Definition{Attribut}{\label{def:attribut}%
 \textit{Attribute} sind alle unmittelbaren Konstituenten der Nominalphrase außer dem Artikelwort und dem nominalen Kopf.
@@ -349,6 +354,8 @@ Die Substantive in der PP wurden hier ausgetauscht, um zu zeigen, dass nicht etw
 
 Bei der Substantivierung transitiver Verben (solche, die einen Nominativ und einen Akkusativ regieren) wird der Akkusativ beim Verb regelhaft in einen Genitiv beim Substantiv umgesetzt, vgl.\ (\ref{ex:grp8970b}).
 Alternativ ist auch wie in (\ref{ex:grp8970c}) die \textit{von}-PP möglich (ggf.\ umgangssprachlich).
+
+\Enl
 
 \begin{exe}
   \ex\label{ex:grp8970}
@@ -1006,7 +1013,7 @@ Das ist sehr selten der Fall, zumindest aber in Imperativsätzen eine Möglichke
   \ex{dass [Ischariot malt]}
   \ex{dass [Ischariot [das Bild] malt]}
   \ex{dass [Ischariot [dem Arzt] [das Bild] verkauft]}
-  \ex{dass [Ischariot wahrscheinlich [dem Arzt] heimlich [das Bild] schnell verkauft]}
+  \ex{dass [Ischariot wahrscheinlich [dem Arzt] heimlich [das Bild] \\schnell verkauft]}
 \end{xlist} 
 \end{exe}
 
@@ -1193,7 +1200,7 @@ Eine Analyse von (\ref{ex:auxinfc}), die die Rektionsbeziehungen des lexikalisch
 
 \begin{figure}[!htbp]
   \centering
-  \Tree{
+  \Treek{1.8}{
     &&&&&&&&& \K{VP}\B{ddddllllllll}\B{ddddllllll}\B{dd} \\
     \\
     &&&&&&&&& \K{\textbf{V\Sub{3+2+1}}}\B{dll}\B{dd} \\
@@ -1206,35 +1213,38 @@ Eine Analyse von (\ref{ex:auxinfc}), die die Rektionsbeziehungen des lexikalisch
   \label{fig:vkrekext}
 \end{figure}
 
-
+\Enl[2]
 
 \Zusammenfassung{%
 Die Abfolge der Ergänzungen und Angaben innerhalb der VP ist nicht nur durch rein formale Prinzipien geregelt (Scrambling).
 Finite und infinite Verben, die in einer Rektionskette stehen (Statusrektion), bilden einen Verbkomplex, der sich in gewisser Hinsicht wie ein einziges Verb verhält.
 }
 
+\Np
 
 \section{Konstruktion von Konstituentenanalysen}
 
 \label{sec:syntaxana}
 \index{Baumdiagramm}
 
-Abschließend wird kurz darauf eingegangen, wie man Analysen von Konstituentenstrukturen konstruktiv angehen kann.
-Je komplexer die Strukturen werden, umso schwerer ist es erfahrungsgemäß, durch einfache Intuition eine angemessene Analyse zu finden.
-Einige wichtige, bereits bekannte syntaktische Prinzipien helfen aber bei einem systematischen Vorgehen.
-Einerseits wird der Aufbau der syntaktischen Struktur durch die Wortklasse (und weitere grammatische Merkmale) der Wörter bestimmt.
-Außerdem bestimmen Valenz und Rektion in großem Maß die syntaktische Struktur.
-Schließlich gilt, dass wir nur Strukturen annehmen wollen, für die Phrasenschemata definiert wurden.
-Satz~\ref{satz:syntaxana} gibt darauf aufbauend die wesentlichen Schritte der konstruktiven Analyse von Konstituentenstrukturen an.
+\Enl[2]
+
+Abschließend wird darauf eingegangen, wie man Analysen von Konstituentenstrukturen konstruktiv durchführt.
+Einige bereits bekannte syntaktische Prinzipien helfen nämlich bei einer systematischen syntaktischen Analyse:
+Erstens wird der Aufbau der syntaktischen Struktur durch die Wortklassen der Wörter bestimmt.
+Zweitens bestimmen Valenz und Rektion in großem Maß die syntaktische Struktur.
+Drittens gilt, dass wir nur Strukturen annehmen, für die Phrasenschemata definiert wurden.
+Satz~\ref{satz:syntaxana} gibt die wesentlichen Schritte an.
 
 \Satz{Konstruktive Analyse von Konstituentenstrukturen}{\label{satz:syntaxana}%
-Bei der Analyse von Konstituentenstrukturen sind folgende Schritte durchzuführen:
+\vspace{-0.6cm}
 \begin{enumerate}\Lf
-  \item\label{it:sya01} Bestimmung der Wortklassen für alle Wörter,
-  \item\label{it:sya02} Suche nach und Analyse von Teilkonstituenten, die nur nach einem bestimmten Schema analysierbar sind, vor allem erkennbar an Kongruenzmarkierungen,
-  \item\label{it:sya03} Suche nach Valenznehmern zu Köpfen, die Valenz haben,
-  \item\label{it:sya04} Suche der Köpfe zu den verbleibenden Angaben
-\end{enumerate}\vspace{-0.5cm}
+  \item\label{it:sya01} Bestimmung der Wortklassen für alle Wörter.
+  \item\label{it:sya02} Suche nach und Analyse von eindeutigen Teilkonstituenten (anhand von Kongruenzmarkierungen usw.).
+  \item\label{it:sya03} Suche nach Valenznehmern zu Köpfen, die Valenz haben.
+  \item\label{it:sya04} Suche der Köpfe zu den verbleibenden Angaben.
+\end{enumerate}
+\vspace{-0.6cm}
 }
 
 Der Ablauf einer solchen Analyse wird jetzt anhand der KP in (\ref{ex:phrasen23734}) Schritt für Schritt illustriert.
@@ -1394,6 +1404,8 @@ Alle eingebetteten Phrasen können Sie mit Dreiecken abkürzen.%
   \item Gut [zwei Stunden nach dem Diebstahl] meldete sich der reuige Sünder bei der Polizei.
   \item Nach dem Führungstreffer durch Winkler entschied der Schiedsrichter nach einem Tor der Felixdorfer [völlig unverständlicherweise] auf Abseits.
 \end{enumerate}
+
+\Np
 
 \Uebung[\tristar] \label{u113} Diskutieren Sie, was angesichts der bisherigen Analyse problematisch ist, wenn man Konstruktionen wie die eingeklammerte in Satz (\ref{ex:ex8123}) hinzunimmt (Sigle im DeReKo: NUN07\slash AUG.03639).
 
