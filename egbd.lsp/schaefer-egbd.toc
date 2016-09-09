@@ -520,8 +520,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {15.2.3}Nebensätze und Verwandtes}{543}{subsection.15.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Lösungen zu den Übungen}{548}{section*.42}
+\contentsline {chapter}{Lösungen zu den Übungen}{548}{section*.41}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{597}{chapter*.118}
+\contentsline {chapter}{\nonumberline Literatur}{597}{chapter*.117}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Index}{605}{chapter*.119}
+\contentsline {chapter}{\nonumberline Index}{605}{chapter*.118}

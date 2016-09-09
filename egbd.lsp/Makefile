@@ -13,7 +13,7 @@ quick:
 	@echo
 	@echo " === LAST RUN === "
 	@echo
-	-$(LX) $(TEXFLAGS) $(FILEN) # | grep 'Warning'
+	-$(LX) $(TEXFLAGS) $(FILEN) | grep 'Warning'
 
 clean:
 	\rm *.adx *.and *.aux *.bbl *.blg *.idx *.ilg *.ldx *.lnd *.log *.out *.pdf *.rdx *.run.xml *.sdx *.snd *.toc *.wdx *.xdv
