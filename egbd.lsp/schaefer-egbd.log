@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  9 SEP 2016 17:19
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  9 SEP 2016 22:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2479,12 +2479,6 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 . Arimo_B.ttf scale = 0.9564119235264212.
 .................................................
 
-Overfull \hbox (14.36201pt too wide) in paragraph at lines 66--66
-\EU1/LinLibertine_R_B.otf(0)/bx/n/10.95 Roland Schäfer \EU1/LinLibertine_R_B.ot
-f(0)/m/n/10.95 studierte Sprachwissenschaft und Japanologie an der Philipps-
- []
-
-
 Overfull \hbox (22.27785pt too wide) in paragraph at lines 66--66
 [][][][][][][] 
  []
@@ -3029,44 +3023,44 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 439--440
 [83]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 455--456
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 454--455
 [][][][][][]
  []
 
 [84]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 479--480
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 478--479
 [][][][][][]
  []
 
 <xymatrix 6x3 808>
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 517--518
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 516--517
 [][][][][][]
  []
 
 [85]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 526--527
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 525--526
 [][][][][][]
  []
 
 [86]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 535--536
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 534--535
 [][]
  []
 
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 548--549
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 547--548
 [][][][][][]
  []
 
 [87] [88] [89] [90] [91]
-Overfull \hbox (1.64633pt too wide) in paragraph at lines 800--808
+Overfull \hbox (1.64633pt too wide) in paragraph at lines 804--812
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Vokale sind gewöhnlicherweise bezüglic
 h ihres Artikulationsorts schwerer ein-
  []
@@ -3074,22 +3068,22 @@ h ihres Artikulationsorts schwerer ein-
 [92] [93]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 826--827
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 830--831
 [][][][][][]
  []
 
 [94]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 879--880
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 883--884
 [][]
  []
 
 [95]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 929--930
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 933--934
 [][]
  []
 
 [96] [97] [98] [99] [100]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1192--1193
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1196--1197
 [][]
  []
 
@@ -5106,10 +5100,10 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 56374 strings out of 494776
- 1014384 string characters out of 6165553
- 1653276 words of memory out of 5000000
- 58662 multiletter control sequences out of 15000+600000
+ 56390 strings out of 494776
+ 1014655 string characters out of 6165553
+ 1653400 words of memory out of 5000000
+ 58678 multiletter control sequences out of 15000+600000
  21035 words of font info for 153 fonts, out of 8000000 for 9000
  442 hyphenation exceptions out of 8191
  70i,27n,107p,10449b,5507s stack positions out of 5000i,500n,10000p,200000b,80000s

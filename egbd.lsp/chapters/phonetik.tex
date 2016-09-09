@@ -449,8 +449,7 @@ Dass wir verschiedene Nasale akustisch voneinander unterscheiden können, liegt 
 Es wird Definition~\ref{def:nasal} gegeben.
 
 \Definition{Nasal}{\label{def:nasal}%
-Ein \textit{Nasal} ist ein Segment, bei dem durch einen vollständigen Verschluss im Mundraum und eine Absenkung des Velums die Luft zum Entweichen durch die Nasenhöhle gezwungen wird.
-Es entstehen keine Turbulenzen.
+Ein \textit{Nasal} ist ein Segment, bei dem durch einen vollständigen Verschluss im Mundraum und eine Absenkung des Velums die Luft (ohne Turbulenzen) zum Entweichen durch die Nasenhöhle gezwungen wird.
 \index{Nasal}
 }
 
@@ -779,7 +778,7 @@ Der Rest dieses Abschnitts erläutert diese Begrifflichkeiten und die Darstellun
   \path (\V(0,0))     node[vowel, left] {i} node[vowel, right] (y) {y} node[dot] {};
   \path (\V(0.5,0.5)) node[vowel, left] {ɪ} node[vowel, right] (Y) {ʏ} node[dot] {};
   \path (\V(1,0))     node[vowel, left] {e} node[vowel, right] (e) {ø} node[dot] {};
-  \path (\V(2,0))     node[vowel, left] {ɛ} node[vowel, right] (ee) {œ} node[dot] {};
+  \path (\V(2,0))     node[vowel, left] (E) {ɛ} node[vowel, right] (ee) {œ} node[dot] {};
 
   % Place the unpaired symbols last, on top of the vertical lines.
   \path (\V(1.5,1))   node[vowel]   (schwa)   {ə};
@@ -790,8 +789,13 @@ Der Rest dieses Abschnitts erläutert diese Begrifflichkeiten und die Darstellun
   \path (\V (0,2))	node[vowel]	 (u) 	{u};
   \path (\V (0.5,1.5))	node[vowel]	 (uu) 	{ʊ};
 
+
+  \path (a) edge [-{Latex[round]},bend right=15] (oo);
+  \path (a) edge [-{Latex[round]},bend left=15] (E);
+  \path (oo) edge [-{Latex[round]},bend right=15] (ee);
+
 \end{tikzpicture}
-  \caption{IPA-Vokaltrapez für das Deutsche. Bei (halb-)vorderen Vokalen steht die gerundete Variante jeweils rechts. Zentrale Vokale sind ungerundet, (halb-)hintere gerundet.}
+  \caption{IPA-Vokaltrapez für das Deutsche. Bei allen vorderen Vokalen gibt es eine ungerundete Variante (links) und eine gerundete (rechts). Die Diphthonge werden durch Pfeile dargestellt.}
   \label{fig:vokaltrapneu}
   \index{Vokaltrapez}
 \end{figure}
@@ -821,11 +825,11 @@ Es gilt Satz~\ref{satz:rundung} bezüglich der Verteilung der gerundeten und ung
 
 \Satz{Vokalrundung}{\label{satz:rundung}
 Im Deutschen existiert für alle (halb-)vorderen Vokale jeweils eine ungerundete Variante (\textipa{[i]}, \textipa{[I]}, \textipa{[e]}, \textipa{[E]}) und eine gerundete Variante mit ansonsten gleichen Merkmalen (\textipa{[y]}, \textipa{[Y]}, \textipa{[\o]}, \textipa{[\oe]}).
-Alle (halb-)hinteren Vokale (\textipa{[U]}, \textipa{[u]}, \textipa{[o]}, \textipa{[O]}) sind prinzipiell gerundet.
-Alle zentralen Vokale sind prinzipiell ungerundet (\textipa{[@]}, \textipa{[5]}, \textipa{[a]}).
+Alle (halb-)hinteren Vokale (\textipa{[U]}, \textipa{[u]}, \textipa{[o]}, \textipa{[O]}) sind immer gerundet.
+Alle zentralen Vokale sind immer ungerundet (\textipa{[@]}, \textipa{[5]}, \textipa{[a]}).
 }
 
-Die \textit{Länge} bezieht sich schließlich auf die Zeitdauer, für die ein Segment artikuliert wird.
+Die \textit{Länge} ist schließlich die Zeitdauer, für die ein Segment artikuliert wird.
 Das ist nicht absolut zu verstehen (in dem Sinn, dass lange und kurze Vokal eine bestimmte Zeit von Millisekunden dauern), sondern relativ.
 Es gibt von bestimmten Vokalen -- nämlich \textipa{[i]}, \textipa{[y]}, \textipa{[u]}, \textipa{[e]}, \textipa{[\o]}, \textipa{[o]} und \textipa{[a]} -- eine im Vergleich längere und eine kürzere Variante.%
 \footnote{Trotzdem spricht man der Einfachheit halber von \textit{langen} und \textit{kurzen} Vokalen, als würde es sich um absolute und nicht relative Begriffe handeln.}
@@ -845,7 +849,7 @@ Es handelt sich um ein etwas tieferes Schwa.
 Ein \textit{Diphthong} ist etwas Ähnliches bei den Vokalen wie eine Affrikate bei den Konsonanten.
 Zwei Vokale werden zu einem Segment verbunden, und sie gehören dabei immer zu einer Silbe und nicht zu zwei Silben.%
 \footnote{Zur Silbe folgt mehr in Abschnitt~\ref{sec:silben}.}
-Es folgen einige Beispielwörter in (\ref{ex:phot2005}).
+Die Diphthonge sind in Abbildung~\ref{fig:vokaltrapneu} dargestellt, Beispiele folgen in (\ref{ex:phot2005}).
 
 \Enl
 

@@ -7,6 +7,10 @@ TEXFLAGS =
 #TEXFLAGS = -interaction=nonstopmode
 PREFLAGS = -no-pdf
 
+once:
+	cp $(FILEN).toc.edited $(FILEN).toc
+	-$(LX) $(TEXFLAGS) $(FILEN) | grep 'Warning'
+
 quick:
 	-$(LX) $(TEXFLAGS) $(PREFLAGS) $(FILEN)
 	printf "\033c"
