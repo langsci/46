@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  9 SEP 2016 22:14
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  10 SEP 2016 13:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2160,31 +2160,31 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 ) (./chapters/andereschrift.aux) (./chapters/loesungen.aux))
 \openout1 = `schaefer-egbd.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 64.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 64.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 59.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 59.
 
 (/opt/local/share/texmf-texlive/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -2228,68 +2228,68 @@ ABD: EveryShipout initializing macros
 .................................................
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 64.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 64.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 64.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 64.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 64.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 64.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 64.
-LaTeX Font Info:    Redeclaring math accent \check on input line 64.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 64.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 64.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 64.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 64.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 59.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 59.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 59.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 59.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 59.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 59.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 59.
+LaTeX Font Info:    Redeclaring math accent \check on input line 59.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 59.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 59.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 59.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 59.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 64.
+(Font)              `operators' in the math version `normal' on input line 59.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/LinLibertine_R_B.otf(0)/m/n on inpu
-t line 64.
+t line 59.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 64.
+(Font)              `operators' in the math version `bold' on input line 59.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/LinLibertine_R_B.otf(0)/m/n on inp
-ut line 64.
+ut line 59.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  EU1/LinLibertine_R_B.otf(0)/m/n --> EU1/LinLibertine_R_
-B.otf(0)/m/n on input line 64.
+B.otf(0)/m/n on input line 59.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> EU1/LinLibertine_R_B.otf(0)/m/it on in
-put line 64.
+put line 59.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> EU1/LinLibertine_R_B.otf(0)/bx/n on in
-put line 64.
+put line 59.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/Arimo_B.ttf(0)/m/n on input line 6
-4.
+(Font)                  OT1/cmss/m/n --> EU1/Arimo_B.ttf(0)/m/n on input line 5
+9.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> EU1/DejaVuSansMono.ttf(0)/m/n on input
- line 64.
+ line 59.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  EU1/LinLibertine_R_B.otf(0)/m/n --> EU1/LinLibertine_R_
-B.otf(0)/bx/n on input line 64.
+B.otf(0)/bx/n on input line 59.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> EU1/LinLibertine_R_B.otf(0)/bx/it on 
-input line 64.
+input line 59.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> EU1/Arimo_B.ttf(0)/bx/n on input line
- 64.
+ 59.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> EU1/DejaVuSansMono.ttf(0)/bx/n on inpu
-t line 64.
-LaTeX Info: Redefining \microtypecontext on input line 64.
+t line 59.
+LaTeX Info: Redefining \microtypecontext on input line 59.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -2311,12 +2311,12 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'schaefer-egbd.bbl' found.
  (./schaefer-egbd.bbl)
-Package biblatex Info: Reference section=0 on input line 64.
-Package biblatex Info: Reference segment=0 on input line 64.
+Package biblatex Info: Reference section=0 on input line 59.
+Package biblatex Info: Reference segment=0 on input line 59.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box117
-Package hyperref Info: Link coloring OFF on input line 64.
+Package hyperref Info: Link coloring OFF on input line 59.
 
 (/opt/local/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -2326,9 +2326,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count519
 )
-LaTeX Info: Redefining \ref on input line 64.
-LaTeX Info: Redefining \pageref on input line 64.
-LaTeX Info: Redefining \nameref on input line 64.
+LaTeX Info: Redefining \ref on input line 59.
+LaTeX Info: Redefining \pageref on input line 59.
+LaTeX Info: Redefining \nameref on input line 59.
 
 (./schaefer-egbd.out) (./schaefer-egbd.out)
 \@outlinefile=\write9
@@ -2336,7 +2336,7 @@ LaTeX Info: Redefining \nameref on input line 64.
 
 Package marginnote Info: \pdfoutput not 0 and \pdflastxpos available.
 (marginnote)             Extended position detection mode activated.
-LaTeX Font Info:    Try loading font information for U+msa on input line 64.
+LaTeX Font Info:    Try loading font information for U+msa on input line 59.
 
 (/opt/local/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -2344,7 +2344,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/opt/local/share/texmf-texlive/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 64.
+LaTeX Font Info:    Try loading font information for U+msb on input line 59.
 
 (/opt/local/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -2356,9 +2356,9 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-Package xypdf Info: Line width: 0.43799pt on input line 64.
+Package xypdf Info: Line width: 0.43799pt on input line 59.
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 8.93295pt on input line 66.
+(Font)              scaled to size 8.93295pt on input line 61.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `Arimo_B.ttf' (encoding: EU1).
 (microtype)             For optimal results, create family-specific settings.
@@ -2439,9 +2439,9 @@ guage=DFLT;mapping=tex-text;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 10.47263pt on input line 66.
+(Font)              scaled to size 10.47263pt on input line 61.
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 49.7331pt on input line 66.
+(Font)              scaled to size 49.7331pt on input line 61.
 .................................................
 . fontspec info: "set-scale"
 . 
@@ -2453,9 +2453,9 @@ LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(1)/m/n' will be
 . Arimo_B.ttf scale = 0.9564119235264212.
 .................................................
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 23.91014pt on input line 66.
+(Font)              scaled to size 23.91014pt on input line 61.
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 13.86853pt on input line 66.
+(Font)              scaled to size 13.86853pt on input line 61.
 File: ./LSP/lsp-logos/langsci_logo_nocolor.pdf Graphic file (type QTm)
 
 <use  "./LSP/lsp-logos/langsci_logo_nocolor.pdf" >
@@ -2479,7 +2479,7 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 . Arimo_B.ttf scale = 0.9564119235264212.
 .................................................
 
-Overfull \hbox (22.27785pt too wide) in paragraph at lines 66--66
+Overfull \hbox (22.27785pt too wide) in paragraph at lines 61--61
 [][][][][][][] 
  []
 
@@ -2487,49 +2487,49 @@ Overfull \hbox (22.27785pt too wide) in paragraph at lines 66--66
 File: ./LSP/lsp-logos/langsci_spinelogo_nocolor.pdf Graphic file (type QTm)
  <use  "./LSP/lsp-logos/langsci_spinelogo_nocolor.pdf" >
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 14.68433pt on input line 66.
-LaTeX Font Info:    Calculating math sizes for size <18> on input line 66.
+(Font)              scaled to size 14.68433pt on input line 61.
+LaTeX Font Info:    Calculating math sizes for size <18> on input line 61.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <18> not available
-(Font)              size <17.28> substituted on input line 66.
+(Font)              size <17.28> substituted on input line 61.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <12.59995> not available
-(Font)              size <12> substituted on input line 66.
+(Font)              size <12> substituted on input line 61.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <18> not available
-(Font)              size <17.28> substituted on input line 66.
+(Font)              size <17.28> substituted on input line 61.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <12.59995> not available
-(Font)              size <12> substituted on input line 66.
+(Font)              size <12> substituted on input line 61.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <18> not available
-(Font)              size <17.28> substituted on input line 66.
+(Font)              size <17.28> substituted on input line 61.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <12.59995> not available
-(Font)              size <12> substituted on input line 66.
+(Font)              size <12> substituted on input line 61.
 
-LaTeX Font Info:    Calculating math sizes for size <16> on input line 66.
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 61.
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16> not available
-(Font)              size <17.28> substituted on input line 66.
+(Font)              size <17.28> substituted on input line 61.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 66.
+(Font)              size <17.28> substituted on input line 61.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 66.
+(Font)              size <17.28> substituted on input line 61.
 
 [-1]
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 8.15796pt on input line 66.
+(Font)              scaled to size 8.15796pt on input line 61.
  (./LSP/lsp-seriesinfo/tbls-info.tex
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/m/n' will be
 (Font)              scaled to size 9.78955pt on input line 2.
@@ -2562,14 +2562,14 @@ File: ./LSP/lsp-logos/langsci_logo_nocolor.pdf Graphic file (type QTm)
 ]
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 66.
+(hyperref)                setting the option has no effect on input line 61.
 
 File: ./LSP/lsp-logos/FULogo_sw_CMYK.pdf Graphic file (type QTm)
 <use  "./LSP/lsp-logos/FULogo_sw_CMYK.pdf" > [2]
 LaTeX Font Info:    Font shape `EU1/LinLibertine_R_B.otf(0)/m/sl' in size <10.9
 5> not available
 (Font)              Font shape `EU1/LinLibertine_R_B.otf(0)/m/it' tried instead
- on input line 66.
+ on input line 61.
  [3] (./schaefer-egbd.toc
 [4
 
@@ -2640,7 +2640,7 @@ tex-text;mapping=tex-text;+liga;+pnum;+lnum;+smcp;"
 part I.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 75.
+(scrkbase)              on input line 70.
 [11] [12]
 \openout2 = `chapters/grammatik.aux'.
 
@@ -2747,14 +2747,8 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 489--490
 [][][][][][]
  []
 
-[28] [29] [30] [31] [32] [33] [34]
-Overfull \hbox (1.8151pt too wide) in paragraph at lines 673--678
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 chen, ggf. auch aus verschiedenen Epoche
-n und Regionen.[] Man könnte z.B. Kor-
- []
-
-[35])
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 709--77
+[28] [29] [30] [31] [32] [33] [34] [35])
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 712--72
 [][]
  []
 
@@ -2805,12 +2799,6 @@ File: langsci/graphics/law.pdf Graphic file (type QTm)
 <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 188--189
 [][][][][][]
- []
-
-
-Overfull \hbox (0.60974pt too wide) in paragraph at lines 190--196
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Kategorisierungen anhand von Merkmalsa
-usstattungen werden konkret gleich
  []
 
 [44]
@@ -2915,7 +2903,7 @@ Overfull \hbox (1.20723pt too wide) in paragraph at lines 971--972
 part II.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 80.
+(scrkbase)              on input line 75.
 [67] [68]
 \openout2 = `chapters/phonetik.aux'.
 
@@ -2945,15 +2933,7 @@ Overfull \hbox (1.20723pt too wide) in paragraph at lines 162--163
  []
 
 File: figures/ueberblick.eps Graphic file (type eps)
-<figures/ueberblick.eps> [74] [75]
-Overfull \hbox (1.60893pt too wide) in paragraph at lines 223--231
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 nicht, wenn Luft hindurchströmt. \U/pzd/
-m/n/10.95 Ù \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Sprechen Sie Wörter mit viel
-en \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 h\EU1/LinLibertine_R_B.otf(0)/m/n/10
-.95 -Segmenten
- []
-
-[76]
+<figures/ueberblick.eps> [74] [75] [76]
 File: figures/mundraum.eps Graphic file (type eps)
  <figures/mundraum.eps> [77]
 Overfull \hbox (1.20723pt too wide) in paragraph at lines 280--281
@@ -2961,15 +2941,8 @@ Overfull \hbox (1.20723pt too wide) in paragraph at lines 280--281
  []
 
 [78]
-Overfull \hbox (3.47597pt too wide) in paragraph at lines 299--300
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 die \EU1/LinLibertine_R_B.otf(0)/m/it/
-10.95 Behinderung \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 (\EU1/LinLibertine_R_B
-.otf(0)/m/it/10.95 Obstruktion\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ) des Luft
-stroms, wodurch Geräusche (Zischen,
- []
-
 File: langsci/graphics/law.pdf Graphic file (type QTm)
-<use  "langsci/graphics/law.pdf" >
+ <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 318--319
 [][][][][][]
  []
@@ -3099,12 +3072,6 @@ Overfull \hbox (1.20723pt too wide) in paragraph at lines 1196--1197
 
 ]
 chapter 4.
-
-Overfull \hbox (1.55147pt too wide) in paragraph at lines 5--13
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Die im letzten Kapitel besprochene artik
-ulatorische Phonetik lieferte die Beschrei-
- []
-
 [105]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
@@ -3137,12 +3104,6 @@ File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 158--159
 [][][][][][]
- []
-
-
-Overfull \hbox (2.11717pt too wide) in paragraph at lines 160--171
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 deliegende Formen und Strukturbedingunge
-n die Einfügung des Glottalverschlus-
  []
 
 [110]
@@ -3234,80 +3195,58 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 1073--1074
 [][][][][][]
  []
 
-[132]
-Overfull \hbox (1.07513pt too wide) in paragraph at lines 1077--1079
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 dern angelehnten extrasilbischen Obstrue
-nten gilt. Im Vorgriff auf Abschnitt []4.2.7[]
- []
-
-<xymatrix 9x4 978>
-Overfull \hbox (2.96036pt too wide) in paragraph at lines 1116--1120
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Was die Sonorität aus phonetisch-artik
-ulatorischer (oder perzeptorischer) Sicht
- []
-
-[133] <xymatrix 4x9 810> [134] [135]
+[132] <xymatrix 9x4 978> [133] <xymatrix 4x9 810> [134] [135]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
+
+<use  "langsci/graphics/bulb.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 1188--1189
 [][][][][][]
  []
 
-<xymatrix 5x9 1151> [136] <xymatrix 4x8 867> [137]
-Overfull \hbox (13.27618pt too wide) in paragraph at lines 1264--1267
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Endränder mit extrasilbischem [t] aufgef
-asst werden, weswegen es in Abbildung []4.11[]
- []
-
-
-Overfull \hbox (9.2831pt too wide) in paragraph at lines 1264--1267
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 etwa um einen phonologischen Taschenspie
-lertrick handelt, wird in Abschnitt []4.2.8[]
- []
-
-[138] [139]
+<xymatrix 5x9 1151> [136] <xymatrix 4x8 867> [137] [138] [139]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
- <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1340--1341
+
+<use  "langsci/graphics/bulb.pdf" >
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1341--1342
 [][][][][][]
  []
 
 [140]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1362--1363
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1363--1364
 [][][][][][]
  []
 
 [141]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1398--1399
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1399--1400
 [][][][][][]
  []
 
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1418--1419
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1419--1420
 [][][][][][]
  []
 
 [142]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1431--1432
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1432--1433
 [][][][][][]
  []
 
 <xymatrix 5x5 1014> [143]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1459--1460
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1460--1461
 [][][][][][]
  []
 
 [144]
-Underfull \hbox (badness 1325) in paragraph at lines 1518--1518
+Underfull \hbox (badness 1325) in paragraph at lines 1519--1519
 [][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Zu bei manchen Sprechern stimmhaften \EU
 1/LinLibertine_R_B.otf(1)/m/it/9 s\EU1/LinLibertine_R_B.otf(1)/m/n/9 -Silbengel
 enken wie in \EU1/LinLibertine_R_B.otf(1)/m/it/9 quasseln \EU1/LinLibertine_R_B
@@ -3317,90 +3256,90 @@ enken wie in \EU1/LinLibertine_R_B.otf(1)/m/it/9 quasseln \EU1/LinLibertine_R_B
 [145] [146]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1555--1556
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1556--1557
 [][][][][][]
  []
 
 
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1563--1564
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1564--1565
 [][]
  []
 
 [147] [148]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1641--1642
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1642--1643
 [][][][][][]
  []
 
 [149] [150]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1707--1708
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1710--1711
 [][][][][][]
  []
 
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
 <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1719--1720
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1722--1723
 [][][][][][]
  []
 
 [151]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1734--1735
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1737--1738
 [][][][][][]
  []
 
 [152]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1774--1775
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1777--1778
 [][][][][][]
  []
 
 [153]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1811--1812
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1814--1815
 [][][][][][]
  []
 
 [154] <xymatrix 8x6 2006>
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1852--1853
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1855--1856
 [][][][][][]
  []
 
 [155]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1890--1891
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1893--1894
 [][][][][][]
  []
 
 [156] <xymatrix 12x7 2640>
-Overfull \hbox (4.34055pt too wide) in paragraph at lines 1907--1910
+Overfull \hbox (4.34055pt too wide) in paragraph at lines 1910--1913
  [][] 
  []
 
 
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1917--1918
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1920--1921
 [][]
  []
 
 [157]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1933--1934
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1936--1937
 [][][][][][]
  []
 
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1943--1944
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1946--1947
 [][][][][][]
  []
 
@@ -3417,7 +3356,7 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 1943--1944
 part III.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 85.
+(scrkbase)              on input line 80.
 [165] [166]
 \openout2 = `chapters/wortklassen.aux'.
 
@@ -3427,13 +3366,7 @@ chapter 5.
 
 
 
-]
-Overfull \hbox (0.51668pt too wide) in paragraph at lines 44--49
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Strukturen zusammengefügt wird. Die Inte
-ntion hinter dieser Definition ist leicht
- []
-
-[168]
+] [168]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 79--80
@@ -3748,18 +3681,13 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 815--816
 [][][][][][]
  []
 
-[219] [220] <xymatrix 7x3 890> [221]
-Overfull \hbox (7.65425pt too wide) in paragraph at lines 936--941
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Allomorph des Dativ-Morphems und einmal 
-als Allomorph des Genitiv-Morphems. 
- []
-
-[222] [223] [224
+[219] [220] <xymatrix 7x3 890> [221] [222] [223] [224
 
 ]) [225]
 \openout2 = `chapters/wortbildung.aux'.
 
- (./chapters/wortbildung.tex [226
+
+(./chapters/wortbildung.tex [226
 
 
 
@@ -3790,13 +3718,6 @@ File: langsci/graphics/law.pdf Graphic file (type QTm)
 <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 77--78
 [][][][][][]
- []
-
-
-Overfull \hbox (0.83057pt too wide) in paragraph at lines 79--83
-\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Barsch \EU1/LinLibertine_R_B.otf(0)/m/n
-/10.95 ein maskulines Substantiv. Das Ergebnis der Wortbildung – also \EU1/LinL
-ibertine_R_B.otf(0)/m/it/10.95 Rot.barsch
  []
 
 [229] [230] [231]
@@ -3857,14 +3778,6 @@ Overfull \hbox (1.20723pt too wide) in paragraph at lines 846--847
 [][]
  []
 
-
-Overfull \hbox (1.06602pt too wide) in paragraph at lines 876--883
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 intransparenten Fällen eben gerade nicht
- produktiv Verben wie *\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 zeiten \EU1/LinL
-ibertine_R_B.otf(0)/m/n/10.95 oder *\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 brü
-s-
- []
-
 [249] [250] [251
 
 ]) [252]
@@ -3884,19 +3797,7 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 31--32
 [][][][][][]
  []
 
-[254] [255] [256]
-Overfull \hbox (4.26888pt too wide) in paragraph at lines 195--198
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 nicht erfolgt. Die Katastrophe in ([]14[
-]) wurde von einem niedersächsischen Deutsch-
- []
-
-[257]
-Overfull \hbox (7.72455pt too wide) in paragraph at lines 230--232
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Wenn ursprünglich ein Nominativ (Subjekt
-) im Plural vorliegt, müssen ggf. kongru-
- []
-
-[258] [259] [260]
+[254] [255] [256] [257] [258] [259] [260]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
 Overfull \hbox (1.20724pt too wide) in paragraph at lines 377--378
@@ -3930,19 +3831,7 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 767--768
 [][][][][][]
  []
 
-[271] [272] [273]
-Overfull \hbox (0.566pt too wide) in paragraph at lines 857--858
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Afghane, Alemanne, Bulgare, Chilene, D
-äne, Finne, Franzose, Grieche, Hes-
- []
-
-
-Overfull \hbox (2.84909pt too wide) in paragraph at lines 857--858
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 se, Ire, Jude, Katalane, Kurde, Lette, N
-omade, Pole, Rumäne, Schwede, Tsche-
- []
-
-[274] <xymatrix 5x3 516> [275]
+[271] [272] [273] [274] <xymatrix 5x3 516> [275]
 Overfull \hbox (1.20723pt too wide) in paragraph at lines 954--955
 [][]
  []
@@ -4004,13 +3893,7 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 1531--1532
 [][][][][][]
  []
 
-[290]
-Overfull \hbox (4.34735pt too wide) in paragraph at lines 1554--1556
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Kommen wir abschließend zur Bewertung 
-der eigentlichen adjektivalen (schwa-
- []
-
-[291] <xymatrix 3x3 334> [292] [293] [294]
+[290] [291] <xymatrix 3x3 334> [292] [293] [294]
 Overfull \hbox (1.20723pt too wide) in paragraph at lines 1758--1759
 [][]
  []
@@ -4072,60 +3955,32 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 437--438
 [][][][][][]
  []
 
-[309] [310] [311]
-Overfull \hbox (0.16264pt too wide) in paragraph at lines 551--552
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Der eine Späher wird mitten unter die 
-(feindlichen) Feinde geschickt. (Ovid,
- []
-
-[312]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 589--590
+[309] [310] [311] [312]
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 590--591
 [][]
  []
 
-[313] [314]
-Overfull \hbox (0.73389pt too wide) in paragraph at lines 638--644
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 rerseits ein Passiv (\EU1/LinLibertine_R
-_B.otf(0)/m/it/10.95 wird gegessen\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ) anal
-ytisch gebildet (s. Abschnitte []9.1.3[] und []9.1.6[]),
- []
-
-
-Overfull \hbox (5.55771pt too wide) in paragraph at lines 654--663
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Merkmale zusammenfasst. Einige Verben fa
-llen dabei in mehrere Klassen (z.B. \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 sei
-n
- []
-
-[315]
-Overfull \hbox (4.76709pt too wide) in paragraph at lines 709--715
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 stufe in der zweiten und dritten Person 
-Singular Präsens Indikativ (\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 breche\EU1/
-LinLibertine_R_B.otf(0)/m/n/10.95 –\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 bric
-hst\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 –
- []
-
-[316]
+[313] [314] [315] [316]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 723--724
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 724--725
 [][][][][][]
  []
 
 [317] [318] [319] [320] [321] [322] [323]
-Overfull \hbox (2.1729pt too wide) in paragraph at lines 1063--1066
+Overfull \hbox (2.1729pt too wide) in paragraph at lines 1064--1067
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Der Infinitiv ist durch \EU1/LinLibert
 ine_R_B.otf(0)/m/it/10.95 -en \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 am Präsens
 stamm gekennzeichnet, das Partizip durch
  []
 
 [324] [325] [326] [327] [328] [329] [330]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1333--1334
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1334--1335
 [][]
  []
 
 [331]
-Underfull \hbox (badness 3942) in paragraph at lines 1358--1358
+Underfull \hbox (badness 3942) in paragraph at lines 1359--1359
 \EU1/LinLibertine_R_B.otf(1)/m/n/9 JUL.00395, RHZ09/MAR.15300, BVZ09/MAI.01348,
  RHZ09/JUN.22699, BRZ09/MAR.11529,
  []
@@ -4139,7 +3994,7 @@ Underfull \hbox (badness 3942) in paragraph at lines 1358--1358
 part IV.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 93.
+(scrkbase)              on input line 88.
 [337
 
 
@@ -4193,15 +4048,7 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 394--395
 [][][][][][]
  []
 
-[350]
-Overfull \hbox (3.51881pt too wide) in paragraph at lines 431--435
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Viele Syntaktiker wollen Wortfolgen wi
-e [\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 meine Kollegin einen Salat\EU1/LinLi
-bertine_R_B.otf(0)/m/n/10.95 ] und [\EU1/LinLibertine_R_B.otf(0)/m/it/10.95 mei
-n
- []
-
-[351] <xymatrix 5x2 312> <xymatrix 5x3 390> [352]
+[350] [351] <xymatrix 5x2 312> <xymatrix 5x3 390> [352]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
 
 <use  "langsci/graphics/law.pdf" >
@@ -4409,13 +4256,7 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 1127--1128
  []
 
 [394] <xymatrix 1x2 90> <xymatrix 4x3 403> <xymatrix 4x3 403> <xymatrix 7x4
-708>
-Overfull \hbox (1.03319pt too wide) in paragraph at lines 1179--1186
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Gibt man den Verben im normalen Verbko
-mplex die Indexnummern von rechts
- []
-
-[395] <xymatrix 11x7 1210>
+708> [395] <xymatrix 11x7 1210>
 Overfull \hbox (1.20723pt too wide) in paragraph at lines 1221--1222
 [][]
  []
@@ -4489,16 +4330,7 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 242--243
 [][][][][][]
  []
 
-[411] [412]
-Overfull \hbox (6.07103pt too wide) in paragraph at lines 388--393
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 spricht vom \EU1/LinLibertine_R_B.otf(0)
-/m/it/10.95 Verb-Erst-Satz \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 oder \EU1/Lin
-Libertine_R_B.otf(0)/m/it/10.95 V1-Satz \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 
-(Entscheidungsfragesatz), vom \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Verb-Zwei
-t-
- []
-
-[413] [414] [415] [416]
+[411] [412] [413] [414] [415] [416]
 Overfull \hbox (1.20723pt too wide) in paragraph at lines 633--634
 [][]
  []
@@ -4644,45 +4476,45 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 871--872
  []
 
 [460]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 945--946
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 944--945
 [][]
  []
 
 [461] [462]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 967--968
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 966--967
 [][][][][][]
  []
 
 [463]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1018--1019
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1017--1018
 [][][][][][]
  []
 
 [464] [465]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1097--1098
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1096--1097
 [][][][][][]
  []
 
 
-Overfull \hbox (1.44926pt too wide) in paragraph at lines 1122--1123
+Overfull \hbox (1.44926pt too wide) in paragraph at lines 1121--1122
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 weder eine Vergleichskonstruktion wie \E
 U1/LinLibertine_R_B.otf(0)/m/it/10.95 zu laut \EU1/LinLibertine_R_B.otf(0)/m/n/
 10.95 ([]55a[]) oder eine anderweitige Kenn-
  []
 
 [466] [467]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1195--1196
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1194--1195
 [][]
  []
 
 
-Overfull \hbox (2.51048pt too wide) in paragraph at lines 1201--1208
+Overfull \hbox (2.51048pt too wide) in paragraph at lines 1200--1207
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Angaben von Verben besprochen, nämlich d
 ie sogenannte \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 Bindung\EU1/LinLibertine_
 R_B.otf(0)/m/n/10.95 . Die Bindungs-
@@ -4691,38 +4523,38 @@ R_B.otf(0)/m/n/10.95 . Die Bindungs-
 [468] [469]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1243--1244
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1242--1243
 [][][][][][]
  []
 
 [470]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1295--1296
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1294--1295
 [][][][][][]
  []
 
 
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1300--1301
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1299--1300
 [][]
  []
 
 [471] [472]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1373--1374
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1372--1373
 [][][][][][]
  []
 
 [473] <xymatrix 4x6 922> [474]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1464--1465
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1463--1464
 [][]
  []
 
 [475] <xymatrix 3x4 554> [476]
 File: langsci/graphics/bulb.pdf Graphic file (type QTm)
  <use  "langsci/graphics/bulb.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1517--1518
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1516--1517
 [][][][][][]
  []
 
@@ -4730,24 +4562,24 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 1517--1518
 [477] [478] [479]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1618--1619
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1617--1618
 [][][][][][]
  []
 
 [480] [481]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1749--1750
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1748--1749
 [][]
  []
 
 [482] [483]
 File: langsci/graphics/law.pdf Graphic file (type QTm)
  <use  "langsci/graphics/law.pdf" >
-Overfull \hbox (1.20724pt too wide) in paragraph at lines 1814--1815
+Overfull \hbox (1.20724pt too wide) in paragraph at lines 1813--1814
 [][][][][][]
  []
 
 [484]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 1873--1874
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 1872--1873
 [][]
  []
 
@@ -4764,7 +4596,7 @@ Overfull \hbox (1.20723pt too wide) in paragraph at lines 1873--1874
 part V.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 100.
+(scrkbase)              on input line 95.
 [493] [494]
 \openout2 = `chapters/phonschrift.aux'.
 
@@ -4789,12 +4621,6 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 290--291
 [505] [506]
 Overfull \hbox (1.20723pt too wide) in paragraph at lines 352--353
 [][]
- []
-
-
-Overfull \hbox (3.1529pt too wide) in paragraph at lines 368--374
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 von Vokalen. In Abschnitt []4.1.4[] wurd
-e festgestellt, dass zugrundeliegend das Merk-
  []
 
 [507]
@@ -5024,7 +4850,7 @@ Overfull \vbox (4.9668pt too high) detected at line 1544
 ] [595]) [596]
 chapter without number
 
-Underfull \hbox (badness 1577) in paragraph at lines 113--113
+Underfull \hbox (badness 1577) in paragraph at lines 108--108
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Coulmas, Florian. 1989. \EU1/LinLibe
 rtine_R_B.otf(0)/m/it/10.95 The Writing Systems of the World\EU1/LinLibertine_R
 _B.otf(0)/m/n/10.95 . Oxford: Wiley-
@@ -5038,25 +4864,25 @@ _B.otf(0)/m/n/10.95 . Oxford: Wiley-
 
 
 ] [598]
-Underfull \hbox (badness 2409) in paragraph at lines 113--113
+Underfull \hbox (badness 2409) in paragraph at lines 108--108
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Fabricius-Hansen, Cathrine. 2000. Di
 e Geheimnisse der deutschen würde-
  []
 
 [599]
-Underfull \hbox (badness 1303) in paragraph at lines 113--113
+Underfull \hbox (badness 1303) in paragraph at lines 108--108
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Leirbukt, Oddleif. 2013. \EU1/LinLib
 ertine_R_B.otf(0)/m/it/10.95 Untersuchungen zum bekommen-Passiv im heutigen
  []
 
 [600]
-Underfull \hbox (badness 1466) in paragraph at lines 113--113
+Underfull \hbox (badness 1466) in paragraph at lines 108--108
 [][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Nübling, Damaris & Renata Szczepania
 k. 2009. Religion+s+freiheit, Stabili-
  []
 
 [601]
-Underfull \hbox (badness 1342) in paragraph at lines 113--113
+Underfull \hbox (badness 1342) in paragraph at lines 108--108
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 na Kümmerling-Meibauer, Jörg Meibauer, M
 onika Rothweiler & Monika
  []
@@ -5074,8 +4900,8 @@ chapter without number
 ] [606] [607] [608] [609] [610] [611] [612] [613
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 121.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 121.
  (./schaefer-egbd.aux
 (./chapters/einleitung.aux) (./chapters/grammatik.aux)
 (./chapters/grundbegriffe.aux) (./chapters/phonetik.aux)
@@ -5085,8 +4911,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
 (./chapters/konstituentenstruktur.aux) (./chapters/phrasen.aux)
 (./chapters/saetze.aux) (./chapters/relationen.aux) (./chapters/phonschrift.aux
 ) (./chapters/andereschrift.aux) (./chapters/loesungen.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 126.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 126.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 121.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 121.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -5100,12 +4926,12 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 56390 strings out of 494776
- 1014655 string characters out of 6165553
- 1653400 words of memory out of 5000000
+ 56391 strings out of 494776
+ 1014666 string characters out of 6165553
+ 1653407 words of memory out of 5000000
  58678 multiletter control sequences out of 15000+600000
  21035 words of font info for 153 fonts, out of 8000000 for 9000
- 442 hyphenation exceptions out of 8191
+ 443 hyphenation exceptions out of 8191
  70i,27n,107p,10449b,5507s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on schaefer-egbd.pdf (629 pages).
