@@ -1,6 +1,9 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{LSP/langsci}[2015/09/15 Language Science Press]
 
+%\RequirePackage{doi}
+%\usepackage{doi}
+
 % Default values:
 \usepackage{xspace}
 \newcommand{\lsp}{Language Science Press\xspace}
@@ -1021,14 +1024,19 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 }
 
 \newcommand{\lsImpressum}{
+
 \raggedright
 
 \lsImpressumCitationText
 
-\vfill
+%\vfill
+
+\vspace{1\baselineskip}
 
 This title can be downloaded at:\\
 \url{\lsURL}
+
+\vspace{1\baselineskip}
 
 © \the\year, \iflsCollection the authors\else\@author\fi
 
@@ -1040,7 +1048,10 @@ http://creativecommons.org/licenses/by/4.0/
 Published under the Creative Commons Attribution-NoDerivatives 4.0 Licence (CC BY-ND 4.0):
 http://creativecommons.org/licenses/by-nd/4.0/ 
 \fi
-\bigskip
+%\bigskip
+
+\vspace{1\baselineskip}
+
 \begin{tabular}{@{}l@{~}l}
 ISBN: & \lsISBNdigital~(Digital) \\
       & \lsISBNhardcover~(Hardcover)\\
@@ -1054,7 +1065,8 @@ ISBN: & \lsISBNdigital~(Digital) \\
 
 \IfStrEq{\lsBookDOI}{??}    % \IfStrEq from xstring
   {}
-  {\doi{\lsBookDOI}}
+  {DOI: \lsBookDOI}
+%  {\doi{\lsBookDOI}}
 
 \bigskip
  
@@ -1091,13 +1103,7 @@ Storage and cataloguing done by FU Berlin \\[3ex]
 \vfill
 
 \noindent
-\lsp has no responsibility for the persistence or accuracy of URLs for
-external or third-party Internet websites referred to in this
-publication, and does not guarantee that any content on such websites
-is, or will remain, accurate or appropriate. Information regarding
-prices, travel timetables and other factual information given in this
-work are correct at the time of first publication but \lsp does not
-guarantee the accuracy of such information thereafter. 
+\lsp has no responsibility for the persistence or accuracy of URLs for external or third-party Internet websites referred to in this publication, and does not guarantee that any content on such websites is, or will remain, accurate or appropriate.
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

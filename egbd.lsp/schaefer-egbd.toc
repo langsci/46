@@ -444,7 +444,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {13.4}Passiv}{456}{section.13.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {13.4.1}\textit {werden}-Passiv und Verbklassen}{456}{subsection.13.4.1}
+\contentsline {subsection}{\numberline {13.4.1}\textit {werden}-Passiv und Verbtypen}{456}{subsection.13.4.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {13.4.2}\textit {bekommen}-Passiv}{460}{subsection.13.4.2}
 \defcounter {refsection}{0}\relax 

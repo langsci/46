@@ -9,7 +9,7 @@ PREFLAGS = -no-pdf
 
 once:
 	cp $(FILEN).toc.edited $(FILEN).toc
-	-$(LX) $(TEXFLAGS) $(FILEN) | grep 'Warning'
+	-$(LX) $(TEXFLAGS) $(FILEN) # | grep 'Warning'
 
 quick:
 	-$(LX) $(TEXFLAGS) $(PREFLAGS) $(FILEN)
@@ -17,6 +17,7 @@ quick:
 	@echo
 	@echo " === LAST RUN === "
 	@echo
+	cp $(FILEN).toc.edited $(FILEN).toc
 	-$(LX) $(TEXFLAGS) $(FILEN) | grep 'Warning'
 
 clean:
@@ -27,13 +28,13 @@ all:
 	-$(LX) $(TEXFLAGS) $(PREFLAGS) $(FILEN)
 	-$(BX) $(FILEN)
 	-$(LX) $(TEXFLAGS) $(PREFLAGS) $(FILEN)
-#	makeindex schaefer-egbd.idx
 	texindy --german schaefer-egbd.idx
 	-$(LX) $(TEXFLAGS) $(PREFLAGS) $(FILEN)
 	printf "\033c"
 	@echo
 	@echo " === LAST RUN === "
 	@echo
+	cp $(FILEN).toc.edited $(FILEN).toc
 	-$(LX) $(TEXFLAGS) $(FILEN) # | grep 'Warning'
 
 
