@@ -8,6 +8,7 @@ TEXFLAGS =
 PREFLAGS = -no-pdf
 
 once:
+	cp $(FILEN).ind.edited $(FILEN).ind
 	cp $(FILEN).toc.edited $(FILEN).toc
 	-$(LX) $(TEXFLAGS) $(FILEN) # | grep 'Warning'
 
@@ -18,6 +19,7 @@ quick:
 	@echo " === LAST RUN === "
 	@echo
 	cp $(FILEN).toc.edited $(FILEN).toc
+	cp $(FILEN).ind.edited $(FILEN).ind
 	-$(LX) $(TEXFLAGS) $(FILEN) | grep 'Warning'
 
 clean:
@@ -34,6 +36,7 @@ all:
 	@echo
 	@echo " === LAST RUN === "
 	@echo
+	cp $(FILEN).ind.edited $(FILEN).ind
 	cp $(FILEN).toc.edited $(FILEN).toc
 	-$(LX) $(TEXFLAGS) $(FILEN) # | grep 'Warning'
 

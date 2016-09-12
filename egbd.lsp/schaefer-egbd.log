@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  12 SEP 2016 19:39
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/MacPorts 2016_1) (preloaded format=xelatex 2016.7.30)  12 SEP 2016 20:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4656,23 +4656,23 @@ Overfull \hbox (1.20724pt too wide) in paragraph at lines 484--485
 
 [510] <xymatrix 5x5 1020> <xymatrix 6x5 1154> <xymatrix 6x5 1168> [511]
 [512] [513] [514] [515]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 664--665
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 663--664
 [][]
  []
 
 [516]
-Underfull \hbox (badness 1642) in paragraph at lines 710--710
+Underfull \hbox (badness 1642) in paragraph at lines 709--709
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Schreiber machen kreativen Gebrauch von 
 den Möglichkeiten des
  []
 
 
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 710--711
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 709--710
 [][]
  []
 
 [517] [518] [519]
-Overfull \hbox (1.20723pt too wide) in paragraph at lines 779--780
+Overfull \hbox (1.20723pt too wide) in paragraph at lines 778--779
 [][]
  []
 
@@ -4926,8 +4926,8 @@ Package logreq Info: Writing requests to 'schaefer-egbd.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  56391 strings out of 494776
- 1014666 string characters out of 6165553
- 1653182 words of memory out of 5000000
+ 1014667 string characters out of 6165553
+ 1653185 words of memory out of 5000000
  58678 multiletter control sequences out of 15000+600000
  21035 words of font info for 153 fonts, out of 8000000 for 9000
  443 hyphenation exceptions out of 8191
